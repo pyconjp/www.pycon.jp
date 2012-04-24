@@ -13,7 +13,7 @@ PyCon JP 2012 開催とスタッフ募集のお知らせ
 
 PyCon JP を運営したい方、日本の Python コミュニティに貢献したい方など協力いただける方を歓迎いたします。
 
-興味のある方は Google Groups の `pycon-organizers-jp <groups.google.com/group/pycon-organizers-jp>`_ に登録していただき、運営協力の旨をメールにてお送りください。
+興味のある方は Google Groups の `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_ に登録していただき、運営協力の旨をメールにてお送りください。
 
 ご協力よろしくお願いします。
 
