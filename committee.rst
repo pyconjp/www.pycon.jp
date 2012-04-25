@@ -1,0 +1,53 @@
+=============================
+ PyCon JP 実行委員会について
+=============================
+
+PyCon JP 実行委員会は以下を目的とした団体です。
+
+- PyCon JP等のイベントを通じて、日本でのプログラミング言語Pythonの普及に貢献する。
+
+まずは運営メーリングリスト `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_ に参加して、「運営に協力したい」というメールを送信してください。
+
+運営に関する情報
+================
+運営に関する情報は以下のような手段でやりとりされています。
+
+.. list-table::
+   :widths: 20 30 50
+   :header-rows: 1
+
+   * - 項目
+     - 参照先
+     - 説明
+   * - メーリングリスト
+     - `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_
+     - 基本的なやりとりに使用。
+   * - Skype
+     - 「PyConJP 運営」部屋
+     - ちょっと相談したいときなどに使用。Skype のアカウントと任意のメンバーとのコンタクトが必要。
+   * - Twitter
+     - `@pyconj <https://twitter.com/#!/pyconj>`_
+       `#pyconjp <https://twitter.com/#!/search/%23pyconjp>`_
+     - PyCon JP のオフィシャルアカウント。
+
+       `GroupTweet <http://www.grouptweet.com/>`_ を使用してメンバーからツイート可能(となる予定)。
+   * - Google Docs
+     -
+     - 各種文書の共有、メンバーになると共有設定されて参照可能となる。
+
+       `議事録 <https://docs.google.com/open?id=0Bx7ELRtnBPA3NmQ2N2U0M2ItY2YyZC00YTc1LWE1Y2MtMWQ0NTNjODE2NTI4>`_ は一般に公開されている。
+   * - Bitbucket
+     - https://bitbucket.org/pyconjp/
+     - サイトのコード等を管理。書き込みには bitbucket のアカウントが必要。
+   * - Google カレンダー
+     - `カレンダー(HTML) <https://www.google.com/calendar/embed?src=bsn2855fnbngs1itml66l28ml8%40group.calendar.google.com&ctz=Asia/Tokyo>`_
+     - 打合せのスケジュール等を記入。
+
+       カレンダー ID: bsn2855fnbngs1itml66l28ml8@group.calendar.google.com
+   * - Google Apps
+     -
+     - ``@pycon.jp`` のメールアドレスを取得可能。
+
+会則
+====
+:doc:`/constitution` を参照してください。
