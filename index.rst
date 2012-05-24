@@ -4,11 +4,6 @@
 
 .. contents:: 目次
 
-PyCon JP ロゴ
-=============
-.. image:: _static/pyconjp_logo.png
-   :alt: PyCon JP logo
-
 【速報】PyCon JP 2012 開催日と会場が決定!!
 ==========================================
 PyCon JP 2012 に下記の日程と会場で実施されます。
