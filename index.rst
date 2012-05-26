@@ -6,6 +6,11 @@
 
 【速報】PyCon JP 2012 開催日と会場が決定!!
 ==========================================
+
+.. figure:: _static/pyconjp2012_logo.png
+   :target: http://2012.pycon.jp/
+   :alt: PyCon JP 2012 開催決定!!
+
 PyCon JP 2012 に下記の日程と会場で実施されます。
 
 :Conference: 2012-09-15(土)-2012-09-16(日)
