@@ -2,6 +2,12 @@
  PyCon JP 運営
 ===============
 
+.. toctree::
+   :hidden:
+
+   committee
+   constitution
+
 .. contents:: 目次
 
 【速報】PyCon JP 2012 開催日と会場が決定!!

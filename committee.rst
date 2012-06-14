@@ -38,15 +38,20 @@ PyCon JP 実行委員会は以下を目的とした団体です。
        `議事録 <https://docs.google.com/open?id=0Bx7ELRtnBPA3NmQ2N2U0M2ItY2YyZC00YTc1LWE1Y2MtMWQ0NTNjODE2NTI4>`_ は一般に公開されている。
    * - Bitbucket
      - https://bitbucket.org/pyconjp/
-     - サイトのコード等を管理。書き込みには bitbucket のアカウントが必要。
+     - サイトのコード、レポートの下書き等を管理。書き込みには `bitbucket <https://bitbucket.org/>`_ のアカウントが必要。
    * - Google カレンダー
      - `カレンダー(HTML) <https://www.google.com/calendar/embed?src=bsn2855fnbngs1itml66l28ml8%40group.calendar.google.com&ctz=Asia/Tokyo>`_
      - 打合せのスケジュール等を記入。
 
-       カレンダー ID: bsn2855fnbngs1itml66l28ml8@group.calendar.google.com
+       カレンダー ``bsn2855fnbngs1itml66l28ml8@group.calendar.google.com``
    * - Google Apps
      -
      - ``@pycon.jp`` のメールアドレスを取得可能。
+   * - PyCon JP Blog
+     - http://pyconjp.blogspot.jp
+     - PyCon JP、海外の PyCon、日本の Python 関連イベントについて情報発信。
+
+       書き込み権限を Google アカウントで付与可能。
 
 会則
 ====
