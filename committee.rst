@@ -47,8 +47,11 @@ PyCon JP 実行委員会は以下を目的とした団体です。
    * - Google Apps
      -
      - ``@pycon.jp`` のメールアドレスを取得可能。
+   * - Trac
+     - http://trac.pycon.jp/
+     - タスクの管理に使用。Google アカウントでログインして「アカウント取得申請のチケット」を作ると、読み書きできるようになる。
    * - PyCon JP Blog
-     - http://pyconjp.blogspot.jp
+     - http://pyconjp.blogspot.jp/
      - PyCon JP、海外の PyCon、日本の Python 関連イベントについて情報発信。
 
        書き込み権限を Google アカウントで付与可能。
