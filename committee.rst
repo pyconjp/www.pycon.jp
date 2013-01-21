@@ -2,7 +2,7 @@
  PyCon JP 実行委員会について
 =============================
 
-PyCon JP 実行委員会は以下を目的とした団体です。
+PyCon JP 実行委員会(PyCon JP Committee)は以下を目的とした団体です。
 
 - PyCon JP等のイベントを通じて、日本でのプログラミング言語Pythonの普及に貢献する。
 
@@ -21,21 +21,21 @@ PyCon JP 実行委員会は以下を目的とした団体です。
      - 説明
    * - メーリングリスト
      - `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_
-     - 基本的なやりとりに使用。
+     - 基本的なやりとりに使用。誰でも参加可能。
    * - Skype
-     - 「PyConJP 運営」部屋
+     - 「PyCon APAC」部屋
      - ちょっと相談したいときなどに使用。Skype のアカウントと任意のメンバーとのコンタクトが必要。
    * - Twitter
      - `@pyconj <https://twitter.com/#!/pyconj>`_
        `#pyconjp <https://twitter.com/#!/search/%23pyconjp>`_
      - PyCon JP のオフィシャルアカウント。
 
-       `GroupTweet <http://www.grouptweet.com/>`_ を使用してメンバーからツイート可能(となる予定)。
-   * - Google Docs
+       `GroupTweet <http://www.grouptweet.com/>`_ を使用してメンバーからツイート可能。
+   * - Google Drive
      -
-     - 各種文書の共有、メンバーになると共有設定されて参照可能となる。
+     - 各種文書の共有、メンバーになると共有設定されて参照、編集可能となる。
 
-       `議事録 <https://docs.google.com/open?id=0Bx7ELRtnBPA3NmQ2N2U0M2ItY2YyZC00YTc1LWE1Y2MtMWQ0NTNjODE2NTI4>`_ は一般に公開されている。
+       `議事録 <https://docs.google.com/folder/d/0B_bw8GEmTD5OYzRNN0xsalRVSTQ/edit>`_ は一般に公開されている。
    * - Bitbucket
      - https://bitbucket.org/pyconjp/
      - サイトのコード、レポートの下書き等を管理。書き込みには `bitbucket <https://bitbucket.org/>`_ のアカウントが必要。
