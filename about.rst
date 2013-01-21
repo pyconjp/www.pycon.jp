@@ -5,11 +5,11 @@ PyCon JP と実行委員会(Commitee)の紹介
 
 PyCon JP とは
 =============
-
 PyCon JP は日本で開催される、プログラミング言語 Python に関する国際会議です。
 
-PyCon(Python Conference)は世界中で開催おり、2012年は2,000名以上が参加する PyCon US をはじめ、世界30箇所以上で開催されています。
-PyCon JP は2012年に480名ほどの参加者を集め、US、ヨーロッパを除く一カ国単独開催としては世界最大級のカンファレンスとなっています。
+
+PyCon(Python Conference)は世界中で開催されており、2012年は2,000名以上が参加する PyCon US をはじめ、世界30箇所以上で開催されています。
+PyCon JP は2012年に480名ほどの参加者を集め、一カ国単独開催としては米国・ヨーロッパに続く世界最大級のカンファレンスとなっています。
 
 2013 年は PyCon Asia Pacific 2013 というアジア地域を代表する PyCon の開催を予定しており、より国際的なイベントとなる予定です。
 
@@ -52,6 +52,7 @@ PyCon JP 2012
 :テーマ: つながるPython / Python Connect
 :日時: カンファレンス 2012年9月15日(土)、16日(日)、Sprint 9月17日(月・祝)
 :会場: `産業技術大学院大学 <http://aiit.ac.jp/>`_
+:参加者: 48X名
 :基調講演:
   - Happiness Through Ignorance / Armin Ronacher https://speakerdeck.com/mitsuhiko/happiness-through-ignorance
   - Python as a Foreign Language / 小飼 弾 http://www.dan.co.jp/~dankogai/pyconjp2012/python.html
