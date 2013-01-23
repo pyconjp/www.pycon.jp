@@ -5,8 +5,8 @@ PyCon JP と実行委員会(Commitee)の紹介
 
 PyCon JP とは
 =============
-PyCon JP は日本で開催される、プログラミング言語 Python に関する国際会議です。
-
+PyCon JP は日本で開催される、プログラミング言語 Python に関する国際カンファレンスです。
+Python はオープンソースで開発されているプログラミング言語で、世界中で利用されています。
 
 PyCon(Python Conference)は世界中で開催されており、2012年は2,000名以上が参加する PyCon US をはじめ、世界30箇所以上で開催されています。
 PyCon JP は2012年に480名ほどの参加者を集め、一カ国単独開催としては米国・ヨーロッパに続く世界最大級のカンファレンスとなっています。
@@ -38,25 +38,25 @@ PyCon JP 2011
 
 :URL: http://2011.pycon.jp/
 :テーマ: 出会い系 Python / Python meet up
-:日時: カンファレンス 2011年8月27日(土)、Sprint 8月28日(日)
+:日時: カンファレンス 2011年8月27日(土)、開発Sprint 8月28日(日)
 :会場: `産業技術大学院大学 <http://aiit.ac.jp/>`_
 :参加者: 247名
 :基調講演: Packaging, Python 3 / Tarek Ziadé
   http://ziade.org/pyconjp-keynote.html
-:内容: 3トラック, 全17セッション(一部英語セッション含む)
+:内容: 3トラック, 17セッション(一部英語セッション含む), 1ハンズオン
 :スポンサー: 9社
 
 PyCon JP 2012
 
 :URL: http://2012.pycon.jp/
 :テーマ: つながるPython / Python Connect
-:日時: カンファレンス 2012年9月15日(土)、16日(日)、Sprint 9月17日(月・祝)
+:日時: カンファレンス 2012年9月15日(土)、16日(日)、開発Sprint 9月17日(月・祝)
 :会場: `産業技術大学院大学 <http://aiit.ac.jp/>`_
-:参加者: 48X名
+:参加者: 480名
 :基調講演:
   - Happiness Through Ignorance / Armin Ronacher https://speakerdeck.com/mitsuhiko/happiness-through-ignorance
   - Python as a Foreign Language / 小飼 弾 http://www.dan.co.jp/~dankogai/pyconjp2012/python.html
-:内容: 6トラック, 約60セッション (英語トラック、併設トラック含む)
+:内容: 6トラック, 60セッション (英語トラック、併設トラック含む), 3ハンズオン
 :スポンサー: 22社、パトロン6名
 
 PyCon JP 実行委員会について
@@ -81,11 +81,3 @@ PyCon JP 実行委員会は日本国内の Python ユーザのために、Python
 
 主にメーリングリスト上で議論をしています。
 詳細は :doc:`committee` を参照してください。
-
-スタッフの情報
---------------
-
-ここには何を書けばいい?
-
-* 非営利一般社団法人の情報 (素案?
-* スタッフがボランティアであること
