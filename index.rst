@@ -7,6 +7,7 @@
 
    committee
    constitution
+   support
 
 .. contents:: 目次
 
@@ -30,6 +31,9 @@ PyCon JP 実行委員会について
 
 実行委員会に関する情報は :doc:`/committee` を参照してください。
 
+海外支援
+========
+PyCon JP スタッフの海外イベントへの参加支援については :doc:`/support` を参照してください。
 
 過去の PyCon JP
 ===============
