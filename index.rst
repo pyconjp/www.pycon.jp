@@ -5,8 +5,7 @@
 .. toctree::
    :hidden:
 
-   committee
-   constitution
+   foundation
    support
 
 .. contents:: 目次
@@ -26,10 +25,15 @@ PyCon APAC 2013 に向けて
 皆様の参加をお待ちしております。
 
 
-PyCon JP 実行委員会について
-===========================
+一般社団法人PyCon JP設立のお知らせ
+==================================
+一般社団法人PyCon JPを3月21日に設立いたしました。
+詳しくは :doc:`/foundation` を参照してください。
 
-実行委員会に関する情報は :doc:`/committee` を参照してください。
+.. PyCon JP 実行委員会について
+   ===========================
+
+   実行委員会に関する情報は :doc:`/committee` を参照してください。
 
 海外支援
 ========
