@@ -3,32 +3,32 @@ host = https://www.transifex.com
 type = PO
 
 [www-pycon-jp.about]
-file_filter = locale\<lang>\LC_MESSAGES\about.po
-source_file = locale\pot\about.pot
+file_filter = locale/<lang>/LC_MESSAGES/about.po
+source_file = locale/pot/about.pot
 source_lang = ja
 
 [www-pycon-jp.committee]
-file_filter = locale\<lang>\LC_MESSAGES\committee.po
-source_file = locale\pot\committee.pot
+file_filter = locale/<lang>/LC_MESSAGES/committee.po
+source_file = locale/pot/committee.pot
 source_lang = ja
 
 [www-pycon-jp.constitution]
-file_filter = locale\<lang>\LC_MESSAGES\constitution.po
-source_file = locale\pot\constitution.pot
+file_filter = locale/<lang>/LC_MESSAGES/constitution.po
+source_file = locale/pot/constitution.pot
 source_lang = ja
 
 [www-pycon-jp.foundation]
-file_filter = locale\<lang>\LC_MESSAGES\foundation.po
-source_file = locale\pot\foundation.pot
+file_filter = locale/<lang>/LC_MESSAGES/foundation.po
+source_file = locale/pot/foundation.pot
 source_lang = ja
 
 [www-pycon-jp.index]
-file_filter = locale\<lang>\LC_MESSAGES\index.po
-source_file = locale\pot\index.pot
+file_filter = locale/<lang>/LC_MESSAGES/index.po
+source_file = locale/pot/index.pot
 source_lang = ja
 
 [www-pycon-jp.support]
-file_filter = locale\<lang>\LC_MESSAGES\support.po
-source_file = locale\pot\support.pot
+file_filter = locale/<lang>/LC_MESSAGES/support.po
+source_file = locale/pot/support.pot
 source_lang = ja
 
