@@ -46,6 +46,11 @@ html:
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
+enhtml:
+	$(SPHINXBUILD) -b html -D language=en $(ALLSPHINXOPTS) $(BUILDDIR)/html/en
+	@echo
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html/en."
+
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
 	@echo
@@ -132,9 +137,9 @@ info:
 	@echo "makeinfo finished; the Info files are in $(BUILDDIR)/texinfo."
 
 gettext:
-	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) $(BUILDDIR)/locale
+	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) locale/pot
 	@echo
-	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
+	@echo "Build finished. The message catalogs are in locale/pot."
 
 changes:
 	$(SPHINXBUILD) -b changes $(ALLSPHINXOPTS) $(BUILDDIR)/changes
