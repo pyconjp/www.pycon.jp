@@ -2,5 +2,6 @@ _build/
 bin/
 .installed.cfg
 develop-eggs/
+eggs/
 parts/
 locale/
