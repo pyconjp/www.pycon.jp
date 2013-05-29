@@ -52,6 +52,14 @@ if "%1" == "html" (
 	goto end
 )
 
+if "%1" == "enhtml" (
+	%SPHINXBUILD% -b html -D language=en %ALLSPHINXOPTS% %BUILDDIR%/html/en
+	if errorlevel 1 exit /b 1
+	echo.
+	echo.Build finished. The HTML pages are in %BUILDDIR%/html/en.
+	goto end
+)
+
 if "%1" == "dirhtml" (
 	%SPHINXBUILD% -b dirhtml %ALLSPHINXOPTS% %BUILDDIR%/dirhtml
 	if errorlevel 1 exit /b 1
@@ -154,10 +162,10 @@ if "%1" == "texinfo" (
 )
 
 if "%1" == "gettext" (
-	%SPHINXBUILD% -b gettext %I18NSPHINXOPTS% %BUILDDIR%/locale
+	%SPHINXBUILD% -b gettext %I18NSPHINXOPTS% locale/pot
 	if errorlevel 1 exit /b 1
 	echo.
-	echo.Build finished. The message catalogs are in %BUILDDIR%/locale.
+	echo.Build finished. The message catalogs are in locale/pot.
 	goto end
 )
 

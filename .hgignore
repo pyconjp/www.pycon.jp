@@ -3,3 +3,4 @@ bin/
 .installed.cfg
 develop-eggs/
 parts/
+locale/
