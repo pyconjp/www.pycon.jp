@@ -5,15 +5,14 @@
 .. toctree::
    :maxdepth: 1
 
-   foundation
+   about
+   committee
    support
    charter
    contract
+   foundation
 
 .. board
-
-.. .. contents:: 目次
-
 
 PyCon APAC 2013 in Japan
 ========================

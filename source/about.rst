@@ -1,7 +1,11 @@
-PyCon JP と実行委員会(Commitee)の紹介
-=====================================
+=================
+ PyCon JP の紹介
+=================
 
 .. image:: /_static/pyconjp_logo_s.png
+
+.. contents:: 目次
+   :depth: 2
 
 PyCon JP とは
 =============
