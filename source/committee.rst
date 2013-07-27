@@ -2,7 +2,7 @@
  PyCon JP 実行委員会について
 =============================
 
-PyCon JP 実行委員会(PyCon JP Committee)は以下を目的とした団体です。
+PyCon JP 実行委員会は以下を目的とした団体です。
 
 - PyCon JP等のイベントを通じて、日本でのプログラミング言語Pythonの普及に貢献する。
 
@@ -55,7 +55,3 @@ PyCon JP 実行委員会(PyCon JP Committee)は以下を目的とした団体で
      - PyCon JP、海外の PyCon、日本の Python 関連イベントについて情報発信。
 
        書き込み権限を Google アカウントで付与可能。
-
-会則
-====
-:doc:`/constitution` を参照してください。
