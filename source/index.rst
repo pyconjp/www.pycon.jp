@@ -3,12 +3,16 @@
 ===============
 
 .. toctree::
-   :hidden:
+   :maxdepth: 1
 
    foundation
    support
+   charter
+   contract
 
-.. contents:: 目次
+.. board
+
+.. .. contents:: 目次
 
 
 PyCon APAC 2013 in Japan
@@ -59,11 +63,6 @@ PyCon APAC 2013 in Japan
 一般社団法人PyCon JPを3月21日に設立いたしました。
 詳しくは :doc:`/foundation` を参照してください。
 
-.. PyCon JP 実行委員会について
-   ===========================
-
-   実行委員会に関する情報は :doc:`/committee` を参照してください。
-
 海外支援
 ========
 PyCon JP スタッフの海外イベントへの参加支援については :doc:`/support` を参照してください。
@@ -78,3 +77,6 @@ PyCon JP スタッフの海外イベントへの参加支援については :doc
 - `PyCon JP 2012 <http://2012.pycon.jp>`_
   : 2012-9-15, 16, 17
 
+お問い合わせ
+============
+board@pycon.jp
