@@ -22,11 +22,6 @@ file_filter = source/locale/<lang>/LC_MESSAGES/committee.po
 source_file = source/locale/pot/committee.pot
 source_lang = ja
 
-[www-pycon-jp.constitution]
-file_filter = source/locale/<lang>/LC_MESSAGES/constitution.po
-source_file = source/locale/pot/constitution.pot
-source_lang = ja
-
 [www-pycon-jp.contract]
 file_filter = source/locale/<lang>/LC_MESSAGES/contract.po
 source_file = source/locale/pot/contract.pot
