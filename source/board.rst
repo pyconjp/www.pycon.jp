@@ -18,7 +18,32 @@ Ian Lewis
 ===========
 会計理事
 
+通信キャリアでの組み込み開発からWeb受託開発企業に転身した2003年頃にZopeとPythonに出会い、2011年6月より `(株)BePROUD`_ 所属。
+
+現在は主に `Sphinx-users.jp`_ で活動しており、ドキュメント翻訳、Sphinxの活用、拡張の作成などを行っています。2012年末から Sphinx_ の開発にCo-maintainerとして参加しています。
+
+翻訳書 `エキスパートPythonプログラミング(2010 アスキー・メディアワークス刊)`_ 、著書 `Pythonプロフェッショナルプログラミング(2012 秀和システム刊)`_ に携わりました。
+
+PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めました。 `PyCon APAC 2013`_ では会計を務めています。
+
+
+:facebook: shimizukawa_
+:twitter: `@shimizukawa`_
+:website: `http://清水川.jp/`_
+
 .. image:: /_static/shimizukawa.jpg
+
+.. _(株)BePROUD: http://www.beproud.jp/
+.. _Sphinx-users.jp: http://sphinx-users.jp/
+.. _Sphinx: http://sphinx-doc.org/
+.. _PyCon JP 2011: http://2011.pycon.jp/
+.. _PyCon JP 2012: http://2012.pycon.jp/
+.. _PyCon APAC 2013: http://apac-2013.pycon.jp/
+.. _エキスパートPythonプログラミング(2010 アスキー・メディアワークス刊): http://ascii.asciimw.jp/books/books/detail/978-4-04-868629-7.shtml
+.. _Pythonプロフェッショナルプログラミング(2012 秀和システム刊): http://www.shuwasystem.co.jp/products/7980html/3294.html
+.. _shimizukawa: https://www.facebook.com/shimizukawa
+.. _@shimizukawa: https://twitter.com/shimizukawa
+.. _http://清水川.jp/: http://清水川.jp/
 
 増田 泰
 =======
