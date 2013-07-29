@@ -55,10 +55,10 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 =============
 理事
 
-`BeProud <http://www.beproud.jp/>`_ 所属。
+`BePROUD <http://www.beproud.jp/>`_ 所属。
 
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。
-最近miniじゃなくなりつつある `Python mini Hack-a-thon <http://atnd.org/events/17896>`_ の主催者の一人でもある。
+最近miniじゃなくなりつつある `Python mini Hack-a-thon <http://connpass.com/series/14/>`_ の主催者の一人でもある。
 `Pythonボルダリング部(#kabepy) <http://connpass.com/series/64/>`_ の言い出しっぺで部長。
 
 趣味は吹奏楽とレゴとペンシルパズル。
@@ -67,6 +67,7 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 
 :facebook: `takanory.net <https://www.facebook.com/takanory.net>`_
 :twitter: `@takanory <https://twitter.com/takanory>`_
+:website: http://takanory.net/
 
 .. image:: /_static/takanori.jpg
 
