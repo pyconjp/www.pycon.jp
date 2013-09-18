@@ -16,11 +16,11 @@
 
 PyCon APAC 2013 in Japan
 ========================
-2013年は APAC(アジア太平洋地域)の PyCon を日本で開催します。
+PyCon APAC 2013 in Japan は盛況のうちに終了しました。
 
-.. image:: /_static/apsc2013_pycon_logo.png
-   :align: left
-   :alt: PyCon APAC 2013 in Japan logo
+.. image:: /_static/pyconapac2013-group-photo.jpg
+   :width: 574
+   :alt: PyCon APAC 2013 Group Photo
 
 .. list-table::
    :widths: 30 70
@@ -38,16 +38,16 @@ PyCon APAC 2013 in Japan
      - The Year of Python
    * - 会場
      - 工学院大学 新宿キャンパス
-   * - 参加者数(予定)
-     - 500
+   * - 参加者数
+     - 516(チュートリアル、開発スプリントのみの参加者含む)
    * - 参加費
-     - 検討中
+     - EaryBird 5,000円、学生 3,000円、通常 6,000円
    * - 運営
      - PyCon APAC 2013 運営チーム
    * - 連絡先
      - 2013@pycon.jp
 
-現在 PyCon JP 運営チームでは、 PyCon APAC 2013 の運営に参加してくださる方を募集しています。
+現在 PyCon JP 運営チームでは、 PyCon JP 2014 の運営に参加してくださる方を募集しています。
 ご協力いただける方は `運営 ML <http://groups.google.com/group/pycon-organizers-jp>`_ に **運営参加の旨** を書いていただくとスムーズです。
 
 また、可能であれば月一程度開催されるミーティングに参加していただくとより運営のことがわかると思います。
@@ -70,12 +70,14 @@ PyCon JP スタッフの海外イベントへの参加支援については :doc
 ===============
 
 - `PyCon mini JP <https://sites.google.com/site/pyconminijp/>`_
-  : 2011-1-29
+  : 2011-1-29(Conference)
 - `PyCon JP 2011 <http://2011.pycon.jp>`_
-  : 2011-8-27, 28
+  : 2011-8-27, 28(Conference, Development Sprints)
 - `PyCon JP 2012 <http://2012.pycon.jp>`_
-  : 2012-9-15, 16, 17
+  : 2012-9-15, 16, 17(Conference, Development Sprints)
+- `PyCon APAC 2013 in Japan <http://apac-2013.pycon.jp>`_
+  : 2013-9-13-16(Tutorial, Conference, Development Sprints)
 
 お問い合わせ
 ============
-board@pycon.jp
+一般社団法人 PyCon JP へのお問い合せは、理事メールアドレス(board@pycon.jp)までお願いします。
