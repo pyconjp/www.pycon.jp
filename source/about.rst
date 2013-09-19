@@ -30,38 +30,58 @@ PyCon Asia Pacific 2013 概要
 PyCon mini JP
 
 :URL: https://sites.google.com/site/pyconminijp/
-:日時: 2011年1月29日(土)
-:会場: 楽天株式会社 品川シーサイド楽天タワー
-:参加者: 136名
-:基調講演: 日本 Python コミュニティの10年ちょっと / 石本 敦夫
+:Date: Conference 2011年1月29日(土)
+:Venue: 楽天株式会社 品川シーサイド楽天タワー
+:Attendees: 136名
+:Keynote: 日本 Python コミュニティの10年ちょっと / 石本 敦夫
   http://www.slideshare.net/atsuoishimoto/slide-at-pycon-mini-jp-on-2011129
-:内容: 1トラック, 全7セッション
-:スポンサー: 4社
+:Description: 1トラック, 全7セッション
+:Sponsor: 4 Sponsors
 
 PyCon JP 2011
 
 :URL: http://2011.pycon.jp/
-:テーマ: 出会い系 Python / Python meet up
-:日時: カンファレンス 2011年8月27日(土)、開発Sprint 8月28日(日)
-:会場: `産業技術大学院大学 <http://aiit.ac.jp/>`_
-:参加者: 247名
-:基調講演: Packaging, Python 3 / Tarek Ziadé
+:Theme: 出会い系 Python / Python meet up
+:Date:
+  - Conference 2011年8月27日(土)
+  - Development Sprints 8月28日(日)
+:Venue: `産業技術大学院大学 <http://aiit.ac.jp/>`_
+:Attendees: 247名
+:Keynote: Packaging, Python 3 / Tarek Ziadé
   http://ziade.org/pyconjp-keynote.html
-:内容: 3トラック, 17セッション(一部英語セッション含む), 1ハンズオン
-:スポンサー: 9社
+:Description: 3トラック, 17セッション(一部英語セッション含む), 1ハンズオン
+:Sponsor: 1 Gold, 2 Silver, 4 Bronze, 2 Snacks
 
 PyCon JP 2012
 
 :URL: http://2012.pycon.jp/
-:テーマ: つながるPython / Python Connect
-:日時: カンファレンス 2012年9月15日(土)、16日(日)、開発Sprint 9月17日(月・祝)
-:会場: `産業技術大学院大学 <http://aiit.ac.jp/>`_
-:参加者: 480名
-:基調講演:
+:Theme: つながるPython / Python Connect
+:Date:
+  - Conference 2012年9月15日(土)、16日(日)
+  - Development Sprints 2012年9月17日(月・祝)
+:Venue: `産業技術大学院大学 <http://aiit.ac.jp/>`_
+:Attendees: 480名
+:Keynote:
   - Happiness Through Ignorance / Armin Ronacher https://speakerdeck.com/mitsuhiko/happiness-through-ignorance
   - Python as a Foreign Language / 小飼 弾 http://www.dan.co.jp/~dankogai/pyconjp2012/python.html
-:内容: 6トラック, 60セッション (英語トラック、併設トラック含む), 3ハンズオン
-:スポンサー: 22社、パトロン6名
+:Description: 6トラック, 60セッション (英語トラック、併設トラック含む), 3ハンズオン
+:Sponsor: 1 Platinum, 5 Gold, 16 Silver, 6 Patrons
+
+PyCon APAC 2013 in Japan
+
+:URL: http://apac-2013.pycon.jp/
+:Theme: The Year of Python
+:Date:
+  - Tutorial 2013年9月13日(金)
+  - Conference 2013年9月14日(土)、15日(日)
+  - Development Sprints 2013年9月16日(月・祝)
+:Venue: `工学院大学 <http://www.kogakuin.ac.jp/index.html>`_ 新宿キャンパス
+:Attendees: 516名
+:Keynote:
+  - Python and Neutrons or, how to make it fun to move motors / Georg Brandl
+  - One Million Lines of Python / Rian Hunter
+:Description: 4トラック(英語2、日本語2), 48セッション、2有料チュートリアル
+:Sponsor: 3 Platinum, 4 Gold, 26 Silver, 23 Patrons
 
 一般社団法人PyCon JP について
 ==============================
