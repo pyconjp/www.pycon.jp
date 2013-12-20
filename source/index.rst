@@ -81,3 +81,9 @@ PyCon JP スタッフの海外イベントへの参加支援については :doc
 お問い合わせ
 ============
 一般社団法人 PyCon JP へのお問い合せは、理事メールアドレス(board@pycon.jp)までお願いします。
+
+PyCon JP カレンダー
+===================
+.. raw:: html
+
+   <iframe src="https://www.google.com/calendar/embed?src=bsn2855fnbngs1itml66l28ml8%40group.calendar.google.com&ctz=Asia/Tokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
