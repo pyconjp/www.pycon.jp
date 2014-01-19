@@ -14,6 +14,24 @@
 
 .. board
 
+PyCon JP 2014
+=============
+
+.. image:: /_static/pycon2014-logo.png
+   :alt: PyCon JP 2014 logo
+
+:URL: http://2014.pycon.jp/
+:テーマ: Python で再発見
+:日時: 調整中
+:会場: 調整中
+
+現在 PyCon JP 運営チームでは、 PyCon JP 2014 の運営に参加してくださる方を募集しています。
+ご協力いただける方は `PyCon JP 2014スタッフ申し込み <https://docs.google.com/forms/d/1Rosp0qiAaIkMR0-HPJE355K1Tv-OHsjMAx02zfUKWRI/viewform>`_ フォームから申し込みをお願いします。
+
+PyCon JP の運営に関しては `PyCon JP ブログ <http://pyconjp.blogspot.jp/>`_ などにも内容が書いてありますので、参考にしてください。
+
+皆様の参加をお待ちしております。
+
 PyCon APAC 2013 in Japan
 ========================
 PyCon APAC 2013 in Japan は盛況のうちに終了しました。
@@ -46,15 +64,6 @@ PyCon APAC 2013 in Japan は盛況のうちに終了しました。
      - PyCon APAC 2013 運営チーム
    * - 連絡先
      - 2013@pycon.jp
-
-現在 PyCon JP 運営チームでは、 PyCon JP 2014 の運営に参加してくださる方を募集しています。
-ご協力いただける方は `運営 ML <http://groups.google.com/group/pycon-organizers-jp>`_ に **運営参加の旨** を書いていただくとスムーズです。
-
-また、可能であれば月一程度開催されるミーティングに参加していただくとより運営のことがわかると思います。
-
-運営ミーティングに関しては `PyCon JP ブログ <http://pyconjp.blogspot.jp/>`_ などにも内容が書いてありますので、参考にしてください。
-
-皆様の参加をお待ちしております。
 
 
 一般社団法人PyCon JP設立のお知らせ
