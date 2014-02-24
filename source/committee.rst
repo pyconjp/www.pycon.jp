@@ -19,23 +19,20 @@ PyCon JP 実行委員会は以下を目的とした団体です。
    * - 項目
      - 参照先
      - 説明
-   * - メーリングリスト
-     - `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_
-     - 基本的なやりとりに使用。誰でも参加可能。
-   * - Skype
-     - 「PyCon APAC」部屋
-     - ちょっと相談したいときなどに使用。Skype のアカウントと任意のメンバーとのコンタクトが必要。
-   * - Twitter
-     - `@pyconj <https://twitter.com/#!/pyconj>`_
-       `#pyconjp <https://twitter.com/#!/search/%23pyconjp>`_
-     - PyCon JP のオフィシャルアカウント。
-
-       `GroupTweet <http://www.grouptweet.com/>`_ を使用してメンバーからツイート可能。
    * - Google Drive
      -
      - 各種文書の共有、メンバーになると共有設定されて参照、編集可能となる。
 
        `議事録 <https://docs.google.com/folder/d/0B_bw8GEmTD5OYzRNN0xsalRVSTQ/edit>`_ は一般に公開されている。
+   * - Slack
+     - https://pyconjp.slack.com/
+     - チャット。基本的なメンバー間のコミュニケーションはここで行う。
+   * - JIRA
+     - https://pyconjp.atlassian.net/
+     - タスクの管理に使用。
+   * - メーリングリスト
+     - `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_
+     - 誰でも参加可能なメーリングリスト。
    * - Bitbucket
      - https://bitbucket.org/pyconjp/
      - サイトのコード、レポートの下書き等を管理。書き込みには `bitbucket <https://bitbucket.org/>`_ のアカウントが必要。
@@ -46,10 +43,16 @@ PyCon JP 実行委員会は以下を目的とした団体です。
        カレンダー ``bsn2855fnbngs1itml66l28ml8@group.calendar.google.com``
    * - Google Apps
      -
-     - ``@pycon.jp`` のメールアドレスを取得可能。
-   * - Trac
-     - http://trac.pycon.jp/
-     - タスクの管理に使用。Google アカウントでログインして「アカウント取得申請のチケット」を作ると、読み書きできるようになる。
+     - ``@pycon.jp`` のアカウント、メールアドレス等を管理。
+   * - Facebook
+     - http://www.facebook.com/PyConJP
+     - PyCon JP の Facebook ページ。
+   * - Twitter
+     - `@pyconj <https://twitter.com/#!/pyconj>`_
+       `#pyconjp <https://twitter.com/#!/search/%23pyconjp>`_
+     - PyCon JP のオフィシャルアカウント。
+
+       `GroupTweet <http://www.grouptweet.com/>`_ を使用してメンバーからツイート可能。
    * - PyCon JP Blog
      - http://pyconjp.blogspot.jp/
      - PyCon JP、海外の PyCon、日本の Python 関連イベントについて情報発信。
