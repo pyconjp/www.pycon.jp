@@ -21,8 +21,8 @@ PyCon JP 2014
    :alt: PyCon JP 2014 logo
 
 :URL: http://2014.pycon.jp/
-:テーマ: Python で再発見
-:日時: 調整中
+:テーマ: Python で再発見 / Rediscover with Python
+:日時: 調整中(9月中旬を予定)
 :会場: 調整中
 
 現在 PyCon JP 運営チームでは、 PyCon JP 2014 の運営に参加してくださる方を募集しています。
