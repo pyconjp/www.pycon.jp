@@ -16,4 +16,4 @@ PyCon JP スタッフが海外の Python 関連イベントに参加する旅費
 
 .. raw:: html
 
-   <iframe src="https://docs.google.com/forms/d/1pzBaHvFQQpMYv78XEp_2NenDBDMJi0D_XUMXGXsDfWY/viewform?embedded=true" width="900" height="1000" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
+   <iframe src="https://docs.google.com/forms/d/1pzBaHvFQQpMYv78XEp_2NenDBDMJi0D_XUMXGXsDfWY/viewform?embedded=true" width="900" height="1200" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
