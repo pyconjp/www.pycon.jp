@@ -22,8 +22,10 @@ PyCon JP 2014
 
 :URL: http://2014.pycon.jp/
 :テーマ: Python で再発見 / Rediscover with Python
-:日時: 調整中(9月中旬を予定)
-:会場: 調整中
+:日程: 
+  - カンファレンス: 2014年9月13日(土)、14日(日)
+  - 開発スプリント: 2014年9月15日(月・祝)
+:会場: `東京国際交流館プラザ平成 <http://www.jasso.go.jp/tiec/plazaheisei.html>`_
 
 現在 PyCon JP 運営チームでは、 PyCon JP 2014 の運営に参加してくださる方を募集しています。
 ご協力いただける方は `PyCon JP 2014スタッフ申し込み <https://docs.google.com/forms/d/1Rosp0qiAaIkMR0-HPJE355K1Tv-OHsjMAx02zfUKWRI/viewform>`_ フォームから申し込みをお願いします。
