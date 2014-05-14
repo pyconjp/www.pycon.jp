@@ -20,7 +20,7 @@ PyCon JP 2014
 .. image:: /_static/pycon2014-logo.png
    :alt: PyCon JP 2014 logo
 
-:URL: http://2014.pycon.jp/
+:URL: https://pycon.jp/2014/
 :テーマ: Python で再発見 / Rediscover with Python
 :日程: 
   - カンファレンス: 2014年9月13日(土)、14日(日)
