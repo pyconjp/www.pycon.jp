@@ -20,12 +20,32 @@ PyCon JP 2014
 .. image:: /_static/pycon2014-logo.png
    :alt: PyCon JP 2014 logo
 
-:URL: https://pycon.jp/2014/
-:テーマ: Python で再発見 / Rediscover with Python
-:日程: 
-  - カンファレンス: 2014年9月13日(土)、14日(日)
-  - 開発スプリント: 2014年9月15日(月・祝)
-:会場: `東京国際交流館プラザ平成 <http://www.jasso.go.jp/tiec/plazaheisei.html>`_
+.. list-table::
+   :widths: 30 70
+   :stub-columns: 1
+
+   * - Webサイト
+     - https://pycon.jp/2014/
+   * - 日程
+     - - チュートリアル: 2014年9月12日(金)(別会場)
+       - カンファレンス: 2014年9月13日(土)、14日(日)
+       - 開発スプリント: 2014年9月15日(月・祝)
+   * - テーマ
+     - Python で再発見 / Rediscover with Python
+   * - 会場
+     - `東京国際交流館プラザ平成 <http://www.jasso.go.jp/tiec/plazaheisei.html>`_
+   * - 参加者数
+     - 500(予定)
+   * - 参加費
+     - - EaryBird(早割) 7,500円
+       - 学生 5,000円
+       - 通常 10,000円
+
+       すべて、Tシャツ、グッズ、ランチ、おやつ、パーティー等含む
+   * - 運営
+     - PyCon JP 2014 運営チーム
+   * - 連絡先
+     - 2014@pycon.jp
 
 現在 PyCon JP 運営チームでは、 PyCon JP 2014 の運営に参加してくださる方を募集しています。
 ご協力いただける方は `PyCon JP 2014スタッフ申し込み <https://docs.google.com/forms/d/1Rosp0qiAaIkMR0-HPJE355K1Tv-OHsjMAx02zfUKWRI/viewform>`_ フォームから申し込みをお願いします。
