@@ -5,6 +5,7 @@
 .. image:: /_static/pyconjp_logo_s.png
 
 .. contents:: 目次
+   :local:
    :depth: 2
 
 PyCon JP とは
@@ -17,17 +18,11 @@ PyCon JP は2012年に480名の参加者を集め、米国・ヨーロッパに�
 
 2013 年は PyCon Asia Pacific 2013 というアジア地域を代表する PyCon の開催を予定しており、より国際的なイベントとなる予定です。
 
-PyCon Asia Pacific 2013 概要
-----------------------------
-:URL: http://apac-2013.pycon.jp/
-:テーマ: The year of Python
-:日時: 2013年8、9月頃を予定
-:参加者: 500名程度を予定
-
 過去の実績
-----------
+==========
 
 PyCon mini JP
+-------------
 
 :URL: https://sites.google.com/site/pyconminijp/
 :Date: Conference 2011年1月29日(土)
@@ -39,6 +34,7 @@ PyCon mini JP
 :Sponsor: 4 Sponsors
 
 PyCon JP 2011
+-------------
 
 :URL: http://2011.pycon.jp/
 :Theme: 出会い系 Python / Python meet up
@@ -53,6 +49,7 @@ PyCon JP 2011
 :Sponsor: 1 Gold, 2 Silver, 4 Bronze, 2 Snacks
 
 PyCon JP 2012
+-------------
 
 :URL: http://2012.pycon.jp/
 :Theme: つながるPython / Python Connect
@@ -68,6 +65,7 @@ PyCon JP 2012
 :Sponsor: 1 Platinum, 5 Gold, 16 Silver, 6 Patrons
 
 PyCon APAC 2013 in Japan
+------------------------
 
 :URL: http://apac-2013.pycon.jp/
 :Theme: The Year of Python
@@ -82,6 +80,23 @@ PyCon APAC 2013 in Japan
   - One Million Lines of Python / Rian Hunter
 :Description: 4トラック(英語2、日本語2), 48セッション、2有料チュートリアル
 :Sponsor: 3 Platinum, 4 Gold, 26 Silver, 23 Patrons
+
+PyCon JP 2014
+-------------
+
+:URL: https://pycon.jp/2014/
+:Theme: Python で再発見 / Rediscover with Python
+:Date:
+  - Tutorial 2014年9月12日(金)
+  - Conference 2014年9月13日(土)、14日(日)
+  - Development Sprints 2014年9月15日(月・祝)
+:Venue: `東京国際交流館 プラザ平成 <http://www.jasso.go.jp/tiec/plazaheisei.html>`_
+:Attendees: 545名
+:Keynote:
+  - Kenneth Reitz
+  - 西尾 泰和
+:Description: 3トラック, 48セッション (英語1、日本語2), 3有料チュートリアル、ポスターセッション、ジョブフェア他
+:Sponsor: 1 Platinum, 6 Gold, 31 Silver, 41 Patrons
 
 一般社団法人PyCon JP について
 ==============================

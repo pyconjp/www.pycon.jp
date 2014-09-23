@@ -16,9 +16,12 @@
 
 PyCon JP 2014
 =============
+PyCon JP 2014 は盛況のうちに終了しました。
 
-.. image:: /_static/pycon2014-logo.png
-   :alt: PyCon JP 2014 logo
+.. image:: /_static/pyconjp2014-group-photo.jpg
+   :width: 574
+   :alt: PyCon JP 2014 Group Photo
+   :target: https://flic.kr/p/oXNpk9
 
 .. list-table::
    :widths: 30 70
@@ -27,15 +30,15 @@ PyCon JP 2014
    * - Webサイト
      - https://pycon.jp/2014/
    * - 日程
-     - - チュートリアル: 2014年9月12日(金)(別会場)
+     - - チュートリアル: 2014年9月12日(金)(`市ケ谷健保会館 会議室 <http://www.its-kenpo.or.jp/fuzoku/kaigi/ichigaya.html>`_)
        - カンファレンス: 2014年9月13日(土)、14日(日)
-       - 開発スプリント: 2014年9月15日(月・祝)
+       - 開発スプリント: 2014年9月15日(月・祝)(`日本マイクロソフト 品川オフィス <http://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx>`_)
    * - テーマ
      - Python で再発見 / Rediscover with Python
    * - 会場
      - `東京国際交流館プラザ平成 <http://www.jasso.go.jp/tiec/plazaheisei.html>`_
    * - 参加者数
-     - 500(予定)
+     - 545名
    * - 参加費
      - - EaryBird(早割) 7,500円
        - 学生 5,000円
@@ -47,46 +50,9 @@ PyCon JP 2014
    * - 連絡先
      - 2014@pycon.jp
 
-現在 PyCon JP 運営チームでは、 PyCon JP 2014 の運営に参加してくださる方を募集しています。
-ご協力いただける方は `PyCon JP 2014スタッフ申し込み <https://docs.google.com/forms/d/1Rosp0qiAaIkMR0-HPJE355K1Tv-OHsjMAx02zfUKWRI/viewform>`_ フォームから申し込みをお願いします。
+.. PyCon JP の運営に関しては `PyCon JP ブログ <http://pyconjp.blogspot.jp/>`_ などにも内容が書いてありますので、参考にしてください。
 
-PyCon JP の運営に関しては `PyCon JP ブログ <http://pyconjp.blogspot.jp/>`_ などにも内容が書いてありますので、参考にしてください。
-
-皆様の参加をお待ちしております。
-
-PyCon APAC 2013 in Japan
-========================
-PyCon APAC 2013 in Japan は盛況のうちに終了しました。
-
-.. image:: /_static/pyconapac2013-group-photo.jpg
-   :width: 574
-   :alt: PyCon APAC 2013 Group Photo
-
-.. list-table::
-   :widths: 30 70
-   :stub-columns: 1
-
-   * - Webサイト
-     - http://apac-2013.pycon.jp/
-   * - チュートリアル
-     - 2013-09-13(金)
-   * - カンファレンス
-     - 2013-09-14(土)-15(日)
-   * - 開発スプリント
-     - 2013-09-16(月・祝)
-   * - テーマ
-     - The Year of Python
-   * - 会場
-     - 工学院大学 新宿キャンパス
-   * - 参加者数
-     - 516(チュートリアル、開発スプリントのみの参加者含む)
-   * - 参加費
-     - EaryBird 5,000円、学生 3,000円、通常 6,000円
-   * - 運営
-     - PyCon APAC 2013 運営チーム
-   * - 連絡先
-     - 2013@pycon.jp
-
+   皆様の参加をお待ちしております。
 
 一般社団法人PyCon JP設立のお知らせ
 ==================================
