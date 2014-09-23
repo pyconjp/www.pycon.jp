@@ -67,13 +67,15 @@ PyCon JP スタッフの海外イベントへの参加支援については :doc
 ===============
 
 - `PyCon mini JP <https://sites.google.com/site/pyconminijp/>`_
-  : 2011-1-29(Conference)
+  : 2011 Jan 29(Conference)
 - `PyCon JP 2011 <http://2011.pycon.jp>`_
-  : 2011-8-27, 28(Conference, Development Sprints)
+  : 2011 Aug 27, 28(Conference, Development Sprints)
 - `PyCon JP 2012 <http://2012.pycon.jp>`_
-  : 2012-9-15, 16, 17(Conference, Development Sprints)
+  : 2012 Sep 15, 16, 17(Conference, Development Sprints)
 - `PyCon APAC 2013 in Japan <http://apac-2013.pycon.jp>`_
-  : 2013-9-13-16(Tutorial, Conference, Development Sprints)
+  : 2013 Sep 13-16(Tutorial, Conference, Development Sprints)
+- `PyCon JP 2014 <https://pycon.jp/2014>`_
+  : 2014 Sep 13-16(Tutorial, Conference, Development Sprints)
 
 お問い合わせ
 ============
