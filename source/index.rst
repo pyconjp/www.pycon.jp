@@ -16,7 +16,7 @@
 
 PyCon JP 2015
 =============
-現在スタッフ募集中です。
+次の PyCon JP を一緒に作るスタッフを募集中です。一緒に **今までで最高のPyCon JP(the best PyCon JP ever)** を作りましょう。
 
 - `PyCon JP 2015 スタッフ申し込みフォーム <https://docs.google.com/forms/d/1chXlls4-GuL7mvifn5ah2Na9MBtUQGBbczYJDmWevyg/viewform>`_
 
