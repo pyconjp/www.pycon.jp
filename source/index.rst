@@ -14,6 +14,12 @@
 
 .. board
 
+PyCon JP 2015
+=============
+現在スタッフ募集中です。
+
+- `PyCon JP 2015 スタッフ申し込みフォーム <https://docs.google.com/forms/d/1chXlls4-GuL7mvifn5ah2Na9MBtUQGBbczYJDmWevyg/viewform>`_
+
 PyCon JP 2014
 =============
 PyCon JP 2014 は盛況のうちに終了しました。
