@@ -83,6 +83,10 @@ PyCon JP スタッフの海外イベントへの参加支援については :doc
 - `PyCon JP 2014 <https://pycon.jp/2014>`_
   : 2014 Sep 13-16(Tutorial, Conference, Development Sprints)
 
+決算報告
+==========
+一般社団法人の :doc:`/anualreport` を参照してください。
+
 お問い合わせ
 ============
 一般社団法人 PyCon JP へのお問い合せは、理事メールアドレス(board@pycon.jp)までお願いします。
