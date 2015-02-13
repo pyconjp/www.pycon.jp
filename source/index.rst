@@ -12,7 +12,15 @@
    contract
    foundation
 
-.. board
+.. 以下の目次は表示されない
+
+.. toctree::
+   :hidden:
+
+   annualreport
+   board
+   communitysupport
+   donation
 
 PyCon JP 2015
 =============
