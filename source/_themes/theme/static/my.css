@@ -9,7 +9,7 @@ html
 div.header
 {
   background-image: url("pyconjp_logo_s.png");
-  height: 130px !important;
+  height: 125px !important;
   background-repeat: no-repeat;
   background-position: right;
 }

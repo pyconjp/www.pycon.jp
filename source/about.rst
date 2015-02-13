@@ -2,7 +2,8 @@
  PyCon JP の紹介
 =================
 
-.. image:: /_static/pyconjp_logo_s.png
+.. image:: /_static/pyconjp_logo.png
+   :alt: PyCon JP Logo
 
 .. contents:: 目次
    :local:
