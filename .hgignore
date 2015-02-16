@@ -5,3 +5,4 @@ develop-eggs/
 eggs/
 parts/
 locale/
+build.sh
