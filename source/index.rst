@@ -24,49 +24,37 @@
 
 PyCon JP 2015
 =============
-次の PyCon JP を一緒に作るスタッフを募集中です。一緒に **今までで最高のPyCon JP(the best PyCon JP ever)** を作りましょう。
+.. image:: /_static/pyconjp2015-logo.png
+   :width: 420
+   :height: 250
+   :alt: PyCon JP 2015 logo
 
-- `PyCon JP 2015 スタッフ申し込みフォーム <https://docs.google.com/forms/d/1chXlls4-GuL7mvifn5ah2Na9MBtUQGBbczYJDmWevyg/viewform>`_
-
-PyCon JP 2014
-=============
-PyCon JP 2014 は盛況のうちに終了しました。
-
-.. image:: /_static/pyconjp2014-group-photo.jpg
-   :width: 574
-   :alt: PyCon JP 2014 Group Photo
-   :target: https://flic.kr/p/oXNpk9
+PyCon JP 2015 を下記の内容で開催予定です。現在スタッフとスポンサーを募集しています。詳細は `PyCon JP 2015 Web サイト <https://pycon.jp/2015/>`_ を参照してください。
 
 .. list-table::
    :widths: 30 70
    :stub-columns: 1
 
    * - Webサイト
-     - https://pycon.jp/2014/
+     - https://pycon.jp/2015/
    * - 日程
-     - - チュートリアル: 2014年9月12日(金)(`市ケ谷健保会館 会議室 <http://www.its-kenpo.or.jp/fuzoku/kaigi/ichigaya.html>`_)
-       - カンファレンス: 2014年9月13日(土)、14日(日)
-       - 開発スプリント: 2014年9月15日(月・祝)(`日本マイクロソフト 品川オフィス <http://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx>`_)
-   * - テーマ
-     - Python で再発見 / Rediscover with Python
+     - - チュートリアル: 2015年10月9日(金)
+       - カンファレンス: 2015年10月10日(土)、11日(日)
+       - 開発スプリント: 2015年10月12日(月・祝)
    * - 会場
      - `東京国際交流館プラザ平成 <http://www.jasso.go.jp/tiec/plazaheisei.html>`_
+   * - テーマ
+     - Possibilities of Python
    * - 参加者数
-     - 545名
+     - 500名程度を予定
    * - 参加費
-     - - EaryBird(早割) 7,500円
-       - 学生 5,000円
-       - 通常 10,000円
+     - 未定
 
-       すべて、Tシャツ、グッズ、ランチ、おやつ、パーティー等含む
+       Tシャツ、グッズ、ランチ、おやつ、パーティー等含む
    * - 運営
-     - PyCon JP 2014 運営チーム
+     - PyCon JP 2015 運営チーム
    * - 連絡先
-     - 2014@pycon.jp
-
-.. PyCon JP の運営に関しては `PyCon JP ブログ <http://pyconjp.blogspot.jp/>`_ などにも内容が書いてありますので、参考にしてください。
-
-   皆様の参加をお待ちしております。
+     - 2015@pycon.jp
 
 一般社団法人PyCon JP設立のお知らせ
 ==================================
