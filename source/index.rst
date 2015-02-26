@@ -19,7 +19,7 @@
 
    annualreport
    board
-   communitysupport
+   community-support
    donation
 
 PyCon JP 2015
