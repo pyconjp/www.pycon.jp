@@ -45,12 +45,6 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 .. _@shimizukawa: https://twitter.com/shimizukawa
 .. _http://清水川.jp/: http://清水川.jp/
 
-増田 泰
-=======
-理事
-
-.. image:: /_static/masuda.jpg
-
 鈴木 たかのり
 =============
 理事
@@ -62,7 +56,6 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 `Pythonボルダリング部(#kabepy) <http://connpass.com/series/64/>`_ の言い出しっぺで部長。
 
 趣味は吹奏楽とレゴとペンシルパズル。
-最近の目標は2012年9月にオープンしたマレーシアのレゴランドに行くこと。
 写真はうちのフェレットくろちゃんとくりちゃんです。
 
 :facebook: `takanory.net <https://www.facebook.com/takanory.net>`_
