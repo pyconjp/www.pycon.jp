@@ -48,9 +48,15 @@ PyCon JP 2015 を下記の内容で開催予定です。現在スタッフとス
    * - 参加者数
      - 500名程度を予定
    * - 参加費
-     - 未定
+     - - Patron: 20,000円
+       - Business: 15,000円(Early Bird 12,000円)
+       - Personal: 10,000円(Early Bird 8,000円)
+       - Student with After Party: 5,000円
+       - Student without After-Party: 2,000円
 
        Tシャツ、グッズ、ランチ、おやつ、パーティー等含む
+
+       参加登録は `PyCon JP 2015 - connpass <http://pyconjp.connpass.com/event/15146/>`_ から
    * - 運営
      - PyCon JP 2015 運営チーム
    * - 連絡先
