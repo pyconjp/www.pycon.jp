@@ -29,7 +29,7 @@ PyCon JP 2015
    :height: 250
    :alt: PyCon JP 2015 logo
 
-PyCon JP 2015 を下記の内容で開催予定です。現在スタッフとスポンサーを募集しています。詳細は `PyCon JP 2015 Web サイト <https://pycon.jp/2015/>`_ を参照してください。
+PyCon JP 2015 は無事終了しました。参加したみなさんありがとうございました。詳細は `PyCon JP 2015 Web サイト <https://pycon.jp/2015/>`_ を参照してください。
 
 .. list-table::
    :widths: 30 70
@@ -46,7 +46,7 @@ PyCon JP 2015 を下記の内容で開催予定です。現在スタッフとス
    * - テーマ
      - Possibilities of Python
    * - 参加者数
-     - 500名程度を予定
+     - 602
    * - 参加費
      - - Patron: 20,000円
        - Business: 15,000円(Early Bird 12,000円)
@@ -84,6 +84,8 @@ PyCon JP スタッフの海外イベントへの参加支援については :doc
   : 2013 Sep 13-16(Tutorial, Conference, Development Sprints)
 - `PyCon JP 2014 <https://pycon.jp/2014>`_
   : 2014 Sep 13-16(Tutorial, Conference, Development Sprints)
+- `PyCon JP 2015 <https://pycon.jp/2014>`_
+  : 2015 Oct 9-12(Tutorial, Conference, Development Sprints)
 
 決算報告
 ==========
