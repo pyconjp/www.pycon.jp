@@ -24,10 +24,11 @@
 
 PyCon JP 2015
 =============
-.. image:: /_static/pyconjp2015-logo.png
+.. figure:: /_static/pyconjp2015-group-photo.png
    :width: 420
-   :height: 250
-   :alt: PyCon JP 2015 logo
+   :alt: PyCon JP 2015 集合写真
+
+   PyCon JP 2015 集合写真
 
 PyCon JP 2015 は無事終了しました。参加したみなさんありがとうございました。詳細は `PyCon JP 2015 Web サイト <https://pycon.jp/2015/>`_ を参照してください。
 
