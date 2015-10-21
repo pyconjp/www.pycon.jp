@@ -24,8 +24,8 @@
 
 PyCon JP 2015
 =============
-.. figure:: /_static/pyconjp2015-group-photo.png
-   :width: 420
+.. figure:: /_static/pyconjp2015-group-photo.jpg
+   :width: 600
    :alt: PyCon JP 2015 集合写真
 
    PyCon JP 2015 集合写真
