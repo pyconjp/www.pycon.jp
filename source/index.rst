@@ -85,7 +85,7 @@ PyCon JP スタッフの海外イベントへの参加支援については :doc
   : 2013 Sep 13-16(Tutorial, Conference, Development Sprints)
 - `PyCon JP 2014 <https://pycon.jp/2014>`_
   : 2014 Sep 13-16(Tutorial, Conference, Development Sprints)
-- `PyCon JP 2015 <https://pycon.jp/2014>`_
+- `PyCon JP 2015 <https://pycon.jp/2015>`_
   : 2015 Oct 9-12(Tutorial, Conference, Development Sprints)
 
 決算報告
