@@ -58,7 +58,7 @@
   - 主催: Django Girls Tokyo
 
 - `PyCon mini Sapporo 2015 <http://sapporo.pycon.jp/2015/>`_
-g
+
   - 日時: 2015年9月12日(土) 10:50-18:15
   - 会場: `札幌市産業振興センター <http://www.sapporosansin.jp/>`_
   - 参加者数: 99名
