@@ -1,15 +1,6 @@
-=============================
- PyCon JP 実行委員会について
-=============================
-
-PyCon JP 実行委員会は以下を目的とした団体です。
-
-- PyCon JP等のイベントを通じて、日本でのプログラミング言語Pythonの普及に貢献する。
-
-まずは運営メーリングリスト `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_ に参加して、「運営に協力したい」というメールを送信してください。
-
-運営に関する情報
-================
+==================
+ 運営に関する情報
+==================
 運営に関する情報は以下のような手段でやりとりされています。
 
 .. list-table::
@@ -19,17 +10,17 @@ PyCon JP 実行委員会は以下を目的とした団体です。
    * - 項目
      - 参照先
      - 説明
-   * - Google Drive
-     -
-     - 各種文書の共有、メンバーになると共有設定されて参照、編集可能となる。
-
-       `議事録 <https://docs.google.com/folder/d/0B_bw8GEmTD5OYzRNN0xsalRVSTQ/edit>`_ は一般に公開されている。
    * - Slack
      - https://pyconjp.slack.com/
      - チャット。基本的なメンバー間のコミュニケーションはここで行う。
    * - JIRA
      - https://pyconjp.atlassian.net/
      - タスクの管理に使用。
+   * - Google Drive
+     -
+     - 各種文書の共有、メンバーになると共有設定されて参照、編集可能となる。
+
+       `議事録 <https://docs.google.com/folder/d/0B_bw8GEmTD5OYzRNN0xsalRVSTQ/edit>`_ は一般に公開されている。
    * - メーリングリスト
      - `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_
      - 誰でも参加可能なメーリングリスト。
