@@ -11,6 +11,7 @@
    charter
    contract
    foundation
+   issha/index
 
 .. 以下の目次は表示されない
 
