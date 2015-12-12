@@ -3,6 +3,10 @@
 ================================
 
 .. toctree::
-   maxdepth: 1
+   :maxdepth: 1
 
+   foundation
+   charter
+   contract
+   board
    access
