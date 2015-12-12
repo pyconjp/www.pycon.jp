@@ -8,14 +8,8 @@
    committee/index
    organizer/index
    support/index
-   annualreport
-
-.. 以下の目次は表示されない
-   
-.. toctree::
-   :hidden:
-
-   donation
+   donation/index
+   annualreport/index
 
 PyCon JP 2015
 =============
@@ -57,10 +51,6 @@ PyCon JP 2015 は無事終了しました。参加したみなさんありがと
      - PyCon JP 2015 運営チーム
    * - 連絡先
      - 2015@pycon.jp
-
-寄付受付
-==========
-一般社団法人 PyCon JP では、寄付を受けてけております。詳細は :doc:`/donation` を参照してください。
 
 お問い合わせ
 ============
