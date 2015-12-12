@@ -5,14 +5,12 @@
 .. toctree::
    :maxdepth: 1
 
-   about
-   committee
    support
    issha/index
    pyconjp-event/index
 
 .. 以下の目次は表示されない
-
+   
 .. toctree::
    :hidden:
 
