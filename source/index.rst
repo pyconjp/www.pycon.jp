@@ -9,6 +9,7 @@
    committee
    support
    issha/index
+   pyconjp-event/index
 
 .. 以下の目次は表示されない
 
@@ -59,11 +60,6 @@ PyCon JP 2015 は無事終了しました。参加したみなさんありがと
      - PyCon JP 2015 運営チーム
    * - 連絡先
      - 2015@pycon.jp
-
-一般社団法人PyCon JP設立のお知らせ
-==================================
-一般社団法人PyCon JPを2013年3月21日に設立いたしました。
-詳しくは :doc:`/foundation` を参照してください。
 
 海外支援
 ========
