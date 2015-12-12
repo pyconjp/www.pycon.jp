@@ -8,13 +8,13 @@
    issha/index
    pyconjp-event/index
    support/index
+   annualreport
 
 .. 以下の目次は表示されない
    
 .. toctree::
    :hidden:
 
-   annualreport
    donation
 
 PyCon JP 2015
@@ -57,26 +57,6 @@ PyCon JP 2015 は無事終了しました。参加したみなさんありがと
      - PyCon JP 2015 運営チーム
    * - 連絡先
      - 2015@pycon.jp
-
-過去の PyCon JP
-===============
-
-- `PyCon mini JP <https://sites.google.com/site/pyconminijp/>`_
-  : 2011 Jan 29(Conference)
-- `PyCon JP 2011 <http://2011.pycon.jp>`_
-  : 2011 Aug 27, 28(Conference, Development Sprints)
-- `PyCon JP 2012 <http://2012.pycon.jp>`_
-  : 2012 Sep 15, 16, 17(Conference, Development Sprints)
-- `PyCon APAC 2013 in Japan <http://apac-2013.pycon.jp>`_
-  : 2013 Sep 13-16(Tutorial, Conference, Development Sprints)
-- `PyCon JP 2014 <https://pycon.jp/2014>`_
-  : 2014 Sep 13-16(Tutorial, Conference, Development Sprints)
-- `PyCon JP 2015 <https://pycon.jp/2015>`_
-  : 2015 Oct 9-12(Tutorial, Conference, Development Sprints)
-
-決算報告
-==========
-一般社団法人の :doc:`/annualreport` を参照してください。
 
 寄付受付
 ==========
