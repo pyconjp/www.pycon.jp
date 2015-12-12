@@ -47,6 +47,31 @@
   - 開催後レポート(PyCon JP Blogまたはメディア)
   - 金銭サポートがあった場合は、最終的な会計情報を一般公開する
 
+コミュニティ支援の実績
+======================
+- `Django Girls Tokyo <https://djangogirls.org/tokyo/>`_
+
+  - 概要: 女性向けのWebアプリケーションワークショップ
+  - 日時: 2015年7月26日(日) 10:00-18:00
+  - 会場: `TECH LAB PAAK <http://techlabpaak.com/>`_
+  - 参加者数: 約40名
+  - 主催: Django Girls Tokyo
+
+- `PyCon mini Sapporo 2015 <http://sapporo.pycon.jp/2015/>`_
+g
+  - 日時: 2015年9月12日(土) 10:50-18:15
+  - 会場: `札幌市産業振興センター <http://www.sapporosansin.jp/>`_
+  - 参加者数: 99名
+  - 主催: PyCon mini Sapporo 実行委員会
+    
+- `PyCon mini Hiroshima 2015 <http://hiroshima.pycon.jp/>`_
+
+  - 日時: 2015年11月22日(日) 10:00-17:00
+  - 会場: `サテライトキャンパスひろしま <https://www.pu-hiroshima.ac.jp/site/satellite/accessmap.html>`_
+  - 参加者数: 42名
+  - 主催: PyCon mini Hiroshima 2015 実行委員会
+  - Blog: `PyCon mini Hiroshima 2015 を開催しました！ <http://pyconjp.blogspot.jp/2015/12/pycon-mini-hiroshima-2015.html>`_
+
 お問い合わせ、ご相談
 ====================
 
