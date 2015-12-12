@@ -5,9 +5,9 @@
 .. toctree::
    :maxdepth: 1
 
-   support
    issha/index
    pyconjp-event/index
+   support/index
 
 .. 以下の目次は表示されない
    
@@ -15,7 +15,6 @@
    :hidden:
 
    annualreport
-   community-support
    donation
 
 PyCon JP 2015
@@ -58,10 +57,6 @@ PyCon JP 2015 は無事終了しました。参加したみなさんありがと
      - PyCon JP 2015 運営チーム
    * - 連絡先
      - 2015@pycon.jp
-
-海外支援
-========
-PyCon JP スタッフの海外イベントへの参加支援については :doc:`/support` を参照してください。
 
 過去の PyCon JP
 ===============
