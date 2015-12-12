@@ -29,5 +29,6 @@ PyCon JPを素晴らしいカンファレンスとして維持していくには
    charter
    contract
    board
+   operation
    access
 
