@@ -8,9 +8,6 @@
    about
    committee
    support
-   charter
-   contract
-   foundation
    issha/index
 
 .. 以下の目次は表示されない
@@ -19,7 +16,6 @@
    :hidden:
 
    annualreport
-   board
    community-support
    donation
 
