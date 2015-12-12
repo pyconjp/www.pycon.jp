@@ -11,6 +11,14 @@
    donation/index
    annualreport/index
 
+最新情報
+========
+PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照してください。
+
+:Blog: `PyCon JP Blog <http://pyconjp.blogspot.jp/>`_
+:Twitter: `@PyConJ <https://twitter.com/pyconj>`_
+:Facebook: `PyConJP <http://www.facebook.com/PyConJP>`_
+          
 PyCon JP 2015
 =============
 .. figure:: /_static/pyconjp2015-group-photo.jpg
