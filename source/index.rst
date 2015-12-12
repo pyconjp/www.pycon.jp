@@ -5,8 +5,8 @@
 .. toctree::
    :maxdepth: 1
 
-   issha/index
-   pyconjp-event/index
+   committee/index
+   organizer/index
    support/index
    annualreport
 
