@@ -19,6 +19,13 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 :Twitter: `@PyConJ <https://twitter.com/pyconj>`_
 :Facebook: `PyConJP <http://www.facebook.com/PyConJP>`_
           
+PyCon JP 2016
+=============
+PyCon JP 2016のスタッフを募集しています。興味のある方は下記フォームから申し込んでください。
+
+- `PyCon JP 2016 スタッフ申し込みフォーム <https://docs.google.com/forms/d/15PNGpDGhnXVGsNk8jkcYsu2XpVEIqNHcM0L-ah-2aek/viewform>`_
+- `PyCon JP 2016スタッフの手引き <https://docs.google.com/document/d/1ZgpZ9bKR4z_vU0B5_wv_iK7hyPZnyxmT0mRrmEdmiAg/edit#heading=h.dnc1x0wyd86t>`_
+
 PyCon JP 2015
 =============
 .. figure:: /_static/pyconjp2015-group-photo.jpg
