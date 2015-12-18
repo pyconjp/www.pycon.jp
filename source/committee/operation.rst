@@ -21,9 +21,9 @@
      - 各種文書の共有、メンバーになると共有設定されて参照、編集可能となる。
 
        `議事録 <https://docs.google.com/folder/d/0B_bw8GEmTD5OYzRNN0xsalRVSTQ/edit>`_ は一般に公開されている。
-   * - メーリングリスト
-     - `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_
-     - 誰でも参加可能なメーリングリスト。
+   * - GitHub
+     - https://github.com/pyconjp/
+     - サイトのコード、レポートの下書き等を管理。
    * - Bitbucket
      - https://bitbucket.org/pyconjp/
      - サイトのコード、レポートの下書き等を管理。書き込みには `bitbucket <https://bitbucket.org/>`_ のアカウントが必要。
@@ -33,7 +33,7 @@
 
        カレンダー ``bsn2855fnbngs1itml66l28ml8@group.calendar.google.com``
    * - Google Apps
-     -
+     - https://admin.google.com/
      - ``@pycon.jp`` のアカウント、メールアドレス等を管理。
    * - Facebook
      - http://www.facebook.com/PyConJP
@@ -49,3 +49,6 @@
      - PyCon JP、海外の PyCon、日本の Python 関連イベントについて情報発信。
 
        書き込み権限を Google アカウントで付与可能。
+   * - メーリングリスト
+     - `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_
+     - 誰でも参加可能なメーリングリスト。
