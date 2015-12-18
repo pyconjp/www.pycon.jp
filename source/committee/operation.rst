@@ -1,7 +1,10 @@
 ==================
  運営に関する情報
 ==================
-運営に関する情報は以下のような手段でやりとりされています。
+運営に情報は以下のような手段でやりとりされています。
+
+コミュニケーションツール
+========================
 
 .. list-table::
    :widths: 20 30 50
@@ -35,20 +38,46 @@
    * - Google Apps
      - https://admin.google.com/
      - ``@pycon.jp`` のアカウント、メールアドレス等を管理。
-   * - Facebook
-     - http://www.facebook.com/PyConJP
-     - PyCon JP の Facebook ページ。
+   * - メーリングリスト
+     - `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_
+     - 誰でも参加可能なメーリングリスト。
+   * - connpass
+     - `PyCon JP - connpass <http://pyconjp.connpass.com/>`_
+       `PyCon JPスタッフ - connpass <http://pyconjp-staff.connpass.com/>`_
+     - イベント参加登録
+
+メディア
+========
+
+.. list-table::
+   :widths: 20 30 50
+   :header-rows: 1
+
    * - Twitter
      - `@pyconj <https://twitter.com/#!/pyconj>`_
        `#pyconjp <https://twitter.com/#!/search/%23pyconjp>`_
      - PyCon JP のオフィシャルアカウント。
 
        `GroupTweet <http://www.grouptweet.com/>`_ を使用してメンバーからツイート可能。
+   * - Facebook
+     - http://www.facebook.com/PyConJP
+     - PyCon JP の Facebook ページ。
    * - PyCon JP Blog
      - http://pyconjp.blogspot.jp/
      - PyCon JP、海外の PyCon、日本の Python 関連イベントについて情報発信。
 
        書き込み権限を Google アカウントで付与可能。
-   * - メーリングリスト
-     - `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_
-     - 誰でも参加可能なメーリングリスト。
+   * - Flickr
+     - https://www.flickr.com/photos/pyconjp/albums
+     - オフィシャルの写真置き場
+   * - YouTube
+     - https://www.youtube.com/user/PyConJP
+     - オフィシャルの動画置き場
+
+会計
+====
+- `ジャパンネット銀行 <http://www.japannetbank.co.jp/>`_ 銀行口座
+- `PayPal <https://www.paypal.com/>`_ 決済サービス
+- `freee <https://www.freee.co.jp/>`_ 会計ソフト
+- `楽天銀行 <http://www.rakuten-bank.co.jp/>`_ 海外からの振り込み用口座
+- `新生銀行 GoRemit <http://www.shinseibank.com/product/goremit/>`_ 海外送金サービス
