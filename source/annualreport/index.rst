@@ -27,7 +27,7 @@
 
   - `2014年度 決算報告書(PDF)`__
 
-.. _: https://drive.google.com/file/d/0B1BfIa_vXAlsZVYtVXgtaHBHbHoyVXR4ZmxkNko2bTU4M0Vv/view?usp=sharing
+.. __: https://drive.google.com/file/d/0B1BfIa_vXAlsZVYtVXgtaHBHbHoyVXR4ZmxkNko2bTU4M0Vv/view?usp=sharing
 
 
 2013年度
@@ -41,5 +41,5 @@
 
   - `2013年度 決算報告書(PDF)`__
 
-.. _: https://drive.google.com/file/d/0BzmtypRXAd8zakExYTVmRzJuRW9Uc3FGUkp3bFR2WVRiYVFv/view?usp=sharing
+.. __: https://drive.google.com/file/d/0BzmtypRXAd8zakExYTVmRzJuRW9Uc3FGUkp3bFR2WVRiYVFv/view?usp=sharing
 
