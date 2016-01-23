@@ -1,10 +1,10 @@
 # www.pycon.jp
 
-:GitHub: https://github.com/pyconjp/www.pycon.jp
-:URL: http://www.pycon.jp/
-:URL(RTD): http://wwwpyconjp.readthedocs.org/
+- GitHub: https://github.com/pyconjp/www.pycon.jp
+- URL: http://www.pycon.jp/
+- URL(RTD): http://wwwpyconjp.readthedocs.org/
 
-## how to build
+## build
 
 ```
 $ virtualenv env
