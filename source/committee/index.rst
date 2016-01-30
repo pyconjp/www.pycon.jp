@@ -30,6 +30,6 @@ PyCon JPを素晴らしいカンファレンスとして維持していくには
    contract
    board
    operation
-   meeting
+   meeting/index
    access
 
