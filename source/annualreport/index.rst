@@ -13,8 +13,9 @@
 
 - 決算報告書
 
-  - 準備中
+  - `2015年度 決算報告書(PDF)`__
 
+.. __: https://drive.google.com/file/d/0BzmtypRXAd8zMGM0ekFsQXozVUU/view?usp=sharing
 
 2014年度
 ================
