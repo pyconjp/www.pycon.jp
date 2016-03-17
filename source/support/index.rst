@@ -10,3 +10,4 @@
 
    travel
    community
+   bootcamp
