@@ -10,8 +10,9 @@
 - 遠方に住んでいるためPyCon JPのチュートリアルに参加できずにいた方
 - Pythonを使っている人が周りにいなくてなかなか始められなかった方
 
-開催地ごとに現地でのサポートをしていただけるスタッフや、開催会場を提供していただける方を募集しています。興味のある方、またはぜひ地元でやってほしい！などなど、賛同いただける方は `Python Boot Camp 全国ツアーお問い合わせフォーム <https://docs.google.com/forms/d/1IANh21fievi_lyyQyL8II66RSxlVuHBdAhr05C1qv9c/viewform>`_ からお問い合わせください。
+開催地ごとに現地でのサポートをしていただけるスタッフや、開催会場を提供していただける方を募集しています。興味のある方、またはぜひ地元でやってほしい！などなど、賛同いただける方は `Python Boot Camp 全国ツアーお問い合わせフォーム`_ からお問い合わせください。
 
+.. _Python Boot Camp 全国ツアーお問い合わせフォーム: https://docs.google.com/forms/d/1IANh21fievi_lyyQyL8II66RSxlVuHBdAhr05C1qv9c/viewform
 
 イベント概要
 ============
@@ -46,7 +47,7 @@ Python Boot Campの目的
 支援者にお願いすること
 ======================
 
-開催に向けて現地スタッフや講師、または開催場所の提供などを支援いただける方を `Python Boot Camp 全国ツアーお問い合わせフォーム <https://docs.google.com/forms/d/1IANh21fievi_lyyQyL8II66RSxlVuHBdAhr05C1qv9c/edit?usp=forms_home&ths=true>`_ から募集しています。
+開催に向けて現地スタッフや講師、または開催場所の提供などを支援いただける方を `Python Boot Camp 全国ツアーお問い合わせフォーム`_ から募集しています。
 
 支援者にお願いすることは下記の通りです。
 
