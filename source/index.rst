@@ -21,6 +21,11 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
           
 PyCon JP 2016
 =============
+
+.. image:: /_static/pyconjp2016-logo.png
+   :width: 358
+   :alt: PyCon JP 2016 / Everyone's different, all are wonderful
+      
 PyCon JP 2016 は「Everyone's different, all are wonderful」をテーマに9月下旬に早稲田大学西早稲田キャンパスで開催します。
 詳細はWebサイトを参照してください。
 
