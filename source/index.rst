@@ -21,38 +21,33 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
           
 PyCon JP 2016
 =============
-PyCon JP 2016のスタッフを募集しています。興味のある方は下記フォームから申し込んでください。
-
-- `PyCon JP 2016 スタッフ申し込みフォーム <https://docs.google.com/forms/d/15PNGpDGhnXVGsNk8jkcYsu2XpVEIqNHcM0L-ah-2aek/viewform>`_
-- `PyCon JP 2016スタッフの手引き <https://docs.google.com/document/d/1ZgpZ9bKR4z_vU0B5_wv_iK7hyPZnyxmT0mRrmEdmiAg/edit#heading=h.dnc1x0wyd86t>`_
-
-PyCon JP 2015
-=============
-.. figure:: /_static/pyconjp2015-group-photo.jpg
-   :width: 600
-   :alt: PyCon JP 2015 集合写真
-
-   PyCon JP 2015 集合写真
-
-PyCon JP 2015 は無事終了しました。参加したみなさんありがとうございました。詳細は `PyCon JP 2015 Web サイト <https://pycon.jp/2015/>`_ を参照してください。
+PyCon JP 2016 は「Everyone's different, all are wonderful」をテーマに9月下旬に早稲田大学西早稲田キャンパスで開催します。
+詳細はWebサイトを参照してください。
 
 .. list-table::
    :widths: 30 70
    :stub-columns: 1
 
    * - Webサイト
-     - https://pycon.jp/2015/
+     - https://pycon.jp/2016/
    * - 日程
-     - - チュートリアル: 2015年10月9日(金)
-       - カンファレンス: 2015年10月10日(土)、11日(日)
-       - 開発スプリント: 2015年10月12日(月・祝)
+     - - チュートリアル: 2016年9月20日(火)
+       - カンファレンス: 2016年9月21日(水)、22日(木・祝)
+       - 開発スプリント: 2016年9月23日(金)
    * - 会場
-     - `東京国際交流館プラザ平成 <http://www.jasso.go.jp/tiec/plazaheisei.html>`_
+     - `早稲田大学西早稲田キャンパス <https://www.waseda.jp/top/access/nishiwaseda-campus>`_
    * - テーマ
-     - Possibilities of Python
+     - Everyone's different, all are wonderful
    * - 参加者数
-     - 602
+     - 700名(予定)
    * - 参加費
+     - 参加登録開始時に案内
+   * - 運営
+     - PyCon JP 2016 運営チーム
+   * - 連絡先
+     - 2016@pycon.jp
+
+.. * - 参加費
      - - Patron: 20,000円
        - Business: 15,000円(Early Bird 12,000円)
        - Personal: 10,000円(Early Bird 8,000円)
@@ -62,10 +57,11 @@ PyCon JP 2015 は無事終了しました。参加したみなさんありがと
        Tシャツ、グッズ、ランチ、おやつ、パーティー等含む
 
        参加登録は `PyCon JP 2015 - connpass <http://pyconjp.connpass.com/event/15146/>`_ から
-   * - 運営
-     - PyCon JP 2015 運営チーム
-   * - 連絡先
-     - 2015@pycon.jp
+
+PyCon JP 2016のスタッフを募集しています。興味のある方は下記フォームから申し込んでください。
+
+- `PyCon JP 2016スタッフの手引き <http://manual.pycon.jp/staff/guidance.html>`_
+- `PyCon JP 2016 スタッフ申し込みフォーム <https://docs.google.com/forms/d/15PNGpDGhnXVGsNk8jkcYsu2XpVEIqNHcM0L-ah-2aek/viewform>`_
 
 お問い合わせ
 ============
