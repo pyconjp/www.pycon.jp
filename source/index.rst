@@ -38,7 +38,7 @@ PyCon JP 2016 は「Everyone's different, all are wonderful」をテーマに9�
    * - 日程
      - - チュートリアル: 2016年9月20日(火)
        - カンファレンス: 2016年9月21日(水)、22日(木・祝)
-       - 開発スプリント: 2016年9月23日(金)
+       - 開発スプリント: 2016年9月23日(金)、24日(土)
    * - 会場
      - `早稲田大学西早稲田キャンパス <https://www.waseda.jp/top/access/nishiwaseda-campus>`_
    * - テーマ
@@ -46,7 +46,11 @@ PyCon JP 2016 は「Everyone's different, all are wonderful」をテーマに9�
    * - 参加者数
      - 700名(予定)
    * - 参加費
-     - 参加登録開始時に案内
+     - - Patron: 20,000円
+       - Business: 15,000円(Early Bird 12,000円)
+       - Personal: 10,000円(Early Bird 8,000円)
+       - Student: 5,000円(パーティなし 2,000円)
+       - 参加登録: `PyCon JP 2016 - connpass <http://pyconjp.connpass.com/event/30692/>`_
    * - 運営
      - PyCon JP 2016 運営チーム
    * - 連絡先
