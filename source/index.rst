@@ -49,28 +49,21 @@ PyCon JP 2016 は「Everyone's different, all are wonderful」をテーマに9�
      - - Patron: 20,000円
        - Business: 15,000円(Early Bird 12,000円)
        - Personal: 10,000円(Early Bird 8,000円)
-       - Student: 5,000円(パーティなし 2,000円)
-       - 参加登録: `PyCon JP 2016 - connpass <http://pyconjp.connpass.com/event/30692/>`_
-   * - 運営
-     - PyCon JP 2016 運営チーム
-   * - 連絡先
-     - 2016@pycon.jp
-
-.. * - 参加費
-     - - Patron: 20,000円
-       - Business: 15,000円(Early Bird 12,000円)
-       - Personal: 10,000円(Early Bird 8,000円)
        - Student with After Party: 5,000円
        - Student without After-Party: 2,000円
 
        Tシャツ、グッズ、ランチ、おやつ、パーティー等含む
 
-       参加登録は `PyCon JP 2015 - connpass <http://pyconjp.connpass.com/event/15146/>`_ から
+       参加登録は `PyCon JP 2016 - connpass <http://pyconjp.connpass.com/event/30692/>`_ から
+   * - 運営
+     - PyCon JP 2016 運営チーム
+   * - 連絡先
+     - 2016@pycon.jp
 
-PyCon JP 2016のスタッフを募集しています。興味のある方は下記フォームから申し込んでください。
+.. PyCon JP 2016のスタッフを募集しています。興味のある方は下記フォームから申し込んでください。
 
-- `PyCon JP 2016スタッフの手引き <http://manual.pycon.jp/staff/guidance.html>`_
-- `PyCon JP 2016 スタッフ申し込みフォーム <https://docs.google.com/forms/d/15PNGpDGhnXVGsNk8jkcYsu2XpVEIqNHcM0L-ah-2aek/viewform>`_
+   - `PyCon JP 2016スタッフの手引き <http://manual.pycon.jp/staff/guidance.html>`_
+   - `PyCon JP 2016 スタッフ申し込みフォーム <https://docs.google.com/forms/d/15PNGpDGhnXVGsNk8jkcYsu2XpVEIqNHcM0L-ah-2aek/viewform>`_
 
 お問い合わせ
 ============
