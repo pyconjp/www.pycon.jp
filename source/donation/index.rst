@@ -10,6 +10,33 @@
 
 寄付金は、PyConJPイベントが開催するカンファレンスの他、一般社団法人PyConJPが開催する諸事業に使用されます。諸事業とは、海外派遣、講演やイベント開催支援などを考えております。
 
+寄付一覧
+========
+- 2016年7月21日 名前の公開不要 10,000円
+- キラキラステッカーによる寄付
+  
+.. list-table:: 
+   :header-rows: 1
+   :widths: 30 30 10 10
+
+   * - 日付
+     - 名称
+     - 金額
+     - 人数
+   * - 2015年10月9日-12日
+     - `PyCon JP 2015 <https://pycon.jp/2015/>`_
+     - 70,830円
+     - 70名
+   * - 2015年11月22日
+     - `PyCon mini JP Hiroshima 2015 <http://hiroshima.pycon.jp/>`_
+     - 11,005円
+     - 22名
+   * - 2016年6月8日
+     - `PyCon night Tokyo 2016 <http://eventdots.jp/event/587619>`_
+     - 5,500円
+     - 10名
+
+参考: `PyCon JP Blog: 支援金の報告 / PyCon JP 支援ご協力ありがとうございました <http://pyconjp.blogspot.jp/2015/10/pyconjp2015-spporters-report.html>`_
 
 寄付申込の手順
 ==================
