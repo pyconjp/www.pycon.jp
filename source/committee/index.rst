@@ -36,5 +36,6 @@ PyCon JPを素晴らしいカンファレンスとして維持していくには
    board
    operation
    meeting/index
+   license
    access
 
