@@ -7,7 +7,7 @@
 以下のライセンス形態とします。
 
 :ドキュメント: `CC-BY`_
-:動画: `CC-BY-NC <https://creativecommons.org/licenses/by-nc/4.0/deed.ja>`_
+:動画: `CC-BY`_
 :写真: `CC-BY`_ を基本とし、本人が写っている物をアイコン等に使用することが自由にできるようにする。
 
 .. _CC-BY: https://creativecommons.org/licenses/by/4.0/deed.ja
