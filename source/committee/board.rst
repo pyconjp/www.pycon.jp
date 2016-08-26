@@ -6,13 +6,24 @@
 =======
 代表理事
 
+一般社団法人PyCon JP 代表理事 / (株)CMSコミュニケーションズ 代表
+Python製Webフレームワーク Zope / Python製CMS Plone の専門家として、大学系・公共系などのCMSコンサルティングや構築を手がけている。Ploneコアコミッターとして，Plone 4 の日本語検索部分を担当した。OSSに寄与し業務で使うことを実施している。
+
+日本で初めて開かれた、PyCon mini JP (2011年1月)から主体となって活動し、2013年3月からは一般社団法人PyCon JP 代表理事を務める。 その他のOSS関係コミュニティを主宰またはスタッフとしても活動中。最近の興味は、動画配信と360度写真・360度動画の撮影と配信。
+
+:facebook: terapyon_
+:twitter: `@terapyon`_
+
 .. image:: /_static/terada.jpg
+.. terapyon_: https://www.facebook.com/terapyon
+.. _@terapyon: https://twitter.com/terapyon
 
 Ian Lewis
 =========
 副代表理事
 
 .. image:: /_static/ian.jpg
+
 
 清水川 貴之
 ===========
