@@ -4,6 +4,8 @@
 
 寺田 学
 =======
+.. image:: /_static/terada.jpg
+
 代表理事
 
 一般社団法人PyCon JP 代表理事 / (株)CMSコミュニケーションズ 代表
@@ -14,19 +16,19 @@ Python製Webフレームワーク Zope / Python製CMS Plone の専門家とし�
 :facebook: terapyon_
 :twitter: `@terapyon`_
 
-.. image:: /_static/terada.jpg
-.. terapyon_: https://www.facebook.com/terapyon
+.. _terapyon: https://www.facebook.com/terapyon
 .. _@terapyon: https://twitter.com/terapyon
 
 Ian Lewis
 =========
-副代表理事
-
 .. image:: /_static/ian.jpg
 
+副代表理事
 
 清水川 貴之
 ===========
+.. image:: /_static/shimizukawa.jpg
+
 会計理事
 
 通信キャリアでの組み込み開発からWeb受託開発企業に転身した2003年頃にZopeとPythonに出会い、2011年6月より `(株)BePROUD`_ 所属。
@@ -42,8 +44,6 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 :twitter: `@shimizukawa`_
 :website: `http://清水川.jp/`_
 
-.. image:: /_static/shimizukawa.jpg
-
 .. _(株)BePROUD: http://www.beproud.jp/
 .. _Sphinx-users.jp: http://sphinx-users.jp/
 .. _Sphinx: http://sphinx-doc.org/
@@ -58,6 +58,8 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 
 鈴木 たかのり
 =============
+.. image:: /_static/takanori.jpg
+
 理事
 
 `PyCon JP 2016 <https://pycon.jp/2016/>`_ 座長。 `株式会社ビープラウド <http://www.beproud.jp/>`_ 所属。
@@ -73,11 +75,9 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 :twitter: `@takanory <https://twitter.com/takanory>`_
 :website: http://takanory.net/
 
-.. image:: /_static/takanori.jpg
-
 Iqbal Abdullah
 ==============
-理事
-
 .. image:: /_static/iqbal.jpg
+
+理事
 
