@@ -1,8 +1,8 @@
-===============================================
-初心者向けPythonチュートリアルを日本各地で開催
-===============================================
+================================================
+Python Boot Camp(初心者向けPythonチュートリアル)
+================================================
 
-いっそうのPythonの普及のため、一般社団法人PyCon JPは日本各地での初心者向けPythonチュートリアルイベント「**Python Boot Camp**」を開催しようと思います。
+いっそうのPythonの普及のため、一般社団法人PyCon JPは日本各地での初心者向けPythonチュートリアルイベント「**Python Boot Camp**」を開催します。
 
 私たちはこれまでも年に１回東京で開催されるPyCon JPでPythonを学べるチュートリアル講座を開催してきました。
 今回は、以下のような人たちにPythonを知ってもらえる機会を提供できたらという思いで、Python Boot Campを企画しました。
@@ -13,6 +13,8 @@
 開催地ごとに現地でのサポートをしていただけるスタッフや、開催会場を提供していただける方を募集しています。興味のある方、またはぜひ地元でやってほしい！などなど、賛同いただける方は `Python Boot Camp 全国ツアーお問い合わせフォーム`_ からお問い合わせください。チュートリアル講師はPyCon JPから派遣いたしますので、「講師やってくれる人なんて知らないんだけれど」という方も安心してご連絡ください。
 
 .. _Python Boot Camp 全国ツアーお問い合わせフォーム: https://docs.google.com/forms/d/1IANh21fievi_lyyQyL8II66RSxlVuHBdAhr05C1qv9c/viewform
+
+- `Python Boot Camp テキスト <http://bootcamp-text.readthedocs.io/>`_
 
 イベント概要
 ============
@@ -36,7 +38,7 @@ Python Boot Campの目的
 
 
 開催都市について
-================
+----------------
 
 これまで東京でしか開催できていなかったチュートリアルを日本各地で開催することが目的です。
 
@@ -45,7 +47,7 @@ Python Boot Campの目的
 
 
 支援者にお願いすること
-======================
+----------------------
 
 開催に向けて現地スタッフや講師、または開催場所の提供などを支援いただける方を `Python Boot Camp 全国ツアーお問い合わせフォーム`_ から募集しています。
 
@@ -73,7 +75,7 @@ Python Boot Campの目的
   - 当日の建物セキュリティなどの手続き
 
 PyCon JPから提供できるもの
-==========================
+--------------------------
 
 - PyCon JPの役割
 
@@ -86,3 +88,31 @@ PyCon JPから提供できるもの
 
 
 **ご応募、お問い合わせお待ちしております！**
+
+開催実績
+========
+Python Boot Camp の開催実績です。
+
+- `Python Boot Camp in 京都 <http://pyconjp.connpass.com/event/33014/>`_
+
+  - 開催日: 2016年6月18日(土)
+  - 会場: `カンファーハウス CAMPHOR- HOUSE <https://camph.net/>`_
+  - 講師: 谷口 英
+  - 参加人数: 5名
+  - 開催レポート: `PyCon JP Blog: Python Boot Camp in 京都を開催しました! <http://pyconjp.blogspot.jp/2016/06/python-boot-camp-in-kyoto.html>`_
+
+- `Python Boot Camp in 愛媛 <http://pyconjp.connpass.com/event/34564/>`_
+
+  - 開催日: 2016年7月30日(土)
+  - 会場: `元町珈琲 松山中央の離れ <http://motomachi-coffee.jp/map/matsuyamachuou/>`_
+  - 講師: 寺田 学
+  - 参加人数: 12名
+  - 開催レポート: `PyCon JP Blog: Python Boot Camp in 愛媛 を開催しました！！ <http://pyconjp.blogspot.jp/2016/07/python-boot-camp-in.html>`_
+
+- `Python Boot Camp in 熊本 <http://pyconjp.connpass.com/event/36773/>`_
+
+  - 開催日: 2016年8月28日(日)
+  - 会場: `未来会議室 <http://mirai-k.or.jp/access/>`_
+  - 講師: 寺田 学
+  - 参加人数: 8名
+  - 開催レポート: `PyCon JP Blog: Python Boot Camp in Kumamoto（熊本）開催レポート <http://pyconjp.blogspot.jp/2016/08/python-boot-camp-in-kumamoto.html>`_
