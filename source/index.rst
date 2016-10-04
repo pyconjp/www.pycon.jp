@@ -22,11 +22,11 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 PyCon JP 2016
 =============
 
-.. image:: /_static/pyconjp2016-logo.png
-   :width: 358
-   :alt: PyCon JP 2016 / Everyone's different, all are wonderful
+.. image:: /_static/pyconjp2016-group-photo.jpg
+   :width: 455
+   :alt: PyCon JP 2016 group photo
       
-PyCon JP 2016 は「Everyone's different, all are wonderful」をテーマに9月下旬に早稲田大学西早稲田キャンパスで開催します。
+PyCon JP 2016 は「Everyone's different, all are wonderful.」をテーマに9月20日(火)〜24日(土)に早稲田大学西早稲田キャンパスで開催しました。
 詳細はWebサイトを参照してください。
 
 .. list-table::
@@ -40,11 +40,12 @@ PyCon JP 2016 は「Everyone's different, all are wonderful」をテーマに9�
        - カンファレンス: 2016年9月21日(水)、22日(木・祝)
        - 開発スプリント: 2016年9月23日(金)、24日(土)
    * - 会場
-     - `早稲田大学西早稲田キャンパス <https://www.waseda.jp/top/access/nishiwaseda-campus>`_
+     - - `早稲田大学西早稲田キャンパス <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (チュートリアル、カンファレンス)
+       - `日本マイクロソフト <https://www.microsoft.com/>`_ (開発スプリント)
    * - テーマ
-     - Everyone's different, all are wonderful
+     - Everyone's different, all are wonderful.
    * - 参加者数
-     - 700名(予定)
+     - 約720名
    * - 参加費
      - - Patron: 20,000円
        - Business: 15,000円(Early Bird 12,000円)
@@ -53,10 +54,8 @@ PyCon JP 2016 は「Everyone's different, all are wonderful」をテーマに9�
        - Student without After-Party: 2,000円
 
        Tシャツ、グッズ、ランチ、おやつ、パーティー等含む
-
-       参加登録は `PyCon JP 2016 - connpass <http://pyconjp.connpass.com/event/30692/>`_ から
    * - 運営
-     - PyCon JP 2016 運営チーム
+     - `PyCon JP 2016 運営チーム <https://pycon.jp/2016/ja/about/staff-list/>`_
    * - 連絡先
      - 2016@pycon.jp
 

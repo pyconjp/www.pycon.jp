@@ -32,6 +32,8 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2015では602名の
   : 2014 Sep 13-16(Tutorial, Conference, Development Sprints)
 - `PyCon JP 2015 <https://pycon.jp/2015>`_
   : 2015 Oct 9-12(Tutorial, Conference, Development Sprints)
+- `PyCon JP 2015 <https://pycon.jp/2016>`_
+  : 2016 Sep 20-24(Tutorial, Conference, Development Sprints)
 
 過去の PyCon JP 詳細
 ====================
@@ -127,3 +129,22 @@ PyCon JP 2015
   - `Possibilities of Python <http://www.slideshare.net/ssuserafaef6/pycon-jp-2015-keynote>`_ / 佐藤 治夫
 :Description: 3トラック, 32セッション (英語1:日本語2), 6有料チュートリアル、ポスターセッション、ジョブフェア他
 :Sponsor: 1 Diamond, 2 Platinum, 7 Gold, 33 Silver, 42 Patrons, 7 Media
+
+PyCon JP 2016
+-------------
+
+:URL: https://pycon.jp/2016/
+:Theme: Everyone's different, all are wonderful.
+:Date:
+  - Tutorial: 2016 Sep 20(Tue)
+  - Conference: 2016 Sep 21(Wed), 22(Thu)
+  - Development Sprints: 2016 Sep 23(Fri), 24(Sat)
+:Venue:
+  - `Waseda University, Nishi-Waseda Campus <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (Tutorials, Conference)
+  - `Microsoft Japan <https://www.microsoft.com/>`_ (Development Sprints)
+:Attendees: 720
+:Keynote:
+  - Jessica McKellar
+  - `What's new in Python 3.6 <http://blog.pirx.ru/media/files/2016/vlasovskikh-whats-new-in-python36.pdf>`_ / Andrey Vlasovskikh
+:Description: 5 Tracks, 48 Talk sessions, 2 Invited talks, 4 Tutorials, 3 Biginner sessions, Poster sessions, Jobs Fair, Product Fair and etc.
+:Sponsor: 1 Diamond, 2 Platinum, 7 Gold, 27 Silver, 40 Patrons, 7 Media
