@@ -32,7 +32,7 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2015では602名の
   : 2014 Sep 13-16(Tutorial, Conference, Development Sprints)
 - `PyCon JP 2015 <https://pycon.jp/2015>`_
   : 2015 Oct 9-12(Tutorial, Conference, Development Sprints)
-- `PyCon JP 2015 <https://pycon.jp/2016>`_
+- `PyCon JP 2016 <https://pycon.jp/2016>`_
   : 2016 Sep 20-24(Tutorial, Conference, Development Sprints)
 
 過去の PyCon JP 詳細
