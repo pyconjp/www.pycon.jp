@@ -116,3 +116,11 @@ Python Boot Camp の開催実績です。
   - 講師: 寺田 学
   - 参加人数: 8名
   - 開催レポート: `PyCon JP Blog: Python Boot Camp in Kumamoto（熊本）開催レポート <http://pyconjp.blogspot.jp/2016/08/python-boot-camp-in-kumamoto.html>`_
+
+- `Python Boot Camp in 札幌 <http://pyconjp.connpass.com/event/43134/>`_
+
+  - 開催日: 2016年11月19日(土)
+  - 会場: `株式会社インフィニットループ会議室 <http://www.infiniteloop.co.jp/special/room.php>`_
+  - 講師: 村岡 友介
+  - 参加人数:
+  - 参加レポート:
