@@ -95,6 +95,7 @@ Python Boot Camp の開催実績です。
 
 - `Python Boot Camp in 京都 <http://pyconjp.connpass.com/event/33014/>`_
 
+  - http://pyconjp.connpass.com/event/33014/
   - 開催日: 2016年6月18日(土)
   - 会場: `カンファーハウス CAMPHOR- HOUSE <https://camph.net/>`_
   - 講師: 谷口 英
@@ -103,14 +104,16 @@ Python Boot Camp の開催実績です。
 
 - `Python Boot Camp in 愛媛 <http://pyconjp.connpass.com/event/34564/>`_
 
+  - http://pyconjp.connpass.com/event/43134/
   - 開催日: 2016年7月30日(土)
-  - 会場: `元町珈琲 松山中央の離れ <http://motomachi-coffee.jp/map/matsuyamachuou/>`_
+  - 会場: `サイボウズ株式会社 松山オフィス <http://cybozu.co.jp/company/info/map_tokyo.html#matsuyama>`_
   - 講師: 寺田 学
   - 参加人数: 12名
   - 開催レポート: `PyCon JP Blog: Python Boot Camp in 愛媛 を開催しました！！ <http://pyconjp.blogspot.jp/2016/07/python-boot-camp-in.html>`_
 
 - `Python Boot Camp in 熊本 <http://pyconjp.connpass.com/event/36773/>`_
 
+  - http://pyconjp.connpass.com/event/36773/
   - 開催日: 2016年8月28日(日)
   - 会場: `未来会議室 <http://mirai-k.or.jp/access/>`_
   - 講師: 寺田 学
@@ -119,6 +122,7 @@ Python Boot Camp の開催実績です。
 
 - `Python Boot Camp in 札幌 <http://pyconjp.connpass.com/event/43134/>`_
 
+  - http://pyconjp.connpass.com/event/34564/
   - 開催日: 2016年11月19日(土)
   - 会場: `株式会社インフィニットループ会議室 <http://www.infiniteloop.co.jp/special/room.php>`_
   - 講師: 村岡 友介
