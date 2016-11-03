@@ -10,7 +10,7 @@
    support/index
    donation/index
    annualreport/index
-   media_sponsor/index
+   sponsor/index
 
 最新情報
 ========
