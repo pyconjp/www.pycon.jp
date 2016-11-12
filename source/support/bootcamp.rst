@@ -2,6 +2,10 @@
 Python Boot Camp(初心者向けPythonチュートリアル)
 ================================================
 
+.. image:: /_static/python-boot-camp-logo.png
+   :width: 198
+   :alt: Python Boot Camp ロゴ
+      
 いっそうのPythonの普及のため、一般社団法人PyCon JPは日本各地での初心者向けPythonチュートリアルイベント「Python Boot Camp(#pycamp)」を開催します。
 
 スタッフ募集
