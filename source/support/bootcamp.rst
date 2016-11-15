@@ -18,7 +18,7 @@ Python Boot Camp(初心者向けPythonチュートリアル)
 
 - 現地スタッフとして動ける
 - 講師ができる
-- 会場を提供できる、あてがある
+- 会場を提供できる、あてがある(10〜20名程度、電源と無線LANがあるとよりよい)
 
 .. _Python Boot Camp 全国ツアーお問い合わせフォーム: https://docs.google.com/forms/d/1IANh21fievi_lyyQyL8II66RSxlVuHBdAhr05C1qv9c/viewform
 
