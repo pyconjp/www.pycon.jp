@@ -76,3 +76,12 @@ http://type.jp/et/feature/
 .. image:: /_static/sponsor/media/logos/et.jpg
    :alt: キャリアデザインセンター『エンジニアtype』
    :target: http://type.jp/et/feature/
+
+Think IT（インプレス）
+----------------------
+
+https://thinkit.co.jp/
+
+.. image:: /_static/sponsor/media/logos/thinkit.png
+   :alt: Think IT（インプレス）
+   :target: https://thinkit.co.jp/
