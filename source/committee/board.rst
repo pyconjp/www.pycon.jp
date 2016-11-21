@@ -25,6 +25,18 @@ Ian Lewis
 
 副代表理事
 
+イアンはアメリカの首都ワシントンDC出身で、2006年から東京に移住。2011年からPyConJPの創業者として、運営に参加。2013年設立時から、一般社団法人 PyCon JPの副代表理事として務め、PyCon JPや、Pythonコミュニティの継続するために努力しています。
+
+現在はGoogle Japan所属で、Google Cloud Platformのデボロッパーアドボケートとして、クラウドの開発者の支援をしています。Googleに入社した前に株式会社ビープラウドでconnpass.comというIT勉強会支援サービスの開発をしました。Pythonや、Goが好きで、開発者の発展を楽しんで応援しています。www.ianlewis.org でブログを書いたりしています。
+
+:facebook: ianmlewis_
+:twitter: `@IanMLewis`_
+:website: `https://www.ianlewis.org/`_
+
+.. _ianmlewis: https://www.facebook.com/ianmlewis
+.. _@IanMLewis: https://twitter.com/IanMLewis
+.. _https://www.ianlewis.org/: https://www.ianlewis.org/
+
 清水川 貴之
 ===========
 .. image:: /_static/shimizukawa.jpg
