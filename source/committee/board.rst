@@ -93,3 +93,19 @@ Iqbal Abdullah
 
 理事
 
+マレーシア首都のクアランプール出身。1997年から在日。佐賀大学理工学部卒。
+
+クラウド・テレフォニー・プラットフォーム提供する `(株) Xoxzo <https://www.xoxzo.com/>`_ の代表。
+
+Python製Webフレームワーク Django を利用し、Xoxzoのプロダクトに取り入れる。積極的に Python 系のコミュニティーの参加、Djangoプロジェクトなど応援、貢献している。 
+2011年から2013年の PyCon JP の運営スタッフとして参加させていただき、以降一般社団法人PyCon JPの創業メンバーの一人として海外コミュニティーとの連携の強化に力入れている。
+
+2014年に PyCon MY を立ち上げ、2015年の `PyCon MY <http://pycon.my/`_ の座長として務める。2017年のマレーシアで開催する予定のPyCon APACの座長もなってる。
+
+趣味は旅行、温泉、お散歩、読書とブログでの執筆。
+
+:website: http://iqbal.rileks.la
+:twitter: `@iqbalabd`_
+
+.. _@iqbalabd: https://twitter.com/iqbalabd/
+
