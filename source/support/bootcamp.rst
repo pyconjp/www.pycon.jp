@@ -105,5 +105,23 @@ Python Boot Camp の開催実績です。
   - 開催日: 2016年11月19日(土)
   - 会場: `株式会社インフィニットループ会議室 <http://www.infiniteloop.co.jp/special/room.php>`_
   - 講師: 村岡 友介
-  - 参加人数:
-  - 参加レポート:
+  - 参加人数: 17
+  - 開催レポート: `PyCon JP Blog: Python Boot Camp in 札幌を開催しました <http://pyconjp.blogspot.jp/2016/12/python-boot-camp-in-sapporo.html>`_
+
+- Python Boot Camp in 栃木小山
+
+  - イベントページ: https://pyconjp.connpass.com/event/47757/
+  - 開催日: 2017年2月11日(土)
+  - 会場: `小山市立生涯学習センター第1セミナー室 <http://www.oyama-gakushuucenter.jp/>`_
+  - 講師: 寺田 学
+  - 参加人数: 
+  - 開催レポート:
+
+- Python Boot Camp in 広島
+
+  - イベントページ: https://pyconjp.connpass.com/event/50095/
+  - 開催日: 2017年3月11日(土)
+  - 会場: `中四国マネジメントシステム推進機構 <http://www.ms-kikoh.or.jp/>`_
+  - 講師: 鈴木 たかのり
+  - 参加人数: 
+  - 開催レポート:
