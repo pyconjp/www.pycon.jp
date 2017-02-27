@@ -114,8 +114,8 @@ Python Boot Camp の開催実績です。
   - 開催日: 2017年2月11日(土)
   - 会場: `小山市立生涯学習センター第1セミナー室 <http://www.oyama-gakushuucenter.jp/>`_
   - 講師: 寺田 学
-  - 参加人数: 
-  - 開催レポート:
+  - 参加人数: 10
+  - 開催レポート: `PyCon JP Blog: Python Boot Camp in 栃木小山を開催しました <http://pyconjp.blogspot.jp/2017/02/python-boot-camp-in-tochigioyama.html>`_
 
 - Python Boot Camp in 広島
 
