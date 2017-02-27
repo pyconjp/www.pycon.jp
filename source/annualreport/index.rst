@@ -4,6 +4,19 @@
 
 一般社団法人 PyCon JP の決算報告
 
+2016年度
+================
+
+- 事業期間
+
+  - 2016年1月1日から2016年12月31日まで
+
+- 決算報告書
+
+  - `2016年度 決算報告書(PDF)`__
+
+.. __: https://drive.google.com/file/d/0BzmtypRXAd8zNDU1clM1NTkwdzVXNkZWVl9JTTdhblJKZUdR/view
+
 2015年度
 ================
 
