@@ -35,6 +35,10 @@
      - `PyCon night Tokyo 2016 <http://eventdots.jp/event/587619>`_
      - 5,500円
      - 10名
+   * - 2016年9月21-25日
+     - `PyCon JP 2016 <https://pycon.jp/2016/>`_
+     - 28,131円
+     - 56名
 
 参考: `PyCon JP Blog: 支援金の報告 / PyCon JP 支援ご協力ありがとうございました <http://pyconjp.blogspot.jp/2015/10/pyconjp2015-spporters-report.html>`_
 
