@@ -28,7 +28,7 @@
      - 70,830円
      - 70名
    * - 2015年11月22日
-     - `PyCon mini JP Hiroshima 2015 <http://hiroshima.pycon.jp/>`_
+     - `PyCon mini Hiroshima 2015 <http://hiroshima.pycon.jp/2015.html>`_
      - 11,005円
      - 22名
    * - 2016年6月8日
