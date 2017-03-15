@@ -64,13 +64,28 @@
   - 参加者数: 99名
   - 主催: PyCon mini Sapporo 実行委員会
     
-- `PyCon mini Hiroshima 2015 <http://hiroshima.pycon.jp/>`_
+- `PyCon mini Hiroshima 2015 <http://hiroshima.pycon.jp/2015.html>`_
 
   - 日時: 2015年11月22日(日) 10:00-17:00
   - 会場: `サテライトキャンパスひろしま <https://www.pu-hiroshima.ac.jp/site/satellite/accessmap.html>`_
   - 参加者数: 42名
   - 主催: PyCon mini Hiroshima 2015 実行委員会
   - Blog: `PyCon mini Hiroshima 2015 を開催しました！ <http://pyconjp.blogspot.jp/2015/12/pycon-mini-hiroshima-2015.html>`_
+
+- `PyCon mini Hiroshima 2016 <http://hiroshima.pycon.jp/>`_
+
+  - 日時: 2016年11月12日(土) 10:00-17:00
+  - 会場: `サテライトキャンパスひろしま <https://www.pu-hiroshima.ac.jp/site/satellite/accessmap.html>`_
+  - 参加者数: 43名
+  - 主催: PyCon mini Hiroshima 2016 実行委員会
+  - Blog: `PyCon JP Blog: PyCon mini Hiroshima 2016 を開催しました！ <http://pyconjp.blogspot.jp/2016/11/pycon-mini-hiroshima-2016.html>`_
+
+- `PyCon mini Kumamoto 2017 <http://kumamoto.pycon.jp/>`_
+  
+  - 日時: 2017年4月23日(日) 10:00-16:45
+  - 会場: `熊本大学 工学部2号館 <http://www.eng.kumamoto-u.ac.jp/>`_
+  - 参加者数: 
+  - Blog: 
 
 お問い合わせ、ご相談
 ====================
