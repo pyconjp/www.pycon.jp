@@ -124,7 +124,7 @@ Python Boot Camp の開催実績です。
   - 会場: `中四国マネジメントシステム推進機構 <http://www.ms-kikoh.or.jp/>`_
   - 講師: 鈴木 たかのり
   - 参加人数: 15
-  - 開催レポート:
+  - 開催レポート: `PyCon JP Blog: Python Boot Camp in 広島を開催しました。 <http://pyconjp.blogspot.jp/2017/03/python-boot-camp-in-hiroshima.html>`_
 
 - Python Boot Camp in 大阪
 
@@ -132,5 +132,5 @@ Python Boot Camp の開催実績です。
   - 開催日: 2017年4月8日(土)
   - 会場: `株式会社ソウ <https://sou-co.jp/>`_
   - 講師: 寺田 学
-  - 参加人数: 
+  - 参加人数: 15
   - 開催レポート:
