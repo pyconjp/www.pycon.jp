@@ -133,4 +133,13 @@ Python Boot Camp の開催実績です。
   - 会場: `株式会社ソウ <https://sou-co.jp/>`_
   - 講師: 寺田 学
   - 参加人数: 15
+  - 開催レポート: `PyCon JP Blog: Python Boot Camp in 大阪を開催しました。 <http://pyconjp.blogspot.jp/2017/04/python-boot-camp-in.html>`_
+
+- Python Boot Camp in 神戸
+
+  - イベントページ: https://pyconjp.connpass.com/event/55110/
+  - 開催日: 2017年5月20日(土)
+  - 会場: `株式会社神戸デジタル・ラボ <http://www.kdl.co.jp/company/access/>`_
+  - 講師: 清水川 貴之
+  - 参加人数: 
   - 開催レポート:
