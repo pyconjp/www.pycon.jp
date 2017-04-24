@@ -20,14 +20,14 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 :Twitter: `@PyConJ <https://twitter.com/pyconj>`_
 :Facebook: `PyConJP <http://www.facebook.com/PyConJP>`_
           
-PyCon JP 2016
+PyCon JP 2017
 =============
 
-.. image:: /_static/pyconjp2016-group-photo.jpg
-   :width: 455
-   :alt: PyCon JP 2016 group photo
+.. image:: /_static/pyconjp2017-logo.png
+   :width: 662
+   :alt: PyCon JP 2017 logo
       
-PyCon JP 2016 は「Everyone's different, all are wonderful.」をテーマに9月20日(火)〜24日(土)に早稲田大学西早稲田キャンパスで開催しました。
+PyCon JP 2017 は「Output and Follow.」をテーマに2017年9月7日(木)〜9日(土)に早稲田大学西早稲田キャンパスで開催します。
 詳細はWebサイトを参照してください。
 
 .. list-table::
@@ -35,18 +35,17 @@ PyCon JP 2016 は「Everyone's different, all are wonderful.」をテーマに9�
    :stub-columns: 1
 
    * - Webサイト
-     - https://pycon.jp/2016/
+     - https://pycon.jp/2017/
    * - 日程
-     - - チュートリアル: 2016年9月20日(火)
-       - カンファレンス: 2016年9月21日(水)、22日(木・祝)
-       - 開発スプリント: 2016年9月23日(金)、24日(土)
+     - - チュートリアル: 2017年9月7日(木)
+       - カンファレンス: 2017年9月8日(金)、8日(土)
+       - 開発スプリント: 
    * - 会場
      - - `早稲田大学西早稲田キャンパス <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (チュートリアル、カンファレンス)
-       - `日本マイクロソフト <https://www.microsoft.com/>`_ (開発スプリント)
    * - テーマ
-     - Everyone's different, all are wonderful.
+     - Output and Follow.
    * - 参加者数
-     - 約720名
+     - 700名(予定)
    * - 参加費
      - - Patron: 20,000円
        - Business: 15,000円(Early Bird 12,000円)
@@ -56,14 +55,13 @@ PyCon JP 2016 は「Everyone's different, all are wonderful.」をテーマに9�
 
        Tシャツ、グッズ、ランチ、おやつ、パーティー等含む
    * - 運営
-     - `PyCon JP 2016 運営チーム <https://pycon.jp/2016/ja/about/staff-list/>`_
+     - PyCon JP 2017 運営チーム
    * - 連絡先
-     - 2016@pycon.jp
+     - 2017@pycon.jp
 
-.. PyCon JP 2016のスタッフを募集しています。興味のある方は下記フォームから申し込んでください。
+PyCon JP 2017のスタッフを募集しています。興味のある方は下記リンクを参照してください。
 
-   - `PyCon JP 2016スタッフの手引き <http://manual.pycon.jp/staff/guidance.html>`_
-   - `PyCon JP 2016 スタッフ申し込みフォーム <https://docs.google.com/forms/d/15PNGpDGhnXVGsNk8jkcYsu2XpVEIqNHcM0L-ah-2aek/viewform>`_
+- `スタッフ募集 | PyCon JP 2017 in TOKYO <https://pycon.jp/2017/ja/about/staff/>`_
 
 お問い合わせ
 ============
