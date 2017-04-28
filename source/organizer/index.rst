@@ -15,7 +15,7 @@ PyCon JP は日本で開催される、プログラミング言語 Python に関
 Python はオープンソースで開発されているプログラミング言語で、世界中で利用されています。
 
 PyCon(Python Conference)は世界中で開催されており、2012年は2,000名以上が参加する PyCon US をはじめ、世界30箇所以上で開催されています。
-PyCon JP は2011年から毎年開催しており、PyCon JP 2015では602名の参加者を集めアメリカ、ヨーロッパに次ぐ世界最大規模のカンファレンスとなっています。
+PyCon JP は2011年から毎年開催しており、PyCon JP 2016では約720名の参加者を集めアメリカ、ヨーロッパに次ぐ世界最大規模のカンファレンスとなっています。
 
 過去の PyCon JP
 ===============
@@ -34,6 +34,8 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2015では602名の
   : 2015 Oct 9-12(Tutorial, Conference, Development Sprints)
 - `PyCon JP 2016 <https://pycon.jp/2016>`_
   : 2016 Sep 20-24(Tutorial, Conference, Development Sprints)
+- `PyCon JP 2017 <https://pycon.jp/2017>`_
+  : 2017 Sep 7-9(Tutorial, Conference, Development Sprints)
 
 過去の PyCon JP 詳細
 ====================
@@ -148,3 +150,18 @@ PyCon JP 2016
   - `What's new in Python 3.6 <http://blog.pirx.ru/media/files/2016/vlasovskikh-whats-new-in-python36.pdf>`_ / Andrey Vlasovskikh
 :Description: 5 Tracks, 48 Talk sessions, 2 Invited talks, 4 Tutorials, 3 Biginner sessions, Poster sessions, Jobs Fair, Product Fair and etc.
 :Sponsor: 1 Diamond, 2 Platinum, 7 Gold, 27 Silver, 40 Patrons, 7 Media
+
+PyCon JP 2017
+-------------
+
+:URL: https://pycon.jp/2017/
+:Theme: Output and Follow.
+:Date:
+  - Tutorial: 2017 Sep 7(Thu)
+  - Conference: 2017 Sep 8(Fri), 9(Sat)
+:Venue:
+  - `Waseda University, Nishi-Waseda Campus <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (Tutorials, Conference)
+:Attendees: 700
+:Keynote:
+:Description: 
+:Sponsor: 
