@@ -171,7 +171,7 @@ Python Boot Camp の開催実績です。
         });
 
         var ctaLayer = new google.maps.KmlLayer({
-          // url: 'http://googlemaps.github.io/js-v2-samples/ggeoxml/cta.kml',
+          url: 'https://www.pycon.jp/_downloads/pycamp.kml',
           map: map
         });
       }
