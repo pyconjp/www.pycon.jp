@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <!-- KMLチュートリアル
        https://developers.google.com/kml/documentation/kml_tut?hl=ja
   -->
-  <Placemark>
-    <name>Python Boot Camp in 京都</name>
-    <description><![CDATA[
-    <ul><li>2016年6月18日(土)
-    <li>CAMPHOR-HOUSE
-    <li>谷口 英
-    <li>5名
-    <li><a href="http://pyconjp.blogspot.jp/2016/06/python-boot-camp-in-kyoto.html">開催レポート</a>
-    ]]></description>
-    <Point>
-      <coordinates>35.0248935,135.7747287</coordinates>
-    </Point>
-  </Placemark>
+<Placemark>
+  <name>Simple placemark</name>
+  <description>Attached to the ground. Intelligently places itself at the height of the underlying terrain.</description>
+  <Point>
+    <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
+  </Point>
+</Placemark>
 </kml>
