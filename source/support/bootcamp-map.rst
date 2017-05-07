@@ -1,0 +1,182 @@
+================================================
+Python Boot Camp(初心者向けPythonチュートリアル)
+================================================
+
+.. image:: /_static/python-boot-camp-logo.png
+   :width: 198
+   :alt: Python Boot Camp ロゴ
+      
+いっそうのPythonの普及のため、一般社団法人PyCon JPは日本各地での初心者向けPythonチュートリアルイベント「Python Boot Camp(#pycamp)」を開催します。
+
+スタッフ募集
+============
+現地でPython Boot Campの開催をサポートをしてくれるスタッフを募集しています。興味のある方は下記のフォームから連絡ください。
+
+- `Python Boot Camp 全国ツアーお問い合わせフォーム`_
+
+以下のような方を広く募集しています。
+
+- 現地スタッフとして動ける
+- 講師ができる
+- 会場を提供できる、あてがある(10〜20名程度、電源と無線LANがあるとよりよい)
+
+.. _Python Boot Camp 全国ツアーお問い合わせフォーム: https://docs.google.com/forms/d/1IANh21fievi_lyyQyL8II66RSxlVuHBdAhr05C1qv9c/viewform
+
+現地スタッフにお願いしたいことなどの詳細は
+`Python Boot Camp 運営マニュアル <http://bootcamp-text.readthedocs.io/organize/index.html>`_
+を参照してください。
+
+イベント概要
+============
+
+Python Boot Campの目的
+
+- 日本各地でのPythonを盛りあげたい
+- 各地のPythonistaとの連携強化
+- ゆくゆくは地域PyConの実施
+
+イベントの流れ
+
+- 午後から半日程度（〜４時間ほど）の初心者向けチュートリアルを実施
+- チュートリアル終了後、参加者は任意参加の懇親会を実施
+
+参加費
+
+- 一般: 2,000円、学生: 500円
+- 講師の旅費、宿泊費や会場費は、一般社団法人PyCon JPから費用支援します
+
+テキスト
+
+- `Python Boot Camp テキスト <http://pycamp.pycon.jp/>`_
+
+
+開催地について
+--------------
+
+これまで東京でしか開催できていなかったチュートリアルを日本各地で開催することが目的です。
+
+企画としてはここではやりたい（例えば、北海道、東北、北陸、四国、九州、沖縄それぞれ少なくとも１回は、など）という夢はあるのですが、具体的には決めていません。
+会場を提供いただける、または現地スタッフがすごいやる気がある地域から、優先的に開催していきたいと思います。
+
+PyCon JPからのサポート
+----------------------
+運営の主体は各現地スタッフにお願いしていますが、一般社団法人PyCon JPからは以下のようなサポートができます。
+
+- 講師の派遣
+- 講師との事前打ち合わせなどの設定
+- 講師謝礼、講師・現地スタッフの経費精算
+- Connpass PyCon JPでのイベント公開
+- Facebook、TwitterのPyCon JP公式アカウントのでの告知
+
+開催実績
+========
+Python Boot Camp の開催実績です。
+
+.. list-table::
+   :header-rows: 1
+   :widths: 20 10 20 10 5 10
+
+   * - イベント
+     - 開催日
+     - 会場
+     - 講師
+     - 参加者
+     - 開催レポート
+   * - 2016年
+     - 
+     - 
+     - 
+     - 
+     - 
+   * - `Python Boot Camp in 京都 <http://pyconjp.connpass.com/event/33014/>`_
+     - 6月18日(土)
+     - `CAMPHOR- HOUSE <https://camph.net/>`_
+     - 谷口 英
+     - 5名
+     - `開催レポート <http://pyconjp.blogspot.jp/2016/06/python-boot-camp-in-kyoto.html>`__
+   * - `Python Boot Camp in 愛媛 <http://pyconjp.connpass.com/event/34564/>`_
+     - 7月30日(土)
+     - `サイボウズ松山オフィス <http://cybozu.co.jp/company/info/map_tokyo.html#matsuyama>`_
+     - 寺田 学
+     - 12名
+     - `開催レポート <http://pyconjp.blogspot.jp/2016/07/python-boot-camp-in.html>`__
+   * - `Python Boot Camp in 熊本 <http://pyconjp.connpass.com/event/36773/>`_
+     - 8月28日(日)
+     - `未来会議室 <http://mirai-k.or.jp/access/>`_
+     - 寺田 学
+     - 8名
+     - `開催レポート <http://pyconjp.blogspot.jp/2016/08/python-boot-camp-in-kumamoto.html>`__
+   * - `Python Boot Camp in 札幌 <http://pyconjp.connpass.com/event/43134/>`_
+     - 11月19日(土)
+     - `株式会社インフィニットループ <http://www.infiniteloop.co.jp/special/room.php>`_
+     - 村岡 友介
+     - 17名
+     - `開催レポート <http://pyconjp.blogspot.jp/2016/12/python-boot-camp-in-sapporo.html>`__
+   * - 2017年
+     - 
+     - 
+     - 
+     - 
+     - 
+   * - `Python Boot Camp in 栃木小山 <https://pyconjp.connpass.com/event/47757/>`_
+     - 2月11日(土)
+     - `小山市立生涯学習センター <http://www.oyama-gakushuucenter.jp/>`_
+     - 寺田 学
+     - 10名
+     - `開催レポート <http://pyconjp.blogspot.jp/2017/02/python-boot-camp-in-tochigioyama.html>`__
+   * - `Python Boot Camp in 広島 <https://pyconjp.connpass.com/event/50095/>`_
+     - 3月11日(土)
+     - `中四国マネジメントシステム推進機構 <http://www.ms-kikoh.or.jp/>`_
+     - 鈴木 たかのり
+     - 15名
+     - `開催レポート <http://pyconjp.blogspot.jp/2017/03/python-boot-camp-in-hiroshima.html>`__
+   * - `Python Boot Camp in 大阪 <https://pyconjp.connpass.com/event/52480/>`_
+     - 4月8日(土)
+     - `株式会社ソウ <https://sou-co.jp/>`_
+     - 寺田 学
+     - 15名
+     - `開催レポート <http://pyconjp.blogspot.jp/2017/04/python-boot-camp-in.html>`__
+   * - `Python Boot Camp in 神戸 <https://pyconjp.connpass.com/event/55110/>`_
+     - 5月20日(土)
+     - `株式会社神戸デジタル・ラボ <http://www.kdl.co.jp/company/access/>`_
+     - 清水川 貴之
+     - 
+     - 
+   * - `Python Boot Camp in 長野 <https://pyconjp.connpass.com/event/55693/>`_
+     - 6月10日(土)
+     - `GEEKLAB.NAGANO <http://geeklab-nagano.com/>`_
+     - 寺田 学
+     - 
+     - 
+   * - `Python Boot Camp in 香川 <https://pyconjp.connpass.com/event/56141/>`_
+     - 6月24日(土)
+     - `e-とぴあ・かがわ <https://www.e-topia-kagawa.jp/>`_
+     - 鈴木 たかのり
+     - 
+     -
+
+.. only:: builder_html
+
+   :download:`pycamp.kml <pycamp.kml>`
+             
+.. raw:: html
+
+    <div id="map" style="height: 600px"></div>
+    <script>
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 5,
+          center: {lat: 36.491, lng: 136.90}
+        });
+
+        var ctaLayer = new google.maps.KmlLayer({
+          // url: 'http://googlemaps.github.io/js-v2-samples/ggeoxml/cta.kml',
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDASOuG-vRz9Uv-QLRMGXW0fLwCtZ1jrpE&callback=initMap">
+    </script>
+
