@@ -140,8 +140,8 @@ Python Boot Camp の開催実績です。
      - 5月20日(土)
      - `株式会社神戸デジタル・ラボ <http://www.kdl.co.jp/company/access/>`_
      - 清水川 貴之
-     - 
-     - 
+     - 21名
+     - `開催レポート <http://pyconjp.blogspot.jp/2017/05/python-boot-camp-in-kobe.html>`_
    * - `Python Boot Camp in 長野 <https://pyconjp.connpass.com/event/55693/>`_
      - 6月10日(土)
      - `GEEKLAB.NAGANO <http://geeklab-nagano.com/>`_
