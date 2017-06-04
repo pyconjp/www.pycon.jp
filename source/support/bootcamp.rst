@@ -8,6 +8,13 @@ Python Boot Camp(初心者向けPythonチュートリアル)
       
 いっそうのPythonの普及のため、一般社団法人PyCon JPは日本各地での初心者向けPythonチュートリアルイベント「Python Boot Camp(#pycamp)」を開催します。
 
+ランディングページ
+==================
+
+Python Boot Campの概要について伝えたランディングページを作成しました。実際のイベントの雰囲気を知りたい人は、以下を確認してください。
+
+- `Python Boot Campランディングページ <https://peraichi.com/landing_pages/view/pycamp>`_
+
 スタッフ募集
 ============
 現地でPython Boot Campの開催をサポートをしてくれるスタッフを募集しています。興味のある方は下記のフォームから連絡ください。
