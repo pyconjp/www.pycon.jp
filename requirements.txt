@@ -14,5 +14,4 @@ six==1.10.0
 snowballstemmer==1.2.1
 Sphinx==1.6.2
 sphinxcontrib-websupport==1.0.1
-typing==3.6.1
 urllib3==1.21.1
