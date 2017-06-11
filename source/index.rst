@@ -46,9 +46,9 @@ PyCon JP 2017 は「Output and Follow.」をテーマに2017年9月7日(木)〜9
      - Output and Follow.
    * - 参加者数
      - 700名(予定)
-   * - 参加費 (昨年実績・予定)
+   * - 参加費
      - - Patron: 40,000円
-       - Business: 15,000円(Early Bird 12,000円)
+       - Business: 15,000円
        - Personal: 10,000円(Early Bird 8,000円)
        - Student with After Party: 5,000円
        - Student without After-Party: 2,000円
