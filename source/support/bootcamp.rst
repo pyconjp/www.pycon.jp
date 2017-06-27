@@ -159,5 +159,5 @@ Python Boot Camp の開催実績です。
      - 6月24日(土)
      - `e-とぴあ・かがわ <https://www.e-topia-kagawa.jp/>`_
      - 鈴木 たかのり
-     - 
-     - 
+     - 20名
+     - `開催レポート <http://pyconjp.blogspot.jp/2017/06/python-boot-camp-in-kagawa.html>`__
