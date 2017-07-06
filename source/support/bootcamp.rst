@@ -161,3 +161,9 @@ Python Boot Camp の開催実績です。
      - 鈴木 たかのり
      - 20名
      - `開催レポート <http://pyconjp.blogspot.jp/2017/06/python-boot-camp-in-kagawa.html>`__
+   * - `Python Boot Camp in 愛知 <https://pyconjp.connpass.com/event/60165/>`_
+     - 7月29日(土)
+     - 
+     - 鈴木 たかのり
+     - 
+     - 
