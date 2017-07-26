@@ -167,3 +167,9 @@ Python Boot Camp の開催実績です。
      - 鈴木 たかのり
      - 
      - 
+   * - `Python Boot Camp in 福岡 <https://pyconjp.connpass.com/event/62769/>`_
+     - 9月30日(土)
+     - `ヌーラボ <https://nulab-inc.com/ja/>`_ 福岡本社
+     - 清水川 貴之
+     - 
+     - 
