@@ -165,7 +165,7 @@ Python Boot Camp の開催実績です。
      - 7月29日(土)
      - `MYCAFE CLASSIC <https://mycafe.jp/branch/mycafe-classic>`_
      - 鈴木 たかのり
-     - 
+     - 37名
      - 
    * - `Python Boot Camp in 福岡 <https://pyconjp.connpass.com/event/62769/>`_
      - 9月30日(土)
