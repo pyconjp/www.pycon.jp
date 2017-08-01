@@ -173,3 +173,14 @@ Python Boot Camp の開催実績です。
      - 清水川 貴之
      - 
      - 
+
+テキスト利用実績
+================
+`Python Boot Camp のテキスト <http://pycamp.pycon.jp/textbook/index.html>`_ を利用した勉強会の実績です。
+
+* 2016年8月6日 `Python Boot Camp for ishiilab <http://hr-sano.net/blog/2016/08/08/python-boot-camp-for-ishiilab/>`_
+* 2017年4月16日 `尾道Python3入門勉強会(もくもく会) <https://onomiti-frontend.connpass.com/event/52409/>`_
+
+Python Boot Camp のテキストを利用したイベントがあったら、ぜひこのページで紹介させてください。下記のフォームから連絡をお願いします。
+
+* `Python Boot Campのテキスト利用実績登録フォーム <https://docs.google.com/forms/d/e/1FAIpQLSdjqaZMSNQbDRGajkFYiYK2H6Q6NHwCl4oKI7SmO7ykLVQW5w/viewform>`_
