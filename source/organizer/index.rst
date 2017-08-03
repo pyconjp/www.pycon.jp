@@ -162,6 +162,7 @@ PyCon JP 2017
   - Development Sprints: 2017 Sep 10(Sun)
 :Venue:
   - `Waseda University, Nishi-Waseda Campus <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (Tutorials, Conference)
+  - `Microsoft Japan <https://www.microsoft.com/>`_ (Development Sprints)
 :Attendees: 700
 :Keynote:
 :Description: 
