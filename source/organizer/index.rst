@@ -159,6 +159,7 @@ PyCon JP 2017
 :Date:
   - Tutorial: 2017 Sep 7(Thu)
   - Conference: 2017 Sep 8(Fri), 9(Sat)
+  - Development Sprints: 2017 Sep 10(Sun)
 :Venue:
   - `Waseda University, Nishi-Waseda Campus <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (Tutorials, Conference)
 :Attendees: 700
