@@ -68,15 +68,6 @@ http://www.oreilly.co.jp/index.shtml
    :alt: 株式会社オライリー・ジャパン
    :target: http://www.oreilly.co.jp/index.shtml
 
-キャリアデザインセンター『エンジニアtype』
-------------------------------------------
-
-http://type.jp/et/feature/
-
-.. image:: /_static/sponsor/media/logos/et.jpg
-   :alt: キャリアデザインセンター『エンジニアtype』
-   :target: http://type.jp/et/feature/
-
 Think IT（インプレス）
 ----------------------
 
