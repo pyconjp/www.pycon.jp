@@ -81,9 +81,11 @@ Python Boot Camp の開催実績です。
 
 .. list-table::
    :header-rows: 1
-   :widths: 20 8 20 10 5 5 6 10
+   :widths: 3 20 8 20 10 5 5 6 10
+   :stub-columns: 1
 
-   * - イベント
+   * - No.
+     - イベント
      - 開催日
      - 会場
      - 講師
@@ -91,7 +93,8 @@ Python Boot Camp の開催実績です。
      - TA
      - スタッフ
      - 開催レポート
-   * - 2016年
+   * -
+     - 2016年
      - 
      - 
      - 
@@ -99,7 +102,8 @@ Python Boot Camp の開催実績です。
      - 
      - 
      - 
-   * - `Python Boot Camp in 京都 <http://pyconjp.connpass.com/event/33014/>`_
+   * - 1
+     - `Python Boot Camp in 京都 <http://pyconjp.connpass.com/event/33014/>`_
      - 6月18日(土)
      - `CAMPHOR- HOUSE <https://camph.net/>`_
      - 谷口 英
@@ -107,7 +111,8 @@ Python Boot Camp の開催実績です。
      - 2
      - 1
      - `開催レポート <http://pyconjp.blogspot.jp/2016/06/python-boot-camp-in-kyoto.html>`__
-   * - `Python Boot Camp in 愛媛 <http://pyconjp.connpass.com/event/34564/>`_
+   * - 2
+     - `Python Boot Camp in 愛媛 <http://pyconjp.connpass.com/event/34564/>`_
      - 7月30日(土)
      - `サイボウズ松山オフィス <http://cybozu.co.jp/company/info/map_tokyo.html#matsuyama>`_
      - 寺田 学
@@ -115,7 +120,8 @@ Python Boot Camp の開催実績です。
      - 2
      - 1
      - `開催レポート <http://pyconjp.blogspot.jp/2016/07/python-boot-camp-in.html>`__
-   * - `Python Boot Camp in 熊本 <http://pyconjp.connpass.com/event/36773/>`_
+   * - 3
+     - `Python Boot Camp in 熊本 <http://pyconjp.connpass.com/event/36773/>`_
      - 8月28日(日)
      - `未来会議室 <http://mirai-k.or.jp/access/>`_
      - 寺田 学
@@ -123,7 +129,8 @@ Python Boot Camp の開催実績です。
      - 2
      - 1
      - `開催レポート <http://pyconjp.blogspot.jp/2016/08/python-boot-camp-in-kumamoto.html>`__
-   * - `Python Boot Camp in 札幌 <http://pyconjp.connpass.com/event/43134/>`_
+   * - 4
+     - `Python Boot Camp in 札幌 <http://pyconjp.connpass.com/event/43134/>`_
      - 11月19日(土)
      - `株式会社インフィニットループ <http://www.infiniteloop.co.jp/special/room.php>`_
      - 村岡 友介
@@ -131,7 +138,8 @@ Python Boot Camp の開催実績です。
      - 2
      - 1
      - `開催レポート <http://pyconjp.blogspot.jp/2016/12/python-boot-camp-in-sapporo.html>`__
-   * - 2017年
+   * -
+     - 2017年
      - 
      - 
      - 
@@ -139,7 +147,8 @@ Python Boot Camp の開催実績です。
      - 
      - 
      - 
-   * - `Python Boot Camp in 栃木小山 <https://pyconjp.connpass.com/event/47757/>`_
+   * - 5
+     - `Python Boot Camp in 栃木小山 <https://pyconjp.connpass.com/event/47757/>`_
      - 2月11日(土)
      - `小山市立生涯学習センター <http://www.oyama-gakushuucenter.jp/>`_
      - 寺田 学
@@ -147,7 +156,8 @@ Python Boot Camp の開催実績です。
      - 2
      - 1
      - `開催レポート <http://pyconjp.blogspot.jp/2017/02/python-boot-camp-in-tochigioyama.html>`__
-   * - `Python Boot Camp in 広島 <https://pyconjp.connpass.com/event/50095/>`_
+   * - 6
+     - `Python Boot Camp in 広島 <https://pyconjp.connpass.com/event/50095/>`_
      - 3月11日(土)
      - `中四国マネジメントシステム推進機構 <http://www.ms-kikoh.or.jp/>`_
      - 鈴木 たかのり
@@ -155,7 +165,8 @@ Python Boot Camp の開催実績です。
      - 3
      - 1
      - `開催レポート <http://pyconjp.blogspot.jp/2017/03/python-boot-camp-in-hiroshima.html>`__
-   * - `Python Boot Camp in 大阪 <https://pyconjp.connpass.com/event/52480/>`_
+   * - 7
+     - `Python Boot Camp in 大阪 <https://pyconjp.connpass.com/event/52480/>`_
      - 4月8日(土)
      - `株式会社ソウ <https://sou-co.jp/>`_
      - 寺田 学
@@ -163,7 +174,8 @@ Python Boot Camp の開催実績です。
      - 3
      - 4
      - `開催レポート <http://pyconjp.blogspot.jp/2017/04/python-boot-camp-in.html>`__
-   * - `Python Boot Camp in 神戸 <https://pyconjp.connpass.com/event/55110/>`_
+   * - 8
+     - `Python Boot Camp in 神戸 <https://pyconjp.connpass.com/event/55110/>`_
      - 5月20日(土)
      - `株式会社神戸デジタル・ラボ <http://www.kdl.co.jp/company/access/>`_
      - 清水川 貴之
@@ -171,7 +183,8 @@ Python Boot Camp の開催実績です。
      - 3
      - 1
      - `開催レポート <http://pyconjp.blogspot.jp/2017/05/python-boot-camp-in-kobe.html>`__
-   * - `Python Boot Camp in 長野 <https://pyconjp.connpass.com/event/55693/>`_
+   * - 9
+     - `Python Boot Camp in 長野 <https://pyconjp.connpass.com/event/55693/>`_
      - 6月10日(土)
      - `GEEKLAB.NAGANO <http://geeklab-nagano.com/>`_
      - 寺田 学
@@ -179,7 +192,8 @@ Python Boot Camp の開催実績です。
      - 3
      - 2
      - `開催レポート <http://pyconjp.blogspot.jp/2017/06/python-boot-camp-in-nagano.html>`__
-   * - `Python Boot Camp in 香川 <https://pyconjp.connpass.com/event/56141/>`_
+   * - 10
+     - `Python Boot Camp in 香川 <https://pyconjp.connpass.com/event/56141/>`_
      - 6月24日(土)
      - `e-とぴあ・かがわ <https://www.e-topia-kagawa.jp/>`_
      - 鈴木 たかのり
@@ -187,7 +201,8 @@ Python Boot Camp の開催実績です。
      - 3
      - 1
      - `開催レポート <http://pyconjp.blogspot.jp/2017/06/python-boot-camp-in-kagawa.html>`__
-   * - `Python Boot Camp in 愛知 <https://pyconjp.connpass.com/event/60165/>`_
+   * - 11
+     - `Python Boot Camp in 愛知 <https://pyconjp.connpass.com/event/60165/>`_
      - 7月29日(土)
      - `MYCAFE CLASSIC <https://mycafe.jp/branch/mycafe-classic>`_
      - 鈴木 たかのり
@@ -195,15 +210,23 @@ Python Boot Camp の開催実績です。
      - 7
      - 1
      - 
-   * - `Python Boot Camp in 福岡 <https://pyconjp.connpass.com/event/62769/>`_
+   * - 12
+     - `Python Boot Camp in 福岡 <https://pyconjp.connpass.com/event/62769/>`_
      - 9月30日(土)
      - `ヌーラボ <https://nulab-inc.com/ja/>`_ 福岡本社
      - 清水川 貴之
      - 
      - 
      - 
-     - 
+     -
 
+Python Boot Camp Map
+--------------------
+
+.. raw:: html
+
+   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UnriKXo-ZgqOELpMqZz3g3l7Yws" width="640" height="480"></iframe>
+   
 テキスト利用実績
 ================
 `Python Boot Camp のテキスト <http://pycamp.pycon.jp/textbook/index.html>`_ を利用した勉強会の実績です。
