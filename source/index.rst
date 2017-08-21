@@ -60,10 +60,6 @@ PyCon JP 2017 は「Output and Follow.」をテーマに2017年9月7日(木)〜1
    * - 連絡先
      - 2017@pycon.jp
 
-PyCon JP 2017のスタッフを募集しています。興味のある方は下記リンクを参照してください。
-
-- `スタッフ募集 | PyCon JP 2017 in TOKYO <https://pycon.jp/2017/ja/about/staff/>`_
-
 お問い合わせ
 ============
 一般社団法人 PyCon JP へのお問い合せは、理事メールアドレス(board@pycon.jp)までお願いします。
