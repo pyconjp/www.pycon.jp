@@ -2,9 +2,12 @@
  一般社団法人 PyCon JP 理事会
 ==============================
 
-寺田 学
-=======
-.. image:: /_static/terada.jpg
+.. contents::
+   :local:
+
+寺田 学 (Manabu Terada)
+========================
+.. figure:: /_static/terada.jpg
 
 代表理事
 
@@ -21,7 +24,7 @@ Python製Webフレームワーク Zope / Python製CMS Plone の専門家とし�
 
 Ian Lewis
 =========
-.. image:: /_static/ian.jpg
+.. figure:: /_static/ian.jpg
 
 副代表理事
 
@@ -37,9 +40,9 @@ Ian Lewis
 .. _@IanMLewis: https://twitter.com/IanMLewis
 .. _https://www.ianlewis.org/: https://www.ianlewis.org/
 
-清水川 貴之
-===========
-.. image:: /_static/shimizukawa.jpg
+清水川 貴之 (Takayuki Shimizukawa)
+===================================
+.. figure:: /_static/shimizukawa.jpg
 
 会計理事
 
@@ -68,9 +71,9 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 .. _@shimizukawa: https://twitter.com/shimizukawa
 .. _http://清水川.jp/: http://清水川.jp/
 
-鈴木 たかのり
-=============
-.. image:: /_static/takanori.jpg
+鈴木 たかのり (Takanori Suzuki)
+===============================
+.. figure:: /_static/takanori.jpg
 
 理事
 
@@ -88,7 +91,7 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 
 Iqbal Abdullah
 ==============
-.. image:: /_static/iqbal.jpg
+.. figure:: /_static/iqbal.jpg
 
 理事
 
