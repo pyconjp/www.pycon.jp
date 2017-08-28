@@ -111,3 +111,25 @@ Python製Webフレームワーク Django を利用し、Xoxzoのプロダクト�
 
 .. _@iqbalabd: https://twitter.com/iqbalabd/
 
+
+真嘉比 愛（MAKABI Ai）
+=====================
+.. figure:: /_static/makabi.jpeg
+
+理事
+
+`ちゅらデータ株式会社`_ 代表 / `PyLadies Tokyo`_ 発起人
+
+普段はpandasやscikit-learnといったPyDataのライブラリを利用して、データ活用のためのコンサルティング・受託分析などを手がけています。
+
+2014年にPyCon JPのスタッフに参加したのをきっかけに、同年、 PyLadies_ 初の日本支部となる `PyLadies Tokyo` を立ち上げ、女性Pythonistaが広く活躍できるよう尽力しています。また2015年にはAPAC地域のPyLadiesと共同でPyLadies APACを立ち上げ、海外PyLadiesコミュニティの連携と拡大にも注力しています。
+
+:facebook: `ai.makabi`_
+:twitter: `@a_macbee`_
+
+.. _ちゅらデータ株式会社: https://churadata.okinawa/
+.. _PyLadies Tokyo: http://tokyo.pyladies.com/
+.. _PyLadies: http://www.pyladies.com/
+.. _ai.makabi: https://www.facebook.com/ai.makabi
+.. _@a_macbee: https://twitter.com/a_macbee
+
