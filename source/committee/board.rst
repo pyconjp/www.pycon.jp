@@ -122,7 +122,7 @@ Python製Webフレームワーク Django を利用し、Xoxzoのプロダクト�
 
 普段はpandasやscikit-learnといったPyDataのライブラリを利用して、データ活用のためのコンサルティング・受託分析などを手がけています。
 
-2014年にPyCon JPのスタッフに参加したのをきっかけに、同年、 PyLadies_ 初の日本支部となる `PyLadies Tokyo` を立ち上げ、女性Pythonistaが広く活躍できるよう尽力しています。また2015年にはAPAC地域のPyLadiesと共同でPyLadies APACを立ち上げ、海外PyLadiesコミュニティの連携と拡大にも注力しています。
+2014年にPyCon JPのスタッフに参加したのをきっかけに、同年、 PyLadies_ 初の日本支部となる `PyLadies Tokyo`_ を立ち上げ、女性Pythonistaが広く活躍できるよう尽力しています。また2015年にはAPAC地域のPyLadiesと共同でPyLadies APACを立ち上げ、海外PyLadiesコミュニティの連携と拡大にも注力しています。
 
 :facebook: `ai.makabi`_
 :twitter: `@a_macbee`_
