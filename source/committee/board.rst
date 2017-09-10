@@ -28,9 +28,9 @@ Ian Lewis
 
 副代表理事
 
-イアンはアメリカの首都ワシントンDC出身で、2006年から東京に移住。2011年からPyConJPの創業者として、運営に参加。2013年設立時から、一般社団法人 PyCon JPの副代表理事として務め、PyCon JPや、Pythonコミュニティの継続するために努力しています。
+イアンはアメリカの首都ワシントンDC出身で、2006年から東京に移住。2011年からPyConJPの創業者として、運営に参加。2013年設立時から、一般社団法人 PyCon JPの副代表理事として務め、PyCon JPや、Pythonコミュニティの継続するために努力している。
 
-現在はGoogle Japan所属で、Google Cloud Platformのデボロッパーアドボケートとして、クラウドの開発者の支援をしています。Googleに入社した前に株式会社ビープラウドでconnpass.comというIT勉強会支援サービスの開発をしました。Pythonや、Goが好きで、開発者の発展を楽しんで応援しています。www.ianlewis.org でブログを書いたりしています。
+現在はGoogle Japan所属で、Google Cloud Platformのデボロッパーアドボケートとして、クラウドの開発者の支援をしている。Googleに入社した前に株式会社ビープラウドでconnpass.comというIT勉強会支援サービスを開発した。Pythonや、Goが好きで、開発者の発展を楽しんで応援している。www.ianlewis.org でブログを書いている。
 
 :facebook: ianmlewis_
 :twitter: `@IanMLewis`_
@@ -48,11 +48,11 @@ Ian Lewis
 
 通信キャリアでの組み込み開発からWeb受託開発企業に転身した2003年頃にZopeとPythonに出会い、2011年6月より `(株)BePROUD`_ 所属。
 
-現在は主に `Sphinx-users.jp`_ で活動しており、ドキュメント翻訳、Sphinxの活用、拡張の作成などを行っています。2012年末から Sphinx_ の開発にCo-maintainerとして参加しています。
+現在は主に `Sphinx-users.jp`_ で活動しており、ドキュメント翻訳、Sphinxの活用、拡張の作成などを行っている。2012年末から Sphinx_ の開発にCo-maintainerとして参加している。
 
-翻訳書 `エキスパートPythonプログラミング(2010 アスキー・メディアワークス刊)`_ 、著書 `Pythonプロフェッショナルプログラミング(2012 秀和システム刊)`_ に携わりました。
+翻訳書 `エキスパートPythonプログラミング(2010 アスキー・メディアワークス刊)`_ 、著書 `Pythonプロフェッショナルプログラミング(2012 秀和システム刊)`_ に携わった。
 
-PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めました。 `PyCon APAC 2013`_ では会計を務めています。
+PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めた。 `PyCon APAC 2013`_ では会計を務めている。
 
 
 :facebook: shimizukawa_
@@ -82,7 +82,7 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めまし�
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
 他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
 
-共著書に『 `いちばんやさしいPythonの教本 <http://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』『 `Pythonプロフェッショナルプログラミング 第2版 <http://www.shuwasystem.co.jp/products/7980html/4315.html>`_ （2015 秀和システム刊）』『 `Pythonライブラリ厳選レシピ <http://gihyo.jp/book/2015/978-4-7741-7707-6>`_ （2015 技術評論社刊）』などがある。
+共著書に『 `Pythonエンジニア ファーストブック <http://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <http://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』『 `Pythonプロフェッショナルプログラミング 第2版 <http://www.shuwasystem.co.jp/products/7980html/4315.html>`_ （2015 秀和システム刊）』『 `Pythonライブラリ厳選レシピ <http://gihyo.jp/book/2015/978-4-7741-7707-6>`_ （2015 技術評論社刊）』などがある。
 
 趣味は吹奏楽とレゴとペンシルパズル。
 
@@ -112,7 +112,7 @@ Python製Webフレームワーク Django を利用し、Xoxzoのプロダクト�
 .. _@iqbalabd: https://twitter.com/iqbalabd/
 
 
-真嘉比 愛（MAKABI Ai）
+真嘉比 愛(Ai Makabi)
 =====================
 .. figure:: /_static/makabi.jpeg
 
@@ -120,9 +120,9 @@ Python製Webフレームワーク Django を利用し、Xoxzoのプロダクト�
 
 `ちゅらデータ株式会社`_ 代表 / `PyLadies Tokyo`_ 発起人
 
-普段はpandasやscikit-learnといったPyDataのライブラリを利用して、データ活用のためのコンサルティング・受託分析などを手がけています。
+普段はpandasやscikit-learnといったPyDataのライブラリを利用して、データ活用のためのコンサルティング・受託分析などを手がけている。
 
-2014年にPyCon JPのスタッフに参加したのをきっかけに、同年、 PyLadies_ 初の日本支部となる `PyLadies Tokyo`_ を立ち上げ、女性Pythonistaが広く活躍できるよう尽力しています。また2015年にはAPAC地域のPyLadiesと共同でPyLadies APACを立ち上げ、海外PyLadiesコミュニティの連携と拡大にも注力しています。
+2014年にPyCon JPのスタッフに参加したのをきっかけに、同年、 PyLadies_ 初の日本支部となる `PyLadies Tokyo`_ を立ち上げ、女性Pythonistaが広く活躍できるよう尽力している。また2015年にはAPAC地域のPyLadiesと共同でPyLadies APACを立ち上げ、海外PyLadiesコミュニティの連携と拡大にも注力している。
 
 :facebook: `ai.makabi`_
 :twitter: `@a_macbee`_
