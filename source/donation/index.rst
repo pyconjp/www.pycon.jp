@@ -23,22 +23,22 @@
      - 名称
      - 金額
      - 人数
-   * - 2015年10月9日-12日
-     - `PyCon JP 2015 <https://pycon.jp/2015/>`_
-     - 70,830円
-     - 70名
-   * - 2015年11月22日
-     - `PyCon mini Hiroshima 2015 <http://hiroshima.pycon.jp/2015.html>`_
-     - 11,005円
-     - 22名
-   * - 2016年6月8日
-     - `PyCon night Tokyo 2016 <http://eventdots.jp/event/587619>`_
-     - 5,500円
-     - 10名
    * - 2016年9月21-25日
      - `PyCon JP 2016 <https://pycon.jp/2016/>`_
      - 28,131円
      - 56名
+   * - 2016年6月8日
+     - `PyCon night Tokyo 2016 <http://eventdots.jp/event/587619>`_
+     - 5,500円
+     - 10名
+   * - 2015年11月22日
+     - `PyCon mini Hiroshima 2015 <http://hiroshima.pycon.jp/2015.html>`_
+     - 11,005円
+     - 22名
+   * - 2015年10月9日-12日
+     - `PyCon JP 2015 <https://pycon.jp/2015/>`_
+     - 70,830円
+     - 70名
 
 参考: `PyCon JP Blog: 支援金の報告 / PyCon JP 支援ご協力ありがとうございました <http://pyconjp.blogspot.jp/2015/10/pyconjp2015-spporters-report.html>`_
 
