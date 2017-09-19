@@ -23,6 +23,15 @@
      - 名称
      - 金額
      - 人数
+
+   * - 2017年9月7-10日
+     - `PyCon JP 2017 <https://pycon.jp/2017/>`_
+     - 30,400円
+     - 57名
+   * - 2017年5月29日
+     - `PyCon night Tokyo 2017 <https://techplay.jp/event/617886>`_
+     - 1,000円
+     - 2名
    * - 2016年9月21-25日
      - `PyCon JP 2016 <https://pycon.jp/2016/>`_
      - 28,131円
