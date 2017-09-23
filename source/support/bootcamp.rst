@@ -81,7 +81,7 @@ Python Boot Camp の開催実績です。
 
 .. list-table::
    :header-rows: 1
-   :widths: 3 20 8 20 10 5 5 6 10
+   :widths: 3 20 10 18 10 8 4 4 10
    :stub-columns: 1
 
    * - No.
@@ -91,7 +91,7 @@ Python Boot Camp の開催実績です。
      - 講師
      - 参加者
      - TA
-     - スタッフ
+     - Staff
      - 開催レポート
    * -
      - 2016年
