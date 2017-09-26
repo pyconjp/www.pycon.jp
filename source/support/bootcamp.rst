@@ -228,6 +228,24 @@ Python Boot Camp の開催実績です。
      - 
      - 
      -
+   * - 14
+     - 
+     - 
+     - 
+     - 
+     - 
+     - 
+     - 
+     -
+   * - 15
+     - `Python Boot Camp in 静岡 <https://pyconjp.connpass.com/event/67533/>`_
+     - 11月18日(土)
+     - `遠鉄モール街ビル Any <https://www.any-h.jp/>`_
+     - 清水川 貴之
+     - 24名(予定)
+     - 
+     - 
+     -
 
 Python Boot Camp Map
 --------------------
