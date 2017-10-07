@@ -215,10 +215,10 @@ Python Boot Camp の開催実績です。
      - 9月30日(土)
      - `ヌーラボ <https://nulab-inc.com/ja/>`_ 福岡本社
      - 清水川 貴之
-     - 35名
+     - 32名
      - 5
      - 3
-     -
+     - `開催レポート <http://pyconjp.blogspot.jp/2017/10/python-boot-camp-in.html>`__
    * - 13
      - `Python Boot Camp in 長野八ヶ岳 <https://pyconjp.connpass.com/event/66747/>`_
      - 10月28日(土)
