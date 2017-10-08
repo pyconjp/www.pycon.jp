@@ -27,7 +27,7 @@ PyCon JP 2017
    :width: 662
    :alt: PyCon JP 2017 logo
       
-PyCon JP 2017 は「Output and Follow.」をテーマに2017年9月7日(木)〜10日(日)に早稲田大学西早稲田キャンパスで開催します。
+PyCon JP 2017 は「Output and Follow.」をテーマに2017年9月7日(木)〜10日(日)に早稲田大学西早稲田キャンパスで開催されました。
 詳細はWebサイトを参照してください。
 
 .. list-table::
