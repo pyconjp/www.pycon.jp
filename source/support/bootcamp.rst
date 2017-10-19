@@ -246,6 +246,24 @@ Python Boot Camp の開催実績です。
      - 
      - 
      -
+   * - 16
+     - `Python Boot Camp in 新潟南魚沼 <https://pyconjp.connpass.com/event/69431/>`_
+     - 12月9日(土)
+     - `国際大学 <https://www.iuj.ac.jp/jp/>`_
+     - 鈴木 たかのり
+     - 60名(予定)
+     - 
+     - 
+     -
+   * - 17
+     - `Python Boot Camp in 埼玉 <https://pyconjp.connpass.com/event/69433/>`_
+     - 12月16日(土)
+     - `貸し会議室6F（ロクエフ） <https://office6f.com>`_
+     - 清水川 貴之
+     - 20名(予定)
+     - 
+     - 
+     -
 
 Python Boot Camp Map
 --------------------
