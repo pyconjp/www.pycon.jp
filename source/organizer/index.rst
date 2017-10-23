@@ -163,7 +163,7 @@ PyCon JP 2017
 :Venue:
   - `Waseda University, Nishi-Waseda Campus <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (Tutorials, Conference)
   - `Microsoft Japan <https://www.microsoft.com/>`_ (Development Sprints)
-:Attendees: 700
+:Attendees: 691
 :Keynote:
   - `Python for Data: Past, Present, Future <http://www.slideshare.net/misterwang/python-for-data-past-present-future-pycon-jp-2017-keynote>`_ / Peter Wang
   - `pandasでのOSS活動 事例と最初の一歩 <https://speakerdeck.com/sinhrks/pandasdefalseosshuo-dong-shi-li-tozui-chu-false-bu>`_ / 堀越 真映 
