@@ -225,15 +225,15 @@ Python Boot Camp の開催実績です。
      - `富士見森のオフィス <http://www.morino-office.com/>`_
      - 鈴木 たかのり
      - 20名(予定)
-     - 
-     - 
+     - 2
+     - 1
      -
    * - 14
      - `Python Boot Camp in 鹿児島 <https://pyconjp.connpass.com/event/67709/>`_
      - 11月4日(土)
      - `リコーITソリューションズ <http://www.nangokubld.jp/center/access.html>`_
      - 清水川 貴之
-     - 20名(予定)
+     - 28名(予定)
      - 
      - 
      -
@@ -251,7 +251,7 @@ Python Boot Camp の開催実績です。
      - 12月9日(土)
      - `国際大学 <https://www.iuj.ac.jp/jp/>`_
      - 鈴木 たかのり
-     - 60名(予定)
+     - 30名(予定)
      - 
      - 
      -
@@ -259,7 +259,7 @@ Python Boot Camp の開催実績です。
      - `Python Boot Camp in 埼玉 <https://pyconjp.connpass.com/event/69433/>`_
      - 12月16日(土)
      - `貸し会議室6F（ロクエフ） <https://office6f.com>`_
-     - 清水川 貴之
+     - 寺田 学
      - 20名(予定)
      - 
      - 
