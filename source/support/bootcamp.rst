@@ -224,7 +224,7 @@ Python Boot Camp の開催実績です。
      - 10月28日(土)
      - `富士見森のオフィス <http://www.morino-office.com/>`_
      - 鈴木 たかのり
-     - 20名(予定)
+     - 15名
      - 2
      - 1
      -
