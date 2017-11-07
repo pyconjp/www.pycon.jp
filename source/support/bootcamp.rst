@@ -232,10 +232,10 @@ Python Boot Camp の開催実績です。
      - `Python Boot Camp in 鹿児島 <https://pyconjp.connpass.com/event/67709/>`_
      - 11月4日(土)
      - `リコーITソリューションズ <http://www.nangokubld.jp/center/access.html>`_
-     - 清水川 貴之
-     - 28名(予定)
-     - 
-     - 
+     - 清水川 貴之  
+     - 27名
+     - 3
+     - 5
      -
    * - 15
      - `Python Boot Camp in 静岡 <https://pyconjp.connpass.com/event/67533/>`_
