@@ -242,9 +242,9 @@ Python Boot Camp の開催実績です。
      - 11月18日(土)
      - `遠鉄モール街ビル Any <https://www.any-h.jp/>`_
      - 清水川 貴之
-     - 24名(予定)
-     - 
-     - 
+     - 10名
+     - 2
+     - 1
      -
    * - 16
      - `Python Boot Camp in 新潟南魚沼 <https://pyconjp.connpass.com/event/69431/>`_
