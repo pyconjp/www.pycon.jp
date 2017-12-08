@@ -245,7 +245,7 @@ Python Boot Camp の開催実績です。
      - 10名
      - 2
      - 1
-     -
+     - `開催レポート <http://pyconjp.blogspot.jp/2017/12/pycamp-in-shizuoka-report.html>`__
    * - 16
      - `Python Boot Camp in 新潟南魚沼 <https://pyconjp.connpass.com/event/69431/>`_
      - 12月9日(土)
