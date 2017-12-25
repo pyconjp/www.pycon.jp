@@ -254,7 +254,7 @@ Python Boot Camp の開催実績です。
      - 21名
      - 2
      - 2
-     -
+     - `開催レポート <http://pyconjp.blogspot.jp/2017/12/python-boot-camp-in-minamiuonuma-report.html>`__
    * - 17
      - `Python Boot Camp in 埼玉 <https://pyconjp.connpass.com/event/69433/>`_
      - 12月16日(土)
@@ -279,6 +279,15 @@ Python Boot Camp の開催実績です。
      - `FG-Space <https://www.fg-space.com/>`_
      - 鈴木 たかのり
      - 15名(予定)
+     - 
+     - 
+     -
+   * - 19
+     - `Python Boot Camp in 金沢 <https://pyconjp.connpass.com/event/74767/>`_
+     - 2月24日(土)
+     - `ITビジネスプラザ武蔵 <http://www.bp-musashi.jp/>`_
+     - 鈴木 たかのり
+     - 20名(予定)
      - 
      - 
      -
