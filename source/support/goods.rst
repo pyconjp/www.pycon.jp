@@ -55,7 +55,7 @@ PyCon JPは発送作業などが基本的にできません。
 * サイズ: W2280mm x H2280mm
 * 参考リンク: `バックボードスタンダード3×3  <http://homareprinting.jp/products/detail.php?product_id=1889>`_ 
 
-.. figure:: https://farm5.staticflickr.com/4413/36975552792_a97eb91808_z.jpg
+.. figure:: https://farm9.staticflickr.com/8224/29807926336_2bd305ee41_z.jpg
    :alt: バックボード(使用イメージ)
 
    バックボード(使用イメージ)
