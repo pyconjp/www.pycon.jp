@@ -10,4 +10,5 @@
 
    travel
    community
+   goods
    bootcamp
