@@ -263,7 +263,7 @@ Python Boot Camp の開催実績です。
      - 35名
      - 10
      - 3
-     -
+     - `開催レポート <http://pyconjp.blogspot.jp/2017/12/python-boot-camp-in-saitama.html>`__
    * -
      - 2018年
      - 
