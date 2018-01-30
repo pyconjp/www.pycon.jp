@@ -278,9 +278,9 @@ Python Boot Camp の開催実績です。
      - 1月27日(土)
      - `FG-Space <https://www.fg-space.com/>`_
      - 鈴木 たかのり
-     - 15名(予定)
-     - 
-     - 
+     - 12名
+     - 2
+     - 2
      -
    * - 19
      - `Python Boot Camp in 金沢 <https://pyconjp.connpass.com/event/74767/>`_
