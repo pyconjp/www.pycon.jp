@@ -281,7 +281,7 @@ Python Boot Camp の開催実績です。
      - 12名
      - 2
      - 2
-     -
+     - `開催レポート <http://pyconjp.blogspot.jp/2018/02/python-boot-camp-in-kanagawa-report.html>`__
    * - 19
      - `Python Boot Camp in 金沢 <https://pyconjp.connpass.com/event/74767/>`_
      - 2月24日(土)
