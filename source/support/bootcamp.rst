@@ -287,9 +287,18 @@ Python Boot Camp の開催実績です。
      - 2月24日(土)
      - `ITビジネスプラザ武蔵 <http://www.bp-musashi.jp/>`_
      - 鈴木 たかのり
-     - 20名(予定)
+     - 30名(予定)
+     - 5
+     - 2
+     -
+   * - 20
+     - `Python Boot Camp in 福島 <https://pyconjp.connpass.com/event/75923/>`_
+     - 3月17日(土)
+     - `いわき産業創造館 <http://iwaki-sansoukan.com/>`_
+     - 寺田 学
+     - 45名(予定)
      - 
-     - 
+     - 3
      -
 
 Python Boot Camp Map
