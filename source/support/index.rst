@@ -12,3 +12,4 @@
    community
    goods
    bootcamp
+   pizza
