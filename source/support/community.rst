@@ -90,7 +90,7 @@
 - `DjangoCongress JP 2018 <https://djangocongress.jp/>`_
 
   - 日時: 2018年5月19日(土)、20日(日)
-  - 会場: `サイボウズ株式会社（東京都中央区日本橋2-7-1 東京日本橋タワー）`_
+  - 会場: `サイボウズ株式会社（東京都中央区日本橋2-7-1 東京日本橋タワー） <https://cybozu.co.jp/company/access/tokyo/>`_
   - 主催: django-ja（清原 弘貴）
   - 参加者数: 
   - Blog: 
