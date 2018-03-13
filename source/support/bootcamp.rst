@@ -290,7 +290,7 @@ Python Boot Camp の開催実績です。
      - 26名
      - 5
      - 2
-     -
+     - `開催レポート <http://pyconjp.blogspot.jp/2018/03/python-boot-camp-in-kanazawa-report.html>`__
    * - 20
      - `Python Boot Camp in 福島 <https://pyconjp.connpass.com/event/75923/>`_
      - 3月17日(土)
@@ -299,6 +299,15 @@ Python Boot Camp の開催実績です。
      - 45名(予定)
      - 
      - 3
+     -
+   * - 21
+     - `Python Boot Camp in 柏の葉 <https://pyconjp.connpass.com/event/81251/>`_
+     - 4月21日(土)
+     - `柏の葉オープンイノベーションラボ <http://kashiwanoha-smartcity.com/facility/koil.html>`_
+     - 寺田 学
+     - 30名(予定)
+     - 
+     - 
      -
 
 Python Boot Camp Map
