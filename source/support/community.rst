@@ -84,8 +84,8 @@
   
   - 日時: 2017年4月23日(日) 10:00-16:45
   - 会場: `熊本大学 工学部2号館 <http://www.eng.kumamoto-u.ac.jp/>`_
+  - 主催: PyCon mini Kumamoto 実行委員会
   - 参加者数: 
-  - Blog: 
 
 - `DjangoCongress JP 2018 <https://djangocongress.jp/>`_
 
@@ -93,7 +93,15 @@
   - 会場: `サイボウズ株式会社（東京都中央区日本橋2-7-1 東京日本橋タワー） <https://cybozu.co.jp/company/access/tokyo/>`_
   - 主催: django-ja（清原 弘貴）
   - 参加者数: 
-  - Blog: 
+  - Blog:
+
+- `PyCon mini Osaka 2018 <http://osaka.pycon.jp/>`_
+
+  - 日時: 2018円5月19日(土)
+  - 会場: `ヤフー株式会社 GFOオフィス オープンコラボエリア Minamo GRAND FRONT OSAKA タワーA 37F <https://yahoo.jp/Niew1l>`_
+  - 主催: PyCon mini Osaka 事務局
+  - 参加者数: 
+  - Blog:
 
 お問い合わせ、ご相談
 ====================
