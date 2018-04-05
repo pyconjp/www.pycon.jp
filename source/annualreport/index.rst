@@ -22,6 +22,7 @@
 .. list-table::
    :header-rows: 1
    :stub-columns: 1
+   :widths: 2,1,1,1,1,2
 
    - - イベント名
      - 予算（支出予定額）
