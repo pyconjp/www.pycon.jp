@@ -305,9 +305,9 @@ Python Boot Camp の開催実績です。
      - 4月21日(土)
      - `柏の葉オープンイノベーションラボ <http://kashiwanoha-smartcity.com/facility/koil.html>`_
      - 寺田 学
-     - 30名(予定)
-     - 
-     - 
+     - 37名
+     - 7
+     - 4
      -
 
 Python Boot Camp Map
