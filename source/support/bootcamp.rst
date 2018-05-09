@@ -309,6 +309,15 @@ Python Boot Camp の開催実績です。
      - 7
      - 4
      -
+   * - 22
+     - `Python Boot Camp in 岩手 <https://pyconjp.connpass.com/event/86461/>`_
+     - 6月23日(土)
+     - `滝沢市第二イノベーションセンター <http://www.tiic.jp/>`_
+     - 鈴木 たかのり
+     - 20名(予定)
+     - 5
+     - 3
+     -
 
 Python Boot Camp Map
 --------------------
