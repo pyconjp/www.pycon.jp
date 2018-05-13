@@ -20,45 +20,36 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 :Twitter: `@PyConJ <https://twitter.com/pyconj>`_
 :Facebook: `PyConJP <http://www.facebook.com/PyConJP>`_
           
-PyCon JP 2017
+PyCon JP 2018
 =============
 
-.. image:: /_static/pyconjp2017-logo.png
-   :width: 662
-   :alt: PyCon JP 2017 logo
-      
-PyCon JP 2017 は「Output and Follow.」をテーマに2017年9月7日(木)〜10日(日)に早稲田大学西早稲田キャンパスで開催されました。
-詳細はWebサイトを参照してください。
+下記開催概要は現在の予定です。 詳細については決定し次第、逐次お知らせします。
+
+Here is a summary of the event details. We’ll post updates as further details are confirmed.
 
 .. list-table::
    :widths: 30 70
    :stub-columns: 1
 
-   * - Webサイト
-     - https://pycon.jp/2017/
-   * - 日程
-     - - チュートリアル: 2017年9月7日(木)
-       - カンファレンス: 2017年9月8日(金)、9日(土)
-       - 開発スプリント: 2017年9月10日(日)
-   * - 会場
-     - - `早稲田大学西早稲田キャンパス <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (チュートリアル、カンファレンス)
-       - `日本マイクロソフト株式会社 <https://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx>`_ セミナールーム(開発スプリント)
-   * - テーマ
-     - Output and Follow.
-   * - 参加者数
-     - 691名
-   * - 参加費
-     - - Patron: 40,000円
-       - Business: 15,000円
-       - Personal: 10,000円(Early Bird 8,000円)
-       - Student with After Party: 5,000円
-       - Student without After-Party: 2,000円
-
-       Tシャツ、グッズ、ランチ、おやつ、パーティー等含む
-   * - 運営
-     - PyCon JP 2017 運営チーム
-   * - 連絡先
-     - 2017@pycon.jp
+   * - Development Sprints
+     - (Planned)2018-9-15(Sat)
+   * - Tutorial
+     - (Planned)2018-9-16(Sun)
+   * - Conference(2 days)
+     - 2018-9-17(Mon, public holiday), 2018-9-18(Tue)
+   * - Conference Venue / 会場
+     - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_
+   * - Participants / 参加者数
+     - (Planned)1000
+   * - Organizers / 運営
+     - PyCon JP 2018 Organizing Committee
+   * -
+       | Sponsor Contact 
+       | スポンサー問い合わせ先
+     - 
+       | sponsor@pycon.jp  
+       | We need a few days to a week to reply.
+       | 返信は数日から1週間目処です。
 
 お問い合わせ
 ============
