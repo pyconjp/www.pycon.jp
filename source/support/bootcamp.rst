@@ -314,9 +314,46 @@ Python Boot Camp の開催実績です。
      - 6月23日(土)
      - `滝沢市第二イノベーションセンター <http://www.tiic.jp/>`_
      - 鈴木 たかのり
-     - 20名(予定)
+     - 27名
      - 5
      - 3
+     -
+
+.. * - 23
+     - `Python Boot Camp in 茨城 <https://pyconjp.connpass.com/event/89445/>`_
+     - 7月21日(土)
+     - `筑波大学 1B208 <https://www.tsukuba.ac.jp/>`_
+     - 寺田 学
+     - 45名(予定)
+     - 9
+     - 1
+     -
+.. * - 24
+     - `Python Boot Camp in 徳島 <https://pyconjp.connpass.com/event/87968/>`_
+     - 8月25日(土)
+     - `ねすとラボCafe <http://nest-lab.net/>`_
+     - 鈴木 たかのり
+     - 15名(予定)
+     - 3
+     - 1
+     -
+.. * - 25
+     - `Python Boot Camp in 京都 <https://pyconjp.connpass.com/event//>`_
+     - 8月25日(土)
+     - 
+     - 清水川 貴之
+     - 名(予定)
+     - 
+     - 
+     -
+.. * - 26
+     - `Python Boot Camp in 山形 <https://pyconjp.connpass.com/event/89157/>`_
+     - 9月8日(土)
+     - 
+     - 寺田 学
+     - 名(予定)
+     - 
+     - 
      -
 
 Python Boot Camp Map
