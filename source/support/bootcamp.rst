@@ -318,16 +318,16 @@ Python Boot Camp の開催実績です。
      - 5
      - 3
      -
-
-.. * - 23
+   * - 23
      - `Python Boot Camp in 茨城 <https://pyconjp.connpass.com/event/89445/>`_
      - 7月21日(土)
      - `筑波大学 1B208 <https://www.tsukuba.ac.jp/>`_
      - 寺田 学
      - 45名(予定)
      - 9
-     - 1
+     - 3
      -
+     
 .. * - 24
      - `Python Boot Camp in 徳島 <https://pyconjp.connpass.com/event/87968/>`_
      - 8月25日(土)
