@@ -327,8 +327,7 @@ Python Boot Camp の開催実績です。
      - 9
      - 3
      -
-     
-.. * - 24
+   * - 24
      - `Python Boot Camp in 徳島 <https://pyconjp.connpass.com/event/87968/>`_
      - 8月25日(土)
      - `ねすとラボCafe <http://nest-lab.net/>`_
@@ -337,6 +336,7 @@ Python Boot Camp の開催実績です。
      - 3
      - 1
      -
+
 .. * - 25
      - `Python Boot Camp in 京都 <https://pyconjp.connpass.com/event//>`_
      - 8月25日(土)
