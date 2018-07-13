@@ -317,7 +317,7 @@ Python Boot Camp の開催実績です。
      - 27名
      - 5
      - 3
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2018/07/pycamp-in-iwate-report.html>`__
    * - 23
      - `Python Boot Camp in 茨城 <https://pyconjp.connpass.com/event/89445/>`_
      - 7月21日(土)
@@ -336,15 +336,14 @@ Python Boot Camp の開催実績です。
      - 3
      - 1
      -
-
-.. * - 25
-     - `Python Boot Camp in 京都 <https://pyconjp.connpass.com/event//>`_
+   * - 25
+     - `Python Boot Camp in 京都 <https://pyconjp.connpass.com/event/94170/>`_
      - 8月25日(土)
-     - 
+     - `株式会社はてな 京都オフィス 8F <http://hatenacorp.jp/information/outline>`_
      - 清水川 貴之
-     - 名(予定)
-     - 
-     - 
+     - 25名(予定)
+     - 5
+     - 3
      -
 .. * - 26
      - `Python Boot Camp in 山形 <https://pyconjp.connpass.com/event/89157/>`_
