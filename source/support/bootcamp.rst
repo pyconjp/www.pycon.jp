@@ -345,14 +345,14 @@ Python Boot Camp の開催実績です。
      - 5
      - 3
      -
-.. * - 26
+   * - 26
      - `Python Boot Camp in 山形 <https://pyconjp.connpass.com/event/89157/>`_
      - 9月8日(土)
-     - 
+     - `山形県立産業技術短期大学校 庄内校 <http://www.shonai-cit.ac.jp/>`_
      - 寺田 学
-     - 名(予定)
-     - 
-     - 
+     - 20名(予定)
+     - 2
+     - 1
      -
 
 Python Boot Camp Map
