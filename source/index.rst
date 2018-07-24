@@ -23,9 +23,9 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 PyCon JP 2018
 =============
 
-下記は開催概要です。 詳細については　_`公式Webサイト <https://pycon.jp/2018>`_ を確認ください。
+下記は開催概要です。 詳細については　`公式Webサイト <https://pycon.jp/2018>`_ を確認ください。
 
-Here is a summary of the event details. You can see _`Event Web site <https://pycon.jp/2018/en/>`_ .
+Here is a summary of the event details. You can see `Event Web site <https://pycon.jp/2018/en/>`_ .
 
 .. list-table::
    :widths: 30 70
