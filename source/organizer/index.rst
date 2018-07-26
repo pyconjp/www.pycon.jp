@@ -169,3 +169,17 @@ PyCon JP 2017
   - `pandasでのOSS活動 事例と最初の一歩 <https://speakerdeck.com/sinhrks/pandasdefalseosshuo-dong-shi-li-tozui-chu-false-bu>`_ / 堀越 真映 
 :Description: 3 Tracks, 40 Talk sessins, 1 Invited talks, 4 Tutorials, Poster sessions, Jobs Fair, Media Meeting and etc.
 :Sponsor: 1 Diamond, 3 Platinum, 8 Gold, 28 Silver, 20 Patrons, 6 Media
+
+PyCon JP 2018
+-------------
+
+:URL: https://pycon.jp/2018/
+:Theme: ひろがるPython
+:Date:
+  - Development Sprints: 2018 Sep 15(Sat)
+  - Tutorial: 2018 Sep 16(Sun)
+  - Conference: 2018 Sep 17(Mon), 18(Tue)
+:Venue:
+  - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_ (Tutorials, Conference)
+  - `HDE <https://www.hde.co.jp/>`_ (Development Sprints)
+:Attendees: 1,000(planned)
