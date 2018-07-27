@@ -103,7 +103,7 @@ Python Boot Camp の開催実績です。
      - 
      - 
    * - 1
-     - `Python Boot Camp in 京都 <http://pyconjp.connpass.com/event/33014/>`_
+     - `Python Boot Camp in 京都 <http://pyconjp.connpass.com/event/33014/>`__
      - 6月18日(土)
      - `CAMPHOR- HOUSE <https://camph.net/>`_
      - 谷口 英
@@ -337,7 +337,7 @@ Python Boot Camp の開催実績です。
      - 1
      -
    * - 25
-     - `Python Boot Camp in 京都 <https://pyconjp.connpass.com/event/94170/>`_
+     - `Python Boot Camp in 京都 <https://pyconjp.connpass.com/event/94170/>`__
      - 8月25日(土)
      - `株式会社はてな 京都オフィス 8F <http://hatenacorp.jp/information/outline>`_
      - 清水川 貴之
@@ -370,6 +370,7 @@ Python Boot Camp Map
 * 2017年4月16日(日) `尾道Python3入門勉強会(もくもく会) <https://onomiti-frontend.connpass.com/event/52409/>`_
 * 2017年8月26日(土) `オトナのPython Boot Camp@未来会議室 <https://otona.connpass.com/event/62537/>`_ (`開催報告ブログ <http://otona.pro/post/20170826python/>`_)
 * 2017年12月6日(水) `文教大学「初めてのPython」 <https://blog.freegufo.com/page/118>`_
+* 2018年6月9日(土) `オトナのPython Boot Camp@未来会議室 #2 <https://otona.connpass.com/event/86094/>`_
 
 Python Boot Camp のテキストを利用したイベントがあったら、ぜひこのページで紹介させてください。下記のフォームから連絡をお願いします。
 

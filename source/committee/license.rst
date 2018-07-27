@@ -2,7 +2,7 @@
  ライセンスについて
 ====================
 
-一般社団法人 PyCon JPの提供するドキュメントなどのライセンスにいて記述します。
+一般社団法人 PyCon JPの提供するドキュメントなどのライセンスについて記述します。
 
 以下のライセンス形態とします。
 
@@ -16,8 +16,8 @@
 
 - ドキュメント: 下記サイトで公開されているドキュメント
 
-  - `PyCon JP 運営 — PyCon JP <https://www.pycon.jp/>`_
-  - `PyCon JP 2016 in Tokyo <https://pycon.jp/2016/ja/>`_
+  - `PyCon JP 運営 <https://www.pycon.jp/>`_
+  - `PyCon JP 2017 <https://pycon.jp/2017/>`_
   - `PyCon JP 運営マニュアル <http://manual.pycon.jp/>`_
   - `Python Boot Camp Text <http://bootcamp-text.readthedocs.io/>`_
 - 動画: `YouTube の PyCon JP チャンネル <https://www.youtube.com/user/PyConJP>`_ で公開している動画

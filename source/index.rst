@@ -23,9 +23,12 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 PyCon JP 2018
 =============
 
-下記開催概要は現在の予定です。 詳細については決定し次第、逐次お知らせします。
+.. image:: /_static/pyconjp2018-logo.png
+   :alt: PyCon JP 2018 logo
 
-Here is a summary of the event details. We’ll post updates as further details are confirmed.
+下記は開催概要です。 詳細については　`公式Webサイト <https://pycon.jp/2018>`_ を確認ください。
+
+Here is a summary of the event details. You can see `Event Web site <https://pycon.jp/2018>`_ .
 
 .. list-table::
    :widths: 30 70
@@ -50,6 +53,8 @@ Here is a summary of the event details. We’ll post updates as further details 
        | sponsor@pycon.jp  
        | We need a few days to a week to reply.
        | 返信は数日から1週間目処です。
+   * - Contact / 問い合わせ先
+     - pyconjp@pycon.jp 
 
 お問い合わせ
 ============
