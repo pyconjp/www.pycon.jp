@@ -85,24 +85,38 @@
   - 日時: 2017年4月23日(日) 10:00-16:45
   - 会場: `熊本大学 工学部2号館 <http://www.eng.kumamoto-u.ac.jp/>`_
   - 主催: PyCon mini Kumamoto 実行委員会
-  - 参加者数: 
+  - 参加者数: 約40名
+  - レポート: `「PyCon mini Kumamoto 2017」運営レポート <http://gihyo.jp/news/report/2017/05/2201>`_
 
 - `DjangoCongress JP 2018 <https://djangocongress.jp/>`_
 
   - 日時: 2018年5月19日(土)、20日(日)
   - 会場: `サイボウズ株式会社（東京都中央区日本橋2-7-1 東京日本橋タワー） <https://cybozu.co.jp/company/access/tokyo/>`_
   - 主催: django-ja（清原 弘貴）
-  - 参加者数: 
-  - Blog:
+  - 参加者数: 約140名
+  - Blog: `DjangoCongress JP 2018ってイベントを開催した話 <https://blog.hirokiky.org/entry/2018/05/20/175020>`_
 
 - `PyCon mini Osaka 2018 <http://osaka.pycon.jp/>`_
 
   - 日時: 2018円5月19日(土)
   - 会場: `ヤフー株式会社 GFOオフィス オープンコラボエリア Minamo GRAND FRONT OSAKA タワーA 37F <https://yahoo.jp/Niew1l>`_
   - 主催: PyCon mini Osaka 事務局
-  - 参加者数: 
-  - Blog:
+  - 参加者数: 約90名
+  - Togetter: `Pycon mini Osaka 2018のツィートまとめ <https://togetter.com/li/1230783>`_
 
+- `PyCon Kyushu 2018 Fukuoka <http://kyushu.pycon.jp/>`_
+
+  - 日時: 2018年6月30日(土) 10:00-17:10
+  - 会場: `LINE Fukuoka株式会社 <https://linefukuoka.co.jp/ja/>`_
+  - 主催: PyCon Kyushu実行委員会
+  - 参加者数: 約150名
+
+- `Plone Conference 2018 Tokyo <https://2018.ploneconf.org/>`_
+
+  - 日時: 2018年11月5日(月)〜11日(日)
+  - 会場: `大田区産業プラザPiO <https://www.pio-ota.net/>`_
+  - 主催: PloneConference2018運営委員会
+  
 お問い合わせ、ご相談
 ====================
 
