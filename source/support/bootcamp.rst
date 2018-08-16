@@ -369,7 +369,7 @@ Python Boot Camp Map
 
 .. raw:: html
 
-   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UnriKXo-ZgqOELpMqZz3g3l7Yws" width="640" height="480"></iframe>
+   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UnriKXo-ZgqOELpMqZz3g3l7Yws" width="640" height="640"></iframe>
    
 テキスト利用実績
 ================
