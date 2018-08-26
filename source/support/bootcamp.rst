@@ -332,8 +332,8 @@ Python Boot Camp の開催実績です。
      - 8月25日(土)
      - `ねすとラボCafe <http://nest-lab.net/>`_
      - 鈴木 たかのり
-     - 15名(予定)
-     - 3
+     - 15名
+     - 2
      - 1
      -
    * - 25
@@ -341,8 +341,8 @@ Python Boot Camp の開催実績です。
      - 8月25日(土)
      - `株式会社はてな 京都オフィス 8F <http://hatenacorp.jp/information/outline>`_
      - 清水川 貴之
-     - 25名(予定)
-     - 5
+     - 22名
+     - 4
      - 3
      -
    * - 26
