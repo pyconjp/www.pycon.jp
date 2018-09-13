@@ -390,9 +390,9 @@ Python Boot Camp の開催実績です。
      - 9月8日(土)
      - `山形県立産業技術短期大学校 庄内校 <http://www.shonai-cit.ac.jp/>`_
      - 寺田 学
-     - 20名(予定)
-     - 2
+     - 16名
      - 1
+     - 2
      -
    * - 27
      - `Python Boot Camp in 沖縄 <https://pyconjp.connpass.com/event/96844/>`_
