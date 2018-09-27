@@ -15,7 +15,7 @@ PyCon JP は日本で開催される、プログラミング言語 Python に関
 Python はオープンソースで開発されているプログラミング言語で、世界中で利用されています。
 
 PyCon(Python Conference)は世界中で開催されており、2012年は2,000名以上が参加する PyCon US をはじめ、世界30箇所以上で開催されています。
-PyCon JP は2011年から毎年開催しており、PyCon JP 2016では約720名の参加者を集めアメリカ、ヨーロッパに次ぐ世界最大規模のカンファレンスとなっています。
+PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000名の参加者を集めアメリカ、ヨーロッパに次ぐ世界最大規模のカンファレンスとなっています。
 
 過去の PyCon JP
 ===============
@@ -146,7 +146,7 @@ PyCon JP 2016
 :Venue:
   - `Waseda University, Nishi-Waseda Campus <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (Tutorials, Conference)
   - `Microsoft Japan <https://www.microsoft.com/>`_ (Development Sprints)
-:Attendees: 720
+:Attendees: 720(Conference)
 :Keynote:
   - Jessica McKellar
   - `What's new in Python 3.6 <http://blog.pirx.ru/media/files/2016/vlasovskikh-whats-new-in-python36.pdf>`_ / Andrey Vlasovskikh
@@ -165,7 +165,7 @@ PyCon JP 2017
 :Venue:
   - `Waseda University, Nishi-Waseda Campus <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (Tutorials, Conference)
   - `Microsoft Japan <https://www.microsoft.com/>`_ (Development Sprints)
-:Attendees: 691
+:Attendees: 691(Conference)
 :Keynote:
   - `Python for Data: Past, Present, Future <http://www.slideshare.net/misterwang/python-for-data-past-present-future-pycon-jp-2017-keynote>`_ / Peter Wang
   - `pandasでのOSS活動 事例と最初の一歩 <https://speakerdeck.com/sinhrks/pandasdefalseosshuo-dong-shi-li-tozui-chu-false-bu>`_ / 堀越 真映 
@@ -184,4 +184,14 @@ PyCon JP 2018
 :Venue:
   - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_ (Tutorials, Conference)
   - `HDE <https://www.hde.co.jp/>`_ (Development Sprints)
-:Attendees: 1,000(planned)
+:Attendees: 1,156(Sprint:60, Tutorial:111, Conference:985)
+
+PyCon JP 2019
+-------------
+
+:Date:
+  - Development Sprints: It is under consideration
+  - Tutorial: It is under consideration 
+  - Conference: 2019 Sep 16(Mon), 17(Tue)
+:Venue:
+  - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_ (Conference)
