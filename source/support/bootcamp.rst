@@ -395,7 +395,7 @@ Python Boot Camp の開催実績です。
      - 2
      -
    * - 27
-     - `Python Boot Camp in 沖縄 <https://pyconjp.connpass.com/event/96844/>`_
+     - `Python Boot Camp in 沖縄 <https://pyconjp.connpass.com/event/96844/>`_ (台風により中止)
      - 9月29日(土)
      - `琉球大学工学部工学部棟１号館 <https://ie.u-ryukyu.ac.jp/>`_
      - 清水川 貴之
