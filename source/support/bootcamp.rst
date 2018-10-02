@@ -30,7 +30,7 @@ Python Boot Campの概要について伝えたランディングページを作�
 .. _Python Boot Camp 全国ツアーお問い合わせフォーム: https://docs.google.com/forms/d/1IANh21fievi_lyyQyL8II66RSxlVuHBdAhr05C1qv9c/viewform
 
 現地スタッフにお願いしたいことなどの詳細は
-`Python Boot Camp 運営マニュアル <http://bootcamp-text.readthedocs.io/organize/index.html>`_
+`Python Boot Camp 運営マニュアル <https://pycamp.pycon.jp/organize/index.html>`_
 を参照してください。
 
 開催済・未開催の都道府県の一覧
@@ -94,7 +94,7 @@ Python Boot Campの目的
 
 テキスト
 
-- `Python Boot Camp テキスト <http://pycamp.pycon.jp/>`_
+- `Python Boot Camp テキスト <https://pycamp.pycon.jp/textbook/index.html>`_
 
 
 開催地について
@@ -413,7 +413,7 @@ Python Boot Camp Map
    
 テキスト利用実績
 ================
-`Python Boot Camp のテキスト <http://pycamp.pycon.jp/textbook/index.html>`_ を利用した勉強会の実績です。
+`Python Boot Camp のテキスト <https://pycamp.pycon.jp/textbook/index.html>`_ を利用した勉強会の実績です。
 
 * 2016年8月6日(土) `Python Boot Camp for ishiilab <http://hr-sano.net/blog/2016/08/08/python-boot-camp-for-ishiilab/>`_
 * 2017年4月16日(日) `尾道Python3入門勉強会(もくもく会) <https://onomiti-frontend.connpass.com/event/52409/>`_
