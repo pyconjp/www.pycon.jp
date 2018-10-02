@@ -82,7 +82,7 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めた。 `
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
 他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
 
-共著書に『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`_ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <http://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <http://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』『 `Pythonライブラリ厳選レシピ <http://gihyo.jp/book/2015/978-4-7741-7707-6>`_ （2015 技術評論社刊）』などがある。
+共著書に『 `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`_ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <http://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <http://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』などがある。
 
 趣味は吹奏楽とレゴとペンシルパズル。
 
