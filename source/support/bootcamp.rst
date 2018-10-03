@@ -393,7 +393,7 @@ Python Boot Camp の開催実績です。
      - 16名
      - 1
      - 2
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2018/10/python-boot-camp-in-yamagata.html>`__
    * - 27
      - `Python Boot Camp in 沖縄 <https://pyconjp.connpass.com/event/96844/>`_ (台風により中止)
      - 9月29日(土)
