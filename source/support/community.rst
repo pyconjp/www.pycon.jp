@@ -109,6 +109,13 @@
   - 主催: PyCon Kyushu実行委員会
   - 参加者数: 約150名
 
+- `PyCon mini Hiroshima 2018 <https://hiroshima.pycon.jp/>`_
+
+  - 日時: 2018年10月6日(土) 10:00-17:00
+  - 会場: `広島大学東千田キャンパス <https://www.hiroshima-u.ac.jp/access/senda>`_
+  - 主催: PyCon mini Hiroshima 2018 実行委員会
+  - 参加者数: 約70名
+
 - `Plone Conference 2018 Tokyo <https://2018.ploneconf.org/>`_
 
   - 日時: 2018年11月5日(月)〜11日(日)
