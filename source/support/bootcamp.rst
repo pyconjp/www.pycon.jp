@@ -423,7 +423,7 @@ Python Boot Camp の開催実績です。
      -
    * - 30
      - `Python Boot Camp in 仙台 <https://pyconjp.connpass.com/event/104080/>`_
-     - 11月17日(土)
+     - 12月8日(土)
      - `株式会社エスクルー <http://s-crew.jpn.com/>`_
      - 寺田 学
      - 16名(予定)
