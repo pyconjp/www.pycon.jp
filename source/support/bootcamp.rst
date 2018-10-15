@@ -8,6 +8,10 @@ Python Boot Camp(初心者向けPythonチュートリアル)
       
 いっそうのPythonの普及のため、一般社団法人PyCon JPは日本各地での初心者向けPythonチュートリアルイベント「Python Boot Camp(#pycamp)」を開催します。
 
+.. contents:: 目次
+   :local:
+   :depth: 1
+
 ランディングページ
 ==================
 
@@ -15,16 +19,15 @@ Python Boot Campの概要について伝えたランディングページを作�
 
 - `Python Boot Campランディングページ <https://peraichi.com/landing_pages/view/pycamp>`_
 
-スタッフ募集
-============
-現地でPython Boot Campの開催をサポートをしてくれるスタッフを募集しています。興味のある方は下記のフォームから連絡ください。
+現地スタッフ募集
+================
+現地でPython Boot Campの開催をサポートをしてくれる現地スタッフを募集しています。興味のある方は下記のフォームから連絡ください。
 
 - `Python Boot Camp 全国ツアーお問い合わせフォーム`_
 
 以下のような方を広く募集しています。
 
 - 現地スタッフとして動ける
-- 講師ができる
 - 会場を提供できる、あてがある(10〜20名程度、電源と無線LANがあるとよりよい)
 
 .. _Python Boot Camp 全国ツアーお問い合わせフォーム: https://docs.google.com/forms/d/1IANh21fievi_lyyQyL8II66RSxlVuHBdAhr05C1qv9c/viewform
@@ -451,3 +454,24 @@ Python Boot Camp Map
 Python Boot Camp のテキストを利用したイベントがあったら、ぜひこのページで紹介させてください。下記のフォームから連絡をお願いします。
 
 * `Python Boot Campのテキスト利用実績登録フォーム <https://docs.google.com/forms/d/e/1FAIpQLSdjqaZMSNQbDRGajkFYiYK2H6Q6NHwCl4oKI7SmO7ykLVQW5w/viewform>`_
+
+コアスタッフの紹介
+==================
+Python Boot Campの現地での開催をサポートするコアスタッフです。
+
+ryu22e
+------
+
+kobatomo
+--------
+
+鈴木たかのり(Takanori Suzuki)
+-----------------------------
+.. image:: /_static/takanori.jpg
+
+一般社団法人PyCon JP理事、 `株式会社ビープラウド <http://www.beproud.jp/>`_ 所属
+
+部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
+他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
+
+Python Boot Campの発案者で、各地に講師としても参加している。現地のクラフトビールを飲んで帰るのが楽しみ。
