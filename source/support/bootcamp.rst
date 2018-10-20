@@ -472,7 +472,8 @@ PyCon APAC 2013・PyCon JP 2014のスタッフ。2016年に、この頃一緒に
 
 Google Cloud Platformのユーザーグループ `GCPUG Shonan <https://gcpug-shonan.connpass.com/>`_ スタッフ、Python Boot Camp in 神奈川参加者が立ち上げたPythonコミュニティ `Shonan.py <https://shonan-py.connpass.com/>`_ スタッフとしても活動している。
 
-Twitterアカウント: `@ryu22e <https://twitter.com/ryu22e>`_
+* Twitterアカウント: `@ryu22e <https://twitter.com/ryu22e>`_
+* Blog: `ryu22eBlog <https://ryu22e.org/>`_
 
 kobatomo
 --------
