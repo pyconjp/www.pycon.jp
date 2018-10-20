@@ -459,8 +459,16 @@ Python Boot Camp のテキストを利用したイベントがあったら、ぜ
 ==================
 Python Boot Campの現地での開催をサポートするコアスタッフです。
 
-ryu22e
-------
+ryu22e(Ryuji Tsutsui)
+---------------------
+.. image:: /_static/ryu22e.jpg
+
+`株式会社クレジットエンジン <https://www.creditengine.jp/>`_ 所属
+
+Pythonを学んだのは2011年ごろ。その前はJava・PHPメインだったが、下記やすさが気に入って今では一番のお気に入りになっている。
+現在は自社サービスをDjangoで開発している。
+PyCon APAC 2013・PyCon JP 2014のスタッフ。
+Google Cloud Platformのユーザーグループ `GCPUG Shonan <https://gcpug-shonan.connpass.com/>`_ スタッフ、Python Boot Camp in 神奈川参加者が立ち上げたPythonコミュニティ `Shonan.py <https://shonan-py.connpass.com/>`_ スタッフとしても活動している。
 
 kobatomo
 --------
@@ -475,3 +483,4 @@ kobatomo
 他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
 
 Python Boot Campの発案者で、各地に講師としても参加している。現地のクラフトビールを飲んで帰るのが楽しみ。
+
