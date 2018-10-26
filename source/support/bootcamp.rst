@@ -468,7 +468,7 @@ Python Boot Campの現地での開催をサポートするコアスタッフで�
 Pythonを学んだのは2011年ごろ。その前はJava・PHPメインだったが、書きやすさが気に入って今では一番のお気に入りになっている。
 現在は自社サービスをDjangoで開発している。
 
-PyCon APAC 2013・PyCon JP 2014のスタッフ。2016年に、この頃一緒にスタッフをやっていた人からPython Boot Campの立ち上げの話を聞き、「面白そう！」と思ってコアスタッフになった。
+PyCon APAC 2013・PyCon JP 2014のスタッフ。この頃一緒にスタッフをやっていた人から、2016年にPython Boot Campの立ち上げの話を聞き、「面白そう！」と思ってコアスタッフになった。
 
 Google Cloud Platformのユーザーグループ `GCPUG Shonan <https://gcpug-shonan.connpass.com/>`_ スタッフ、Python Boot Camp in 神奈川参加者が立ち上げたPythonコミュニティ `Shonan.py <https://shonan-py.connpass.com/>`_ スタッフとしても活動している。
 
