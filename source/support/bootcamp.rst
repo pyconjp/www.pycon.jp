@@ -482,7 +482,7 @@ Google Cloud Platformのユーザーグループ `GCPUG Shonan <https://gcpug-sh
 Pythonは、機械学習を学ぶ際に利用したのがきっかけで使い始める。
 2017年3月:はじめてのPythonはプロから学ぶのが最速と考え、Python Boot Camp in 広島 に参加。
 2017年6月:地元でのPython仲間発掘のため、Python Boot Camp in 香川 の現地スタッフとして手をあげる。
-2018年2月:たかのりさんが発案した日本各地でPythonの輪を広げる活動「PythozRBoot Camp」に巻き込まれてみたいとおもいコアスタッフとなる。
+2018年2月:たかのりさんが発案した日本各地でPythonの輪を広げる活動「Python Boot Camp」に巻き込まれてみたいとおもいコアスタッフとなる。
 
 Python Boot Camp in 香川 開催後に立ち上げたPythonコミュニティ `UDONPy <https://udonpy.connpass.com/>`_ スタッフ、四国でAgileを学び合い、実践を共有するためのコミュニティ `Agile459 <https://agile459.connpass.com/>`_ スタッフ、としても活動している。
 
