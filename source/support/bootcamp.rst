@@ -5,8 +5,12 @@ Python Boot Camp(初心者向けPythonチュートリアル)
 .. image:: /_static/python-boot-camp-logo.png
    :width: 198
    :alt: Python Boot Camp ロゴ
-      
+
 いっそうのPythonの普及のため、一般社団法人PyCon JPは日本各地での初心者向けPythonチュートリアルイベント「Python Boot Camp(#pycamp)」を開催します。
+
+.. contents:: 目次
+   :local:
+   :depth: 1
 
 ランディングページ
 ==================
@@ -15,16 +19,15 @@ Python Boot Campの概要について伝えたランディングページを作�
 
 - `Python Boot Campランディングページ <https://peraichi.com/landing_pages/view/pycamp>`_
 
-スタッフ募集
-============
-現地でPython Boot Campの開催をサポートをしてくれるスタッフを募集しています。興味のある方は下記のフォームから連絡ください。
+現地スタッフ募集
+================
+現地でPython Boot Campの開催をサポートをしてくれる現地スタッフを募集しています。興味のある方は下記のフォームから連絡ください。
 
 - `Python Boot Camp 全国ツアーお問い合わせフォーム`_
 
 以下のような方を広く募集しています。
 
 - 現地スタッフとして動ける
-- 講師ができる
 - 会場を提供できる、あてがある(10〜20名程度、電源と無線LANがあるとよりよい)
 
 .. _Python Boot Camp 全国ツアーお問い合わせフォーム: https://docs.google.com/forms/d/1IANh21fievi_lyyQyL8II66RSxlVuHBdAhr05C1qv9c/viewform
@@ -135,13 +138,13 @@ Python Boot Camp の開催実績です。
      - 開催レポート
    * -
      - 2016年
-     - 
-     - 
-     - 
-     - 
-     - 
-     - 
-     - 
+     -
+     -
+     -
+     -
+     -
+     -
+     -
    * - 1
      - `Python Boot Camp in 京都 <https://pyconjp.connpass.com/event/33014/>`__
      - 6月18日(土)
@@ -180,13 +183,13 @@ Python Boot Camp の開催実績です。
      - `開催レポート <https://pyconjp.blogspot.jp/2016/12/python-boot-camp-in-sapporo.html>`__
    * -
      - 2017年
-     - 
-     - 
-     - 
-     - 
-     - 
-     - 
-     - 
+     -
+     -
+     -
+     -
+     -
+     -
+     -
    * - 5
      - `Python Boot Camp in 栃木小山 <https://pyconjp.connpass.com/event/47757/>`_
      - 2月11日(土)
@@ -272,7 +275,7 @@ Python Boot Camp の開催実績です。
      - `Python Boot Camp in 鹿児島 <https://pyconjp.connpass.com/event/67709/>`_
      - 11月4日(土)
      - `リコーITソリューションズ <http://www.nangokubld.jp/center/access.html>`_
-     - 清水川 貴之  
+     - 清水川 貴之
      - 27名
      - 3
      - 5
@@ -306,13 +309,13 @@ Python Boot Camp の開催実績です。
      - `開催レポート <https://pyconjp.blogspot.jp/2017/12/python-boot-camp-in-saitama.html>`__
    * -
      - 2018年
-     - 
-     - 
-     - 
-     - 
-     - 
-     - 
-     - 
+     -
+     -
+     -
+     -
+     -
+     -
+     -
    * - 18
      - `Python Boot Camp in 神奈川 <https://pyconjp.connpass.com/event/71908/>`_
      - 1月27日(土)
@@ -399,9 +402,9 @@ Python Boot Camp の開催実績です。
      - 9月29日(土)
      - `琉球大学工学部工学部棟１号館 <https://ie.u-ryukyu.ac.jp/>`_
      - 清水川 貴之
-     - 
-     - 
-     - 
+     -
+     -
+     -
      -
    * - 28
      - `Python Boot Camp in 山梨 <https://pyconjp.connpass.com/event/103507/>`_
@@ -437,7 +440,7 @@ Python Boot Camp Map
 .. raw:: html
 
    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UnriKXo-ZgqOELpMqZz3g3l7Yws" width="640" height="640"></iframe>
-   
+
 テキスト利用実績
 ================
 `Python Boot Camp のテキスト <https://pycamp.pycon.jp/textbook/index.html>`_ を利用した勉強会の実績です。
@@ -451,3 +454,47 @@ Python Boot Camp Map
 Python Boot Camp のテキストを利用したイベントがあったら、ぜひこのページで紹介させてください。下記のフォームから連絡をお願いします。
 
 * `Python Boot Campのテキスト利用実績登録フォーム <https://docs.google.com/forms/d/e/1FAIpQLSdjqaZMSNQbDRGajkFYiYK2H6Q6NHwCl4oKI7SmO7ykLVQW5w/viewform>`_
+
+コアスタッフの紹介
+==================
+Python Boot Campの現地での開催をサポートするコアスタッフです。
+
+筒井 隆次(Ryuji Tsutsui)
+------------------------
+.. image:: /_static/ryu22e.jpg
+
+`株式会社クレジットエンジン <https://www.creditengine.jp/>`_ 所属
+
+Pythonを学んだのは2011年ごろ。その前はJava・PHPメインだったが、書きやすさが気に入って今では一番のお気に入りになっている。
+現在は自社サービスをDjangoで開発している。
+
+PyCon APAC 2013・PyCon JP 2014のスタッフ。この頃一緒にスタッフをやっていた人から、2016年にPython Boot Campの立ち上げの話を聞き、「面白そう！」と思ってコアスタッフになった。
+
+Google Cloud Platformのユーザーグループ `GCPUG Shonan <https://gcpug-shonan.connpass.com/>`_ スタッフ、Python Boot Camp in 神奈川参加者が立ち上げたPythonコミュニティ `Shonan.py <https://shonan-py.connpass.com/>`_ スタッフとしても活動している。
+
+* Twitterアカウント: `@ryu22e <https://twitter.com/ryu22e>`_
+* Blog: `ryu22eBlog <https://ryu22e.org/>`_
+
+小林智博(Tomohiro Kobayashi)
+-----------------------------
+.. image:: /_static/kobatomo.png
+
+Pythonは、機械学習を学ぶ際に利用したのがきっかけで使い始める。
+2017年3月:はじめてのPythonはプロから学ぶのが最速と考え、Python Boot Camp in 広島 に参加。
+2017年6月:地元でのPython仲間発掘のため、Python Boot Camp in 香川 の現地スタッフとして手をあげる。
+2018年2月:たかのりさんが発案した日本各地でPythonの輪を広げる活動「Python Boot Camp」に巻き込まれてみたいとおもいコアスタッフとなる。
+
+Python Boot Camp in 香川 開催後に立ち上げたPythonコミュニティ `UDONPy <https://udonpy.connpass.com/>`_ スタッフ、四国でAgileを学び合い、実践を共有するためのコミュニティ `Agile459 <https://agile459.connpass.com/>`_ スタッフ、としても活動している。
+
+* Twitterアカウント: `@kobatomo3H <https://twitter.com/kobatomo3H>`_
+
+鈴木たかのり(Takanori Suzuki)
+-----------------------------
+.. image:: /_static/takanori.jpg
+
+一般社団法人PyCon JP理事、 `株式会社ビープラウド <http://www.beproud.jp/>`_ 所属
+
+部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
+他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
+
+Python Boot Campの発案者で、各地に講師としても参加している。現地のクラフトビールを飲んで帰るのが楽しみ。
