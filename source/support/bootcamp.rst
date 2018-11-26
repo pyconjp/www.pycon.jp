@@ -411,7 +411,7 @@ Python Boot Camp の開催実績です。
      - 11月17日(土)
      - `株式会社アイティードゥ <http://itdo.jp/company/access/>`_
      - 鈴木 たかのり
-     - 15名(予定)
+     - 17名
      - 3
      - 2
      -
@@ -420,9 +420,9 @@ Python Boot Camp の開催実績です。
      - 11月23日(金・祝)
      - `株式会社アイネット <https://www.inet88.co.jp/>`_
      - 新井 正貴
-     - 20名(予定)
+     - 18名
      - 4
-     - 2
+     - 4
      -
    * - 30
      - `Python Boot Camp in 仙台 <https://pyconjp.connpass.com/event/104080/>`_
