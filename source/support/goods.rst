@@ -24,7 +24,7 @@ PyCon JPは発送作業などが基本的にできません。
 ======================
 
 * サイズ: W900mm x H2200mm
-* 参考リンク: `エルバナースタンド <https://www.distem.co.jp/XXXXXXXXX>`_
+* 参考リンク: `エルバナースタンド <https://www.misedas.net/asp/item_detail.asp?ItemLID=16250>`_
 
 .. figure:: https://farm5.staticflickr.com/4368/36917287686_9998253d50_z.jpg
    :alt: エルバナースタンドW900(使用イメージ)
