@@ -432,7 +432,7 @@ Python Boot Camp の開催実績です。
      - 21名
      - 4
      - 2
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2018/12/pycamp-in-sendai-report..html>`__
    * -
      - 2019年
      - 
