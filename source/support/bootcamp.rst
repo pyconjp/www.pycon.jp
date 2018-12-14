@@ -414,7 +414,7 @@ Python Boot Camp の開催実績です。
      - 17名
      - 3
      - 2
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2018/12/pycamp-in-yamanashi-report.html>`__
    * - 29
      - `Python Boot Camp in 岡山 <https://pyconjp.connpass.com/event/103539/>`_
      - 11月23日(金・祝)
@@ -423,7 +423,7 @@ Python Boot Camp の開催実績です。
      - 18名
      - 4
      - 4
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2018/11/pycamp-in-okayama-report.html>`__
    * - 30
      - `Python Boot Camp in 仙台 <https://pyconjp.connpass.com/event/104080/>`_
      - 12月8日(土)
