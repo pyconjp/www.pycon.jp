@@ -447,8 +447,8 @@ Python Boot Camp の開催実績です。
      - 1月12日(土)
      - `BiViキャン <https://www.bivicam.jp/>`_
      - 新井 正貴
-     - 18名(予定)
-     - 3
+     - 25名
+     - 5
      - 2
      - 
 
