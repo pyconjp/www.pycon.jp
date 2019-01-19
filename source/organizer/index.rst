@@ -15,7 +15,7 @@ PyCon JP は日本で開催される、プログラミング言語 Python に関
 Python はオープンソースで開発されているプログラミング言語で、世界中で利用されています。
 
 PyCon(Python Conference)は世界中で開催されており、2012年は2,000名以上が参加する PyCon US をはじめ、世界30箇所以上で開催されています。
-PyCon JP は2011年から毎年開催しており、PyCon JP 2016では約720名の参加者を集めアメリカ、ヨーロッパに次ぐ世界最大規模のカンファレンスとなっています。
+PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000名の参加者を集めアメリカ、ヨーロッパに次ぐ世界最大規模のカンファレンスとなっています。
 
 過去の PyCon JP
 ===============
@@ -146,7 +146,7 @@ PyCon JP 2016
 :Venue:
   - `Waseda University, Nishi-Waseda Campus <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (Tutorials, Conference)
   - `Microsoft Japan <https://www.microsoft.com/>`_ (Development Sprints)
-:Attendees: 720
+:Attendees: 720(Conference)
 :Keynote:
   - Jessica McKellar
   - `What's new in Python 3.6 <http://blog.pirx.ru/media/files/2016/vlasovskikh-whats-new-in-python36.pdf>`_ / Andrey Vlasovskikh
@@ -165,7 +165,7 @@ PyCon JP 2017
 :Venue:
   - `Waseda University, Nishi-Waseda Campus <https://www.waseda.jp/top/access/nishiwaseda-campus>`_ (Tutorials, Conference)
   - `Microsoft Japan <https://www.microsoft.com/>`_ (Development Sprints)
-:Attendees: 691
+:Attendees: 691(Conference)
 :Keynote:
   - `Python for Data: Past, Present, Future <http://www.slideshare.net/misterwang/python-for-data-past-present-future-pycon-jp-2017-keynote>`_ / Peter Wang
   - `pandasでのOSS活動 事例と最初の一歩 <https://speakerdeck.com/sinhrks/pandasdefalseosshuo-dong-shi-li-tozui-chu-false-bu>`_ / 堀越 真映 
@@ -184,4 +184,10 @@ PyCon JP 2018
 :Venue:
   - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_ (Tutorials, Conference)
   - `HDE <https://www.hde.co.jp/>`_ (Development Sprints)
-:Attendees: 1,000(planned)
+:Keynote:
+  - `Argentina in Python: community, dreams, travels and learning <https://www.slideshare.net/ManuelKaufmann/argentina-in-python-community-dreams-travels-and-learning>`_ / Kaufmann Manuel : `Video <https://www.youtube.com/watch?v=KwmF5wyY2C4>`_ 
+  - `「Pythonでやってみた」：広がるプログラミングの愉しみ <https://www.slideshare.net/RansuiIso/python-115121978>`_ / 磯 蘭水 : `Video <https://www.youtube.com/watch?v=kO4FNg648qE>`_ 
+:Attendees: 1,156(Sprint:60, Tutorial:111, Conference:985)
+:Description: 7 Tracks, 56 Talk sessins, 1 Invited talks, 4 Tutorials, Poster sessions, Jobs Fair and etc.
+:Sponsor: 1 Diamond, 2 Platinum, 7 Gold, 1 Sprint, 33 Silver, 14 Patrons, 6 Media , 3 Network Sponsor
+
