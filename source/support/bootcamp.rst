@@ -450,7 +450,7 @@ Python Boot Camp の開催実績です。
      - 25名
      - 5
      - 2
-     - 
+     - `開催レポート <https://pyconjp.blogspot.com/2019/01/pycamp-in-fujieda-report.html>`__
 
 Python Boot Camp Map
 --------------------
