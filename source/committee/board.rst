@@ -78,6 +78,7 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めた。 `
 .. figure:: /_static/yoshida.png
 
 理事
+
 `サイバートラスト株式会社 <https://www.cybertrust.co.jp/>`_ 所属、`MIRACLE LINUX <https://www.miraclelinux.com/>`_ の製品サポートなどを行っている。
 社内サイトをZopeで構築することを切っ掛けとしてPythonを始めた。
 共著書に『 `Debug Hacks <https://www.oreilly.co.jp/books/9784873114040/>`_ （2009 オライリー・ジャパン刊）』などがある。
