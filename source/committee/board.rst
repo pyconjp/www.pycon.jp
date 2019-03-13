@@ -75,11 +75,24 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めた。 `
 
 吉田 俊輔(Shunsuke Yoshida)
 ===========================
-.. figure:: /_static/yoshida.jpg (画像を入れてください)
+.. figure:: /_static/yoshida.png
 
 理事
+`サイバートラスト株式会社 <https://www.cybertrust.co.jp/>`_ 所属、`MIRACLE LINUX <https://www.miraclelinux.com/>`_ の製品サポートなどを行っている。
+社内サイトをZopeで構築することを切っ掛けとしてPythonを始めた。
+共著書に『 `Debug Hacks <https://www.oreilly.co.jp/books/9784873114040/>`_ （2009 オライリー・ジャパン刊）』などがある。
 
-(ここにプロフィールを書いてください)
+PyCon JP 2014からスタッフ、PyCon JP 2015副座長(事務局)、PyCon JP 2016副座長(メディア)、PyCon JP 2017-2019座長。
+
+`小江戸らぐ <https://koedolug.dyndns.org/>`_、`東京エリアDebian勉強会 <https://tokyodebian-team.pages.debian.net/>`_ などのOSSコミュニティ活動にも参加している。
+
+趣味は温泉巡り、OSCやカンファレンスに参加した際にもよく現地の温泉に行く、2018年は蒲田黒湯、箱根温泉、埼玉宮沢湖温泉、長野大柴温泉、名古屋三蔵温泉、大阪住之江温泉、石川湯涌温泉、松山道後温泉、台湾北投温泉、シンガポール湯の森温泉などに訪問した。
+
+:facebook: koedoyohida_
+:twitter: `@koedoyoshida`_
+
+.. _koedoyohida: https://www.facebook.com/koedoyoshida
+.. _@koedoyoshida: https://twitter.com/koedoyoshida
 
 Jonas Obrist
 ============
