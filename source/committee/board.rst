@@ -95,10 +95,24 @@ PyCon JP 2014からスタッフ、PyCon JP 2015副座長(事務局)、PyCon JP 2
 .. _koedoyohida: https://www.facebook.com/koedoyoshida
 .. _@koedoyoshida: https://twitter.com/koedoyoshida
 
-Jonas Obrist
-============
-.. figure:: /_static/jonas.jpg (画像を入れてください)
+Jonas Obrist (オブリスト　ヨナス)
+=================================
+.. figure:: /_static/jonas.jpg
 
 理事
 
-(ここにプロフィールを書いてください)
+`HENNGE株式会社`_ 所属。
+
+PyCon JP 2013から参加。PyCon JP 2016からスタッフ。PyCon US、Europython、PyCon APACなどで発表。
+DjangoCon Europe 2012座長。
+
+会社でTornadoとasyncioを使ってセキュリティーSaaSを開発。以前は `django CMS`_ を開発。
+
+
+:twitter: `@ojiidotch`_
+:github: `ojii`_
+
+.. _HENNGE株式会社: https://www.hennge.com/
+.. _@ojiidotch: https://twitter.com/ojiidotch
+.. _ojii: https://github.com/ojii
+.. _django CMS: https://www.django-cms.org/en/
