@@ -22,23 +22,25 @@ Python製Webフレームワーク Zope / Python製CMS Plone の専門家とし�
 .. _terapyon: https://www.facebook.com/terapyon
 .. _@terapyon: https://twitter.com/terapyon
 
-Ian Lewis
-=========
-.. figure:: /_static/ian.jpg
+鈴木 たかのり (Takanori Suzuki)
+===============================
+.. figure:: /_static/takanori.jpg
 
 副代表理事
 
-イアンはアメリカの首都ワシントンDC出身で、2006年から東京に移住。2011年からPyCon JPの創業者として、運営に参加。2013年設立時から、一般社団法人 PyCon JPの副代表理事として務め、PyCon JPや、Pythonコミュニティの継続するために努力している。
+`株式会社ビープラウド <http://www.beproud.jp/>`_ 所属。
 
-現在はGoogle Japan所属で、Google Cloud Platformのデボロッパーアドボケートとして、クラウドの開発者の支援をしている。Googleに入社した前に株式会社ビープラウドでconnpass.comというIT勉強会支援サービスを開発した。Pythonや、Goが好きで、開発者の発展を楽しんで応援している。www.ianlewis.org でブログを書いている。
+部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
+他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
 
-:facebook: ianmlewis_
-:twitter: `@IanMLewis`_
-:website: `https://www.ianlewis.org/`_
+共著書に『 `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`_ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <http://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <http://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』などがある。
 
-.. _ianmlewis: https://www.facebook.com/ianmlewis
-.. _@IanMLewis: https://twitter.com/IanMLewis
-.. _https://www.ianlewis.org/: https://www.ianlewis.org/
+最近の楽しみはPython Boot Campの講師で訪れた土地で、現地のクラフトビールを飲むこと。2019年は世界各国のPyConでの発表に挑戦している。
+趣味は吹奏楽とボルダリングとレゴとペンシルパズル。
+
+:facebook: `takanory.net <https://www.facebook.com/takanory.net>`_
+:twitter: `@takanory <https://twitter.com/takanory>`_
+:github: `takanory <https://github.com/takanory/>`_
 
 清水川 貴之 (Takayuki Shimizukawa)
 ===================================
@@ -71,65 +73,32 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めた。 `
 .. _@shimizukawa: https://twitter.com/shimizukawa
 .. _http://清水川.jp/: http://清水川.jp/
 
-鈴木 たかのり (Takanori Suzuki)
-===============================
-.. figure:: /_static/takanori.jpg
+吉田 俊輔(Shunsuke Yoshida)
+===========================
+.. figure:: /_static/yoshida.png
 
 理事
 
-`株式会社ビープラウド <http://www.beproud.jp/>`_ 所属。
+`サイバートラスト株式会社 <https://www.cybertrust.co.jp/>`_ 所属、`MIRACLE LINUX <https://www.miraclelinux.com/>`_ の製品サポートなどを行っている。
+社内サイトをZopeで構築することを切っ掛けとしてPythonを始めた。
+共著書に『 `Debug Hacks <https://www.oreilly.co.jp/books/9784873114040/>`_ （2009 オライリー・ジャパン刊）』などがある。
 
-部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
-他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
+PyCon JP 2014からスタッフ、PyCon JP 2015副座長(事務局)、PyCon JP 2016副座長(メディア)、PyCon JP 2017-2019座長。
 
-共著書に『 `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`_ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <http://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <http://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』などがある。
+`小江戸らぐ <https://koedolug.dyndns.org/>`_、`東京エリアDebian勉強会 <https://tokyodebian-team.pages.debian.net/>`_ などのOSSコミュニティ活動にも参加している。
 
-趣味は吹奏楽とレゴとペンシルパズル。
+趣味は温泉巡り、OSCやカンファレンスに参加した際にもよく現地の温泉に行く、2018年は蒲田黒湯、箱根温泉、埼玉宮沢湖温泉、長野大柴温泉、名古屋三蔵温泉、大阪住之江温泉、石川湯涌温泉、松山道後温泉、台湾北投温泉、シンガポール湯の森温泉などに訪問した。
 
-:facebook: `takanory.net <https://www.facebook.com/takanory.net>`_
-:twitter: `@takanory <https://twitter.com/takanory>`_
+:facebook: koedoyohida_
+:twitter: `@koedoyoshida`_
 
-Iqbal Abdullah
-==============
-.. figure:: /_static/iqbal.jpg
+.. _koedoyohida: https://www.facebook.com/koedoyoshida
+.. _@koedoyoshida: https://twitter.com/koedoyoshida
 
-理事
-
-マレーシア首都のクアランプール出身。1997年から在日。佐賀大学理工学部卒。
-
-クラウド・テレフォニー・プラットフォーム提供する `(株) Xoxzo <https://www.xoxzo.com/>`_ の代表。
-
-Python製Webフレームワーク Django を利用し、Xoxzoのプロダクトに取り入れる。積極的に Python 系のコミュニティーの参加、Djangoプロジェクトなど応援、貢献している。 
-2011年から2013年の PyCon JP の運営スタッフとして参加させていただき、以降一般社団法人PyCon JPの創業メンバーの一人として海外コミュニティーとの連携の強化に力入れている。
-
-2014年に PyCon MY を立ち上げ、2015年の `PyCon MY <http://pycon.my/>`_ の座長として務める。2017年のマレーシアで開催する予定のPyCon APACの座長もなってる。
-
-趣味は旅行、温泉、お散歩、読書とブログでの執筆。
-
-:website: http://iqbal.rileks.la
-:twitter: `@iqbalabd`_
-
-.. _@iqbalabd: https://twitter.com/iqbalabd/
-
-
-真嘉比 愛(Ai Makabi)
-=====================
-.. figure:: /_static/makabi.jpeg
+Jonas Obrist
+============
+.. figure:: /_static/jonas.jpg (画像を入れてください)
 
 理事
 
-`ちゅらデータ株式会社`_ 代表 / `PyLadies Tokyo`_ 発起人
-
-普段はpandasやscikit-learnといったPyDataのライブラリを利用して、データ活用のためのコンサルティング・受託分析などを手がけている。
-
-2014年にPyCon JPのスタッフに参加したのをきっかけに、同年、 PyLadies_ 初の日本支部となる `PyLadies Tokyo`_ を立ち上げ、女性Pythonistaが広く活躍できるよう尽力している。また2015年にはAPAC地域のPyLadiesと共同でPyLadies APACを立ち上げ、海外PyLadiesコミュニティの連携と拡大にも注力している。
-
-:facebook: `ai.makabi`_
-:twitter: `@a_macbee`_
-
-.. _ちゅらデータ株式会社: https://churadata.okinawa/
-.. _PyLadies Tokyo: http://tokyo.pyladies.com/
-.. _PyLadies: http://www.pyladies.com/
-.. _ai.makabi: https://www.facebook.com/ai.makabi
-.. _@a_macbee: https://twitter.com/a_macbee
-
+(ここにプロフィールを書いてください)
