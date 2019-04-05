@@ -8,7 +8,7 @@
 :資料:
 
    -  `20140206 一般社団法人PyCon JP運営会議#4 <http://drive.google.com/open?id=1l36ODQERo1qoriND4eE1ojkMATvLoOfHmaeaj1bfUT0>`__
-   -  `会計ミーティング議事録 2014/4/8 @羽藤会計事務所 <http://drive.google.com/open?id=1BYma_8cjMQuiTj-YTVZ4ipV2gWeKusw28Svq1C5_Llk>`__
+   -  `会計ミーティング議事録 2014/4/8 @会計事務所 <http://drive.google.com/open?id=1BYma_8cjMQuiTj-YTVZ4ipV2gWeKusw28Svq1C5_Llk>`__
    -  ISSHAの未解決の課題
 
 前回のTodo
