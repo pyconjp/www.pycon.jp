@@ -79,7 +79,7 @@ PyCon JP 2015 の会計
 地域PyCon支援の会計
 -------------------
 
--  地域PyConやイベント支援のための一般社団法人PyCon JPの口座利用について、「一般社団法人PyCon JP がそういったイベントにかかわった経緯を記録に残す」、ということが必要です（羽藤会計事務所）。 `HTJ-1419 <https://pyconjp.atlassian.net/browse/HTJ-1419>`__
+-  地域PyConやイベント支援のための一般社団法人PyCon JPの口座利用について、「一般社団法人PyCon JP がそういったイベントにかかわった経緯を記録に残す」、ということが必要です（会計事務所）。 `HTJ-1419 <https://pyconjp.atlassian.net/browse/HTJ-1419>`__
 
    -  稟議書、経緯記録、とそれを承認したという記録
 
