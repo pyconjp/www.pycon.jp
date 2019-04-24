@@ -456,8 +456,8 @@ Python Boot Camp の開催実績です。
      - 4月20日(土)
      - `T−LABO <https://tlabomisono.com/>`_
      - 新井 正貴
-     - 20名(予定)
-     - 2
+     - 16名
+     - 3
      - 1
      -
    * - 33
