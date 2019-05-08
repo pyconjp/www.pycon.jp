@@ -463,7 +463,7 @@ Python Boot Camp の開催実績です。
    * - 33
      - `Python Boot Camp in 福井 <https://pyconjp.connpass.com/event/119978/>`_
      - 4月27日(土)
-     - `AOSSA　地域交流プラザ <https://tlabomisono.com/>`_
+     - `AOSSA　地域交流プラザ <http://www.kouryu.fukui.jp/?page_id=14>`_
      - 清水川 貴之
      - 11名(予定)
      - 2
