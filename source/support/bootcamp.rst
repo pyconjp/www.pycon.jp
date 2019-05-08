@@ -465,9 +465,9 @@ Python Boot Camp の開催実績です。
      - 4月27日(土)
      - `AOSSA　地域交流プラザ <http://www.kouryu.fukui.jp/?page_id=14>`_
      - 清水川 貴之
-     - 11名(予定)
-     - 2
-     - 2
+     - 12名
+     - 0
+     - 1
      -
 
 Python Boot Camp Map
