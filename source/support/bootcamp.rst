@@ -52,7 +52,7 @@ Python Boot Campの概要について伝えたランディングページを作�
      - **北海道**
      - 1/1
    * - 東北
-     - 青森、**岩手**、秋田、**宮城**、**山形**、**福島**
+     - 青森、**岩手**、秋田、**宮城**、**山形** (2)、**福島**
      - 4/6
    * - 関東
      - **茨城**、**栃木**、群馬、**埼玉**、**千葉**、東京、**神奈川**
@@ -469,6 +469,15 @@ Python Boot Camp の開催実績です。
      - 0
      - 1
      - `開催レポート <https://pyconjp.blogspot.com/2019/05/pycamp-in-fukui-report.html>`__
+   * - 34
+     - `Python Boot Camp in 山形市 <https://pyconjp.connpass.com/event/130348/>`_
+     - 6月22日(土)
+     - `山形県工業技術センター <http://www.yrit.pref.yamagata.jp/>`_
+     - 新井 正貴
+     - 15名(予定)
+     - 3
+     - 2
+     -
 
 Python Boot Camp Map
 --------------------
