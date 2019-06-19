@@ -27,7 +27,7 @@ PyCon JP 2019
 下記開催概要は現在の予定です。 
 スプリントおよびチュートリアルについては開催場所、日程含め今後検討していきます。
 CFP開始、スポンサー募集時期についても今後となります。
-詳細については決定し次第、上記Blog等で逐次お知らせします。
+詳細については　`公式Webサイト <https://pycon.jp/2019>`_ を確認ください。
 
 Here is a summary of the event details. We’ll post updates as further details are confirmed.
 
