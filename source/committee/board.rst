@@ -35,7 +35,8 @@ Python Web関係の業務を中心にコンサルティングや構築を手が�
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
 他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
 
-共著書に『 `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <http://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <http://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』などがある。
+
+共著書に『 `いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ （2019 インプレス刊）』『 `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <https://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <https://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』などがある。
 
 最近の楽しみはPython Boot Campの講師で訪れた土地で、現地のクラフトビールを飲むこと。2019年は世界各国のPyConでの発表に挑戦している。
 趣味は吹奏楽とボルダリングとレゴとペンシルパズル。
