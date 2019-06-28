@@ -474,10 +474,10 @@ Python Boot Camp の開催実績です。
      - 6月22日(土)
      - `山形県工業技術センター <http://www.yrit.pref.yamagata.jp/>`_
      - 新井 正貴
-     - 15名(予定)
+     - 12名
      - 3
      - 2
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2019/06/pycamp-in-yamagata-shi.html>`__
    * - 35
      - `Python Boot Camp in 岐阜 <https://pyconjp.connpass.com/event/134229/>`_
      - 7月27日(土)
