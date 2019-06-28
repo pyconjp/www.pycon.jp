@@ -35,7 +35,7 @@ Python Web関係の業務を中心にコンサルティングや構築を手が�
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
 他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
 
-共著書に『 `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`_ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <http://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <http://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』などがある。
+共著書に『 `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <http://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <http://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』などがある。
 
 最近の楽しみはPython Boot Campの講師で訪れた土地で、現地のクラフトビールを飲むこと。2019年は世界各国のPyConでの発表に挑戦している。
 趣味は吹奏楽とボルダリングとレゴとペンシルパズル。
@@ -54,7 +54,7 @@ Python Web関係の業務を中心にコンサルティングや構築を手が�
 
 PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めた。 `PyCon APAC 2013`_ では会計を務めている。
 
-共著書／訳書:『 `Pythonプロフェッショナルプログラミング 第3版 <http://www.shuwasystem.co.jp/products/7980html/5382.html>`_ （2018 秀和システム刊）』『 `エキスパートPythonプログラミング改訂2版 <https://www.kadokawa.co.jp/product/301801000262/>`_ （2018 KADOKAWA刊）』『 `独学プログラマー Python言語の基本から仕事のやり方まで <https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/>`_ （2018 日経BP社刊）』『 `Sphinxをはじめよう 第2版 <https://www.oreilly.co.jp/books/9784873118192/>`_ （2017 オライリージャパン刊）』など。
+共著書／訳書:『 `Pythonプロフェッショナルプログラミング 第3版 <http://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』『 `エキスパートPythonプログラミング改訂2版 <https://www.kadokawa.co.jp/product/301801000262/>`_ （2018 KADOKAWA刊）』『 `独学プログラマー Python言語の基本から仕事のやり方まで <https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/>`_ （2018 日経BP社刊）』『 `Sphinxをはじめよう 第2版 <https://www.oreilly.co.jp/books/9784873118192/>`_ （2017 オライリージャパン刊）』など。
 
 :facebook: shimizukawa_
 :twitter: `@shimizukawa`_

@@ -185,8 +185,8 @@ PyCon JP 2018
   - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_ (Tutorials, Conference)
   - `HDE <https://www.hde.co.jp/>`_ (Development Sprints)
 :Keynote:
-  - `Argentina in Python: community, dreams, travels and learning <https://www.slideshare.net/ManuelKaufmann/argentina-in-python-community-dreams-travels-and-learning>`_ / Kaufmann Manuel : `Video <https://www.youtube.com/watch?v=KwmF5wyY2C4>`_ 
-  - `「Pythonでやってみた」：広がるプログラミングの愉しみ <https://www.slideshare.net/RansuiIso/python-115121978>`_ / 磯 蘭水 : `Video <https://www.youtube.com/watch?v=kO4FNg648qE>`_ 
+  - `Argentina in Python: community, dreams, travels and learning <https://www.slideshare.net/ManuelKaufmann/argentina-in-python-community-dreams-travels-and-learning>`_ / Kaufmann Manuel : `Video <https://www.youtube.com/watch?v=KwmF5wyY2C4>`__
+  - `「Pythonでやってみた」：広がるプログラミングの愉しみ <https://www.slideshare.net/RansuiIso/python-115121978>`_ / 磯 蘭水 : `Video <https://www.youtube.com/watch?v=kO4FNg648qE>`__
 :Attendees: 1,156(Sprint:60, Tutorial:111, Conference:985)
 :Description: 7 Tracks, 56 Talk sessins, 1 Invited talks, 4 Tutorials, Poster sessions, Jobs Fair and etc.
 :Sponsor: 1 Diamond, 2 Platinum, 7 Gold, 1 Sprint, 33 Silver, 14 Patrons, 6 Media , 3 Network Sponsor
