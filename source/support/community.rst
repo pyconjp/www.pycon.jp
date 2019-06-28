@@ -121,6 +121,26 @@
   - 日時: 2018年11月5日(月)〜11日(日)
   - 会場: `大田区産業プラザPiO <https://www.pio-ota.net/>`_
   - 主催: PloneConference2018運営委員会
+
+- `SciPy Japan 2019 <https://www.scipyjapan2019.scipy.org/?lang=ja>`_
+
+  - 日時: 2019年4月23日(火)、24日(水)
+  - 会場: マンダリンオリエンタル東京
+  - 参加者数: 約90名
+
+- `PyCon mini Sapporo 2019 <https://sapporo.pycon.jp/2019/>`_
+
+  - 日時: 2019年5月11日(土) 11:00-18:10
+  - 会場: 札幌市産業振興センター
+  - 主催: PyCon mini Sapporo 実行委員会
+  - 参加者数: 121名
+
+- `PyCon Kyushu in Okinawa 2019 <https://kyushu.pycon.jp/>`_
+
+  - 日時: 2019年5月18日(土)
+  - 会場: 琉球大学
+  - 主催: PyCon Kyushu 実行委員会 
+  - 参加者数: 158名(スタッフ除く)
   
 お問い合わせ、ご相談
 ====================
