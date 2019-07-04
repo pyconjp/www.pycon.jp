@@ -24,21 +24,24 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 PyCon JP 2019
 =============
 
-下記開催概要は現在の予定です。 
-スプリントおよびチュートリアルについては開催場所、日程含め今後検討していきます。
-CFP開始、スポンサー募集時期についても今後となります。
+今年もPyConJP2019を開催いたします。`チケット販売 <https://pyconjp.connpass.com/event/135734/>`_を開始しました！
+下記は開催概要です。
 詳細については `公式Webサイト <https://pycon.jp/2019>`__ を確認ください。
 
-Here is a summary of the event details. We’ll post updates as further details are confirmed.
+Here is a summary of the event details. We'll post updates as further details are confirmed.
 
 .. list-table::
    :widths: 30 70
    :stub-columns: 1
 
    * - Development Sprints
-     - It is under consideration / 検討中
+     - 2019-9-14(Sat)
+   * - Development Sprints Venue / 会場
+     - `HENNGE K.K. Tokyo Office, Shibuya <https://hennge.com/jp/about/map/>`_
    * - Tutorial
-     - It is under consideration / 検討中
+     -  2019-9-15(Sun)
+   * - Tutorial Venue / 会場
+     - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_
    * - Conference(2 days)
      - 2019-9-16(Mon, public holiday), 2019-9-17(Tue)
    * - Conference Venue / 会場
