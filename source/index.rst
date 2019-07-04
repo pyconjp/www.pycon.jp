@@ -24,9 +24,9 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 PyCon JP 2019
 =============
 
-今年もPyConJP2019を開催いたします。`チケット販売 <https://pyconjp.connpass.com/event/135734/>`_を開始しました！
+今年もPyConJP2019を開催いたします。 `チケット販売 <https://pyconjp.connpass.com/event/135734/>`_ を開始しました！
 下記は開催概要です。
-詳細については `公式Webサイト <https://pycon.jp/2019>`__ を確認ください。
+詳細については `公式Webサイト <https://pycon.jp/2019>`_ を確認ください。
 
 Here is a summary of the event details. We'll post updates as further details are confirmed.
 
