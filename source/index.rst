@@ -47,31 +47,6 @@ Here is a summary of the event details. We'll post updates as further details ar
    * - Conference Venue / 会場
      - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_
           
-PyCon JP 2018
-=============
-
-.. image:: /_static/pyconjp2018-logo.png
-   :alt: PyCon JP 2018 logo
-
-開催終了しました。下記は開催概要です。 詳細については `公式Webサイト <https://pycon.jp/2018>`__ を確認ください。
-
-Here is a summary of the event details. You can see `Event Web site <https://pycon.jp/2018>`_ .
-
-.. list-table::
-   :widths: 30 70
-   :stub-columns: 1
-
-   * - Development Sprints
-     - 2018-9-15(Sat)
-   * - Tutorial
-     - 2018-9-16(Sun)
-   * - Conference(2 days)
-     - 2018-9-17(Mon, public holiday), 2018-9-18(Tue)
-   * - Conference Venue / 会場
-     - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_
-   * - Organizers / 運営
-     - PyCon JP 2018 Organizing Committee
-
 お問い合わせ
 ============
 各イベントへのお問い合わせは、各イベント別のお問い合わせ窓口までお願いします。
