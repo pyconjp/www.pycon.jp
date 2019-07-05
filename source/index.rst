@@ -23,8 +23,11 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 
 PyCon JP 2019
 =============
+.. image:: /_static/pyconjp2019-logo.png
+   :alt: PyCon JP 2019 logo
 
 今年もPyConJP2019を開催いたします。 `チケット販売 <https://pyconjp.connpass.com/event/135734/>`_ を開始しました！
+
 下記は開催概要です。
 詳細については `公式Webサイト <https://pycon.jp/2019>`_ を確認ください。
 
@@ -45,7 +48,9 @@ Here is a summary of the event details. We'll post updates as further details ar
    * - Conference(2 days)
      - 2019-9-16(Mon, public holiday), 2019-9-17(Tue)
    * - Conference Venue / 会場
-     - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_
+     - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_          
+   * - Organizers / 運営
+     - PyCon JP 2019 Organizing Committee
           
 PyCon JP 2018
 =============
