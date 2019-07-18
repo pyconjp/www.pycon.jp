@@ -37,7 +37,7 @@ Manabu Terada (寺田 学)
 
 .. figure:: /_static/terada.jpg
 
-Representative Director
+Chair
 
 CEO of `CMSコミュニケーションズ <https://www.cmscom.jp>`_.
 
@@ -58,19 +58,19 @@ Takanori Suzuki (鈴木 たかのり)
 
 .. figure:: /_static/takanori.jpg
 
-Vice-Representative Director
+Vice-Chair
 
 `BeProud Inc. (株式会社ビープラウド) <http://www.beproud.jp/>`_.
 
 Discovered Zope/Plone while building an internal website and ever since used Python where needed. Worked as PyCon JP staff since PyCon mini JP in January 2011 and has been the Chair of PyCon JP from 2014 to 2016.
 
-Creator of the `Python Bouldering Club (Pythonボルダリング部, #kabepy) <http://kabepy.connpass.com/>`_ and `Python mini Hack-a-thon (#pyhack) <http://pyhack.connpass.com/>`_.
+Founder of the `Python Bouldering Club (Pythonボルダリング部, #kabepy) <http://kabepy.connpass.com/>`_ and organizer of `Python mini Hack-a-thon (#pyhack) <http://pyhack.connpass.com/>`_.
 
 Co-Author of `いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ (Impress 2019), `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ (Shoeisha 2018), `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>` (Shuwa System 2018), `Pythonエンジニア ファーストブック <https://gihyo.jp/book/2017/978-4-7741-9222-2>`_ (Gihyo 2017), `いちばんやさしいPythonの教本 <https://book.impress.co.jp/books/1116101151>`_ (Impress 2017) and others.
 
 Recently started to travel to rural Japan to teach at Python Boot Camps and enjoy their local craft beers. Since 2019 he has started to present at international Python conferences around the world.
 
-His hobbies are playing brass instruments, bouldering, Lego and puzzles.
+His hobbies are playing the trumpet, bouldering, Lego and puzzles.
 
 :facebook: `takanory.net <https://www.facebook.com/takanory.net>`_
 :twitter: `@takanory <https://twitter.com/takanory>`_
