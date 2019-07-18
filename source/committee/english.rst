@@ -17,16 +17,15 @@ Summary
 =======
 :Name: PyCon JP Committee (Japanese: 一般社団法人PyCon JP, Ippanshadanhoujin Paikonjeipi)
 :Representative Director the PyCon JP Committee: Manabu Terada (寺田 学)
-:Address: 110-0015 Tokyo-to, Taito-ku, Ueno 1-11-1, GOSHO Kasugadori Building, 9th Floor. (〒110-0015 東京都台東区東上野1-11-1 GOSHO春日通りビル9F)
+:Address: 110-0015 Tokyo-to, Taito-ku, Higashi-Ueno 1-11-1, GOSHO Kasugadori Building, 9th Floor. (〒110-0015 東京都台東区東上野1-11-1 GOSHO春日通りビル9F)
 :Contact: contact[ at ]pycon.jp
 :URL: http://www.pycon.jp/
 :Foundaed: March 21st, 2013
 
-Nonprofit organization
-======================
+Nonprofit status
+================
 
-In the articles of incorporation of the PyCon JP Committee, we forbid ourselves from distributing any surplus we may generate and in case of dissolution, any remaining assets will be returned. While we are not recognized as a tax exempt by the National Tax Agency, we are nevertheless a nonprofit organization. Recently he also teaches beginner and machine learning Python classes to share the appeal of Python.
-
+The PyCon JP Committee is a tax exempt general incorporated association.
 
 
 Board Members
