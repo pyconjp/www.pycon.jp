@@ -483,9 +483,18 @@ Python Boot Camp の開催実績です。
      - 7月27日(土)
      - `co-ba HIDA TAKAYAMA（コーバ・飛騨高山） <https://co-ba.net/hidatakayama/>`_
      - 寺田 学
-     - 15名(予定)
+     - 10名(予定)
      - 3
      - 2
+     -
+   * - 36
+     - `Python Boot Camp in 沖縄 <https://pyconjp.connpass.com/event/139247/>`_
+     - 7月27日(土)
+     - `Okinawa Dialog(おきなわダイアログ) <http://okinawadialog.com/about/>`_
+     - 鈴木 たかのり
+     - 15名(予定)
+     - 2
+     - 1
      -
 
 Python Boot Camp Map
