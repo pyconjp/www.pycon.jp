@@ -86,7 +86,7 @@ Treasurer
 
 Maintainer of the `Sphinx`_ documentation tool. Discovered Zope 2 and Open Source in 2003. Recently spends a lot of time teaching Python.
 
-Co-Author or translator of `Pythonプロフェッショナルプログラミング 第3版 <http://www.shuwasystem.co.jp/products/7980html/5382.html>`_ (Shuwa System 2018), `エキスパートPythonプログラミング改訂2版 <https://www.kadokawa.co.jp/product/301801000262/>`_ (KODOKAWA 2018), `独学プログラマー Python言語の基本から仕事のやり方まで <https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/>`_ (Nikkei BUsiness Publications 2018), `Sphinxをはじめよう 第2版 <https://www.oreilly.co.jp/books/9784873118192/>`_ (O'Reilly 2017) and others.
+Co-Author or translator of `Pythonプロフェッショナルプログラミング 第3版 <http://www.shuwasystem.co.jp/products/7980html/5382.html>`_ (Shuwa System 2018), `エキスパートPythonプログラミング改訂2版 <https://www.kadokawa.co.jp/product/301801000262/>`_ (KODOKAWA 2018), `独学プログラマー Python言語の基本から仕事のやり方まで <https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/>`_ (Nikkei Business Publications 2018, translation of The Self-Taught Programmer), `Sphinxをはじめよう 第2版 <https://www.oreilly.co.jp/books/9784873118192/>`_ (O'Reilly 2017) and others.
 
 :facebook: shimizukawa_
 :twitter: `@shimizukawa`_
