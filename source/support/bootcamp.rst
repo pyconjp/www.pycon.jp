@@ -489,7 +489,7 @@ Python Boot Camp の開催実績です。
      -
    * - 36
      - `Python Boot Camp in 沖縄 <https://pyconjp.connpass.com/event/139247/>`_
-     - 7月27日(土)
+     - 8月31日(土)
      - `Okinawa Dialog(おきなわダイアログ) <http://okinawadialog.com/about/>`_
      - 鈴木 たかのり
      - 15名(予定)
