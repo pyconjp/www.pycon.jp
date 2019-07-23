@@ -6,6 +6,7 @@
    :maxdepth: 1
 
    committee/index
+   committee/english
    organizer/index
    support/index
    donation/index

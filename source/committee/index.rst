@@ -2,6 +2,8 @@
  一般社団法人 PyCon JP について
 ================================
 
+For an English version, see :doc:`here <english>`.
+
 **一般社団法人PyCon JP** は日本国内の Python ユーザーのために、Python の普及及び開発支援を行う為に、継続的にカンファレンス(PyCon)を開くことを目的とした非営利組織です。
 
 ミッションステートメント
