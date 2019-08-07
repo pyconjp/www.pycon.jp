@@ -51,7 +51,7 @@ Here is a summary of the event details. We'll post updates as further details ar
 ============
 PyCon JP 2019 スピーカーの方はCFP応募したpapercallのfeedbackからお問い合わせください。
 
-PyCon JP 2019 スポンサーの方は `PyCon JP 2019 Sponsorship Prospectus <https://docs.google.com/document/d/19fBidrOtpelYVyNUpkDiN7XZuHImOp1q_OyviOcg-yo/edit>`_ をご確認の上、記載のメールアドレスにお問い合わせください。
+PyCon JP 2019 スポンサーの方は `【スポンサー向け】イベントスケジュールおよびFAQ  <https://docs.google.com/document/d/1d_Gq3-8VldxO3dN0ApebLbx1OHkTUaLjfkpic0SKx7Y/edit#>`_ をご確認の上、slackからお問い合わせください。
 
 PyCon JP 2019 一般参加の方（含む一般の遠方支援申し込み者）は各connpass記載のメールアドレスにお問い合わせください。
 
