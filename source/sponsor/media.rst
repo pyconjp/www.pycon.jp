@@ -76,3 +76,13 @@ https://thinkit.co.jp/
 .. image:: /_static/sponsor/media/logos/thinkit.png
    :alt: Think IT（インプレス）
    :target: https://thinkit.co.jp/
+
+アイティメディア株式会社
+------------------------
+
+https://www.atmarkit.co.jp
+
+.. image:: /_static/sponsor/media/logos/atmarkit.png
+   :alt: アイティメディア株式会社
+   :target: https://www.atmarkit.co.jp
+
