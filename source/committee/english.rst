@@ -32,7 +32,7 @@ Board Members
 =============
 
 Manabu Terada (寺田 学)
-----------------------
+-----------------------
 
 .. figure:: /_static/terada.jpg
 
@@ -53,7 +53,7 @@ Editor of `スラスラわかるPython <https://www.shoeisha.co.jp/book/detail/9
 .. _@terapyon: https://twitter.com/terapyon
 
 Takanori Suzuki (鈴木 たかのり)
------------------------------
+-------------------------------
 
 .. figure:: /_static/takanori.jpg
 
@@ -75,8 +75,8 @@ His hobbies are playing the trumpet, bouldering, Lego and puzzles.
 :twitter: `@takanory <https://twitter.com/takanory>`_
 :github: `takanory <https://github.com/takanory/>`_
 
-Takayuki Shimizukawa (清水川　貴之)
----------------------------------
+Takayuki Shimizukawa (清水川 貴之)
+----------------------------------
 
 .. figure:: /_static/shimizukawa.jpg
 
@@ -101,7 +101,7 @@ Co-Author or translator of `Pythonプロフェッショナルプログラミン�
 .. _@shimizukawa: https://twitter.com/shimizukawa
 .. _http://清水川.jp/: http://清水川.jp/
 
-Shunsuke Yoshida (吉田　俊輔)
+Shunsuke Yoshida (吉田 俊輔)
 ----------------------------
 .. figure:: /_static/yoshida.png
 
@@ -125,8 +125,8 @@ His hobbies are visiting hot sprints and attending conferences such as `OSC <htt
 .. _koedoyohida: https://www.facebook.com/koedoyoshida
 .. _@koedoyoshida: https://twitter.com/koedoyoshida
 
-Jonas Obrist (オブリスト　ヨナス)
--------------------------------
+Jonas Obrist (オブリスト ヨナス)
+--------------------------------
 .. figure:: /_static/jonas.jpg
 
 Board Member.
