@@ -492,7 +492,7 @@ Python Boot Camp の開催実績です。
      - 8月31日(土)
      - `Okinawa Dialog(おきなわダイアログ) <http://okinawadialog.com/about/>`_
      - 鈴木 たかのり
-     - 15名(予定)
+     - 11名
      - 2
      - 1
      -
