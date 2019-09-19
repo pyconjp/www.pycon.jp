@@ -70,7 +70,7 @@ Python Boot Campの概要について伝えたランディングページを作�
      - **香川**、**愛媛**、**徳島**、**高知**
      - 4/4
    * - 九州・沖縄
-     - **福岡**、佐賀、長崎、**熊本**、大分、宮崎、**鹿児島**、**沖縄**
+     - **福岡** (2)、佐賀、長崎、**熊本**、大分、宮崎、**鹿児島**、**沖縄**
      - 4/8
    * - 全国
      -
@@ -513,6 +513,15 @@ Python Boot Camp の開催実績です。
      - 10名(予定)
      - 1
      - 2
+     -
+   * - 39
+     - `Python Boot Camp in 福岡2nd <https://pyconjp.connpass.com/event/143786/>`__
+     - 11月16日(土)
+     - `QBS-lab <https://www.qdenbs.com/news/archives/26.html>`_
+     - 新井 正貴
+     - 8名(予定)
+     - 4
+     - 1
      -
 
 Python Boot Camp Map
