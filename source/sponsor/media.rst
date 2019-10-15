@@ -50,15 +50,6 @@ http://gihyo.jp/
    :alt: gihyo.jp
    :target: http://gihyo.jp/
 
-CodeZine
---------
-
-http://codezine.jp/
-
-.. image:: /_static/sponsor/media/logos/codezine.png
-   :alt: CodeZine
-   :target: http://codezine.jp/
-
 株式会社オライリー・ジャパン
 ----------------------------
 
