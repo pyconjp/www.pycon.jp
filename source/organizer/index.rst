@@ -38,6 +38,8 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   : 2017 Sep 7-9(Tutorial, Conference, Development Sprints)
 - `PyCon JP 2018 <https://pycon.jp/2018>`_
   : 2018 Sep 15-18(Tutorial, Conference, Development Sprints)
+- `PyCon JP 2019 <https://pycon.jp/2019>`_
+  : 2019 Sep 14-17(Tutorial, Conference, Development Sprints)
 
 過去の PyCon JP 詳細
 ====================
@@ -190,4 +192,23 @@ PyCon JP 2018
 :Attendees: 1,156(Sprint:60, Tutorial:111, Conference:985)
 :Description: 7 Tracks, 56 Talk sessins, 1 Invited talks, 4 Tutorials, Poster sessions, Jobs Fair and etc.
 :Sponsor: 1 Diamond, 2 Platinum, 7 Gold, 1 Sprint, 33 Silver, 14 Patrons, 6 Media , 3 Network Sponsor
+
+PyCon JP 2019
+-------------
+
+:URL: https://pycon.jp/2019/
+:Theme: Python New Era
+:Date:
+  - Development Sprints: 2019 Sep 14(Sat)
+  - Tutorial: 2019 Sep 15(Sun)
+  - Conference: 2019 Sep 16(Mon), 17(Tue)
+:Venue:
+  - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_ (Tutorials, Conference)
+  - `HENNGE <https://hennge.com/>`_ (Development Sprints)
+:Keynote:
+  - `Why Python is Eating the World <https://speakerdeck.com/pyconjp/why-python-is-eating-the-world>`_ / Cory Althoff : `Video <https://www.youtube.com/watch?v=Bcxz-jXMLZk>`__
+  - `Pythonで切り開く新しい農業 <https://www.slideshare.net/ikemkt/pyconjp2019python>`_ / 小池 誠 : `Video <https://www.youtube.com/watch?v=0bTPOsVvG7g>`__
+:Attendees: 1,160(Sprint:103, Tutorial:106, Conference:951)
+:Description: 5 Tracks, 48 Talk sessins, 1 Invited talks, 3 Tutorials, Poster sessions, Jobs Fair and etc.
+:Sponsor: 1 Diamond, 3 Platinum, 15 Gold, 1 Sprint, 21 Silver, 12 Patrons, 6 Media , 2 Network Sponsor
 
