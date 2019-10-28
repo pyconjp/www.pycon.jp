@@ -209,6 +209,6 @@ PyCon JP 2019
   - `Why Python is Eating the World <https://speakerdeck.com/pyconjp/why-python-is-eating-the-world>`_ / Cory Althoff : `Video <https://www.youtube.com/watch?v=Bcxz-jXMLZk>`__
   - `Pythonで切り開く新しい農業 <https://www.slideshare.net/ikemkt/pyconjp2019python>`_ / 小池 誠 : `Video <https://www.youtube.com/watch?v=0bTPOsVvG7g>`__
 :Attendees: 1,160(Sprint:103, Tutorial:106, Conference:951)
-:Description: 5 Tracks, 48 Talk sessins, 1 Invited talks, 3 Tutorials, Poster sessions, Jobs Fair and etc.
+:Description: 5 Tracks, 47 Talk sessins, 1 Invited talks, 3 Tutorials, Poster sessions, Beginner session, Jobs Fair and etc.
 :Sponsor: 1 Diamond, 3 Platinum, 15 Gold, 1 Sprint, 21 Silver, 12 Patrons, 6 Media , 2 Network Sponsor
 
