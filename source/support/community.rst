@@ -73,7 +73,7 @@
 - `PyCon mini Hiroshima 2016 <http://hiroshima.pycon.jp/>`_
 
   - 日時: 2016年11月12日(土) 10:00-17:00
-  - 会場: `サテライトキャンパスひろしま <https://www.pu-hiroshima.ac.jp/site/satellite/accessmap.html>`_
+  - 会場: 広島市立大学サテライトキャンパス
   - 参加者数: 43名
   - 主催: PyCon mini Hiroshima 2016 実行委員会
   - Blog: `PyCon JP Blog: PyCon mini Hiroshima 2016 を開催しました！ <http://pyconjp.blogspot.jp/2016/11/pycon-mini-hiroshima-2016.html>`_
@@ -141,7 +141,15 @@
   - 会場: 琉球大学
   - 主催: PyCon Kyushu 実行委員会 
   - 参加者数: 158名(スタッフ除く)
-  
+
+- `PyCon mini Hiroshima 2019 <https://hiroshima.pycon.jp/2019/>`
+
+  - 日時: 2019年10月12日(土)
+  - 会場: 広島市立大学サテライトキャンパス
+  - 主催 PyCon mini Hiroshima 実行委員会
+  - 参加者数: 70名
+  - Blog: `10月12日、PyCon mini Hiroshima 2019 開催しました！ <https://pyconjp.blogspot.com/2019/10/1012pycon-mini-hiroshima-2019.html>`_
+
 お問い合わせ、ご相談
 ====================
 
