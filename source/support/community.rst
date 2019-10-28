@@ -142,7 +142,7 @@
   - 主催: PyCon Kyushu 実行委員会 
   - 参加者数: 158名(スタッフ除く)
 
-- `PyCon mini Hiroshima 2019 <https://hiroshima.pycon.jp/2019/>`
+- `PyCon mini Hiroshima 2019 <https://hiroshima.pycon.jp/2019/>`_
 
   - 日時: 2019年10月12日(土)
   - 会場: 広島市立大学サテライトキャンパス
