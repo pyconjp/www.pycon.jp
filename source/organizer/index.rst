@@ -38,6 +38,8 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   : 2017 Sep 7-9(Tutorial, Conference, Development Sprints)
 - `PyCon JP 2018 <https://pycon.jp/2018>`_
   : 2018 Sep 15-18(Tutorial, Conference, Development Sprints)
+- `PyCon JP 2019 <https://pycon.jp/2019>`_
+  : 2019 Sep 14-17(Tutorial, Conference, Development Sprints)
 
 過去の PyCon JP 詳細
 ====================
@@ -169,7 +171,7 @@ PyCon JP 2017
 :Keynote:
   - `Python for Data: Past, Present, Future <http://www.slideshare.net/misterwang/python-for-data-past-present-future-pycon-jp-2017-keynote>`_ / Peter Wang
   - `pandasでのOSS活動 事例と最初の一歩 <https://speakerdeck.com/sinhrks/pandasdefalseosshuo-dong-shi-li-tozui-chu-false-bu>`_ / 堀越 真映 
-:Description: 3 Tracks, 40 Talk sessins, 1 Invited talks, 4 Tutorials, Poster sessions, Jobs Fair, Media Meeting and etc.
+:Description: 3 Tracks, 40 Talk sessions, 1 Invited talks, 4 Tutorials, Poster sessions, Jobs Fair, Media Meeting and etc.
 :Sponsor: 1 Diamond, 3 Platinum, 8 Gold, 28 Silver, 20 Patrons, 6 Media
 
 PyCon JP 2018
@@ -188,6 +190,25 @@ PyCon JP 2018
   - `Argentina in Python: community, dreams, travels and learning <https://www.slideshare.net/ManuelKaufmann/argentina-in-python-community-dreams-travels-and-learning>`_ / Kaufmann Manuel : `Video <https://www.youtube.com/watch?v=KwmF5wyY2C4>`__
   - `「Pythonでやってみた」：広がるプログラミングの愉しみ <https://www.slideshare.net/RansuiIso/python-115121978>`_ / 磯 蘭水 : `Video <https://www.youtube.com/watch?v=kO4FNg648qE>`__
 :Attendees: 1,156(Sprint:60, Tutorial:111, Conference:985)
-:Description: 7 Tracks, 56 Talk sessins, 1 Invited talks, 4 Tutorials, Poster sessions, Jobs Fair and etc.
+:Description: 7 Tracks, 56 Talk sessions, 1 Invited talks, 4 Tutorials, Poster sessions, Jobs Fair and etc.
 :Sponsor: 1 Diamond, 2 Platinum, 7 Gold, 1 Sprint, 33 Silver, 14 Patrons, 6 Media , 3 Network Sponsor
+
+PyCon JP 2019
+-------------
+
+:URL: https://pycon.jp/2019/
+:Theme: Python New Era
+:Date:
+  - Development Sprints: 2019 Sep 14(Sat)
+  - Tutorial: 2019 Sep 15(Sun)
+  - Conference: 2019 Sep 16(Mon), 17(Tue)
+:Venue:
+  - `Ota City Industrial Plaza <https://www.pio-ota.net/about_pio/>`_ (Tutorials, Conference)
+  - `HENNGE <https://hennge.com/>`_ (Development Sprints)
+:Keynote:
+  - `Why Python is Eating the World <https://speakerdeck.com/pyconjp/why-python-is-eating-the-world>`_ / Cory Althoff : `Video <https://www.youtube.com/watch?v=Bcxz-jXMLZk>`__
+  - `Pythonで切り開く新しい農業 <https://www.slideshare.net/ikemkt/pyconjp2019python>`_ / 小池 誠 : `Video <https://www.youtube.com/watch?v=0bTPOsVvG7g>`__
+:Attendees: 1,160(Sprint:103, Tutorial:106, Conference:951)
+:Description: 5 Tracks, 47 Talk sessions, 1 Invited talks, 3 Tutorials, Poster sessions, Beginner session, Jobs Fair and etc.
+:Sponsor: 1 Diamond, 3 Platinum, 15 Gold, 1 Sprint, 21 Silver, 12 Patrons, 6 Media , 2 Network Sponsor
 
