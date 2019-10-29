@@ -26,7 +26,7 @@ PyCon JP 2019
 .. image:: /_static/pyconjp2019-logo.png
    :alt: PyCon JP 2019 logo
 
-PyConJP2019を開催終了しました。
+PyCon JP 2019を開催終了しました。
 
 詳細については `公式Webサイト <https://pycon.jp/2019>`_ をご確認ください。
 
