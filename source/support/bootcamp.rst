@@ -501,10 +501,10 @@ Python Boot Camp の開催実績です。
      - 10月26日(土)
      - `高知県立大学・高知工科大学永国寺キャンパス 地域連携棟4F <https://www.kocopla.jp/access/>`_
      - 新井 正貴
-     - 20名(予定)
+     - 23名
      - 3
-     - 1
-     -
+     - 2
+     - `開催レポート <https://pyconjp.blogspot.com/2019/11/pycon-boot-camp-in-kochi.html>`__
    * - 38
      - `Python Boot Camp in 群馬 <https://pyconjp.connpass.com/event/143290/>`__
      - 11月2日(土)
