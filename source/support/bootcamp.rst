@@ -510,10 +510,10 @@ Python Boot Camp の開催実績です。
      - 11月2日(土)
      - `cafe あすなろ <http://cafe-asunaro.com/>`_
      - 清水川 貴之
-     - 10名(予定)
+     - 8名
      - 1
      - 2
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2019/11/python-boot-camp-in-gunma.html>`_
    * - 39
      - `Python Boot Camp in 福岡2nd <https://pyconjp.connpass.com/event/143786/>`__
      - 11月16日(土)
