@@ -59,15 +59,6 @@ http://www.oreilly.co.jp/index.shtml
    :alt: 株式会社オライリー・ジャパン
    :target: http://www.oreilly.co.jp/index.shtml
 
-Think IT（インプレス）
-----------------------
-
-https://thinkit.co.jp/
-
-.. image:: /_static/sponsor/media/logos/thinkit.png
-   :alt: Think IT（インプレス）
-   :target: https://thinkit.co.jp/
-
 アイティメディア株式会社
 ------------------------
 
