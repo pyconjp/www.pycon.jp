@@ -519,19 +519,19 @@ Python Boot Camp の開催実績です。
      - 11月16日(土)
      - `QBS-lab <https://www.qdenbs.com/news/archives/26.html>`_
      - 新井 正貴
-     - 8名(予定)
+     - 18名
      - 4
-     - 1
-     -
+     - 3
+     - `開催レポート <https://pyconjp.blogspot.com/2019/12/pycamp-in-fukuoka2nd-report.html>`__
    * - 40
      - `Python Boot Camp in 熊本 <https://pyconjp.connpass.com/event/143197/>`__
      - 12月7日(土)
      - `びぶれす熊日会館 Innovation Studio <https://bista.kumanichi.com/>`_
      - 鈴木 たかのり
-     - 16名(予定)
-     - 1
+     - 15名
      - 2
-     -
+     - 3
+     - `開催レポート <https://pyconjp.blogspot.com/2019/12/pycamp-in-kumamoto2nd-report.html>`__
 
 Python Boot Camp Map
 --------------------
