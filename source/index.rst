@@ -21,6 +21,21 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 :Twitter: `@PyConJ <https://twitter.com/pyconj>`_
 :Facebook: `PyConJP <http://www.facebook.com/PyConJP>`_
 
+PyCon JP 2020
+=============
+PyCon JP 2020 conference will be held on August 28 and 29, 2020 at `the Ota-ku Industrial Plaza PiO <https://www.pio-ota.net/english/>`_ .
+
+We are currently considering whether to hold tutorials and sprints and their schedule.
+
+For the latest information and contact information for PyCon JP 2020, please visit `our blog <https://pyconjp.blogspot.com/search/label/pyconjp2020>`_ .
+
+PyCon JP 2020は、2020年8月28日、29日に `大田区産業プラザPiO <https://www.pio-ota.net/about_pio/>`_ にてカンファレンスを開催予定です。
+
+チュートリアル、スプリントの開催有無および日程については検討中です。
+
+PyCon JP 2020 最新情報およびお問合せ先は `Blog <https://pyconjp.blogspot.com/search/label/pyconjp2020>`_ をご確認ください。
+
+
 PyCon JP 2019
 =============
 .. image:: /_static/pyconjp2019-logo.png
