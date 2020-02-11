@@ -147,7 +147,7 @@ PyCon JP 2021
 pycamp状況報告(ryu22e)
 ======================
 * `Python Boot Camp開催一覧 <https://docs.google.com/spreadsheets/d/1VjM7x6k6Cyk0323ZoAHY2lXMV6VyLrn_Bi8mnOiPMb4/edit#gid=0>`_
-* `Python Boot Camp予算管理 <https://docs.google.com/spreadsheets/d/1Fcgck7fMl6JpqeEVS7j542LE39ibRmCi3UxzfWhcLuc/edit#gid=1116847018.`_
+* `Python Boot Camp予算管理 <https://docs.google.com/spreadsheets/d/1Fcgck7fMl6JpqeEVS7j542LE39ibRmCi3UxzfWhcLuc/edit#gid=1116847018>`_
 * 2019年は10回(藤枝、和歌山、福井、山形市、岐阜、沖縄、高知、群馬、福岡2nd、熊本2nd)開催済した。
 * PyCamp2019予算実績
 
