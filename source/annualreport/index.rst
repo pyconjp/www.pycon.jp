@@ -134,7 +134,7 @@
      - 2368万円
      - 2002万円
      - -366万円
-     - `収支内訳 https://pyconjp.blogspot.com/2019/05/pyconjp2018-financial-statement.html`__
+     - `収支内訳 <https://pyconjp.blogspot.com/2019/05/pyconjp2018-financial-statement.html>`__
 
    - - Python Boot Camp
      - 40万円
