@@ -546,10 +546,10 @@ Python Boot Camp の開催実績です。
      - 2月8日(土)
      - `ミライON図書館 <https://miraionlibrary.jp/>`_
      - 寺田 学
-     - 15名(予定)
-     - 3
-     - 2
-     -
+     - 18名
+     - 4
+     - 1
+     - `開催レポート <https://pyconjp.blogspot.com/2020/03/python-boot-camp-in-nagasaki.html>`__
    * - 42
      - `Python Boot Camp in 福島県郡山市 <https://pyconjp.connpass.com/event/159583/>`__ (新型コロナウイルスの影響により中止)
      - 3月14日(土)
