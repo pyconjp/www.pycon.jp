@@ -11,13 +11,14 @@
 * 資料: 
 
 .. contents:: 目次
-   :loca;
+   :local:
 
-# 本日のメイン
-
+本日のメイン
+============
 * 各種相談をするのをメインとしたい。(takanoy)
 
-# pycamp状況報告(ryu22e) {#pycamp状況報告-ryu22e}
+pycamp状況報告(ryu22e)
+======================
 
 * `Python Boot Camp開催一覧 <https://docs.google.com/spreadsheets/d/1VjM7x6k6Cyk0323ZoAHY2lXMV6VyLrn_Bi8mnOiPMb4/edit#gid=0>`_
 * `Python Boot Camp予算管理 <https://docs.google.com/spreadsheets/d/1Fcgck7fMl6JpqeEVS7j542LE39ibRmCi3UxzfWhcLuc/edit#gid=1116847018>`_
@@ -51,6 +52,7 @@
 
     * https://pyconjp.atlassian.net/browse/ISSHA-1926
   * 535,000円 (前回のミーティングで決定済み)
+
     * 内訳
     * PyCamp開催 10回予定		：500,000円 (50,000円 * 10地域 )
     * PyCon JPポスターセッション	：  5,000円
@@ -101,6 +103,7 @@ OSC出展(Python Boot Camp Caravan)(yoshi-tsukamo)
 
   * 2名と打ち合わせしました。
   * 以下に報告を書いている
+
     * https://pyconjp.atlassian.net/browse/ISSHA-1997
 * 今年のセミナーのネタを考える必要がある(yoshi-tsukamo)
 
@@ -328,6 +331,7 @@ Google for Nonprofits(takanory)
 * BootCampも3月のキャンセルして後処理したら、移動する。
 * できる範囲でファイルのコピー、移動を実施済み
 * どういう仕様、タスクなのか説明資料にまとめた
+
   * https://docs.google.com/document/d/1bIbF5jmTWPAYRFMCpWwe4jxUvfYMMDppWzUg42my76k/edit#
 * いくつかのチケットに分けて作業を進めている
 
@@ -355,15 +359,15 @@ Python地域交流オンライン座談会(takanory)
 -----------------------------------
 * PyCon mini Shizuoka 2020
 
-  * [https://shizuoka.pycon.jp/](https://shizuoka.pycon.jp/)
+  * https://shizuoka.pycon.jp/
   * 2020年2月29日(土)
   * Blogとドメインサポート
-  * 30,000円の支援は振り込み済み [https://pyconjp.atlassian.net/browse/ISSHA-1999](https://pyconjp.atlassian.net/browse/ISSHA-1999)
+  * 30,000円の支援は振り込み済み https://pyconjp.atlassian.net/browse/ISSHA-1999
   * イベントがオンラインになった
 * PyCon Kyushu 2020 in Kumamoto
 
   * 2020年5月23日(土)
-  * [https://kyushu.pycon.jp/2020/](https://kyushu.pycon.jp/2020/)
+  * https://kyushu.pycon.jp/2020/
   * Blogとドメインサポート
   * Silver(5万円)スポンサーで申し込み済みで請求待ち
 
@@ -411,7 +415,7 @@ APACブース in US PyCon(terada, takanory)
 
   * イベント中止の際の保険や費用負担ができないか?
   * 地方イベントに対する追加支援など
-* 弁護士との契約について(terada) [ISSHA-1470](https://pyconjp.atlassian.net/browse/ISSHA-1470)
+* 弁護士との契約について(terada) https://pyconjp.atlassian.net/browse/ISSHA-1470
 
   * 進展なし、進める
 * Read the Docsの有料メッセージ(terada)
