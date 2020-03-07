@@ -52,7 +52,7 @@ Python Boot Campの概要について伝えたランディングページを作�
      - **北海道**
      - 1/1
    * - 東北
-     - 青森、**岩手**、秋田、**宮城**、**山形** (2)、**福島** (2)
+     - 青森、**岩手**、秋田、**宮城**、**山形** (2)、**福島**
      - 4/6
    * - 関東
      - **茨城**、**栃木**、**群馬**、**埼玉**、**千葉**、東京、**神奈川**
@@ -546,12 +546,12 @@ Python Boot Camp の開催実績です。
      - 2月8日(土)
      - `ミライON図書館 <https://miraionlibrary.jp/>`_
      - 寺田 学
-     - 15名(予定)
-     - 3
-     - 2
-     -
+     - 18名
+     - 4
+     - 1
+     - `開催レポート <https://pyconjp.blogspot.com/2020/03/python-boot-camp-in-nagasaki.html>`__
    * - 42
-     - `Python Boot Camp in 福島県郡山市 <https://pyconjp.connpass.com/event/159583/>`__
+     - `Python Boot Camp in 福島県郡山市 <https://pyconjp.connpass.com/event/159583/>`__ (新型コロナウイルスの影響により中止)
      - 3月14日(土)
      - `市民交流プラザ 第３会議室 <http://www.big-i.co.jp/>`_
      - 清水川 貴之
