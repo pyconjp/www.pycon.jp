@@ -6,7 +6,7 @@ Python Boot Camp(初心者向けPythonチュートリアル)
    :width: 198
    :alt: Python Boot Camp ロゴ
 
-いっそうのPythonの普及のため、一般社団法人PyCon JPは日本各地での初心者向けPythonチュートリアルイベント「Python Boot Camp(#pycamp)」を開催します。
+いっそうのPythonの普及のため、一般社団法人PyCon JP Associationは日本各地での初心者向けPythonチュートリアルイベント「Python Boot Camp(#pycamp)」を開催します。
 
 .. contents:: 目次
    :local:
@@ -93,7 +93,7 @@ Python Boot Campの目的
 参加費
 
 - 一般: 2,000円、学生: 500円
-- 講師の旅費、宿泊費や会場費は、一般社団法人PyCon JPから費用支援します
+- 講師の旅費、宿泊費や会場費は、一般社団法人PyCon JP Associationから費用支援します
 
 テキスト
 
@@ -110,7 +110,7 @@ Python Boot Campの目的
 
 PyCon JPからのサポート
 ----------------------
-運営の主体は各現地スタッフにお願いしていますが、一般社団法人PyCon JPからは以下のようなサポートができます。
+運営の主体は各現地スタッフにお願いしていますが、一般社団法人PyCon JP Associationからは以下のようなサポートができます。
 
 - 講師の派遣
 - 講師との事前打ち合わせなどの設定
@@ -618,7 +618,7 @@ Python Boot Camp in 香川 開催後に立ち上げたPythonコミュニティ `
 -----------------------------
 .. image:: /_static/takanori.jpg
 
-一般社団法人PyCon JP理事、 `株式会社ビープラウド <http://www.beproud.jp/>`_ 所属
+一般社団法人PyCon JP Association副代表理事、 `株式会社ビープラウド <http://www.beproud.jp/>`_ 所属
 
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
 他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
