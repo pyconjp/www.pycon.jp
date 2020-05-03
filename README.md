@@ -11,7 +11,7 @@
 ```
 $ git clone https://github.com/pyconjp/www.pycon.jp.git
 $ cd www.pycon.jp
-$ python3.6 -m venv env
+$ python3.8 -m venv env
 $ . env/bin/activate
 (env)$ pip install -r requirements.txt
 (env)$ make html
