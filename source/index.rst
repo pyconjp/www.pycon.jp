@@ -50,7 +50,7 @@ PyCon JP 2019を開催終了しました。
 
 各イベントへのお問い合わせは、各イベント別のお問い合わせ窓口までお願いします。
 
-一般社団法人PyCon JP Associationへのお問い合せは、理事メールアドレス(board@pycon.jp)までお願いします。
+一般社団法人PyCon JP Associationへのお問い合わせは、理事メールアドレス(board@pycon.jp)までお願いします。
 
 PyCon JP カレンダー
 ===================
