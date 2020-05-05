@@ -35,16 +35,6 @@ PyCon JP 2020は、2020年8月28日、29日に `大田区産業プラザPiO <htt
 
 PyCon JP 2020 最新情報およびお問合せ先は `Blog <https://pyconjp.blogspot.com/search/label/pyconjp2020>`_ をご確認ください。
 
-
-PyCon JP 2019
-=============
-.. image:: /_static/pyconjp2019-logo.png
-   :alt: PyCon JP 2019 logo
-
-PyCon JP 2019を開催終了しました。
-
-詳細については `公式Webサイト <https://pycon.jp/2019>`_ をご確認ください。
-
 お問い合わせ
 ============
 
