@@ -40,7 +40,7 @@ PyCon JP 2020 最新情報およびお問合せ先は `Blog <https://pyconjp.blo
 
 各イベントへのお問い合わせは、各イベント別のお問い合わせ窓口までお願いします。
 
-一般社団法人 PyCon JP へのお問い合せは、理事メールアドレス(board@pycon.jp)までお願いします。
+一般社団法人PyCon JP Associationへのお問い合わせは、理事メールアドレス(board@pycon.jp)までお願いします。
 
 PyCon JP カレンダー
 ===================
