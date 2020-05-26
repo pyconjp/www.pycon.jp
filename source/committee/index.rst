@@ -46,6 +46,7 @@ PyCon JPを素晴らしいカンファレンスとして維持していくには
    charter
    contract
    board
+   members
    operation
    meeting/index
    license
