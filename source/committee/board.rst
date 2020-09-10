@@ -36,9 +36,9 @@ Python Web関係の業務を中心にコンサルティングや構築を手が�
 他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
 
 
-共著書に『 `いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ （2019 インプレス刊）』『 `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <https://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』『 `いちばんやさしいPythonの教本 <https://book.impress.co.jp/books/1116101151>`_ （2017 インプレス刊）』などがある。
+共著書／訳書に『最短距離でゼロからしっかり学ぶPython入門 (`必修編 <https://gihyo.jp/book/2020/978-4-297-11570-8>`_・`実践編 <https://gihyo.jp/book/2020/978-4-297-11572-2>`_) （2020 技術評論社刊）』『 `いちばんやさしいPythonの教本 第2版 <https://book.impress.co.jp/books/1119101162>`_ （2020 インプレス刊）』『 `いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ （2019 インプレス刊）』『 `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』『 `Pythonエンジニア ファーストブック <https://gihyo.jp/book/2017/978-4-7741-9222-2>`_ （2017 技術評論社刊）』などがある。
 
-最近の楽しみはPython Boot Campの講師で訪れた土地で、現地のクラフトビールを飲むこと。2019年は世界各国のPyConでの発表に挑戦している。
+最近の楽しみはPython Boot Campの講師で訪れた土地で、現地のクラフトビールを飲むこと。2019年は世界各国のPyConでの発表に挑戦し、日本を含む9か国で発表した。
 趣味は吹奏楽とボルダリングとレゴとペンシルパズル。
 
 :facebook: `takanory.net <https://www.facebook.com/takanory.net>`_
