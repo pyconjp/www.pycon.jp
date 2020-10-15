@@ -17,6 +17,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSeBTd6LQVmPN_orLM8kM9r913UroW6dwRycz83b
 運営メンバー一覧
 ================
 
+.. _ryu22e-profile:
+
 筒井 隆次(Ryuji Tsutsui)
 ------------------------
 .. figure:: /_static/ryu22e.jpg
@@ -34,6 +36,8 @@ Google Cloud Platformのユーザーグループ `GCPUG Shonan <https://gcpug-sh
 
 * Twitter: `@ryu22e <https://twitter.com/ryu22e>`_
 * Blog: `ryu22eBlog <https://ryu22e.org/>`_
+
+.. _kobatomo-profile:
 
 小林 智博(Tomohiro Kobayashi)
 -----------------------------
