@@ -57,24 +57,32 @@ Python Boot Camp in 香川 開催後に立ち上げたPythonコミュニティ `
 塚本 佳康(Yoshiyasu Tsukamoto)
 ------------------------------
 .. figure:: /_static/yoshi-tsukamo.jpg
+   :width: 160
 
 Python Boot Camp Caravan担当
 
-(静岡県でUnagi.pyとPython駿河を主催しています。)
-(ここにプロフィールを入れてください)
+静岡県出身・在住。Python Boot Camp in 愛知に一般参加したことがきっかけでPythonを使い始め、その勢いで静岡県でのPython Boot Campの現地スタッフを2度務める。
+地域コミュニティとして、Python Boot Camp in 静岡から `Unagi.py <https://unagi-py.connpass.com/>`_ を、Python Boot Camp in 静岡県藤枝市から `Python駿河 <https://py-suruga.connpass.com/>`_ を立ち上げ、運営スタッフとして活動している。
 
-(Twitter, Facebook等のリンクあればどうぞ)
+好きな映画は『ゴッドファーザー』三部作（プロフィール画像やハンドルネームはゴッドファーザーから拝借）。
+
+* Twitter: `@yoshi_corleone <https://twitter.com/yoshi_corleone>`_
 
 石田 真彩(Maaya Ishida)
 -----------------------
 .. figure:: /_static/maaya.jpg
+   :width: 160
 
 PyLadies Caravan担当
 
-(PyLadies Tokyo 運営。日本マイクロソフト株式会社所属。ゆるふわクラウドアーキテクト)
-(ここにプロフィールを入れてください)
+`PyLadies Tokyo`_ オーガナイザーのうちの一人。PyLadies Tokyo meetup #1 を機にPythonに触れ始める。
+日本中のPythonistaな女性同士が繋がれたらもっと楽しいだろうと思い、2019年から `PyLadies Caravan`_ の運営をスタートする。
 
-(Twitter, Facebook等のリンクあればどうぞ)
+* Twitter: `@maaya8585 <https://twitter.com/maaya8585>`_
+* Blog: `hotchpotch <https://hotchpotchj37.wordpress.com/>`_
+
+.. _PyLadies Tokyo: https://tokyo.pyladies.com/
+.. _PyLadies Caravan: https://tokyo.pyladies.com/caravan/index.html
 
 山下 加奈恵(Kanae Yamashita)
 ----------------------------
