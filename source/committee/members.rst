@@ -87,10 +87,12 @@ PyLadies Caravan担当
 山下 加奈恵(Kanae Yamashita)
 ----------------------------
 .. figure:: /_static/kanan.jpg
+   :width: 160
 
 PyLadies Caravan担当
 
-(PyLadies Caravan運営チームとして各地域の女性エンジニア支援を実施。PyLadies Tokyoメンバー)
-(ここにプロフィールを入れてください)
+データ分析を生業にしてたことからPythonに興味を持ち `PyLadies Tokyo`_ に参加し始める。
+日本のいろんな地域が好き。エンジニアの女性がどこにいたって繋がれるコミュニティを作りたいという想いに共感し、 `PyLadies Caravan`_ の立上げ時から参画。
+将来の夢は旅するPythonista。
 
-(Twitter, Facebook等のリンクあればどうぞ)
+* Twitter: `@Addition_quince <https://twitter.com/Addition_quince>`_
