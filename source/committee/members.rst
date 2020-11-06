@@ -6,16 +6,27 @@
 
 運営メンバーとは
 ================
-運営メンバーがどういう人かの説明を書く
+**運営メンバー** とは、一般社団法人PyCon JP Associationの理事と協力して、同法人が主催、支援する各種事業の運営を行う人のことを指します。
+理事会のメンバーについては :doc:`board` を参照してください。
 
-申し込みフォームはこちら
+以下のような活動を行っていますが、Pythonを広めるための新規活動の立ち上げも可能です。
 
-https://docs.google.com/forms/d/e/1FAIpQLSeBTd6LQVmPN_orLM8kM9r913UroW6dwRycz83bKNyoZFW3qQ/viewform
+* 一般社団法人PyCon JP Associationの運営
+* Python Boot Camp(Caravan含む)
+* 地域コミュニティのサポート
+* PyLadies Cararvan(女性のみ)
+
+運営メンバーになるには、以下のフォームに必要事項を記入して申し込んでください。
+申し込みを受け付けた後、理事メンバーで確認してから連絡します。
+一緒に日本のPython界隈を盛り上げていきましょう。
+
+* `PyCon JP Association運営メンバー申し込みフォーム <https://docs.google.com/forms/d/e/1FAIpQLSeBTd6LQVmPN_orLM8kM9r913UroW6dwRycz83bKNyoZFW3qQ/viewform>`__
 
 .. Blogへのリンクも入れる
 
-運営メンバー一覧
-================
+運営メンバーの一覧
+==================
+以下は運営メンバーのプロフィールです。
 
 .. _ryu22e-profile:
 
