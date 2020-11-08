@@ -18,11 +18,10 @@ Python Web関係の業務を中心にコンサルティングや構築を手が�
 
 `スラスラわかるPython <https://www.shoeisha.co.jp/book/detail/9784798151090>`_ （2017 翔泳社刊） を監修。共著書に `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）などがある。
 
-:facebook: terapyon_
-:twitter: `@terapyon`_
+:facebook: `terapyon <https://www.facebook.com/terapyon>`_
+:twitter: `@terapyon <https://twitter.com/terapyon>`_
 
-.. _terapyon: https://www.facebook.com/terapyon
-.. _@terapyon: https://twitter.com/terapyon
+.. _takanory-profile:
 
 鈴木 たかのり (Takanori Suzuki)
 ===============================

@@ -599,46 +599,11 @@ Python Boot Camp のテキストを利用したイベントがあったら、ぜ
 
 * `Python Boot Campのテキスト利用実績登録フォーム <https://docs.google.com/forms/d/e/1FAIpQLSdjqaZMSNQbDRGajkFYiYK2H6Q6NHwCl4oKI7SmO7ykLVQW5w/viewform>`_
 
-コアスタッフの紹介
-==================
-Python Boot Campの現地での開催をサポートするコアスタッフです。
+Python Boot Camp運営メンバー
+============================
+Python Boot Campの現地での開催をPyCon JP Associationの運営メンバー、理事がサポートします。
+各運営メンバー、理事のプロフィールは以下のリンクを参照してください。
 
-筒井 隆次(Ryuji Tsutsui)
-------------------------
-.. image:: /_static/ryu22e.jpg
-
-`株式会社クレジットエンジン <https://www.creditengine.jp/>`_ 所属
-
-Pythonを学んだのは2011年ごろ。その前はJava・PHPメインだったが、書きやすさが気に入って今では一番のお気に入りになっている。
-現在は自社サービスをDjangoで開発している。
-
-PyCon APAC 2013・PyCon JP 2014のスタッフ。この頃一緒にスタッフをやっていた人から、2016年にPython Boot Campの立ち上げの話を聞き、「面白そう！」と思ってコアスタッフになった。
-
-Google Cloud Platformのユーザーグループ `GCPUG Shonan <https://gcpug-shonan.connpass.com/>`_ スタッフ、Python Boot Camp in 神奈川参加者が立ち上げたPythonコミュニティ `Shonan.py <https://shonan-py.connpass.com/>`_ スタッフとしても活動している。
-
-* Twitterアカウント: `@ryu22e <https://twitter.com/ryu22e>`_
-* Blog: `ryu22eBlog <https://ryu22e.org/>`_
-
-小林智博(Tomohiro Kobayashi)
------------------------------
-.. image:: /_static/kobatomo.png
-
-Pythonは、機械学習を学ぶ際に利用したのがきっかけで使い始める。
-2017年3月:はじめてのPythonはプロから学ぶのが最速と考え、Python Boot Camp in 広島 に参加。
-2017年6月:地元でのPython仲間発掘のため、Python Boot Camp in 香川 の現地スタッフとして手をあげる。
-2018年2月:たかのりさんが発案した日本各地でPythonの輪を広げる活動「Python Boot Camp」に巻き込まれてみたいとおもいコアスタッフとなる。
-
-Python Boot Camp in 香川 開催後に立ち上げたPythonコミュニティ `UDONPy <https://udonpy.connpass.com/>`_ スタッフ、四国でAgileを学び合い、実践を共有するためのコミュニティ `Agile459 <https://agile459.connpass.com/>`_ スタッフ、としても活動している。
-
-* Twitterアカウント: `@kobatomo3H <https://twitter.com/kobatomo3H>`_
-
-鈴木たかのり(Takanori Suzuki)
------------------------------
-.. image:: /_static/takanori.jpg
-
-一般社団法人PyCon JP Association副代表理事、 `株式会社ビープラウド <http://www.beproud.jp/>`_ 所属
-
-部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
-他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
-
-Python Boot Campの発案者で、各地に講師としても参加している。現地のクラフトビールを飲んで帰るのが楽しみ。
+* :ref:`ryu22e-profile`
+* :ref:`kobatomo-profile`
+* :ref:`takanory-profile`
