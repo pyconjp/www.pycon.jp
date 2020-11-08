@@ -23,26 +23,14 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 
 PyCon JP 2020
 =============
-PyCon JP 2020 conference will be held on August 28 and 29, 2020 at `online <https://pyconjp.blogspot.com/2020/04/notice-of-online-conference.html>`_ .
+PyCon JP 2020 ended successfully.
 
-We are currently considering whether to hold tutorials and sprints and their schedule.
+PyCon JP 2020は開催を終了しました。
 
-For the latest information for PyCon JP 2020, please visit `our Website <https://pycon.jp/2020/>`_ and `our blog <https://pyconjp.blogspot.com/search/label/pyconjp2020>`_ .
-
-PyCon JP 2020は、2020年8月28日、29日に `オンライン <https://pyconjp.blogspot.com/2020/04/notice-of-online-conference.html>`_ にてカンファレンスを開催予定です。
-
-チュートリアル、スプリントの開催有無および日程については検討中です。
-
-詳細については `公式Webサイト <https://pycon.jp/2020/>`_ および `Blog <https://pyconjp.blogspot.com/search/label/pyconjp2020>`_ をご確認ください。
+`PyCon JP 2020 Website <https://pycon.jp/2020/>`_
 
 お問い合わせ
 ============
-PyCon JP 2020 スポンサーの方は `PyCon JP 2020 Online Sponsorship Package <https://drive.google.com/file/d/1IZjr8o-oWnFGq-O9-rSDYW0FCJNuyRgY/view>`_ をご確認の上、記載のメールアドレスにお問い合わせください。
-
-PyCon JP 2020 プロポーザルに関しての質問は `PyCon JP 2020 proposal question form <https://docs.google.com/forms/d/e/1FAIpQLScW-s8M96jsr9A7Fbu-GsDuBvrL5yu0QGr5gpZ20DmAtRzTqg/viewform>`_ からご連絡ください。
-
-PyCon JP 2020 一般参加希望の方は募集開始までお待ちください。
-
 各イベントへのお問い合わせは、各イベント別のお問い合わせ窓口までお願いします。
 
 一般社団法人PyCon JP Associationへのお問い合わせは、理事メールアドレス(board@pycon.jp)までお願いします。

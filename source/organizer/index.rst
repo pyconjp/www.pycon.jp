@@ -40,6 +40,8 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   : 2018 Sep 15-18(Tutorial, Conference, Development Sprints)
 - `PyCon JP 2019 <https://pycon.jp/2019>`_
   : 2019 Sep 14-17(Tutorial, Conference, Development Sprints)
+- `PyCon JP 2020 <https://pycon.jp/2020>`_
+  : 2020 Aug 28-29(Conference), Aug 22-30(Tutorial, Development Sprints)
 
 過去の PyCon JP 詳細
 ====================
@@ -118,7 +120,7 @@ PyCon JP 2014
   - `Rediscover with Python <http://www.slideshare.net/nishio/pyconjp-keynote-speach-japanese-version>`_ / 西尾 泰和
 :Description: 3トラック, 36セッション (英語1:日本語2), 3有料チュートリアル、ポスターセッション、ジョブフェア他
 :Sponsor: 1 Platinum, 6 Gold, 31 Silver, 41 Patrons, 6 Media
-          
+
 PyCon JP 2015
 -------------
 
@@ -170,7 +172,7 @@ PyCon JP 2017
 :Attendees: 691(Conference)
 :Keynote:
   - `Python for Data: Past, Present, Future <http://www.slideshare.net/misterwang/python-for-data-past-present-future-pycon-jp-2017-keynote>`_ / Peter Wang
-  - `pandasでのOSS活動 事例と最初の一歩 <https://speakerdeck.com/sinhrks/pandasdefalseosshuo-dong-shi-li-tozui-chu-false-bu>`_ / 堀越 真映 
+  - `pandasでのOSS活動 事例と最初の一歩 <https://speakerdeck.com/sinhrks/pandasdefalseosshuo-dong-shi-li-tozui-chu-false-bu>`_ / 堀越 真映
 :Description: 3 Tracks, 40 Talk sessions, 1 Invited talks, 4 Tutorials, Poster sessions, Jobs Fair, Media Meeting and etc.
 :Sponsor: 1 Diamond, 3 Platinum, 8 Gold, 28 Silver, 20 Patrons, 6 Media
 
@@ -212,3 +214,21 @@ PyCon JP 2019
 :Description: 5 Tracks, 47 Talk sessions, 1 Invited talks, 3 Tutorials, Poster sessions, Beginner session, Jobs Fair and etc.
 :Sponsor: 1 Diamond, 3 Platinum, 15 Gold, 1 Sprint, 21 Silver, 12 Patrons, 6 Media , 2 Network Sponsor
 
+PyCon JP 2020
+-------------
+
+:URL: https://pycon.jp/2020/
+:Date:
+  - Development Sprints: 2020 Aug 22(Sat) - 30(Sun)
+  - Conference: 2020 Aug 28(Fri), 29(Sat)
+  - Tutorial, Youth Coder Workshop: 2020 Aug 30(Sun)
+:Venue:
+  - Online(Zoom & YouTube Live)
+:Keynote:
+  - Pythonで遊ぼう コンピュータ将棋2020 / 芝世弐 : `Video <https://www.youtube.com/watch?v=ghVEuOuKW00>`__
+  - `From Serverless to Stateless <https://github.com/Miserlou/Talks/blob/master/pycon-jp-2020/talk.html>`_ / Rich Jones : `Video <https://www.youtube.com/watch?v=dNWRm21cVBI>`__
+:Attendees:
+  - Conference: 631(Zoom tickets) + 2,988(YouTube Live 2days Unique Users; an user accessing for 2 days is counted as 1 person)
+  - Tutorial: 40(Zoom tickets [sold out]) + 274(YouTube Live Unique Users)
+:Description(Conference): 5 Tracks(2 KeyNotes, 5 Invited talks, 49 Tals sessions), Lunch Time session, and etc.
+:Sponsor: 3 Platinum, 8 Gold, 8 Silver, 1 Special, 12 Patrons, 5 Tutorial, 6 Media
