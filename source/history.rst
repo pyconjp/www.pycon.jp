@@ -5,18 +5,6 @@ PyCon JP の歴史
 .. contents::
    :local:
 
-目次案
-========================
-
-
-- はじめに
-- PyCon APAC in Singapore
-- PyCon JPのはじまり
-- PyCon mini から PyCon 2012
-- 一般社団法人化
-- PyCon APAC 2013 in Japan と APACコミュニティ
-- 2014年から2016年
-- 2017年
 
 はじめに
 ==========
