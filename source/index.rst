@@ -11,6 +11,7 @@
    donation/index
    annualreport/index
    sponsor/index
+   history
 
 最新情報
 ========
