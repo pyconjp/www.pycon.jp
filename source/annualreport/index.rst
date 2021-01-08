@@ -36,7 +36,7 @@
      - 2927万円
      - 2172万円
      - -755万円
-     - 収支内訳は後日公開予定
+     - `収支内訳 <https://pyconjp.blogspot.com/2020/04/pycon-jp-2019.html>`__
 
    - - Python Boot Camp
      - 40万円
