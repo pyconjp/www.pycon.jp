@@ -36,14 +36,14 @@
 
 Python Boot Camp担当
 
-`株式会社クレジットエンジン <https://www.creditengine.jp/>`_ 所属
-
 Pythonを学んだのは2011年ごろ。その前はJava・PHPメインだったが、書きやすさが気に入って今では一番のお気に入りになっている。
 現在は自社サービスをDjangoで開発している。
 
 PyCon APAC 2013・PyCon JP 2014のスタッフ。この頃一緒にスタッフをやっていた人から、2016年にPython Boot Campの立ち上げの話を聞き、「面白そう！」と思ってコアスタッフになった。
 
 Google Cloud Platformのユーザーグループ `GCPUG Shonan <https://gcpug-shonan.connpass.com/>`_ スタッフ、Python Boot Camp in 神奈川参加者が立ち上げたPythonコミュニティ `Shonan.py <https://shonan-py.connpass.com/>`_ スタッフとしても活動している。
+
+趣味は映画鑑賞・格闘技観戦。
 
 * Twitter: `@ryu22e <https://twitter.com/ryu22e>`_
 * Blog: `ryu22eBlog <https://ryu22e.org/>`_
