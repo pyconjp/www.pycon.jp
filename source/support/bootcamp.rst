@@ -569,7 +569,7 @@ Python Boot Camp の開催実績です。
      -
      -
    * - 43
-     - `Python Boot Camp in 鎌倉 <https://pyconjp.connpass.com/event/191650/>`__
+     - `Python Boot Camp in 鎌倉 <https://pyconjp.connpass.com/event/191650/>`__ (新型コロナウイルスの影響により中止)
      - 1月16日(土)
      - `HATSU鎌倉 <https://www.pref.kanagawa.jp/osirase/0604/hatsu/>`_
      - 新井 正貴
