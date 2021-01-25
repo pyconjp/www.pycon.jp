@@ -107,3 +107,20 @@ PyLadies Caravan担当
 将来の夢は旅するPythonista。
 
 * Twitter: `@Addition_quince <https://twitter.com/Addition_quince>`_
+
+高井 陽一(Yoichi Takai) a.k.a Peacock
+-------------------------------------
+.. figure:: /_static/peacock.jpg
+   :width: 160
+
+PyCon JP TV担当
+
+東京電機大学で情報通信工学を学ぶかたわら、CMSコミュニケーションズの社員として働いている。2019年にPyCon JPに初参加し、 `PyCon JP 2020`_ はデザインチームリーダーとして活動した。
+
+イベント、特に舞台監督やディレクター的な役回りをすることが好き。先述のPyCon JP 2020では、配信拠点でのディレクションも一部担当していた。
+
+.. _PyCon JP 2020: https://pycon.jp/2020/
+
+* Twitter: `@peacock0803sz <https://twitter.com/peacock0803sz>`_
+* HP: https://peacock0803sz.com
+
