@@ -124,3 +124,17 @@ PyCon JP TV担当
 * Twitter: `@peacock0803sz <https://twitter.com/peacock0803sz>`_
 * HP: https://peacock0803sz.com
 
+大崎 有依(Yui Ohsaki)
+----------------------------
+.. figure:: /_static/nana.jpg
+   :width: 160
+
+PyCon JP TV担当
+
+デザイナーからPython教育関連サービスのマーケターに転職。
+Pythonに触れる中で技術コミュニティの有機的なつながりに惹かれ、PyCon JP 2019 デザインチームとして活動。
+UX、グラフィックを通してほんのり人のつながりを彩るべくPyCon JP TVの活動に参加。
+
+
+* Twitter: `@nana_marux <https://twitter.com/nana_marux>`_
+
