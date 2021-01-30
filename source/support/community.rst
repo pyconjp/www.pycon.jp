@@ -145,9 +145,22 @@
 
   - 日時: 2019年10月12日(土)
   - 会場: 広島市立大学サテライトキャンパス
-  - 主催 PyCon mini Hiroshima 実行委員会
+  - 主催: PyCon mini Hiroshima 実行委員会
   - 参加者数: 70名
   - Blog: `10月12日、PyCon mini Hiroshima 2019 開催しました！ <https://pyconjp.blogspot.com/2019/10/1012pycon-mini-hiroshima-2019.html>`_
+
+- `PyCon mini Shizuoka 2020 <https://shizuoka.pycon.jp/>`_
+
+  - 日時: 2020年2月29日(土)
+  - 会場: 藤枝 Biviキャン、オンライン
+  - 主催: PyCon mini Shizuoka 実行委員会 
+  - Blog: `PyCon mini Shizuoka オンライン開催のお知らせ <https://pyconjp.blogspot.com/2020/02/pycon-mini-shizuoka.html>`_
+
+- `PyCon mini Hiroshima 2020 <https://hiroshima.pycon.jp/2020//>`_
+
+  - 日時: 2020年10月10日(土)
+  - 会場: オンライン
+  - 主催: PyCon mini Hiroshima 実行委員会
 
 お問い合わせ、ご相談
 ====================
