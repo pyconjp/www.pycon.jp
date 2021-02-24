@@ -16,7 +16,7 @@
 
   - `2020年度 決算報告書(PDF)`__
 
-.. __: #
+.. __: https://drive.google.com/file/d/15tQn0nnc5OrBDnp2jaTlG2dm-39113sR/view
 
 主な収支
 
@@ -34,9 +34,9 @@
 
    - - PyCon JP 2020
      - 0円
-     - xxxx万円
-     - xxxx万円
-     - -xxx万円
+     - 670万円
+     - 364万円
+     - -306万円
      - 収支内訳は後日公開
 
    - - Python Boot Camp
