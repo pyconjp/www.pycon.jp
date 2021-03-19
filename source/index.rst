@@ -30,7 +30,7 @@ PyCon JP 2021 のカンファレンス日程は2021/10/15-16に仮決定しま�
 
 PyCon JP 2021 の最新情報およびお問い合わせは `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2021>`_ をご確認ください。
 
-The schedule for PyCon JP 2021 has been tentatively set.Oct 15 to 16.
+The schedule for PyCon JP 2021 has been tentatively set. Oct 15 to 16.
 
 Please check `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2021>`_ for the latest information and questions about PyCon JP 2021.
 
