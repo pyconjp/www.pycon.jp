@@ -19,16 +19,20 @@
 PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照してください。
 
 :Blog: `PyCon JP Blog <http://pyconjp.blogspot.jp/>`_
-:Twitter: `@PyConJ <https://twitter.com/pyconj>`_
+:Twitter: `@pyconjapan <https://twitter.com/pyconjapan>`_
 :Facebook: `PyConJP <http://www.facebook.com/PyConJP>`_
 
-PyCon JP 2020
+PyCon JP 2021
 =============
-PyCon JP 2020 ended successfully.
+PyCon JP 2021 のカンファレンス日程は2021/10/15-16に仮決定しました!
 
-PyCon JP 2020は開催を終了しました。
+私たちは一緒にイベントを創り上げるボランティアスタッフを大募集しています！是非ご協力ください！
 
-`PyCon JP 2020 Website <https://pycon.jp/2020/>`_
+PyCon JP 2021 の最新情報およびお問い合わせは `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2021>`_ をご確認ください。
+
+The schedule for PyCon JP 2021 has been tentatively set.Oct 15 to 16.
+
+Check `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2021>`_ for the latest information and questions about PyCon JP 2021.
 
 お問い合わせ
 ============
