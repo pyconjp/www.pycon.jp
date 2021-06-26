@@ -35,8 +35,6 @@ PyCon JPを素晴らしいカンファレンスとして維持していくには
 
 反社会的勢力の不当な要求に対しては、組織全体として断固たる姿勢で拒絶し、民事・刑事の両面から法的対応を行い、かつ、対応する役職員の安全確保に努めます。
 
-
-
 その他の情報
 ------------
 .. toctree::
@@ -45,10 +43,18 @@ PyCon JPを素晴らしいカンファレンスとして維持していくには
    foundation
    charter
    contract
-   board
-   members
    operation
    meeting/index
    license
    access
 
+理事、メンバーについて
+----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   board
+   members
+   board_history
+  
