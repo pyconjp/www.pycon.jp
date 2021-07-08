@@ -49,7 +49,7 @@
      - 参照先
      - 説明
    * - Twitter
-     - | `@pyconj <https://twitter.com/pyconj>`_
+     - | `@pyconjapan <https://twitter.com/pyconjapan>`_
        | `#pyconjp <https://twitter.com/search?q=%23pyconjp&src=typd>`_ (ハッシュタグ)
      - PyCon JP のオフィシャルアカウント。
        `GroupTweet <http://www.grouptweet.com/>`_ を使用してメンバーからツイート可能
@@ -69,8 +69,6 @@
 
 会計
 ====
-- `ジャパンネット銀行 <http://www.japannetbank.co.jp/>`_ 銀行口座
+- `PayPay銀行 <https://www.paypay-bank.co.jp/>`_ 銀行口座
 - `PayPal <https://www.paypal.com/>`_ 決済サービス
-- `freee <https://www.freee.co.jp/>`_ 会計ソフト
 - `楽天銀行 <http://www.rakuten-bank.co.jp/>`_ 海外からの振り込み用口座
-- `新生銀行 GoRemit <http://www.shinseibank.com/product/goremit/>`_ 海外送金サービス
