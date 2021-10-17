@@ -134,16 +134,16 @@
   - 主催: PyCon mini Sapporo 実行委員会
   - 参加者数: 121名
 
-- `PyCon Kyushu in Okinawa 2019 <https://kyushu.pycon.jp/>`_
+- `PyCon Kyushu in Okinawa 2019 <https://kyushu.pycon.jp/2019/>`_
 
-  - 日時: 2019年5月18日(土)
+  - 日時: 2019年5月18日(土) 10:00-18:00
   - 会場: 琉球大学
   - 主催: PyCon Kyushu 実行委員会 
   - 参加者数: 158名(スタッフ除く)
 
 - `PyCon mini Hiroshima 2019 <https://hiroshima.pycon.jp/2019/>`_
 
-  - 日時: 2019年10月12日(土)
+  - 日時: 2019年10月12日(土) 10:00-17:40
   - 会場: 広島市立大学サテライトキャンパス
   - 主催: PyCon mini Hiroshima 実行委員会
   - 参加者数: 70名
@@ -151,16 +151,31 @@
 
 - `PyCon mini Shizuoka 2020 <https://shizuoka.pycon.jp/>`_
 
-  - 日時: 2020年2月29日(土)
+  - 日時: 2020年2月29日(土) 9:50-19:30
   - 会場: 藤枝 Biviキャン、オンライン
   - 主催: PyCon mini Shizuoka 実行委員会 
   - Blog: `PyCon mini Shizuoka オンライン開催のお知らせ <https://pyconjp.blogspot.com/2020/02/pycon-mini-shizuoka.html>`_
 
 - `PyCon mini Hiroshima 2020 <https://hiroshima.pycon.jp/2020//>`_
 
-  - 日時: 2020年10月10日(土)
+  - 日時: 2020年10月10日(土) 14:00-17:00
   - 会場: オンライン
   - 主催: PyCon mini Hiroshima 実行委員会
+- `DjangoCongress JP 2021 <https://djangocongress.jp/>`_
+
+  - 日時: 2021年7月3日(土) 10:00-18:15
+  - 会場: 長野市生涯学習センター、オンライン
+  - 主催: `django-ja <http://djangoproject.jp/>`_
+- `PyCon mini Shizuoka 2021 <https://shizuoka.pycon.jp/2021>`_
+
+  - 日時: 2021年11月20日(土)
+  - 会場: オンライン
+  - 主催: PyCon mini Shizuoka 実行委員会
+- `PyCon Kyushu 2022 Kumamoto <https://kyushu.pycon.jp/2022/>`_
+
+  - 日時: 2022年1月22日(土) 9:30-17:00
+  - 会場: 熊本城ホール 会議室B・D
+  - 主催: `PyCon Kyushu 実行委員会 <https://www.pykyushu.jp/>`_
 
 お問い合わせ、ご相談
 ====================
