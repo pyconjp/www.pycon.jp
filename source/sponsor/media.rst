@@ -68,3 +68,11 @@ https://www.atmarkit.co.jp
    :alt: アイティメディア株式会社
    :target: https://www.atmarkit.co.jp
 
+ログミーTech
+------------
+
+https://logmi.jp/tech
+
+.. image:: /_static/sponsor/media/logos/logmi-tech.png
+   :alt: ログミーTech
+   :target: https://logmi.jp/tech
