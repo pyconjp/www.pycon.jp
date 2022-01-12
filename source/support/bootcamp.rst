@@ -585,7 +585,7 @@ Python Boot Camp の開催実績です。
      - 15名(予定)
      - 3
      - 1
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2022/01/pycamp-in-yamaguchi-report.html>`__
 
 Python Boot Camp Map
 --------------------
