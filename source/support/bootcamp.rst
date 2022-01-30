@@ -594,6 +594,37 @@ Python Boot Camp Map
 
    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UnriKXo-ZgqOELpMqZz3g3l7Yws" width="640" height="640"></iframe>
 
+「Python Boot Campのその後」記事一覧
+====================================
+
+Python Boot Campから生まれた、またはPython Boot Campを開催したコミュニティの主催者にインタビューした記事の一覧です。
+
+.. list-table::
+   :header-rows: 1
+   :widths: 10 15 30
+
+   * - 地域名
+     - コミュニティ名
+     - 記事URL
+   * - 山梨
+     - shingen.py
+     - `Python Boot Campその後 ― Shingen.py <https://pyconjp.blogspot.com/2020/12/after-pycamp-shingen-py.html>`_
+   * - 香川
+     - UDONPy
+     - `Python Boot Campその後 ― UDONPy <https://pyconjp.blogspot.com/2020/12/after-pycamp-udonpy.html>`_
+   * - 神奈川
+     - Shonan.py
+     - `Python Boot Campその後 ― Shonan.py <https://pyconjp.blogspot.com/2020/11/after-pycamp-shonan-py.html.html>`_
+   * - 広島
+     - すごい広島 with Python
+     - `Python Boot Campその後 ― すごい広島 with Python <https://pyconjp.blogspot.com/2020/09/after-pycamp-sugoi-hiroshima-with-python.html>`_
+   * - 岡山
+     - 岡山Python勉強会
+     - `Python Boot Campその後 ― 岡山Python勉強会 <https://pyconjp.blogspot.com/2020/08/after-pycamp-okayama-python-benkyokai.html>`_
+   * - 岐阜
+     - 飛騨高山Pythonの会
+     - `Python Boot Campその後 ― 飛騨高山Pythonの会 <https://pyconjp.blogspot.com/2020/06/after-pycamp-hidatakayama-python-kai.html>`_
+
 テキスト利用実績
 ================
 `Python Boot Camp のテキスト <https://pycamp.pycon.jp/textbook/index.html>`_ を利用した勉強会の実績です。
