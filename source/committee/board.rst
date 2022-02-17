@@ -26,18 +26,19 @@ Python Web関係の業務を中心にコンサルティングや構築を手が�
 鈴木 たかのり (Takanori Suzuki)
 ===============================
 .. figure:: /_static/takanori.jpg
+   :width: 160
 
 副代表理事
 
-`株式会社ビープラウド <http://www.beproud.jp/>`_ 所属。
+一般社団法人PyCon JP Association副代表理事、`株式会社ビープラウド <http://www.beproud.jp/>`_ 取締役 / Python Climber
 
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
-他の主な活動は、 `Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、 `Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
+他の主な活動は、`Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、`Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
 
 
-共著書／訳書に『`Python実践レシピ <https://gihyo.jp/book/2022/978-4-297-12576-9>`_ （2021 技術評論社刊）』『最短距離でゼロからしっかり学ぶPython入門 (`必修編 <https://gihyo.jp/book/2020/978-4-297-11570-8>`_・`実践編 <https://gihyo.jp/book/2020/978-4-297-11572-2>`_) （2020 技術評論社刊）』『`いちばんやさしいPythonの教本 第2版 <https://book.impress.co.jp/books/1119101162>`_ （2020 インプレス刊）』『`いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ （2019 インプレス刊）』『`Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『`Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』などがある。
+共著書／訳書に『`Python実践レシピ <https://gihyo.jp/book/2022/978-4-297-12576-9>`_ （2021 技術評論社刊）』『最短距離でゼロからしっかり学ぶPython入門(`必修編 <https://gihyo.jp/book/2020/978-4-297-11570-8>`_・`実践編 <https://gihyo.jp/book/2020/978-4-297-11572-2>`_) （2020 技術評論社刊）』『`いちばんやさしいPythonの教本 第2版 <https://book.impress.co.jp/books/1119101162>`_ （2020 インプレス刊）』『`いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ （2019 インプレス刊）』『`Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ （2018 翔泳社刊）』『`Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』などがある。
 
-最近の楽しみはPython Boot Campの講師で訪れた土地で、現地のクラフトビールを飲むこと。2019年は世界各国のPyConでの発表に挑戦し、日本を含む9か国で発表した。
+各国PyConやPython Boot Campで訪れた土地で、現地のクラフトビールを飲むことが楽しみ。2019年は世界各国のPyConでの発表に挑戦し、日本を含む9か国で発表した。
 趣味は吹奏楽とボルダリングとレゴとペンシルパズル。
 
 :facebook: `takanory.net <https://www.facebook.com/takanory.net>`_
