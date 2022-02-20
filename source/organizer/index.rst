@@ -49,7 +49,7 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
 PyCon mini JP
 -------------
 
-:URL: https://sites.google.com/site/pyconminijp/
+:URL: https://pycon.jp/pyconminijp/
 :Date: Conference 2011年1月29日(土)
 :Venue: 楽天株式会社 品川シーサイド楽天タワー
 :Attendees: 136名
