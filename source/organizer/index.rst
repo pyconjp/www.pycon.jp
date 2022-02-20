@@ -20,7 +20,7 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
 過去の PyCon JP
 ===============
 
-- `PyCon mini JP <https://sites.google.com/site/pyconminijp/>`_
+- `PyCon mini JP <https://pycon.jp/pyconminijp/>`_
   : 2011 Jan 29(Conference)
 - `PyCon JP 2011 <http://2011.pycon.jp>`_
   : 2011 Aug 27, 28(Conference, Development Sprints)
