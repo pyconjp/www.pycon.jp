@@ -56,6 +56,7 @@ Takanori Suzuki (鈴木 たかのり)
 -------------------------------
 
 .. figure:: /_static/takanori.jpg
+   :width: 160
 
 Vice-Chair
 
