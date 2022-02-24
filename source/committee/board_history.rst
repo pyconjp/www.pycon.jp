@@ -2,6 +2,22 @@
  理事メンバーの履歴
 ====================
 
+2022
+====
+* 寺田 学 (Manabu Terada)
+* 鈴木 たかのり (Takanori Suzuki)
+* 清水川 貴之 (Takayuki Shimizukawa)
+* 吉田 俊輔 (Shunsuke Yoshida)
+* Jonas Obrist (オブリスト ヨナス)
+
+2021
+====
+* 寺田 学 (Manabu Terada)
+* 鈴木 たかのり (Takanori Suzuki)
+* 清水川 貴之 (Takayuki Shimizukawa)
+* 吉田 俊輔 (Shunsuke Yoshida)
+* Jonas Obrist (オブリスト ヨナス)
+
 2020
 ====
 * 寺田 学 (Manabu Terada)
