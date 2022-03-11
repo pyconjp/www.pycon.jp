@@ -230,7 +230,7 @@ PyCon JP 2020
 :Attendees:
   - Conference: 631(Zoom tickets) + 2,988(YouTube Live 2days Unique Users; an user accessing for 2 days is counted as 1 person)
   - Tutorial: 40(Zoom tickets [sold out]) + 274(YouTube Live Unique Users)
-:Description(Conference): 5 Tracks(2 KeyNotes, 5 Invited talks, 49 Talk sessions), Lunch Time session, and etc.
+:Description(Conference): 5 Tracks(2 Keynotes, 5 Invited talks, 49 Talk sessions), Lunch Time session, and etc.
 :Sponsor: 3 Platinum, 8 Gold, 8 Silver, 1 Special, 12 Patrons, 5 Tutorial, 6 Media
 
 PyCon JP 2021
@@ -246,5 +246,5 @@ PyCon JP 2021
   - A Perfect match / Brandt Bucher : `Video <https://youtu.be/ggPJLwIbbyY>`__
 :Attendees:
   - Conference: 629 (Online Conference Tickets), 29 (On-site Option)
-:Description(Conference): 5 Tracks(2 Keynotes, 34 Tals sessions), Lunch Time session, Lightning Talks and etc.
+:Description(Conference): 5 Tracks(2 Keynotes, 34 Talk sessions), Lunch Time session, Lightning Talks and etc.
 :Sponsor: 3 Platinum, 10 Gold, 15 Silver, 1 Special, 10 Patrons
