@@ -230,5 +230,21 @@ PyCon JP 2020
 :Attendees:
   - Conference: 631(Zoom tickets) + 2,988(YouTube Live 2days Unique Users; an user accessing for 2 days is counted as 1 person)
   - Tutorial: 40(Zoom tickets [sold out]) + 274(YouTube Live Unique Users)
-:Description(Conference): 5 Tracks(2 KeyNotes, 5 Invited talks, 49 Tals sessions), Lunch Time session, and etc.
+:Description(Conference): 5 Tracks(2 Keynotes, 5 Invited talks, 49 Talk sessions), Lunch Time session, and etc.
 :Sponsor: 3 Platinum, 8 Gold, 8 Silver, 1 Special, 12 Patrons, 5 Tutorial, 6 Media
+
+PyCon JP 2021
+-------------
+
+:URL: https://2021.pycon.jp/
+:Date:
+  - Conference: 2021 Oct 15(Fri), 16(Sat)
+:Venue:
+  - Hybrid Online (Zoom) and On-site (Only for Day 1, `Bellsale Kanda <https://www.bellesalle.co.jp/shisetsu/tokyo/bs_kanda/>`__)
+:Keynote:
+  - `将棋とPythonの素敵な出会い <https://www.dropbox.com/s/cbk11tpfylx739f/taniai_PyConJP2021_v2_share.pptx?dl=0>`_ / 谷合 廣紀 : `Video <https://youtu.be/8bwSCG2ivjY>`__
+  - A Perfect match / Brandt Bucher : `Video <https://youtu.be/ggPJLwIbbyY>`__
+:Attendees:
+  - Conference: 629 (Online Conference Tickets), 29 (On-site Option)
+:Description(Conference): 5 Tracks(2 Keynotes, 34 Talk sessions), Lunch Time session, Lightning Talks and etc.
+:Sponsor: 3 Platinum, 10 Gold, 15 Silver, 1 Special, 10 Patrons
