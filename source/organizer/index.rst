@@ -230,7 +230,7 @@ PyCon JP 2020
 :Attendees:
   - Conference: 631(Zoom tickets) + 2,988(YouTube Live 2days Unique Users; an user accessing for 2 days is counted as 1 person)
   - Tutorial: 40(Zoom tickets [sold out]) + 274(YouTube Live Unique Users)
-:Description(Conference): 5 Tracks(2 KeyNotes, 5 Invited talks, 49 Tals sessions), Lunch Time session, and etc.
+:Description(Conference): 5 Tracks(2 KeyNotes, 5 Invited talks, 49 Talk sessions), Lunch Time session, and etc.
 :Sponsor: 3 Platinum, 8 Gold, 8 Silver, 1 Special, 12 Patrons, 5 Tutorial, 6 Media
 
 PyCon JP 2021
