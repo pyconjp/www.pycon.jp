@@ -22,17 +22,17 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 :Twitter: `@pyconjapan <https://twitter.com/pyconjapan>`_
 :Facebook: `PyConJP <http://www.facebook.com/PyConJP>`_
 
-PyCon JP 2021
+PyCon JP 2022
 =============
-PyCon JP 2021 のカンファレンス日程は2021/10/15-16に決定しました!
+PyCon JP 2022 のカンファレンス日程は2022年秋頃で企画中です。
 
 私たちは一緒にイベントを創り上げるボランティアスタッフを大募集しています！是非ご協力ください！
 
-PyCon JP 2021 の最新情報およびお問い合わせは `公式Webサイト <https://2021.pycon.jp/>`_ および `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2021>`__ をご確認ください。
+PyCon JP 2022 の最新情報およびお問い合わせは `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2022>`__ をご確認ください。
 
-The schedule for PyCon JP 2021 has been set. Oct 15 to 16.
+The conference dates for PyCon JP 2022 are being planned for fall 2022.
 
-For the latest information or inquiries about PyCon JP 2021, please visit `our Website <https://2021.pycon.jp/>`_ and `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2021>`__ .
+For the latest information or inquiries about PyCon JP 2022, please visit `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2022>`__ .
 
 お問い合わせ
 ============
