@@ -582,7 +582,7 @@ Python Boot Camp の開催実績です。
      - 12月4日(土)
      - `コワーキングスペースカラム <https://www.cws-column.net/>`_
      - 清水川 貴之
-     - 15名(予定)
+     - 6名
      - 3
      - 1
      - `開催レポート <https://pyconjp.blogspot.com/2022/01/pycamp-in-yamaguchi-report.html>`__
