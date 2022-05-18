@@ -607,7 +607,7 @@ Python Boot Camp の開催実績です。
    * - 46
      - `Python Boot Camp in 広島2nd <https://pyconjp.connpass.com/event/248048/>`__
      - 7月9日(土)
-     - `特定非営利活動法人中四国マネジメントシステム推進機構交流室 <https://www.ms-kikoh.or.jp/kikoh/3/index.html>`_
+     - `中四国マネジメントシステム推進機構交流室 <https://www.ms-kikoh.or.jp/kikoh/3/index.html>`_
      - 鈴木 たかのり
      - 10名(予定)
      - 3
