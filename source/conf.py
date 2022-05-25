@@ -28,6 +28,7 @@ author = 'PyCon JP Association'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinxext.opengraph',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -63,3 +64,9 @@ html_title = 'PyCon JP'
 html_static_path = ['_static']
 
 html_favicon = '_static/favicon.png'
+
+# options for Open Graph
+# https://github.com/wpilibsuite/sphinxext-opengraph
+ogp_site_url = "https://www.pycon.jp/"
+
+ogp_image = "https://www.pycon.jp/_static/pyconjp_logo.png"
