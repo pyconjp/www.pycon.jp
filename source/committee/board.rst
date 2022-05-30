@@ -8,6 +8,7 @@
 寺田 学 (Manabu Terada)
 ========================
 .. figure:: /_static/terada.jpg
+   :width: 160
 
 代表理事
 
