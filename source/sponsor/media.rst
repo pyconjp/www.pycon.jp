@@ -76,3 +76,12 @@ https://logmi.jp/tech
 .. image:: /_static/sponsor/media/logos/logmi-tech.png
    :alt: ログミーTech
    :target: https://logmi.jp/tech
+
+TECH PLAY
+---------
+
+https://techplay.jp
+
+.. image:: /_static/sponsor/media/logos/techplay_logo.png
+   :alt: TECH PLAY
+   :target: https://techplay.jp
