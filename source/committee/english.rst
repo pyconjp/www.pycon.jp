@@ -35,6 +35,7 @@ Manabu Terada (寺田 学)
 -----------------------
 
 .. figure:: /_static/terada.jpg
+   :width: 160
 
 Chair
 
@@ -80,6 +81,7 @@ Takayuki Shimizukawa (清水川 貴之)
 ----------------------------------
 
 .. figure:: /_static/shimizukawa.jpg
+   :width: 160
 
 Treasurer
 
@@ -105,6 +107,7 @@ Co-Author or translator of `Pythonプロフェッショナルプログラミン�
 Shunsuke Yoshida (吉田 俊輔)
 ----------------------------
 .. figure:: /_static/yoshida.png
+   :width: 160
 
 Board Member
 
@@ -129,6 +132,7 @@ His hobbies are visiting hot sprints and attending conferences such as `OSC <htt
 Jonas Obrist (オブリスト ヨナス)
 --------------------------------
 .. figure:: /_static/jonas.jpg
+   :width: 160
 
 Board Member.
 
