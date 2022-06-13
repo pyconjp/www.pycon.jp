@@ -600,7 +600,7 @@ Python Boot Camp の開催実績です。
      - 5月28日(土)
      - `LIGHTHOUSE <https://me-lighthouse.com/>`_
      - 清水川 貴之
-     - 15名(予定)
+     - 16名
      - 3
      - 2
      -
