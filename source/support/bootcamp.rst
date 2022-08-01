@@ -603,7 +603,7 @@ Python Boot Camp の開催実績です。
      - 16名
      - 3
      - 2
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2022/08/pycamp-in-saga-report.html>`__
    * - 46
      - `Python Boot Camp in 広島2nd <https://pyconjp.connpass.com/event/248048/>`__
      - 7月9日(土)
