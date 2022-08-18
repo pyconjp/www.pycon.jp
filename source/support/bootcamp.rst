@@ -58,7 +58,7 @@ Python Boot Campの概要について伝えたランディングページを作�
      - **茨城**、**栃木**、**群馬**、**埼玉**、**千葉**、東京、**神奈川** (2)
      - 6/7
    * - 中部
-     - **山梨**、**長野** (2)、**新潟**、富山、**石川**、**福井**、**静岡** (3)、**愛知**、**岐阜**
+     - **山梨**、**長野** (2)、**新潟** (2)、富山、**石川**、**福井**、**静岡** (3)、**愛知**、**岐阜**
      - 8/9
    * - 近畿
      - 三重、滋賀、**京都** (2)、**大阪**、**兵庫**、奈良、**和歌山**
@@ -619,6 +619,15 @@ Python Boot Camp の開催実績です。
      - `静岡県総合コンベンション施設 プラサ ヴェルデ <https://www.plazaverde.jp/>`_
      - 新井 正貴
      - 10名(予定)
+     - 2
+     - 3
+     -
+   * - 48
+     - `Python Boot Camp in 新潟2nd <https://pyconjp.connpass.com/event/255600/>`__
+     - 9月17日(土)
+     - `新潟県ITイノベーション拠点施設 NINNO <https://www.google.com/maps/place/NINNO+(%E3%83%8B%E3%83%BC%E3%83%8E)+(%E6%96%B0%E6%BD%9F%E7%9C%8C%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9)/@37.9106675,139.0610354,17z/data=!3m1!4b1!4m5!3m4!1s0x5ff4c917dd7814bb:0x93cb69e0170aef0a!8m2!3d37.9106675!4d139.0632241?q=NINNO&rlz=1C5CHFA_enJP1005JP1005&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgcIABCABBAEMgcIABCABBAEMgcIABCABBAEMgcIABCABBAEMgcIABCABBAEMgcIABCABBAEMgcIABCABBAEMgkIABCABBAEEAoyBwgAEIAEEAQ6DQgAEIAEELEDEIMBEAQ6CggAEIAEELEDEAQ6BAgAEEM6BwgAELEDEEM6CAgAEIAEELEDOgoIABCABBDJAxAEOgUIABCSA0oFCDwSATFKBAhBGABKBAhGGABQAFicDmDpEGgBcAF4AIABgQGIAY4FkgEDMi40mAEAoAEBwAEB&um=1&ie=UTF-8&sa=X&ved=2ahUKEwif19H62az5AhVIfN4KHZdpBnMQ_AUoBHoECAIQBg&shorturl=1>`_
+     - 寺田 学
+     - 20名(予定)
      - 2
      - 3
      -
