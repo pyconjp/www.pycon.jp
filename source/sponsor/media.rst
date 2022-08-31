@@ -85,3 +85,12 @@ https://techplay.jp
 .. image:: /_static/sponsor/media/logos/techplay_logo.png
    :alt: TECH PLAY
    :target: https://techplay.jp
+
+株式会社PE-BANK
+---------------
+
+https://pe-bank.jp
+
+.. image:: /_static/sponsor/media/logos/PE-BANK.jpg
+   :alt: 株式会社PE-BANK
+   :target: https://pe-bank.jp
