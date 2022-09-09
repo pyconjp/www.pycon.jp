@@ -48,6 +48,7 @@ http://gihyo.jp/
 
 .. image:: /_static/sponsor/media/logos/gihyo.png
    :alt: gihyo.jp
+   :scale: 50
    :target: http://gihyo.jp/
 
 株式会社オライリー・ジャパン
