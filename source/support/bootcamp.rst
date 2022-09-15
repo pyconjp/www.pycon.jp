@@ -619,8 +619,8 @@ Python Boot Camp の開催実績です。
      - `静岡県総合コンベンション施設 プラサ ヴェルデ <https://www.plazaverde.jp/>`_
      - 新井 正貴
      - 10名(予定)
-     - 2
      - 3
+     - 2
      -
    * - 48
      - `Python Boot Camp in 新潟2nd <https://pyconjp.connpass.com/event/255600/>`__
