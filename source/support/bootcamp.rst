@@ -610,8 +610,8 @@ Python Boot Camp の開催実績です。
      - `ふれあい貸し会議室　広島A <https://www.instabase.jp/space/6843195850?catalog=true>`_
      - 鈴木 たかのり
      - 12名
-     - 3
-     - 1
+     - 6
+     - 2
      - `開催レポート <https://pyconjp.blogspot.com/2022/07/pycamp-in-hiroshima2-report.html>`__
    * - 47
      - `Python Boot Camp in 静岡県沼津市 <https://pyconjp.connpass.com/event/251468/>`__
