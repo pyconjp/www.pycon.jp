@@ -601,7 +601,7 @@ Python Boot Camp の開催実績です。
      - `LIGHTHOUSE <https://me-lighthouse.com/>`_
      - 清水川 貴之
      - 16名
-     - 3
+     - 2
      - 2
      - `開催レポート <https://pyconjp.blogspot.com/2022/08/pycamp-in-saga-report.html>`__
    * - 46
