@@ -618,7 +618,7 @@ Python Boot Camp の開催実績です。
      - 9月3日(土)
      - `静岡県総合コンベンション施設 プラサ ヴェルデ <https://www.plazaverde.jp/>`_
      - 新井 正貴
-     - 10名(予定)
+     - 11名
      - 3
      - 2
      - `開催レポート <https://pyconjp.blogspot.com/2022/09/pycamp-in-shizuoka-numazu-report.html>`__
