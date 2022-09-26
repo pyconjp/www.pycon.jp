@@ -630,7 +630,7 @@ Python Boot Camp の開催実績です。
      - 20名(予定)
      -
      - 3
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2022/09/pycamp-in-niigata2nd.html>`__
 
 Python Boot Camp Map
 --------------------
