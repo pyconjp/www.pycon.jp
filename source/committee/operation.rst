@@ -34,8 +34,8 @@
      - https://admin.google.com/
      - ``@pycon.jp`` のアカウント、メールアドレス等を管理
    * - connpass
-     - | http://pyconjp.connpass.com/
-       | http://pyconjp-staff.connpass.com/
+     - | https://pyconjp.connpass.com/
+       | https://pyconjp-staff.connpass.com/
      - イベント管理(一般用、スタッフ用)
 
 メディア
@@ -52,9 +52,9 @@
      - | `@pyconjapan <https://twitter.com/pyconjapan>`_
        | `#pyconjp <https://twitter.com/search?q=%23pyconjp&src=typd>`_ (ハッシュタグ)
      - PyCon JP のオフィシャルアカウント。
-       `GroupTweet <http://www.grouptweet.com/>`_ を使用してメンバーからツイート可能
+       `GroupTweet <https://www.grouptweet.com/>`_ を使用してメンバーからツイート可能
    * - Facebook
-     - http://www.facebook.com/PyConJP
+     - https://www.facebook.com/PyConJP
      - PyCon JP の Facebook ページ
    * - PyCon JP Blog
      - http://pyconjp.blogspot.jp/
