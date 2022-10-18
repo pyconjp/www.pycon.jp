@@ -54,36 +54,36 @@
   - 参加者数: 約40名
   - 主催: Django Girls Tokyo
 
-- `PyCon mini Sapporo 2015 <http://sapporo.pycon.jp/2015/>`_
+- `PyCon mini Sapporo 2015 <https://sapporo.pycon.jp/2015/>`_
 
   - 日時: 2015年9月12日(土) 10:50-18:15
-  - 会場: `札幌市産業振興センター <http://www.sapporosansin.jp/>`_
+  - 会場: `札幌市産業振興センター <https://www.sapporosansin.jp/>`_
   - 参加者数: 99名
   - 主催: PyCon mini Sapporo 実行委員会
     
-- `PyCon mini Hiroshima 2015 <http://hiroshima.pycon.jp/2015.html>`_
+- `PyCon mini Hiroshima 2015 <https://hiroshima.pycon.jp/2015.html>`_
 
   - 日時: 2015年11月22日(日) 10:00-17:00
   - 会場: `サテライトキャンパスひろしま <https://www.pu-hiroshima.ac.jp/site/satellite/accessmap.html>`_
   - 参加者数: 42名
   - 主催: PyCon mini Hiroshima 2015 実行委員会
-  - Blog: `PyCon mini Hiroshima 2015 を開催しました！ <http://pyconjp.blogspot.jp/2015/12/pycon-mini-hiroshima-2015.html>`_
+  - Blog: `PyCon mini Hiroshima 2015 を開催しました！ <https://pyconjp.blogspot.com/2015/12/pycon-mini-hiroshima-2015.html>`_
 
-- `PyCon mini Hiroshima 2016 <http://hiroshima.pycon.jp/>`_
+- `PyCon mini Hiroshima 2016 <https://hiroshima.pycon.jp/2016/>`_
 
   - 日時: 2016年11月12日(土) 10:00-17:00
   - 会場: 広島市立大学サテライトキャンパス
   - 参加者数: 43名
   - 主催: PyCon mini Hiroshima 2016 実行委員会
-  - Blog: `PyCon JP Blog: PyCon mini Hiroshima 2016 を開催しました！ <http://pyconjp.blogspot.jp/2016/11/pycon-mini-hiroshima-2016.html>`_
+  - Blog: `PyCon JP Blog: PyCon mini Hiroshima 2016 を開催しました！ <https://pyconjp.blogspot.com/2016/11/pycon-mini-hiroshima-2016.html>`_
 
-- `PyCon mini Kumamoto 2017 <http://kumamoto.pycon.jp/>`_
+- `PyCon mini Kumamoto 2017 <https://kumamoto.pycon.jp/>`_
   
   - 日時: 2017年4月23日(日) 10:00-16:45
-  - 会場: `熊本大学 工学部2号館 <http://www.eng.kumamoto-u.ac.jp/>`_
+  - 会場: `熊本大学 工学部2号館 <https://www.kumamoto-u.ac.jp/>`_
   - 主催: PyCon mini Kumamoto 実行委員会
   - 参加者数: 約40名
-  - レポート: `「PyCon mini Kumamoto 2017」運営レポート <http://gihyo.jp/news/report/2017/05/2201>`_
+  - レポート: `「PyCon mini Kumamoto 2017」運営レポート <https://gihyo.jp/news/report/2017/05/2201>`_
 
 - `DjangoCongress JP 2018 <https://djangocongress.jp/>`_
 
@@ -93,7 +93,7 @@
   - 参加者数: 約140名
   - Blog: `DjangoCongress JP 2018ってイベントを開催した話 <https://blog.hirokiky.org/entry/2018/05/20/175020>`_
 
-- `PyCon mini Osaka 2018 <http://osaka.pycon.jp/>`_
+- `PyCon mini Osaka 2018 <https://osaka.pycon.jp/>`_
 
   - 日時: 2018円5月19日(土)
   - 会場: `ヤフー株式会社 GFOオフィス オープンコラボエリア Minamo GRAND FRONT OSAKA タワーA 37F <https://yahoo.jp/Niew1l>`_
@@ -165,7 +165,7 @@
 
   - 日時: 2021年7月3日(土) 10:00-18:15
   - 会場: 長野市生涯学習センター、オンライン
-  - 主催: `django-ja <http://djangoproject.jp/>`_
+  - 主催: `django-ja <https://djangoproject.jp/>`_
 - `PyCon mini Shizuoka 2021 <https://shizuoka.pycon.jp/2021>`_
 
   - 日時: 2021年11月20日(土)

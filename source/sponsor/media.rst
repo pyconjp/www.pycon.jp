@@ -19,7 +19,7 @@
 イベントの例は以下の通り。
 
 * :doc:`../support/bootcamp`
-* `PyCon mini Hiroshima <http://hiroshima.pycon.jp/>`_
+* `PyCon mini Hiroshima <https://hiroshima.pycon.jp/>`_
 
 「一般社団法人PyCon JP Associationメディアスポンサー」の特典
 ------------------------------------------------------------
@@ -44,21 +44,21 @@
 gihyo.jp
 --------
 
-http://gihyo.jp/
+https://gihyo.jp/
 
 .. image:: /_static/sponsor/media/logos/gihyo.png
    :alt: gihyo.jp
    :scale: 50
-   :target: http://gihyo.jp/
+   :target: https://gihyo.jp/
 
 株式会社オライリー・ジャパン
 ----------------------------
 
-http://www.oreilly.co.jp/index.shtml
+https://www.oreilly.co.jp/index.shtml
 
 .. image:: /_static/sponsor/media/logos/oreilly.jpg
    :alt: 株式会社オライリー・ジャパン
-   :target: http://www.oreilly.co.jp/index.shtml
+   :target: https://www.oreilly.co.jp/index.shtml
 
 アイティメディア株式会社
 ------------------------

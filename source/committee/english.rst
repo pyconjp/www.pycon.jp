@@ -19,7 +19,7 @@ Summary
 :Representative Director the PyCon JP Committee: Manabu Terada (寺田 学)
 :Address: 110-0015 Tokyo-to, Taito-ku, Higashi-Ueno 1-11-1, GOSHO Kasugadori Building, 9th Floor. (〒110-0015 東京都台東区東上野1-11-1 GOSHO春日通りビル9F)
 :Contact: contact[ at ]pycon.jp
-:URL: http://www.pycon.jp/
+:URL: https://www.pycon.jp/
 :Foundaed: March 21st, 2013
 
 Nonprofit status
@@ -61,11 +61,11 @@ Takanori Suzuki (鈴木 たかのり)
 
 Vice-Chair
 
-`BeProud Inc. (株式会社ビープラウド) <http://www.beproud.jp/>`_.
+`BeProud Inc. (株式会社ビープラウド) <https://www.beproud.jp/>`_.
 
 Discovered Zope/Plone while building an internal website and ever since used Python where needed. Worked as PyCon JP staff since PyCon mini JP in January 2011 and has been the Chair of PyCon JP from 2014 to 2016.
 
-Founder of the `Python Bouldering Club (Pythonボルダリング部, #kabepy) <http://kabepy.connpass.com/>`_ and organizer of `Python mini Hack-a-thon (#pyhack) <http://pyhack.connpass.com/>`_.
+Founder of the `Python Bouldering Club (Pythonボルダリング部, #kabepy) <https://kabepy.connpass.com/>`_ and organizer of `Python mini Hack-a-thon (#pyhack) <https://pyhack.connpass.com/>`_.
 
 Co-Author of `いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ (Impress 2019), `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ (Shoeisha 2018), `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>` (Shuwa System 2018), `Pythonエンジニア ファーストブック <https://gihyo.jp/book/2017/978-4-7741-9222-2>`_ (Gihyo 2017), `いちばんやさしいPythonの教本 <https://book.impress.co.jp/books/1116101151>`_ (Impress 2017) and others.
 
@@ -85,21 +85,21 @@ Takayuki Shimizukawa (清水川 貴之)
 
 Treasurer
 
-`BeProud Inc. (株式会社ビープラウド) <http://www.beproud.jp/>`_.
+`BeProud Inc. (株式会社ビープラウド) <https://www.beproud.jp/>`_.
 
 Maintainer of the `Sphinx`_ documentation tool. Discovered Zope 2 and Open Source in 2003. Recently spends a lot of time teaching Python.
 
-Co-Author or translator of `Pythonプロフェッショナルプログラミング 第3版 <http://www.shuwasystem.co.jp/products/7980html/5382.html>`_ (Shuwa System 2018), `エキスパートPythonプログラミング改訂2版 <https://www.kadokawa.co.jp/product/301801000262/>`_ (KODOKAWA 2018), `独学プログラマー Python言語の基本から仕事のやり方まで <https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/>`_ (Nikkei Business Publications 2018, translation of The Self-Taught Programmer), `Sphinxをはじめよう 第2版 <https://www.oreilly.co.jp/books/9784873118192/>`_ (O'Reilly 2017) and others.
+Co-Author or translator of `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`_ (Shuwa System 2018), `エキスパートPythonプログラミング改訂2版 <https://www.kadokawa.co.jp/product/301801000262/>`_ (KODOKAWA 2018), `独学プログラマー Python言語の基本から仕事のやり方まで <https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/>`_ (Nikkei Business Publications 2018, translation of The Self-Taught Programmer), `Sphinxをはじめよう 第2版 <https://www.oreilly.co.jp/books/9784873118192/>`_ (O'Reilly 2017) and others.
 
 :facebook: shimizukawa_
 :twitter: `@shimizukawa`_
 :website: `http://清水川.jp/`_
 
-.. _株式会社ビープラウド: http://www.beproud.jp/
-.. _Sphinx: http://sphinx-doc.org/
-.. _PyCon JP 2011: http://2011.pycon.jp/
-.. _PyCon JP 2012: http://2012.pycon.jp/
-.. _PyCon APAC 2013: http://apac-2013.pycon.jp/
+.. _株式会社ビープラウド: https://www.beproud.jp/
+.. _Sphinx: https://sphinx-doc.org/
+.. _PyCon JP 2011: https://2011.pycon.jp/
+.. _PyCon JP 2012: https://2012.pycon.jp/
+.. _PyCon APAC 2013: https://apac-2013.pycon.jp/
 .. _shimizukawa: https://www.facebook.com/shimizukawa
 .. _@shimizukawa: https://twitter.com/shimizukawa
 .. _http://清水川.jp/: http://清水川.jp/

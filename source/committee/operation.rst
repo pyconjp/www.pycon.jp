@@ -20,9 +20,8 @@
      - https://pyconjp.atlassian.net/
      - タスクの管理に使用
    * - Google Drive
-     -
+     - https://drive.google.com/
      - 各種文書の共有、メンバーになると共有設定されて参照、編集可能となる。
-       `議事録 <https://docs.google.com/folder/d/0B_bw8GEmTD5OYzRNN0xsalRVSTQ/edit>`_ は一般に公開されている
    * - GitHub
      - https://github.com/pyconjp/
      - サイトのコード、レポートの下書き等を管理
@@ -30,12 +29,12 @@
      - `カレンダー(HTML) <https://www.google.com/calendar/embed?src=bsn2855fnbngs1itml66l28ml8%40group.calendar.google.com&ctz=Asia/Tokyo>`_
      - 打合せ、イベントのスケジュール等を記入。
        カレンダー ``bsn2855fnbngs1itml66l28ml8@group.calendar.google.com``
-   * - Google Apps
+   * - Google Admin
      - https://admin.google.com/
      - ``@pycon.jp`` のアカウント、メールアドレス等を管理
    * - connpass
-     - | http://pyconjp.connpass.com/
-       | http://pyconjp-staff.connpass.com/
+     - - https://pyconjp.connpass.com/
+       - https://pyconjp-staff.connpass.com/
      - イベント管理(一般用、スタッフ用)
 
 メディア
@@ -49,15 +48,15 @@
      - 参照先
      - 説明
    * - Twitter
-     - | `@pyconjapan <https://twitter.com/pyconjapan>`_
-       | `#pyconjp <https://twitter.com/search?q=%23pyconjp&src=typd>`_ (ハッシュタグ)
+     - - `@pyconjapan <https://twitter.com/pyconjapan>`_
+       - `#pyconjp <https://twitter.com/search?q=%23pyconjp&src=typd>`_ (ハッシュタグ)
      - PyCon JP のオフィシャルアカウント。
-       `GroupTweet <http://www.grouptweet.com/>`_ を使用してメンバーからツイート可能
+       `GroupTweet <https://www.grouptweet.com/>`_ を使用してメンバーからツイート可能
    * - Facebook
-     - http://www.facebook.com/PyConJP
+     - https://www.facebook.com/PyConJP
      - PyCon JP の Facebook ページ
    * - PyCon JP Blog
-     - http://pyconjp.blogspot.jp/
+     - https://pyconjp.blogspot.com/
      - PyCon JP関連イベントについて情報発信。
        書き込み権限を Google アカウントで付与可能
    * - Flickr
@@ -71,4 +70,4 @@
 ====
 - `PayPay銀行 <https://www.paypay-bank.co.jp/>`_ 銀行口座
 - `PayPal <https://www.paypal.com/>`_ 決済サービス
-- `楽天銀行 <http://www.rakuten-bank.co.jp/>`_ 海外からの振り込み用口座
+- `楽天銀行 <https://www.rakuten-bank.co.jp/>`_ 海外からの振り込み用口座

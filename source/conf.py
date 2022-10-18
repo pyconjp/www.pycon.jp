@@ -74,3 +74,12 @@ html_favicon = '_static/favicon.png'
 ogp_site_url = "https://www.pycon.jp/"
 
 ogp_image = "https://www.pycon.jp/_static/pyconjp_logo.png"
+
+# options for linkcheck
+# https://www.sphinx-doc.org/ja/master/usage/configuration.html#options-for-the-linkcheck-builder
+linkcheck_ignore = [
+    r"https://pyconjp.atlassian.net/.*",
+    r"https://drive.google.com/.*",
+    r"https://docs.google.com/.*",
+    r"http://trac.pycon.jp/.*",
+]

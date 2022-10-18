@@ -31,10 +31,10 @@ Python Web関係の業務を中心にコンサルティングや構築を手が�
 
 副代表理事
 
-一般社団法人PyCon JP Association副代表理事、`株式会社ビープラウド <http://www.beproud.jp/>`_ 取締役 / Python Climber
+一般社団法人PyCon JP Association副代表理事、`株式会社ビープラウド <https://www.beproud.jp/>`_ 取締役 / Python Climber
 
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
-他の主な活動は、`Pythonボルダリング部(#kabepy) <http://kabepy.connpass.com/>`_ 部長、`Python mini Hack-a-thon(#pyhack) <http://pyhack.connpass.com/>`_ 主催など。
+他の主な活動は、`Pythonボルダリング部(#kabepy) <https://kabepy.connpass.com/>`_ 部長、`Python mini Hack-a-thon(#pyhack) <https://pyhack.connpass.com/>`_ 主催など。
 
 共著書／訳書に『`Pythonによるあたらしいデータ分析の教科書 第2版 <https://www.seshop.com/product/detail/25331>`__ （2022 翔泳社刊）』『`Python実践レシピ <https://gihyo.jp/book/2022/978-4-297-12576-9>`_ （2021 技術評論社刊）』『最短距離でゼロからしっかり学ぶPython入門(`必修編 <https://gihyo.jp/book/2020/978-4-297-11570-8>`_・`実践編 <https://gihyo.jp/book/2020/978-4-297-11572-2>`_) （2020 技術評論社刊）』『`いちばんやさしいPythonの教本 第2版 <https://book.impress.co.jp/books/1119101162>`_ （2020 インプレス刊）』『`いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ （2019 インプレス刊）』などがある。
 
@@ -57,17 +57,17 @@ Python Web関係の業務を中心にコンサルティングや構築を手が�
 
 PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めた。 `PyCon APAC 2013`_ では会計を務めている。
 
-共著書／訳書:『 `Pythonプロフェッショナルプログラミング 第3版 <http://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』『 `エキスパートPythonプログラミング改訂2版 <https://www.kadokawa.co.jp/product/301801000262/>`_ （2018 KADOKAWA刊）』『 `独学プログラマー Python言語の基本から仕事のやり方まで <https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/>`_ （2018 日経BP社刊）』『 `Sphinxをはじめよう 第2版 <https://www.oreilly.co.jp/books/9784873118192/>`_ （2017 オライリージャパン刊）』など。
+共著書／訳書:『 `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>`__ （2018 秀和システム刊）』『 `エキスパートPythonプログラミング改訂2版 <https://www.kadokawa.co.jp/product/301801000262/>`_ （2018 KADOKAWA刊）』『 `独学プログラマー Python言語の基本から仕事のやり方まで <https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/>`_ （2018 日経BP社刊）』『 `Sphinxをはじめよう 第2版 <https://www.oreilly.co.jp/books/9784873118192/>`_ （2017 オライリージャパン刊）』など。
 
 :facebook: shimizukawa_
 :twitter: `@shimizukawa`_
 :website: `http://清水川.jp/`_
 
-.. _株式会社ビープラウド: http://www.beproud.jp/
-.. _Sphinx: http://sphinx-doc.org/
-.. _PyCon JP 2011: http://2011.pycon.jp/
-.. _PyCon JP 2012: http://2012.pycon.jp/
-.. _PyCon APAC 2013: http://apac-2013.pycon.jp/
+.. _株式会社ビープラウド: https://www.beproud.jp/
+.. _Sphinx: https://www.sphinx-doc.org/
+.. _PyCon JP 2011: https://2011.pycon.jp/
+.. _PyCon JP 2012: https://2012.pycon.jp/
+.. _PyCon APAC 2013: https://apac-2013.pycon.jp/
 .. _shimizukawa: https://www.facebook.com/shimizukawa
 .. _@shimizukawa: https://twitter.com/shimizukawa
 .. _http://清水川.jp/: http://清水川.jp/

@@ -6,7 +6,7 @@
 
 運営会議には自由にオブザーバーとして参加して議論に参加することができます。
 
-運営会議の開催予定は connpass の `PyCon JPスタッフ <http://pyconjp-staff.connpass.com/>`_ グループで公開するので、ぜひ参加してください。
+運営会議の開催予定は connpass の `PyCon JPスタッフ <https://pyconjp-staff.connpass.com/>`_ グループで公開するので、ぜひ参加してください。
 
 議事録
 ======
