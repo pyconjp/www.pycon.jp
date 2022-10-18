@@ -18,8 +18,8 @@
 
   - `PyCon JP 運営 <https://www.pycon.jp/>`_
   - `PyCon JP 2017 <https://pycon.jp/2017/>`_
-  - `PyCon JP 運営マニュアル <http://manual.pycon.jp/>`_
-  - `Python Boot Camp Text <http://bootcamp-text.readthedocs.io/>`_
+  - `PyCon JP 運営マニュアル <https://manual.pycon.jp/>`_
+  - `Python Boot Camp Text <https://pycamp.pycon.jp/>`_
 - 動画: `YouTube の PyCon JP チャンネル <https://www.youtube.com/user/PyConJP>`_ で公開している動画
 - 写真: `Flickr の PyCon JP <https://www.flickr.com/photos/pyconjp>`_ で公開している写真
   

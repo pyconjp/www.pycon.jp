@@ -80,4 +80,6 @@ ogp_image = "https://www.pycon.jp/_static/pyconjp_logo.png"
 linkcheck_ignore = [
     r"https://pyconjp.atlassian.net/.*",
     r"https://drive.google.com/.*",
+    r"https://docs.google.com/.*",
+    r"http://trac.pycon.jp/.*",
 ]
