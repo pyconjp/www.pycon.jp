@@ -351,7 +351,7 @@ Python Boot Camp の開催実績です。
      - 37名
      - 7
      - 4
-     - `開催レポート <http://pyconjp.blogspot.com/2018/06/pycamp-in-kashiwanoha-report.html>`__
+     - `開催レポート <https://pyconjp.blogspot.com/2018/06/pycamp-in-kashiwanoha-report.html>`__
    * - 22
      - `Python Boot Camp in 岩手 <https://pyconjp.connpass.com/event/86461/>`_
      - 6月23日(土)

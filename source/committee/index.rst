@@ -19,7 +19,7 @@ PyCon JPを素晴らしいカンファレンスとして維持していくには
 :代表理事: 寺田 学
 :所在地: 〒110-0015 東京都台東区東上野1-11-1 GOSHO春日通りビル9F
 :連絡先: contact[ at ]pycon.jp
-:URL: http://www.pycon.jp/
+:URL: https://www.pycon.jp/
 :設立: 2013年3月21日
 
 非営利目的の団体

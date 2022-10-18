@@ -64,7 +64,7 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めた。 `
 :website: `http://清水川.jp/`_
 
 .. _株式会社ビープラウド: https://www.beproud.jp/
-.. _Sphinx: http://sphinx-doc.org/
+.. _Sphinx: https://www.sphinx-doc.org/
 .. _PyCon JP 2011: https://2011.pycon.jp/
 .. _PyCon JP 2012: https://2012.pycon.jp/
 .. _PyCon APAC 2013: https://apac-2013.pycon.jp/
