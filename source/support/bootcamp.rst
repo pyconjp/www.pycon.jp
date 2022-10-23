@@ -67,7 +67,7 @@ Python Boot Campの概要について伝えたランディングページを作�
      - 鳥取、島根、**岡山**、**広島** (2)、**山口**
      - 3/5
    * - 四国
-     - **香川**、**愛媛**、**徳島**、**高知**
+     - **香川** (2)、**愛媛**、**徳島**、**高知**
      - 4/4
    * - 九州・沖縄
      - **福岡** (2)、**佐賀**、**長崎**、**熊本** (2)、大分、宮崎、**鹿児島**、**沖縄**
@@ -631,6 +631,15 @@ Python Boot Camp の開催実績です。
      - 4
      - 3
      - `開催レポート <https://pyconjp.blogspot.com/2022/09/pycamp-in-niigata2nd.html>`__
+   * - 49
+     - `Python Boot Camp in 香川2nd <https://pyconjp.connpass.com/event/261760/>`__
+     - 11月19日(土)
+     - `情報交流館 e-トピア・かがわ　クラスルームＢ <https://www.e-topia-kagawa.jp/rentalspace/>`_
+     - 鈴木 たかのり
+     - 15名(予定)
+     - 3
+     - 2
+     -
 
 Python Boot Camp Map
 --------------------
