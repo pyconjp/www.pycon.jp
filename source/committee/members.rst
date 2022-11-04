@@ -138,3 +138,22 @@ UX、グラフィックを通してほんのり人のつながりを彩るべく
 
 * Twitter: `@nana_marux <https://twitter.com/nana_marux>`_
 
+清田 史和(Fumikazu Kiyota)
+-------------------------------------
+.. figure:: /_static/kiyota.jpg
+   :width: 160
+
+PyCon JP Regional Event Support Program担当
+(PyCon JP地方開催サポートプログラム)
+
+Pythonは、2004-5年ごろWebフレームワークやデザインパターンを学習していた時にZopeを触り、その後、趣味でPython利用、プロダクションで使い始めたのは2010年頃。
+PyCon JP 2012から実行員メンバーとして数年活動を行っていたが、地元熊本地震後、地元に戻ることが多くなり、Python Boot Campを2度熊本で実施、九州地域ではPyConの開催を独自に `熊本mini`_、 `福岡`_ 、 `沖縄`_ 、 `熊本`_ で実施。
+現在、 `PyConKyushu実行委員会`_ の副代表を務める。
+
+.. _熊本mini: https://kumamoto.pycon.jp/
+.. _福岡: https://kyushu.pycon.jp/2018/
+.. _沖縄: https://kyushu.pycon.jp/2019/
+.. _熊本: https://kyushu.pycon.jp/2022/
+.. _PyConKyushu実行委員会: https://www.pykyushu.jp/
+
+* Twitter: `@kiyotaman <https://twitter.com/kiyotaman>`_
