@@ -72,8 +72,8 @@ html_favicon = '_static/favicon.png'
 # options for Open Graph
 # https://github.com/wpilibsuite/sphinxext-opengraph
 ogp_site_url = "https://www.pycon.jp/"
-
 ogp_image = "https://www.pycon.jp/_static/pyconjp_logo.png"
+ogp_use_first_image = True
 
 # options for linkcheck
 # https://www.sphinx-doc.org/ja/master/usage/configuration.html#options-for-the-linkcheck-builder
