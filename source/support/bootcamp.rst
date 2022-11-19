@@ -17,7 +17,7 @@ Python Boot Camp(初心者向けPythonチュートリアル)
 
 Python Boot Campの概要について伝えたランディングページを作成しました。実際のイベントの雰囲気を知りたい人は、以下を確認してください。
 
-- `Python Boot Campランディングページ <https://peraichi.com/landing_pages/view/pycamp>`_
+- `Python Boot Campランディングページ <https://pycamp-lp.pycon.jp/>`_
 
 現地スタッフ募集
 ================
