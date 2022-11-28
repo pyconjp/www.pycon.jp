@@ -636,10 +636,10 @@ Python Boot Camp の開催実績です。
      - 11月19日(土)
      - `情報交流館 e-トピア・かがわ　クラスルームＢ <https://www.e-topia-kagawa.jp/rentalspace/>`_
      - 鈴木 たかのり
-     - 15名(予定)
+     - 12名
      - 3
      - 2
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2022/11/pycamp-in-kagawa-2nd.html>`__
 
 Python Boot Camp Map
 --------------------
