@@ -42,6 +42,10 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   : 2019 Sep 14-17(Tutorial, Conference, Development Sprints)
 - `PyCon JP 2020 <https://pycon.jp/2020>`_
   : 2020 Aug 28-29(Conference), Aug 22-30(Tutorial, Development Sprints)
+- `PyCon JP 2021 <https://2021.pycon.jp/>`_
+  : 2021 Oct 15-16(Conference)
+- `PyCon JP 2022 <https://2022.pycon.jp/>`_
+  : 2022 Oct 14-15(Conference), Oct 16(Development Sprints)
 
 過去の PyCon JP 詳細
 ====================
@@ -248,3 +252,21 @@ PyCon JP 2021
   - Conference: 629 (Online Conference Tickets), 29 (On-site Option)
 :Description(Conference): 5 Tracks(2 Keynotes, 34 Talk sessions), Lunch Time session, Lightning Talks and etc.
 :Sponsor: 3 Platinum, 10 Gold, 15 Silver, 1 Special, 10 Patrons
+
+PyCon JP 2022
+-------------
+
+:URL: https://2022.pycon.jp/
+:Date:
+  - Conference: 2022 Oct 14(Fri), 15(Sat)
+  - Development Sprints: 2022 Oct 16(Sun)
+:Venue:
+  - On-site(Main) and Online ( `TOC Ariake Convention Hall <https://www.toc.co.jp/saiji/ariake/access/>`__)
+:Keynote:
+  - The challenge of speeding up Python /  Mark Shannon : `Video <https://www.youtube.com/watch?v=pboJZAQO9h8&t=3243s>`__
+  - 統計家 西内啓によるPythonの使い方 / 西内 啓 : `Video <https://www.youtube.com/watch?v=j-x8rhk1QF4&t=2598s>`__
+:Attendees:
+  - Total: 538
+  - Conference: 325 (Onsite Conference Tickets), 112 (Online), 60 (Sponsor), 41(Staff)
+:Description: 5 Tracks(2 Keynotes, 42 Talk sessions), Lunch Time session, Lightning Talks and etc.
+:Sponsor: 1 Diamond, 3 Platinum, 18 Gold, 18 Silver, 1 Special, 15 Patrons, 1 Conference Room, 6 Media
