@@ -36,7 +36,7 @@ Python Web関係の業務を中心にコンサルティングや構築を手が�
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動し、2014年-2016年のPyCon JP座長。
 他の主な活動は、`Pythonボルダリング部(#kabepy) <https://kabepy.connpass.com/>`_ 部長、`Python mini Hack-a-thon(#pyhack) <https://pyhack.connpass.com/>`_ 主催など。
 
-共著書／訳書に『`Pythonによるあたらしいデータ分析の教科書 第2版 <https://www.seshop.com/product/detail/25331>`__ （2022 翔泳社刊）』『`Python実践レシピ <https://gihyo.jp/book/2022/978-4-297-12576-9>`_ （2021 技術評論社刊）』『最短距離でゼロからしっかり学ぶPython入門(`必修編 <https://gihyo.jp/book/2020/978-4-297-11570-8>`_・`実践編 <https://gihyo.jp/book/2020/978-4-297-11572-2>`_) （2020 技術評論社刊）』『`いちばんやさしいPythonの教本 第2版 <https://book.impress.co.jp/books/1119101162>`_ （2020 インプレス刊）』『`いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ （2019 インプレス刊）』などがある。
+共著書／訳書に『`いちばんやさしいPython機械学習の教本 第2版 <https://book.impress.co.jp/books/1122101123>`__ （2023 インプレス刊）』『`Pythonによるあたらしいデータ分析の教科書 第2版 <https://www.seshop.com/product/detail/25331>`__ （2022 翔泳社刊）』『`Python実践レシピ <https://gihyo.jp/book/2022/978-4-297-12576-9>`_ （2021 技術評論社刊）』『最短距離でゼロからしっかり学ぶPython入門(`必修編 <https://gihyo.jp/book/2020/978-4-297-11570-8>`_・`実践編 <https://gihyo.jp/book/2020/978-4-297-11572-2>`_) （2020 技術評論社刊）』『`いちばんやさしいPythonの教本 第2版 <https://book.impress.co.jp/books/1119101162>`_ （2020 インプレス刊）』などがある。
 
 各国PyConやPython Boot Campで訪れた土地で、現地のクラフトビールを飲むことが楽しみ。2019年は世界各国のPyConでの発表に挑戦し、日本を含む9か国で発表した。
 フェレットとビールとレゴが好き。趣味は吹奏楽(トランペット)とボルダリング。
