@@ -24,15 +24,20 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 
 PyCon JP 2022
 =============
-PyCon JP 2022 のカンファレンス日程は2022/10/14-16に決定しました！
+PyCon JP 2022 のカンファレンスは2022/10/14-16に現地開催にて行われました。
 
-私たちは一緒にイベントを創り上げるボランティアスタッフを大募集しています！是非ご協力ください！
+参加してくださった皆さん、多くのスポンサーさん、ボランティアスタッフの皆さんのおかげで無事開催できました。
 
-PyCon JP 2022 の最新情報およびお問い合わせは `公式Webサイト <https://2022.pycon.jp/>`_ および `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2022>`__ をご確認ください。
+ありがとうございます。
 
-The schedule for PyCon JP 2022 has been set. Oct 14 to 16.
+2023年の開催に関しては情報が決まり次第、公式ブログおよびTwitterなどでお知らせ致します。
 
-For the latest information or inquiries about PyCon JP 2022, please visit `our Website <https://2022.pycon.jp/>`_ and `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2022>`__ .
+開催の情報は、`こちら <https://www.pycon.jp/organizer/index.html#id27>`__ にもまとめていますが、
+`公式Webサイト <https://2022.pycon.jp/>`_ 、 `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2022>`__ もご確認ください。
+
+`PyCon JP 2022 <https://www.pycon.jp/organizer/index.html#id27>`__ was held from October 14th to 16th.
+
+For the detail information or inquiries about PyCon JP 2022, please visit `our Website <https://2022.pycon.jp/>`_ and `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2022>`__ .
 
 お問い合わせ
 ============
