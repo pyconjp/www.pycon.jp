@@ -1,2 +1,2 @@
-Sphinx==6.0.0
-sphinxext-opengraph==0.7.4
+Sphinx==6.1.1
+sphinxext-opengraph==0.7.5
