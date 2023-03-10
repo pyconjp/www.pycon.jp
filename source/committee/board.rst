@@ -85,7 +85,7 @@ PyCon JP では `PyCon JP 2011`_, `PyCon JP 2012`_ の副座長を務めた。 `
 
 理事
 
-一般社団法人PyCon JP Association代表理事 / `(株)CMSコミュニケーションズ <https://www.cmscom.jp>`_ 代表 
+一般社団法人PyCon JP Association理事 / `(株)CMSコミュニケーションズ <https://www.cmscom.jp>`_ 代表 
 Python Web関係の業務を中心にコンサルティングや構築を手がけている。
 
 日本で初めて開かれた、PyCon mini JP (2011年1月)から主体となって活動し、2013年3月からは一般社団法人PyCon JP Association代表理事を務める。 その他のOSS関係コミュニティを主宰またはスタッフとしても活動中。最近はPythonの魅力を伝えるべく、初心者向けや機械学習分野のPython講師を精力的に務めている。
