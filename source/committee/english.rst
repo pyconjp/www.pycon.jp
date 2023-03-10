@@ -16,7 +16,7 @@ We believe that to maintain PyCon JP as a great conference, holding the conferen
 Summary
 =======
 :Name: PyCon JP Association (Japanese: 一般社団法人PyCon JP Association, Ippanshadanhoujin Paikonjeipi Association)
-:Representative Director the PyCon JP Committee: Manabu Terada (寺田 学)
+:Representative Director the PyCon JP Committee: Takanori Suzuki (鈴木 たかのり)
 :Address: 110-0015 Tokyo-to, Taito-ku, Higashi-Ueno 1-11-1, GOSHO Kasugadori Building, 9th Floor. (〒110-0015 東京都台東区東上野1-11-1 GOSHO春日通りビル9F)
 :Contact: contact[ at ]pycon.jp
 :URL: https://www.pycon.jp/
@@ -31,27 +31,7 @@ The PyCon JP Association is a tax exempt general incorporated association.
 Board Members
 =============
 
-Manabu Terada (寺田 学)
------------------------
 
-.. figure:: /_static/terada.jpg
-   :width: 160
-
-Chair
-
-CEO of `CMSコミュニケーションズ <https://www.cmscom.jp>`_.
-
-He does consulting and development work related to Python web businesses.
-
-An active part of PyCon JP since the first Python conference in Japan, PyCon mini JP in January of 2011. Since its founding in March 2013 he has served as the Representative Director of the PyCon JP Association. He also contributed to various other OSS communities.
-
-Editor of `スラスラわかるPython <https://www.shoeisha.co.jp/book/detail/9784798151090>`_ (Shoeisha 2017) and Co-Author of `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ (Shoeisha 2018) and other books.
-
-:facebook: terapyon_
-:twitter: `@terapyon`_
-
-.. _terapyon: https://www.facebook.com/terapyon
-.. _@terapyon: https://twitter.com/terapyon
 
 Takanori Suzuki (鈴木 たかのり)
 -------------------------------
@@ -59,7 +39,7 @@ Takanori Suzuki (鈴木 たかのり)
 .. figure:: /_static/takanori.jpg
    :width: 160
 
-Vice-Chair
+Chair
 
 `BeProud Inc. (株式会社ビープラウド) <https://www.beproud.jp/>`_.
 
@@ -76,6 +56,31 @@ His hobbies are playing the trumpet, bouldering, Lego and puzzles.
 :facebook: `takanory.net <https://www.facebook.com/takanory.net>`_
 :twitter: `@takanory <https://twitter.com/takanory>`_
 :github: `takanory <https://github.com/takanory/>`_
+
+Shunsuke Yoshida (吉田 俊輔)
+----------------------------
+.. figure:: /_static/yoshida.png
+   :width: 160
+
+Vice-Chair
+
+`Cybertrust Japan Co., Ltd. (サイバートラスト株式会社) <https://www.cybertrust.co.jp/>`_.
+
+Provides product support for `MIRACLE LINUX <https://www.miraclelinux.com/>`_ among other things.
+
+Got first introduced to Python when building an internal website with Zope. Co-Authored `Debug Hacks <https://www.oreilly.co.jp/books/9784873114040/>`_ (O'Reilly 2009).
+
+Volunteers as staff for PyCon JP since 2014, serving as Vice-Chair in 2015 and 2016 and as Chair 2017-2019.
+
+Member of OSS communities such as `小江戸らぐ <https://koedolug.dyndns.org/>`_ and `東京エリアDebian勉強会 <https://tokyodebian-team.pages.debian.net/>`_.
+
+His hobbies are visiting hot sprints and attending conferences such as `OSC <https://www.ospn.jp/>`_.
+
+:facebook: koedoyohida_
+:twitter: `@koedoyoshida`_
+
+.. _koedoyohida: https://www.facebook.com/koedoyoshida
+.. _@koedoyoshida: https://twitter.com/koedoyoshida
 
 Takayuki Shimizukawa (清水川 貴之)
 ----------------------------------
@@ -104,30 +109,29 @@ Co-Author or translator of `Pythonプロフェッショナルプログラミン�
 .. _@shimizukawa: https://twitter.com/shimizukawa
 .. _http://清水川.jp/: http://清水川.jp/
 
-Shunsuke Yoshida (吉田 俊輔)
-----------------------------
-.. figure:: /_static/yoshida.png
+
+
+Manabu Terada (寺田 学)
+-----------------------
+
+.. figure:: /_static/terada.jpg
    :width: 160
 
 Board Member
 
-`Cybertrust Japan Co., Ltd. (サイバートラスト株式会社) <https://www.cybertrust.co.jp/>`_.
+CEO of `CMSコミュニケーションズ <https://www.cmscom.jp>`_.
 
-Provides product support for `MIRACLE LINUX <https://www.miraclelinux.com/>`_ among other things.
+He does consulting and development work related to Python web businesses.
 
-Got first introduced to Python when building an internal website with Zope. Co-Authored `Debug Hacks <https://www.oreilly.co.jp/books/9784873114040/>`_ (O'Reilly 2009).
+An active part of PyCon JP since the first Python conference in Japan, PyCon mini JP in January of 2011. Since its founding in March 2013 he has served as the Representative Director of the PyCon JP Association. He also contributed to various other OSS communities.
 
-Volunteers as staff for PyCon JP since 2014, serving as Vice-Chair in 2015 and 2016 and as Chair 2017-2019.
+Editor of `スラスラわかるPython <https://www.shoeisha.co.jp/book/detail/9784798151090>`_ (Shoeisha 2017) and Co-Author of `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ (Shoeisha 2018) and other books.
 
-Member of OSS communities such as `小江戸らぐ <https://koedolug.dyndns.org/>`_ and `東京エリアDebian勉強会 <https://tokyodebian-team.pages.debian.net/>`_.
+:facebook: terapyon_
+:twitter: `@terapyon`_
 
-His hobbies are visiting hot sprints and attending conferences such as `OSC <https://www.ospn.jp/>`_.
-
-:facebook: koedoyohida_
-:twitter: `@koedoyoshida`_
-
-.. _koedoyohida: https://www.facebook.com/koedoyoshida
-.. _@koedoyoshida: https://twitter.com/koedoyoshida
+.. _terapyon: https://www.facebook.com/terapyon
+.. _@terapyon: https://twitter.com/terapyon
 
 Jonas Obrist (オブリスト ヨナス)
 --------------------------------
