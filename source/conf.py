@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'PyCon JP'
+project = 'PyCon JP Association'
 copyright = '2022, PyCon JP Association'
 author = 'PyCon JP Association'
 
@@ -28,6 +28,7 @@ author = 'PyCon JP Association'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    "myst_parser",
     'sphinxext.opengraph',
 ]
 
@@ -56,7 +57,7 @@ html_theme = 'theme'
 
 html_theme_path = ['_themes']
 
-html_title = 'PyCon JP'
+html_title = 'PyCon JP Association'
 
 html_last_updated_fmt = '%Y-%m-%d'
 
