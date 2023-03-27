@@ -70,7 +70,7 @@ Python Boot Campの概要について伝えたランディングページを作�
      - **香川** (2)、**愛媛**、**徳島**、**高知**
      - 4/4
    * - 九州・沖縄
-     - **福岡** (2)、**佐賀**、**長崎**、**熊本** (2)、大分、宮崎、**鹿児島**、**沖縄**
+     - **福岡** (2)、**佐賀**、**長崎**、**熊本** (2)、大分、宮崎、**鹿児島** (2)、**沖縄**
      - 6/8
    * - 全国
      -
@@ -640,6 +640,24 @@ Python Boot Camp の開催実績です。
      - 3
      - 2
      - `開催レポート <https://pyconjp.blogspot.com/2022/11/pycamp-in-kagawa-2nd.html>`__
+   * -
+     - 2023年
+     -
+     -
+     -
+     -
+     -
+     -
+     -
+   * - 50
+     - `Python Boot Camp in 鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`__
+     - 5月20日(土)
+     - `リコーITソリューションズ <https://www.nangokubld.jp/building/tenant/center/>`_
+     - 鈴木 たかのり
+     - 20名
+     - 3
+     - 3
+     -
 
 Python Boot Camp Map
 --------------------
