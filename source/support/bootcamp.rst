@@ -655,8 +655,8 @@ Python Boot Camp の開催実績です。
      - `リコーITソリューションズ <https://www.nangokubld.jp/building/tenant/center/>`_
      - 鈴木 たかのり
      - 20名(予定)
-     - 3
-     - 3
+     - 4
+     - 5
      -
    * - 51
      - `Python Boot Camp in 愛知2nd <https://pyconjp.connpass.com/event/280530/>`__
