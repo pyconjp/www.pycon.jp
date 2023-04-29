@@ -14,6 +14,8 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+# import matplotlib.pyplot as plt
+# plt.rcParams["font.family"] = "Yu Gothic"
 
 # -- Project information -----------------------------------------------------
 
