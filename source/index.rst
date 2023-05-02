@@ -22,6 +22,24 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 :Twitter: `@pyconjapan <https://twitter.com/pyconjapan>`_
 :Facebook: `PyConJP <http://www.facebook.com/PyConJP>`_
 
+PyCon APAC 2023
+=============
+2023年、PyCon JP 2023としての開催ではなく、PyCon APAC 2023 のカンファレンスとして開催します。   
+
+日時・場所は、2023/10/27-29に東京のTOC有明にて開催を予定しています。   
+
+「PyCon JP 2023」の運営チームが主体となって運営を行います。  
+  
+カンファレンスの名称は異なりますが、例年のPyCon JPと同規模での開催を予定していますので、多くの皆さんに参加いただけるよう運営を進めて参ります。
+
+詳細は、下記公式サイトおよびブログをご覧ください。  
+
+- `公式サイト <https://2023-apac.pycon.jp/>`   
+
+- `公式案内のBLOG(日本語) <https://pyconjp.blogspot.com/2023/04/pyconapac2023-ja.html>`   
+
+- `BLOG for official information(English) <https://pyconjp.blogspot.com/2023/04/pyconapac2023-en.html>`   
+
 PyCon JP 2022
 =============
 PyCon JP 2022 のカンファレンスは2022/10/14-16に現地開催にて行われました。
