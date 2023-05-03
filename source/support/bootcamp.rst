@@ -778,6 +778,12 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * `Noriyuki <https://connpass.com/user/eiry/>`_
      * 3
      * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`_ 、 `熊本2nd <https://pyconjp.connpass.com/event/143197/>`_ 、 `長崎 <https://pyconjp.connpass.com/event/158803/>`_
+   - * `t_hama <https://connpass.com/user/t_hama/>`_
+     * 3
+     * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`_ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`_ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`_
+   - * `ymyzk <https://connpass.com/user/litesystems/>`_
+     * 2
+     * `京都 <https://pyconjp.connpass.com/event/33014/>`_ 、 `愛知2nd <https://pyconjp.connpass.com/event/280530/>`_
    - * `14suke <https://connpass.com/user/isabisi1484/>`_
      * 2
      * `広島 <https://pyconjp.connpass.com/event/50095/>`_ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`_
@@ -802,6 +808,15 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * `hakata_oyuki <https://connpass.com/user/hakata_oyuki/>`_
      * 2
      * `福岡 <https://pyconjp.connpass.com/event/62769/>`_ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`_
+   - * `Tomo Masakura <https://connpass.com/user/masakura/>`_
+     * 2
+     * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`_ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`_
+   - * `achaya <https://connpass.com/user/achaya/>`_
+     * 2
+     * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`_ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`_
+   - * `SatoshiSuenaga <https://connpass.com/user/SatoshiSuenaga/>`_
+     * 2
+     * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`_ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`_
    - * `kashew_nuts <https://connpass.com/user/kashew_nuts/>`_
      * 2
      * `静岡 <https://pyconjp.connpass.com/event/67533/>`_ 、 `仙台 <https://pyconjp.connpass.com/event/104080/>`_
@@ -811,6 +826,9 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * `selina <https://connpass.com/user/Lina_Katayose/>`_
      * 2
      * `埼玉 <https://pyconjp.connpass.com/event/69433/>`_ 、 `福島 <https://pyconjp.connpass.com/event/75923/>`_
+   - * `Ryuji Tsutsui <https://connpass.com/user/ryu22e/>`_
+     * 2
+     * `神奈川 <https://pyconjp.connpass.com/event/71908/>`_ 、 `愛知2nd <https://pyconjp.connpass.com/event/280530/>`_
    - * `kor_miya <https://connpass.com/user/kor_miya/>`_
      * 2
      * `福島 <https://pyconjp.connpass.com/event/75923/>`_ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`_
@@ -836,8 +854,5 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
      * 2
      * `群馬 <https://pyconjp.connpass.com/event/143290/>`_ 、 `静岡県沼津市 <https://pyconjp.connpass.com/event/251468/>`_
    - * `malo21st <https://connpass.com/user/malo21st/>`_
-     * 2
-     * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`_ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`_
-   - * `t_hama <https://connpass.com/user/t_hama/>`_
      * 2
      * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`_ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`_
