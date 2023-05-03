@@ -22,22 +22,23 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 :Twitter: `@pyconjapan <https://twitter.com/pyconjapan>`_
 :Facebook: `PyConJP <http://www.facebook.com/PyConJP>`_
 
-PyCon JP 2022
+PyCon APAC 2023
 =============
-PyCon JP 2022 のカンファレンスは2022/10/14-16に現地開催にて行われました。
+2023年、PyCon JP 2023としての開催ではなく、PyCon APAC 2023 のカンファレンスとして開催します。   
 
-参加してくださった皆さん、多くのスポンサーさん、ボランティアスタッフの皆さんのおかげで無事開催できました。
+日時・場所は、2023/10/27-29に東京のTOC有明にて開催を予定しています。   
 
-ありがとうございます。
+「PyCon JP 2023」の運営チームが主体となって運営を行います。  
+  
+カンファレンスの名称は異なりますが、例年のPyCon JPと同規模での開催を予定していますので、多くの皆さんに参加いただけるよう運営を進めて参ります。
 
-2023年の開催に関しては情報が決まり次第、公式ブログおよびTwitterなどでお知らせ致します。
+詳細は、下記公式サイトおよびブログをご覧ください。  
 
-開催の情報は、`こちら <https://www.pycon.jp/organizer/index.html#id27>`__ にもまとめていますが、
-`公式Webサイト <https://2022.pycon.jp/>`_ 、 `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2022>`__ もご確認ください。
+- `公式サイト <https://2023-apac.pycon.jp/>`_
+- `公式案内のBLOG(日本語) <https://pyconjp.blogspot.com/2023/04/pyconapac2023-ja.html>`_
+- `BLOG for official information(English) <https://pyconjp.blogspot.com/2023/04/pyconapac2023-en.html>`_
 
-`PyCon JP 2022 <https://www.pycon.jp/organizer/index.html#id27>`__ was held from October 14th to 16th.
-
-For the detail information or inquiries about PyCon JP 2022, please visit `our Website <https://2022.pycon.jp/>`_ and `PyCon JP Blog <https://pyconjp.blogspot.com/search/label/pyconjp2022>`__ .
+過去のPyCon JP 開催情報は `こちら <https://www.pycon.jp/organizer/index.html>`_ を参照ください。
 
 お問い合わせ
 ============
