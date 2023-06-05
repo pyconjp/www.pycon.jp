@@ -654,8 +654,8 @@ Python Boot Camp の開催実績です。
      - 5月20日(土)
      - `リコーITソリューションズ <https://www.nangokubld.jp/building/tenant/center/>`_
      - 鈴木 たかのり
-     - 20名(予定)
-     - 4
+     - 16名
+     - 5
      - 5
      -
    * - 51
