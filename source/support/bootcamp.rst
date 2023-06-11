@@ -657,7 +657,7 @@ Python Boot Camp の開催実績です。
      - 16名
      - 5
      - 5
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2023/06/python-boot-camp-in-2nd.html>`__
    * - 51
      - `Python Boot Camp in 愛知2nd <https://pyconjp.connpass.com/event/280530/>`__ (大雨のため中止)
      - 6月3日(土)
