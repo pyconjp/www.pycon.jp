@@ -678,7 +678,7 @@ Python Boot Camp の開催実績です。
      -
    * - 53
      - `Python Boot Camp in 愛知 Re:2nd <https://pyconjp.connpass.com/event/286959/>`__
-     - 9月16日(土)
+     - 8月5日(土)
      - `CODE BASE NAGOYA <https://codebase.proto-g.co.jp/nagoya>`_
      - 寺田 学
      - 20名(予定)
