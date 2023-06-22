@@ -668,15 +668,6 @@ Python Boot Camp の開催実績です。
      -
      -
    * - 52
-     - `Python Boot Camp in 富山県富山市 <https://pyconjp.connpass.com/event/287004/>`__
-     - 9月16日(土)
-     - `富山県民会館 <https://www.bunka-toyama.jp/kenminkaikan/>`_
-     - 鈴木 たかのり
-     - 15名(予定)
-     - 3
-     - 1
-     -
-   * - 53
      - `Python Boot Camp in 愛知 Re:2nd <https://pyconjp.connpass.com/event/286959/>`__
      - 8月5日(土)
      - `CODE BASE NAGOYA <https://codebase.proto-g.co.jp/nagoya>`_
@@ -684,6 +675,15 @@ Python Boot Camp の開催実績です。
      - 20名(予定)
      - 2
      - 2
+     -
+   * - 53
+     - `Python Boot Camp in 富山県富山市 <https://pyconjp.connpass.com/event/287004/>`__
+     - 9月16日(土)
+     - `富山県民会館 <https://www.bunka-toyama.jp/kenminkaikan/>`_
+     - 鈴木 たかのり
+     - 15名(予定)
+     - 3
+     - 1
      -
 
 Python Boot Camp Map
