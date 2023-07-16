@@ -176,6 +176,11 @@
   - 日時: 2022年1月22日(土) 9:30-17:00
   - 会場: 熊本城ホール 会議室B・D
   - 主催: `PyCon Kyushu 実行委員会 <https://www.pykyushu.jp/>`_
+- `DjangoCongress JP 2023 <https://djangocongress.jp/>`_
+
+  - 日時: 2023年10月7日(土) 10:00-20:30
+  - 会場: サイボウズ株式会社
+  - 主催: `django-ja <http://djangoproject.jp/>`_
 
 お問い合わせ、ご相談
 ====================
