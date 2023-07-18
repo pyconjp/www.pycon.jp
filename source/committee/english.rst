@@ -41,13 +41,18 @@ Takanori Suzuki (鈴木 たかのり)
 
 Chair
 
-`BeProud Inc. (株式会社ビープラウド) <https://www.beproud.jp/>`_.
+`BeProud Inc. (株式会社ビープラウド) <https://www.beproud.jp/>`_ Director / Python Climber.
 
 Discovered Zope/Plone while building an internal website and ever since used Python where needed. Worked as PyCon JP staff since PyCon mini JP in January 2011 and has been the Chair of PyCon JP from 2014 to 2016.
 
 Founder of the `Python Bouldering Club (Pythonボルダリング部, #kabepy) <https://kabepy.connpass.com/>`_ and organizer of `Python mini Hack-a-thon (#pyhack) <https://pyhack.connpass.com/>`_.
 
-Co-Author of `いちばんやさしいPython機械学習の教本 <https://book.impress.co.jp/books/1118101072>`_ (Impress 2019), `Pythonによるあたらしいデータ分析の教科書 <https://www.shoeisha.co.jp/book/detail/9784798158341>`_ (Shoeisha 2018), `Pythonプロフェッショナルプログラミング 第3版 <https://www.shuwasystem.co.jp/products/7980html/5382.html>` (Shuwa System 2018), `Pythonエンジニア ファーストブック <https://gihyo.jp/book/2017/978-4-7741-9222-2>`_ (Gihyo 2017), `いちばんやさしいPythonの教本 <https://book.impress.co.jp/books/1116101151>`_ (Impress 2017) and others.
+Co-Author or translator of
+`いちばんやさしいPython機械学習の教本 第2版 <https://book.impress.co.jp/books/1122101123>`__ (Impress 2023),
+`Pythonによるあたらしいデータ分析の教科書 第2版 <https://www.seshop.com/product/detail/25331>`__ (Shoeisha 2022),
+`Python実践レシピ <https://gihyo.jp/book/2022/978-4-297-12576-9>`_ (Gihyo 2022),
+最短距離でゼロからしっかり学ぶPython入門(`必修編 <https://gihyo.jp/book/2020/978-4-297-11570-8>`_・`実践編 <https://gihyo.jp/book/2020/978-4-297-11572-2>`_) (Gihyo 2020),
+`いちばんやさしいPythonの教本 第2版 <https://book.impress.co.jp/books/1119101162>`_ (Impress 2020) and others.
 
 Recently started to travel to rural Japan to teach at Python Boot Camps and enjoy their local craft beers. Since 2019 he has started to present at international Python conferences around the world.
 
@@ -56,6 +61,7 @@ His hobbies are playing the trumpet, bouldering, Lego and puzzles.
 :facebook: `takanory.net <https://www.facebook.com/takanory.net>`_
 :twitter: `@takanory <https://twitter.com/takanory>`_
 :github: `takanory <https://github.com/takanory/>`_
+:website: `slides.takanory.net <https://slides.takanory.net/>`_
 
 Shunsuke Yoshida (吉田 俊輔)
 ----------------------------
