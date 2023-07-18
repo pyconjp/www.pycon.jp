@@ -11,10 +11,10 @@
 :local: true
 ```
 
-# PyCon JP
+## PyCon JP
 
 
-## PyCon JP 2022(Selina、低、報告)
+### PyCon JP 2022(Selina、低、報告)
 
 * 一社のホームページ( [https://www.pycon.jp/](https://www.pycon.jp/) )からPyCon JP 2022の情報を削除その代わり、PyCon APAC 2023の情報を記載。(完了済み)
 * TODO: Web(2022.pycon.jp)静的化のマージ(yoshida
@@ -23,7 +23,7 @@
   * 再オープン状態となっている(takanory
   * <https://pyconjp.atlassian.net/browse/TRA-404>
 
-## PyCon APAC 2023(Selina、高、報告)
+### PyCon APAC 2023(Selina、高、報告)
 
 * JP→APACとしての正式開催発表をBLOGで行う。（4月7日）
   * <https://pyconjp.blogspot.com/2023/04/pyconapac2023-ja.html>
@@ -105,9 +105,9 @@
       * 17日にオンボーディング会をやる予定
     * **TODO**: 別途相談会やりましょう(terada
 
-# 会計
+## 会計
 
-## 消費税インボイス制度の申請(shimizukawa、低、報告)	
+### 消費税インボイス制度の申請(shimizukawa、低、報告)	
 
 * 登録手続き完了
 * **適格請求書発行登録番号**はこちら
@@ -120,7 +120,7 @@
     * 5月中旬のスポンサー募集や、5月下旬の一般参加募集の頃には実施したい
     * 準備します(shimizukawa
 
-## 消費税の件(terada、低、報告)
+### 消費税の件(terada、低、報告)
 
 * <https://pyconjp.atlassian.net/browse/ISSHA-2778>
 * 決算書的に消費税の支払いがあると清水川さんが勘違いしていた。支払いは不要だった。
@@ -128,9 +128,9 @@
 * 詳細は、上記チケットに記載されている。
 * 今までの消費税支払額についても問題ないことを確認した。
 
-# PyCamp、PyLadies関連
+## PyCamp、PyLadies関連
 
-## PyCamp状況報告(ryu22e、低、報告)
+### PyCamp状況報告(ryu22e、低、報告)
 
 * 運営メンバー: ryu22e、kobatomo
 * [Python Boot Camp(初心者向けPythonチュートリアル) — PyCon JP](https://www.pycon.jp/support/bootcamp.html)
@@ -149,7 +149,7 @@
   * 今年のPyCon APACのポスターセッションに応募する予定（プロポーザルはまだ書いている途中）
   * コアスタッフ募集について動き出す(ISSHA-2822)
 
-## OSC出展(Python Boot Camp Caravan)(yoshi-tsukamoto、中、報告)
+### OSC出展(Python Boot Camp Caravan)(yoshi-tsukamoto、中、報告)
 
 * 運営メンバー: yoshi-tsukamo
 * 4/1(土) 東京出展しました
@@ -183,7 +183,7 @@
     * 10/21(土) 大田区産業プラザPiO(展示)
 * 2023年度協賛金の支払い完了しています
 
-## PyLadies関係報告(kanan, 低, 報告)
+### PyLadies関係報告(kanan, 低, 報告)
 
 * PyLadies Caravan in Osaka 3/11開催済
   * [[オフライン] PyLadies Caravan in 大阪 - connpass](https://pyladies-tokyo.connpass.com/event/274708/)
@@ -202,7 +202,7 @@
   * 活動をAPACでポスターを出すとよいのでは？
     * 2カ月前にポスターセッションやれたらいいなという話をしていた。前向きに検討したい(kanan
 
-## PyCon JP TV(terada、中、報告)
+### PyCon JP TV(terada、中、報告)
 
 * パーソナリティー: takanory, terada
 * 運営メンバー: peacock、nana
@@ -219,9 +219,9 @@
   * PSFって何やっているの？(terada
   * PyLadies全般の話をするのもありかも(takanory
 
-# コミュニティー支援
+## コミュニティー支援
 
-## PyCon JP地域開催サポートプログラム(kiyota、中、報告?)←進んでいない。。。（清田）
+### PyCon JP地域開催サポートプログラム(kiyota、中、報告?)←進んでいない。。。（清田）
 
 * 2022年12月にtakanory, yoshidaと意見交換した(kiyota
   * PyCon JP地域開催の件の共有 <https://pyconjp.atlassian.net/browse/ISSHA-2729>
@@ -235,9 +235,9 @@
 * ミーティングをしていたようだが(takanory
   * どういう風にひろげるか、どう伝えたらいいかなどを全体で考えている途中(terada
 
-# 海外コミュニティ連携
+## 海外コミュニティ連携
 
-## APAC関連(terada、中、報告)
+### APAC関連(terada、中、報告)
 
 * PyCon US 2023でPyCon APACコミュニティブースを設置
   * Iqbalさんと韓国のKwonHanが中心になってブースを設置
@@ -249,16 +249,16 @@
   * お金のことや運営のことなどまだまだ課題が多い
   * 反面、Asiaがまとまることで、EuroPythonと同レベルの組織が作れる可能性も感じている。PSFからの資金的な援助、PSFとの関係性を強められるのではないかと思っている
 
-## APACロゴ関係(terada、低、報告)
+### APACロゴ関係(terada、低、報告)
 
 * ロゴを改修してPSFからの指摘に対応した（PyCon USでステッカーを配るために）
 * ロゴは確定した
 * 現在、ロゴキットを取りまとめ中
 
 
-# その他
+## その他
 
-## 法務担当的立場  (terada、中、相談)
+### 法務担当的立場  (terada、中、相談)
 
 * 寺田が代表理事から降りて、主に何を担当するのが良いかと考えている。（まずは提案
   * 現状は、「TV」と「APAC関連」が主な担当になっていると思う。
@@ -272,11 +272,11 @@
 * 個人的には助かる(takanory, yoshida
 * 寺田が担当するってことで進める。
 
-# TODO
+## TODO
 
 * Web(2022.pycon.jp)静的化のマージ(yoshida
 
-# 次回
+## 次回
 
 * 運営会議#61
   * 2023年7月28日(金) 19:30-21:30
