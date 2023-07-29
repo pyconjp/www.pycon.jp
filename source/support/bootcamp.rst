@@ -763,114 +763,114 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * 名前
      * 回数
      * 参加イベント
-   - * `soogie <https://connpass.com/user/soogie/>`_
+   - * `soogie <https://connpass.com/user/soogie/>`__
      * 5
-     * `埼玉 <https://pyconjp.connpass.com/event/69433/>`_ 、 `神奈川 <https://pyconjp.connpass.com/event/71908/>`_ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`_ 、 `山梨 <https://pyconjp.connpass.com/event/103507/>`_ 、 `静岡県藤枝市 <https://pyconjp.connpass.com/event/106920/>`_
-   - * `puhitaku <https://connpass.com/user/puhitaku/>`_
+     * `埼玉 <https://pyconjp.connpass.com/event/69433/>`__ 、 `神奈川 <https://pyconjp.connpass.com/event/71908/>`__ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__ 、 `山梨 <https://pyconjp.connpass.com/event/103507/>`__ 、 `静岡県藤枝市 <https://pyconjp.connpass.com/event/106920/>`__
+   - * `puhitaku <https://connpass.com/user/puhitaku/>`__
      * 5
-     * `柏の葉 <https://pyconjp.connpass.com/event/81251/>`_ 、 `茨城 <https://pyconjp.connpass.com/event/89445/>`_ 、 `岐阜 <https://pyconjp.connpass.com/event/134229/>`_ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`_ 、 `香川2nd <https://pyconjp.connpass.com/event/261760/>`_
-   - * `にしもつ <https://connpass.com/user/24motz/>`_
+     * `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__ 、 `茨城 <https://pyconjp.connpass.com/event/89445/>`__ 、 `岐阜 <https://pyconjp.connpass.com/event/134229/>`__ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`__ 、 `香川2nd <https://pyconjp.connpass.com/event/261760/>`__
+   - * `にしもつ <https://connpass.com/user/24motz/>`__
      * 4
-     * `広島 <https://pyconjp.connpass.com/event/50095/>`_ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`_ 、 `山口 <https://pyconjp.connpass.com/event/205993/>`_ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`_
-   - * `yamayama_k5 <https://connpass.com/user/yamayama_k5/>`_
+     * `広島 <https://pyconjp.connpass.com/event/50095/>`__ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`__ 、 `山口 <https://pyconjp.connpass.com/event/205993/>`__ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`__
+   - * `yamayama__k5 <https://connpass.com/user/yamayama__k5/>`__
      * 4
-     * `香川 <https://pyconjp.connpass.com/event/56141/>`_ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`_ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`_ 、 `香川2nd <https://pyconjp.connpass.com/event/261760/>`_
-   - * `yoshi-corleone <https://connpass.com/user/yoshi-corleone/>`_
+     * `香川 <https://pyconjp.connpass.com/event/56141/>`__ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`__ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`__ 、 `香川2nd <https://pyconjp.connpass.com/event/261760/>`__
+   - * `yoshi-corleone <https://connpass.com/user/yoshi-corleone/>`__
      * 4
-     * `静岡 <https://pyconjp.connpass.com/event/67533/>`_ 、 `山梨 <https://pyconjp.connpass.com/event/103507/>`_ 、 `静岡県藤枝市 <https://pyconjp.connpass.com/event/106920/>`_ 、 `静岡県沼津市 <https://pyconjp.connpass.com/event/251468/>`_
-   - * `Katsuhiro Morishita <https://connpass.com/user/KatsuhiroMorishita/>`_
+     * `静岡 <https://pyconjp.connpass.com/event/67533/>`__ 、 `山梨 <https://pyconjp.connpass.com/event/103507/>`__ 、 `静岡県藤枝市 <https://pyconjp.connpass.com/event/106920/>`__ 、 `静岡県沼津市 <https://pyconjp.connpass.com/event/251468/>`__
+   - * `Katsuhiro Morishita <https://connpass.com/user/KatsuhiroMorishita/>`__
      * 3
-     * `熊本 <https://pyconjp.connpass.com/event/36773/>`_ 、 `鹿児島 <https://pyconjp.connpass.com/event/67709/>`_ 、 `熊本2nd <https://pyconjp.connpass.com/event/143197/>`_
-   - * `kiyota <https://connpass.com/user/kiyotaman/>`_
+     * `熊本 <https://pyconjp.connpass.com/event/36773/>`__ 、 `鹿児島 <https://pyconjp.connpass.com/event/67709/>`__ 、 `熊本2nd <https://pyconjp.connpass.com/event/143197/>`__
+   - * `kiyota <https://connpass.com/user/kiyotaman/>`__
      * 3
-     * `熊本 <https://pyconjp.connpass.com/event/36773/>`_ 、 `福岡2nd <https://pyconjp.connpass.com/event/143786/>`_ 、 `熊本2nd <https://pyconjp.connpass.com/event/143197/>`_
-   - * `jbking <https://connpass.com/user/jbking/>`_
+     * `熊本 <https://pyconjp.connpass.com/event/36773/>`__ 、 `福岡2nd <https://pyconjp.connpass.com/event/143786/>`__ 、 `熊本2nd <https://pyconjp.connpass.com/event/143197/>`__
+   - * `jbking <https://connpass.com/user/jbking/>`__
      * 3
-     * `栃木小山 <https://pyconjp.connpass.com/event/47757/>`_ 、 `大阪 <https://pyconjp.connpass.com/event/52480/>`_ 、 `群馬 <https://pyconjp.connpass.com/event/143290/>`_
-   - * `rhoboro <https://connpass.com/user/rsuyama/>`_
+     * `栃木小山 <https://pyconjp.connpass.com/event/47757/>`__ 、 `大阪 <https://pyconjp.connpass.com/event/52480/>`__ 、 `群馬 <https://pyconjp.connpass.com/event/143290/>`__
+   - * `rhoboro <https://connpass.com/user/rsuyama/>`__
      * 3
-     * `広島 <https://pyconjp.connpass.com/event/50095/>`_ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`_ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`_
-   - * `kadowaki <https://connpass.com/user/kadowaki/>`_
+     * `広島 <https://pyconjp.connpass.com/event/50095/>`__ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`__ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`__
+   - * `kadowaki <https://connpass.com/user/kadowaki/>`__
      * 3
-     * `山形 <https://pyconjp.connpass.com/event/89157/>`_ 、 `山形市 <https://pyconjp.connpass.com/event/130348/>`_ 、 `新潟2nd <https://pyconjp.connpass.com/event/255600/>`_
-   - * `Noriyuki <https://connpass.com/user/eiry/>`_
+     * `山形 <https://pyconjp.connpass.com/event/89157/>`__ 、 `山形市 <https://pyconjp.connpass.com/event/130348/>`__ 、 `新潟2nd <https://pyconjp.connpass.com/event/255600/>`__
+   - * `Noriyuki <https://connpass.com/user/eiry/>`__
      * 3
-     * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`_ 、 `熊本2nd <https://pyconjp.connpass.com/event/143197/>`_ 、 `長崎 <https://pyconjp.connpass.com/event/158803/>`_
-   - * `t_hama <https://connpass.com/user/t_hama/>`_
+     * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`__ 、 `熊本2nd <https://pyconjp.connpass.com/event/143197/>`__ 、 `長崎 <https://pyconjp.connpass.com/event/158803/>`__
+   - * `t__hama <https://connpass.com/user/t__hama/>`__
      * 3
-     * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`_ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`_ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`_
-   - * `ymyzk <https://connpass.com/user/litesystems/>`_
+     * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`__ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`__ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`__
+   - * `ymyzk <https://connpass.com/user/litesystems/>`__
      * 2
-     * `京都 <https://pyconjp.connpass.com/event/33014/>`_ 、 `愛知2nd <https://pyconjp.connpass.com/event/280530/>`_
-   - * `14suke <https://connpass.com/user/isabisi1484/>`_
+     * `京都 <https://pyconjp.connpass.com/event/33014/>`__ 、 `愛知2nd <https://pyconjp.connpass.com/event/280530/>`__
+   - * `14suke <https://connpass.com/user/isabisi1484/>`__
      * 2
-     * `広島 <https://pyconjp.connpass.com/event/50095/>`_ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`_
-   - * `pyohei <https://connpass.com/user/pyohei/>`_
+     * `広島 <https://pyconjp.connpass.com/event/50095/>`__ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`__
+   - * `pyohei <https://connpass.com/user/pyohei/>`__
      * 2
-     * `大阪 <https://pyconjp.connpass.com/event/52480/>`_ 、 `神戸 <https://pyconjp.connpass.com/event/55110/>`_
-   - * `Youhei Sakurai <https://connpass.com/user/sakurai-youhei/>`_
+     * `大阪 <https://pyconjp.connpass.com/event/52480/>`__ 、 `神戸 <https://pyconjp.connpass.com/event/55110/>`__
+   - * `Youhei Sakurai <https://connpass.com/user/sakurai-youhei/>`__
      * 2
-     * `神戸 <https://pyconjp.connpass.com/event/55110/>`_ 、 `京都 <https://pyconjp.connpass.com/event/94170/>`_
-   - * `thinkAmi <https://connpass.com/user/thinkAmi/>`_
+     * `神戸 <https://pyconjp.connpass.com/event/55110/>`__ 、 `京都 <https://pyconjp.connpass.com/event/94170/>`__
+   - * `thinkAmi <https://connpass.com/user/thinkAmi/>`__
      * 2
-     * `長野 <https://pyconjp.connpass.com/event/55693/>`_ 、 `長野八ヶ岳 <https://pyconjp.connpass.com/event/66747/>`_
-   - * `kobatomo <https://connpass.com/user/KobayashiTomohiro/>`_
+     * `長野 <https://pyconjp.connpass.com/event/55693/>`__ 、 `長野八ヶ岳 <https://pyconjp.connpass.com/event/66747/>`__
+   - * `kobatomo <https://connpass.com/user/KobayashiTomohiro/>`__
      * 2
-     * `香川 <https://pyconjp.connpass.com/event/56141/>`_ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`_
-   - * `nakagami <https://connpass.com/user/nakagami/>`_
+     * `香川 <https://pyconjp.connpass.com/event/56141/>`__ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`__
+   - * `nakagami <https://connpass.com/user/nakagami/>`__
      * 2
-     * `愛知 <https://pyconjp.connpass.com/event/60165/>`_ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`_
-   - * `SatoshiMiura <https://connpass.com/user/satoshi_miura/>`_
+     * `愛知 <https://pyconjp.connpass.com/event/60165/>`__ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__
+   - * `SatoshiMiura <https://connpass.com/user/satoshi__miura/>`__
      * 2
-     * `愛知 <https://pyconjp.connpass.com/event/60165/>`_ 、 `静岡 <https://pyconjp.connpass.com/event/67533/>`_
-   - * `hakata_oyuki <https://connpass.com/user/hakata_oyuki/>`_
+     * `愛知 <https://pyconjp.connpass.com/event/60165/>`__ 、 `静岡 <https://pyconjp.connpass.com/event/67533/>`__
+   - * `hakata__oyuki <https://connpass.com/user/hakata__oyuki/>`__
      * 2
-     * `福岡 <https://pyconjp.connpass.com/event/62769/>`_ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`_
-   - * `Tomo Masakura <https://connpass.com/user/masakura/>`_
+     * `福岡 <https://pyconjp.connpass.com/event/62769/>`__ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`__
+   - * `Tomo Masakura <https://connpass.com/user/masakura/>`__
      * 2
-     * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`_ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`_
-   - * `achaya <https://connpass.com/user/achaya/>`_
+     * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`__ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`__
+   - * `achaya <https://connpass.com/user/achaya/>`__
      * 2
-     * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`_ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`_
-   - * `SatoshiSuenaga <https://connpass.com/user/SatoshiSuenaga/>`_
+     * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`__ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`__
+   - * `SatoshiSuenaga <https://connpass.com/user/SatoshiSuenaga/>`__
      * 2
-     * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`_ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`_
-   - * `kashew_nuts <https://connpass.com/user/kashew_nuts/>`_
+     * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`__ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`__
+   - * `kashew__nuts <https://connpass.com/user/kashew__nuts/>`__
      * 2
-     * `静岡 <https://pyconjp.connpass.com/event/67533/>`_ 、 `仙台 <https://pyconjp.connpass.com/event/104080/>`_
-   - * `massa142 <https://connpass.com/user/mstk214/>`_
+     * `静岡 <https://pyconjp.connpass.com/event/67533/>`__ 、 `仙台 <https://pyconjp.connpass.com/event/104080/>`__
+   - * `massa142 <https://connpass.com/user/mstk214/>`__
      * 2
-     * `埼玉 <https://pyconjp.connpass.com/event/69433/>`_ 、 `福島 <https://pyconjp.connpass.com/event/75923/>`_
-   - * `selina <https://connpass.com/user/Lina_Katayose/>`_
+     * `埼玉 <https://pyconjp.connpass.com/event/69433/>`__ 、 `福島 <https://pyconjp.connpass.com/event/75923/>`__
+   - * `selina <https://connpass.com/user/Lina__Katayose/>`__
      * 2
-     * `埼玉 <https://pyconjp.connpass.com/event/69433/>`_ 、 `福島 <https://pyconjp.connpass.com/event/75923/>`_
-   - * `Ryuji Tsutsui <https://connpass.com/user/ryu22e/>`_
+     * `埼玉 <https://pyconjp.connpass.com/event/69433/>`__ 、 `福島 <https://pyconjp.connpass.com/event/75923/>`__
+   - * `Ryuji Tsutsui <https://connpass.com/user/ryu22e/>`__
      * 2
-     * `神奈川 <https://pyconjp.connpass.com/event/71908/>`_ 、 `愛知2nd <https://pyconjp.connpass.com/event/280530/>`_
-   - * `kor_miya <https://connpass.com/user/kor_miya/>`_
+     * `神奈川 <https://pyconjp.connpass.com/event/71908/>`__ 、 `愛知2nd <https://pyconjp.connpass.com/event/280530/>`__
+   - * `kor__miya <https://connpass.com/user/kor__miya/>`__
      * 2
-     * `福島 <https://pyconjp.connpass.com/event/75923/>`_ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`_
-   - * `TakumiFunasaka <https://connpass.com/user/TakumiFunasaka/>`_
+     * `福島 <https://pyconjp.connpass.com/event/75923/>`__ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__
+   - * `TakumiFunasaka <https://connpass.com/user/TakumiFunasaka/>`__
      * 2
-     * `柏の葉 <https://pyconjp.connpass.com/event/81251/>`_ 、 `茨城 <https://pyconjp.connpass.com/event/89445/>`_
-   - * `ShunMizuno <https://connpass.com/user/ShunMizuno/>`_
+     * `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__ 、 `茨城 <https://pyconjp.connpass.com/event/89445/>`__
+   - * `ShunMizuno <https://connpass.com/user/ShunMizuno/>`__
      * 2
-     * `柏の葉 <https://pyconjp.connpass.com/event/81251/>`_ 、 `茨城 <https://pyconjp.connpass.com/event/89445/>`_
-   - * `wutali <https://connpass.com/user/wutali/>`_
+     * `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__ 、 `茨城 <https://pyconjp.connpass.com/event/89445/>`__
+   - * `wutali <https://connpass.com/user/wutali/>`__
      * 2
-     * `柏の葉 <https://pyconjp.connpass.com/event/81251/>`_ 、 `新潟2nd <https://pyconjp.connpass.com/event/255600/>`_
-   - * `nikkie <https://connpass.com/user/takuya_futatsugi/>`_
+     * `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__ 、 `新潟2nd <https://pyconjp.connpass.com/event/255600/>`__
+   - * `nikkie <https://connpass.com/user/takuya__futatsugi/>`__
      * 2
-     * `山梨 <https://pyconjp.connpass.com/event/103507/>`_ 、 `岐阜 <https://pyconjp.connpass.com/event/134229/>`_
-   - * `yuji0000 <https://connpass.com/user/yuji0000/>`_
+     * `山梨 <https://pyconjp.connpass.com/event/103507/>`__ 、 `岐阜 <https://pyconjp.connpass.com/event/134229/>`__
+   - * `yuji0000 <https://connpass.com/user/yuji0000/>`__
      * 2
-     * `仙台 <https://pyconjp.connpass.com/event/104080/>`_ 、 `山形市 <https://pyconjp.connpass.com/event/130348/>`_
-   - * `KazuyukiOhkubo <https://connpass.com/user/KazuyukiOhkubo/>`_
+     * `仙台 <https://pyconjp.connpass.com/event/104080/>`__ 、 `山形市 <https://pyconjp.connpass.com/event/130348/>`__
+   - * `KazuyukiOhkubo <https://connpass.com/user/KazuyukiOhkubo/>`__
      * 2
-     * `仙台 <https://pyconjp.connpass.com/event/104080/>`_ 、 `山形市 <https://pyconjp.connpass.com/event/130348/>`_
-   - * `Peacock <https://connpass.com/user/peacock0803sz/>`_
+     * `仙台 <https://pyconjp.connpass.com/event/104080/>`__ 、 `山形市 <https://pyconjp.connpass.com/event/130348/>`__
+   - * `Peacock <https://connpass.com/user/peacock0803sz/>`__
      * 2
-     * `群馬 <https://pyconjp.connpass.com/event/143290/>`_ 、 `静岡県沼津市 <https://pyconjp.connpass.com/event/251468/>`_
-   - * `malo21st <https://connpass.com/user/malo21st/>`_
+     * `群馬 <https://pyconjp.connpass.com/event/143290/>`__ 、 `静岡県沼津市 <https://pyconjp.connpass.com/event/251468/>`__
+   - * `malo21st <https://connpass.com/user/malo21st/>`__
      * 2
-     * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`_ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`_
+     * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`__ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`__

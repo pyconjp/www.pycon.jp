@@ -165,7 +165,7 @@
 
   - 日時: 2021年7月3日(土) 10:00-18:15
   - 会場: 長野市生涯学習センター、オンライン
-  - 主催: `django-ja <https://djangoproject.jp/>`_
+  - 主催: django-ja_
 - `PyCon mini Shizuoka 2021 <https://shizuoka.pycon.jp/2021>`_
 
   - 日時: 2021年11月20日(土)
@@ -180,7 +180,9 @@
 
   - 日時: 2023年10月7日(土) 10:00-20:30
   - 会場: サイボウズ株式会社
-  - 主催: `django-ja <http://djangoproject.jp/>`_
+  - 主催: django-ja_
+
+.. _django-ja: https://djangoproject.jp/
 
 お問い合わせ、ご相談
 ====================
