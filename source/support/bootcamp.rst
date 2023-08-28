@@ -763,6 +763,9 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * 名前
      * 回数
      * 参加イベント
+   - * `yoshi-corleone <https://connpass.com/user/yoshi-corleone/>`__
+     * 5
+     * `静岡 <https://pyconjp.connpass.com/event/67533/>`__ 、 `山梨 <https://pyconjp.connpass.com/event/103507/>`__ 、 `静岡県藤枝市 <https://pyconjp.connpass.com/event/106920/>`__ 、 `静岡県沼津市 <https://pyconjp.connpass.com/event/251468/>`__ 、 `愛知 Re:2nd <https://pyconjp.connpass.com/event/286959/>`__
    - * `soogie <https://connpass.com/user/soogie/>`__
      * 5
      * `埼玉 <https://pyconjp.connpass.com/event/69433/>`__ 、 `神奈川 <https://pyconjp.connpass.com/event/71908/>`__ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__ 、 `山梨 <https://pyconjp.connpass.com/event/103507/>`__ 、 `静岡県藤枝市 <https://pyconjp.connpass.com/event/106920/>`__
@@ -772,12 +775,9 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * `にしもつ <https://connpass.com/user/24motz/>`__
      * 4
      * `広島 <https://pyconjp.connpass.com/event/50095/>`__ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`__ 、 `山口 <https://pyconjp.connpass.com/event/205993/>`__ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`__
-   - * `yamayama__k5 <https://connpass.com/user/yamayama__k5/>`__
+   - * `yamayama_k5 <https://connpass.com/user/yamayama_k5/>`__
      * 4
      * `香川 <https://pyconjp.connpass.com/event/56141/>`__ 、 `岡山 <https://pyconjp.connpass.com/event/103539/>`__ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`__ 、 `香川2nd <https://pyconjp.connpass.com/event/261760/>`__
-   - * `yoshi-corleone <https://connpass.com/user/yoshi-corleone/>`__
-     * 4
-     * `静岡 <https://pyconjp.connpass.com/event/67533/>`__ 、 `山梨 <https://pyconjp.connpass.com/event/103507/>`__ 、 `静岡県藤枝市 <https://pyconjp.connpass.com/event/106920/>`__ 、 `静岡県沼津市 <https://pyconjp.connpass.com/event/251468/>`__
    - * `Katsuhiro Morishita <https://connpass.com/user/KatsuhiroMorishita/>`__
      * 3
      * `熊本 <https://pyconjp.connpass.com/event/36773/>`__ 、 `鹿児島 <https://pyconjp.connpass.com/event/67709/>`__ 、 `熊本2nd <https://pyconjp.connpass.com/event/143197/>`__
@@ -796,12 +796,12 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * `Noriyuki <https://connpass.com/user/eiry/>`__
      * 3
      * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`__ 、 `熊本2nd <https://pyconjp.connpass.com/event/143197/>`__ 、 `長崎 <https://pyconjp.connpass.com/event/158803/>`__
-   - * `t__hama <https://connpass.com/user/t__hama/>`__
+   - * `t_hama <https://connpass.com/user/t_hama/>`__
      * 3
      * `福岡2nd <https://pyconjp.connpass.com/event/143786/>`__ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`__ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`__
    - * `ymyzk <https://connpass.com/user/litesystems/>`__
      * 2
-     * `京都 <https://pyconjp.connpass.com/event/33014/>`__ 、 `愛知2nd <https://pyconjp.connpass.com/event/280530/>`__
+     * `京都 <https://pyconjp.connpass.com/event/33014/>`__ 、 `愛知 Re:2nd <https://pyconjp.connpass.com/event/286959/>`__
    - * `14suke <https://connpass.com/user/isabisi1484/>`__
      * 2
      * `広島 <https://pyconjp.connpass.com/event/50095/>`__ 、 `広島2nd <https://pyconjp.connpass.com/event/248048/>`__
@@ -820,10 +820,10 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * `nakagami <https://connpass.com/user/nakagami/>`__
      * 2
      * `愛知 <https://pyconjp.connpass.com/event/60165/>`__ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__
-   - * `SatoshiMiura <https://connpass.com/user/satoshi__miura/>`__
+   - * `SatoshiMiura <https://connpass.com/user/satoshi_miura/>`__
      * 2
      * `愛知 <https://pyconjp.connpass.com/event/60165/>`__ 、 `静岡 <https://pyconjp.connpass.com/event/67533/>`__
-   - * `hakata__oyuki <https://connpass.com/user/hakata__oyuki/>`__
+   - * `hakata_oyuki <https://connpass.com/user/hakata_oyuki/>`__
      * 2
      * `福岡 <https://pyconjp.connpass.com/event/62769/>`__ 、 `佐賀 <https://pyconjp.connpass.com/event/244411/>`__
    - * `Tomo Masakura <https://connpass.com/user/masakura/>`__
@@ -835,19 +835,19 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * `SatoshiSuenaga <https://connpass.com/user/SatoshiSuenaga/>`__
      * 2
      * `鹿児島 <https://pyconjp.connpass.com/event/67709/>`__ 、 `鹿児島2nd <https://pyconjp.connpass.com/event/278007/>`__
-   - * `kashew__nuts <https://connpass.com/user/kashew__nuts/>`__
+   - * `kashew_nuts <https://connpass.com/user/kashew_nuts/>`__
      * 2
      * `静岡 <https://pyconjp.connpass.com/event/67533/>`__ 、 `仙台 <https://pyconjp.connpass.com/event/104080/>`__
    - * `massa142 <https://connpass.com/user/mstk214/>`__
      * 2
      * `埼玉 <https://pyconjp.connpass.com/event/69433/>`__ 、 `福島 <https://pyconjp.connpass.com/event/75923/>`__
-   - * `selina <https://connpass.com/user/Lina__Katayose/>`__
+   - * `selina <https://connpass.com/user/Lina_Katayose/>`__
      * 2
      * `埼玉 <https://pyconjp.connpass.com/event/69433/>`__ 、 `福島 <https://pyconjp.connpass.com/event/75923/>`__
    - * `Ryuji Tsutsui <https://connpass.com/user/ryu22e/>`__
      * 2
-     * `神奈川 <https://pyconjp.connpass.com/event/71908/>`__ 、 `愛知2nd <https://pyconjp.connpass.com/event/280530/>`__
-   - * `kor__miya <https://connpass.com/user/kor__miya/>`__
+     * `神奈川 <https://pyconjp.connpass.com/event/71908/>`__ 、 `愛知 Re:2nd <https://pyconjp.connpass.com/event/286959/>`__
+   - * `kor_miya <https://connpass.com/user/kor_miya/>`__
      * 2
      * `福島 <https://pyconjp.connpass.com/event/75923/>`__ 、 `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__
    - * `TakumiFunasaka <https://connpass.com/user/TakumiFunasaka/>`__
@@ -859,7 +859,7 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * `wutali <https://connpass.com/user/wutali/>`__
      * 2
      * `柏の葉 <https://pyconjp.connpass.com/event/81251/>`__ 、 `新潟2nd <https://pyconjp.connpass.com/event/255600/>`__
-   - * `nikkie <https://connpass.com/user/takuya__futatsugi/>`__
+   - * `nikkie <https://connpass.com/user/takuya_futatsugi/>`__
      * 2
      * `山梨 <https://pyconjp.connpass.com/event/103507/>`__ 、 `岐阜 <https://pyconjp.connpass.com/event/134229/>`__
    - * `yuji0000 <https://connpass.com/user/yuji0000/>`__
@@ -868,6 +868,9 @@ Tシャツについての詳細は以下のブログ記事を参照してくだ�
    - * `KazuyukiOhkubo <https://connpass.com/user/KazuyukiOhkubo/>`__
      * 2
      * `仙台 <https://pyconjp.connpass.com/event/104080/>`__ 、 `山形市 <https://pyconjp.connpass.com/event/130348/>`__
+   - * `kubo <https://connpass.com/user/kubo_mamoru/>`__
+     * 2
+     * `岐阜 <https://pyconjp.connpass.com/event/134229/>`__ 、 `富山県富山市 <https://pyconjp.connpass.com/event/287004/>`__
    - * `Peacock <https://connpass.com/user/peacock0803sz/>`__
      * 2
      * `群馬 <https://pyconjp.connpass.com/event/143290/>`__ 、 `静岡県沼津市 <https://pyconjp.connpass.com/event/251468/>`__
