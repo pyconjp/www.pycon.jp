@@ -681,10 +681,10 @@ Python Boot Camp の開催実績です。
      - 9月16日(土)
      - `富山県民会館 <https://www.bunka-toyama.jp/kenminkaikan/>`_
      - 鈴木 たかのり
-     - 15名(予定)
-     - 3
-     - 1
-     -
+     - 9名
+     - 4
+     - 2
+     - `開催レポート <https://pyconjp.blogspot.com/2023/09/pycamp-in-toyama-report.html>`__
    * - 54
      - `Python Boot Camp in 徳島2nd <https://pyconjp.connpass.com/event/293032//>`__
      - 10月14日(土)
