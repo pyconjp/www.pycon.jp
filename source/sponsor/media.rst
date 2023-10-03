@@ -60,15 +60,6 @@ https://www.oreilly.co.jp/index.shtml
    :alt: 株式会社オライリー・ジャパン
    :target: https://www.oreilly.co.jp/index.shtml
 
-アイティメディア株式会社
-------------------------
-
-https://www.atmarkit.co.jp
-
-.. image:: /_static/sponsor/media/logos/atmarkit.png
-   :alt: アイティメディア株式会社
-   :target: https://www.atmarkit.co.jp
-
 ログミーTech
 ------------
 
