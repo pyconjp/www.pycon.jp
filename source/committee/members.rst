@@ -65,6 +65,22 @@ Python Boot Camp in 香川 開催後に立ち上げたPythonコミュニティ `
 
 * Twitter: `@kobatomo3H <https://twitter.com/kobatomo3H>`_
 
+
+山手 恵悟(Keigo Yamate)
+-----------------------
+.. figure:: /_static/yamate.png
+
+Python Boot Camp担当
+
+Pythonを始めたきっかけは、単純作業を効率よくやるための手段として始めた。 2016年ごろから岡山Python勉強会のスタッフとして活動開始。 2017年6月:Python Boot Camp in 香川 でTAをやったのきっかけに岡山で現地スタッフ、広島2ndでTA、香川2ndでTAを実施。 日本各地でPythonの輪を広げる活動「Python Boot Camp」のお手伝いをしたいと思い、コアスタッフとなる。
+
+Pythonコミュニティの `岡山Python勉強会 <https://okapython.connpass.com/>`_ スタッフとしても活動している。
+
+趣味は、バイクでツーリングすること。
+
+X: `@yamayama_k5 <https://twitter.com/yamayama_k5>`_
+
+
 塚本 佳康(Yoshiyasu Tsukamoto)
 ------------------------------
 .. figure:: /_static/yoshi-tsukamo.jpg
