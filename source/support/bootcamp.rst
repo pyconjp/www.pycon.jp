@@ -690,10 +690,10 @@ Python Boot Camp の開催実績です。
      - 10月14日(土)
      - `うずコワーク <https://www.uzuco.work/>`_
      - 筒井 隆次
-     - 10名(予定)
+     - 11名
+     - 3
      - 1
-     - 1
-     -
+     - `開催レポート <https://pyconjp.blogspot.com/2023/10/pycamp-in-tokushima2nd-report.html>`__
 
 Python Boot Camp Map
 --------------------
