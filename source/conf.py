@@ -11,11 +11,8 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 # import os
-# import sys
+import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
-# import matplotlib.pyplot as plt
-# plt.rcParams["font.family"] = "Yu Gothic"
 
 # -- Project information -----------------------------------------------------
 
@@ -75,8 +72,20 @@ html_favicon = '_static/favicon.png'
 # options for Open Graph
 # https://github.com/wpilibsuite/sphinxext-opengraph
 ogp_site_url = "https://www.pycon.jp/"
-ogp_image = "https://www.pycon.jp/_static/pyconjp_logo.png"
-ogp_use_first_image = True
+# ogp_image = "https://www.pycon.jp/_static/pyconjp_logo.png"
+# ogp_use_first_image = True
+
+# https://sphinxext-opengraph.readthedocs.io/en/latest/socialcards.html
+ogp_social_cards = {
+    "enable": True,
+    "image": "_static/pyconjp_logo.png",
+    "font": "Noto Sans CJK JP",
+}
+
+if sys.platform == "darwin":
+    ogp_social_cards["font"] = "Hiragino Sans"
+elif sys.platform == "win32":
+    ogp_social_cards["font"] = "MS PGothic"
 
 # options for linkcheck
 # https://www.sphinx-doc.org/ja/master/usage/configuration.html#options-for-the-linkcheck-builder
