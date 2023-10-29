@@ -84,9 +84,9 @@ ogp_social_cards = {
 
 # font settings for macOS and Windows
 if sys.platform == "darwin":
-    ogp_social_cards["font"] = "Hiragino Sans"
+    ogp_social_cards["font"] = "Hiragino Maru Gothic Pro"
 elif sys.platform == "win32":
-    ogp_social_cards["font"] = "MS PGothic"
+    ogp_social_cards["font"] = "MS Gothic"
 
 # options for linkcheck
 # https://www.sphinx-doc.org/ja/master/usage/configuration.html#options-for-the-linkcheck-builder
