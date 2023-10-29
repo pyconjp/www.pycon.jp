@@ -82,6 +82,7 @@ ogp_social_cards = {
     "font": "Noto Sans CJK JP",
 }
 
+# font settings for macOS and Windows
 if sys.platform == "darwin":
     ogp_social_cards["font"] = "Hiragino Sans"
 elif sys.platform == "win32":
@@ -95,10 +96,3 @@ linkcheck_ignore = [
     r"https://docs.google.com/.*",
     r"http://trac.pycon.jp/.*",
 ]
-
-import matplotlib.font_manager as fm
-import pprint
-
-font_list = [f.name for f in fm.fontManager.ttflist]
-
-pprint.pprint(font_list)
