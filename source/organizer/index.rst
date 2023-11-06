@@ -282,7 +282,8 @@ PyCon APAC 2023
   - Conference: 2023 Oct 27(Fri), 28(Sat)
   - Development Sprints: 2023 Oct 29(Sun)
 :Venue:
-  - `TOC Ariake Convention Hall <https://www.toc.co.jp/saiji/ariake/access/>`__
+  - `TOC Ariake Convention Hall <https://www.toc.co.jp/saiji/ariake/access/>`_ (Tutorial, Conference)
+  - `HENNGE <https://hennge.com/>`_ (Development Sprints)
 :Keynote:
   - Why University Teachers Wrote a Python Textbook? / Hajime Kita
   - Through the looking glass: 10 years of Python Organizing Lessons and Tribulations / Lorena Mesa
