@@ -46,6 +46,8 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   : 2021 Oct 15-16(Conference)
 - `PyCon JP 2022 <https://2022.pycon.jp/>`_
   : 2022 Oct 14-15(Conference), Oct 16(Development Sprints)
+- `PyCon APAC 2023 <https://2023-apac.pycon.jp>`_
+  : 2023 Oct 27(Tutorial), Oct 28-29(Conference), Oct 30(Development Sprints)
 
 過去の PyCon JP 詳細
 ====================
@@ -270,3 +272,23 @@ PyCon JP 2022
   - Conference: 325 (Onsite Conference Tickets), 112 (Online), 60 (Sponsor), 41(Staff)
 :Description: 5 Tracks(2 Keynotes, 42 Talk sessions), Lunch Time session, Lightning Talks and etc.
 :Sponsor: 1 Diamond, 3 Platinum, 18 Gold, 18 Silver, 1 Special, 15 Patrons, 1 Conference Room, 6 Media
+
+PyCon APAC 2023
+---------------
+
+:URL: https://2023-apac.pycon.jp/
+:Date:
+  - Tutorial: 2023 Oct 26(Thu)
+  - Conference: 2023 Oct 27(Fri), 28(Sat)
+  - Development Sprints: 2023 Oct 29(Sun)
+:Venue:
+  - `TOC Ariake Convention Hall <https://www.toc.co.jp/saiji/ariake/access/>`_ (Tutorial, Conference)
+  - `HENNGE <https://hennge.com/>`_ (Development Sprints)
+:Keynote:
+  - Why University Teachers Wrote a Python Textbook? / Hajime Kita
+  - Through the looking glass: 10 years of Python Organizing Lessons and Tribulations / Lorena Mesa
+:Attendees:
+  - Total: 702
+  - Conference: 580 (Regular), 50 (Sponsor), 72 (Staff)
+:Description(Conference): 5 Tracks(2 Keynotes, 55 Talk sessions), 3 Tutorials, Poster sessions, Lightning Talks and etc.
+:Sponsor: 1 Diamond, 3 Platinum, 14 Gold, 18 Silver, 10 Bronze, 5 Special, 13 Patrons
