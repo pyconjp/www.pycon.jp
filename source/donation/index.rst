@@ -15,7 +15,8 @@
 
 寄付を頂いた方の名称（本年度分）
 
-- 2023年10月29日 Unofficial: PyCon APAC 2023 after party 2,440円
+- 2023年10月29日 `Unofficial: PyCon APAC 2023 after party <https://connpass.com/event/300385/>`__ 2,440円
+- 2023年11月09日 A PyCon JP 2016 Speaker 50,000円
 
 イベントでの寄付（500円以上ご寄付をいただいた希望者に、キラキラステッカーを差し上げています）
 
