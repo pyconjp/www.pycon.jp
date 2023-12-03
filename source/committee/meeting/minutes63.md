@@ -337,4 +337,4 @@
 
 * 運営会議#64
   * 2024年1月10日(水)
-  * <https://pyconjp-staff.connpass.com/event/## TODO
+  * <https://pyconjp-staff.connpass.com/event/303203/>
