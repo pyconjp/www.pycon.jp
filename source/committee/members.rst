@@ -131,14 +131,16 @@ PyLadies Caravan担当
 
 PyCon JP TV担当
 
-東京電機大学で情報通信工学を学ぶかたわら、CMSコミュニケーションズの社員として働いている。2019年にPyCon JPに初参加し、 `PyCon JP 2020`_ はデザインチームリーダーとして活動した。
+`PyCon JP 2020`_ よりPyCon JPのボランティアスタッフとして活動。副座長として `PyCon JP 2022`_ , `PyCon APAC 2023`_ の2年間は積極的な貢献もした。
 
-イベント、特に舞台監督やディレクター的な役回りをすることが好き。先述のPyCon JP 2020では、配信拠点でのディレクションも一部担当していた。
+イベント、特に舞台監督やディレクター的な役回りをすることが好き。先述の `PyCon JP 2020`_ では、配信拠点でのディレクションも一部担当していた。
 
 .. _PyCon JP 2020: https://pycon.jp/2020/
+.. _PyCon JP 2022: https://2022.pycon.jp/
+.. _PyCon APAC 2023: https://2023-apac.pycon.jp/
 
 * Twitter: `@peacock0803sz <https://twitter.com/peacock0803sz>`_
-* HP: https://peacock0803sz.com
+* HP: https://p3ac0ck.net/
 
 大崎 有依(Yui Ohsaki)
 ----------------------------
