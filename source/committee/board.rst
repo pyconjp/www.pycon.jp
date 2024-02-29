@@ -124,10 +124,11 @@ DjangoCon Europe 2012座長。
 
 理事
 
-PyLadies Caravan担当
+`日本マイクロソフト株式会社`_ 所属。
 
 `PyLadies Tokyo`_ オーガナイザーのうちの一人。PyLadies Tokyo meetup #1 を機にPythonに触れ始める。
-日本中のPythonistaな女性同士が繋がれたらもっと楽しいだろうと思い、2019年から `PyLadies Caravan`_ の運営をスタートする。
+日本中のPythonistaな女性同士が繋がれたらもっと楽しいだろうと思い、2019年からPyCon JP Associationのプロジェクトの一つとして `PyLadies Caravan`_ の運営をスタートする。    
+
 
 * Twitter: `@maaya8585 <https://twitter.com/maaya8585>`_
 * Blog: `hotchpotch <https://hotchpotchj37.wordpress.com/>`_
