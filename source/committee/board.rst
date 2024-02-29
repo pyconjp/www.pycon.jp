@@ -116,3 +116,23 @@ DjangoCon Europe 2012座長。
 .. _@ojiidotch: https://twitter.com/ojiidotch
 .. _ojii: https://github.com/ojii
 .. _django CMS: https://www.django-cms.org/en/
+
+石田 真彩 (Maaya Ishida)
+========================
+.. figure:: /_static/maaya.jpg
+   :width: 160
+
+理事
+
+`日本マイクロソフト株式会社`_ 所属。
+
+`PyLadies Tokyo`_ オーガナイザーのうちの一人。PyLadies Tokyo meetup #1 を機にPythonに触れ始める。
+日本中のPythonistaな女性同士が繋がれたらもっと楽しいだろうと思い、2019年からPyCon JP Associationのプロジェクトの一つとして `PyLadies Caravan`_ の運営をスタートする。    
+
+
+* Twitter: `@maaya8585 <https://twitter.com/maaya8585>`_
+* Blog: `hotchpotch <https://hotchpotchj37.wordpress.com/>`_
+
+.. _日本マイクロソフト株式会社: https://www.microsoft.com/ja-jp/mscorp/
+.. _PyLadies Tokyo: https://tokyo.pyladies.com/
+.. _PyLadies Caravan: https://tokyo.pyladies.com/caravan/index.html

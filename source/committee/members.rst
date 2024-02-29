@@ -95,22 +95,6 @@ Python Boot Camp Caravan担当
 
 * Twitter: `@yoshi_corleone <https://twitter.com/yoshi_corleone>`_
 
-石田 真彩(Maaya Ishida)
------------------------
-.. figure:: /_static/maaya.jpg
-   :width: 160
-
-PyLadies Caravan担当
-
-`PyLadies Tokyo`_ オーガナイザーのうちの一人。PyLadies Tokyo meetup #1 を機にPythonに触れ始める。
-日本中のPythonistaな女性同士が繋がれたらもっと楽しいだろうと思い、2019年から `PyLadies Caravan`_ の運営をスタートする。
-
-* Twitter: `@maaya8585 <https://twitter.com/maaya8585>`_
-* Blog: `hotchpotch <https://hotchpotchj37.wordpress.com/>`_
-
-.. _PyLadies Tokyo: https://tokyo.pyladies.com/
-.. _PyLadies Caravan: https://tokyo.pyladies.com/caravan/index.html
-
 山下 加奈恵(Kanae Yamashita)
 ----------------------------
 .. figure:: /_static/kanan.jpg
