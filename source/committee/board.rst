@@ -133,5 +133,6 @@ DjangoCon Europe 2012座長。
 * Twitter: `@maaya8585 <https://twitter.com/maaya8585>`_
 * Blog: `hotchpotch <https://hotchpotchj37.wordpress.com/>`_
 
+.. _日本マイクロソフト株式会社: https://www.microsoft.com/ja-jp/mscorp/
 .. _PyLadies Tokyo: https://tokyo.pyladies.com/
 .. _PyLadies Caravan: https://tokyo.pyladies.com/caravan/index.html
