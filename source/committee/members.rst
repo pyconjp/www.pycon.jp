@@ -108,6 +108,9 @@ PyLadies Caravan担当
 
 * Twitter: `@Addition_quince <https://twitter.com/Addition_quince>`_
 
+.. _PyLadies Tokyo: https://tokyo.pyladies.com/
+.. _PyLadies Caravan: https://tokyo.pyladies.com/caravan/index.html
+  
 高井 陽一(Yoichi Takai) a.k.a Peacock
 -------------------------------------
 .. figure:: /_static/peacock.jpg
