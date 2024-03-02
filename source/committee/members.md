@@ -67,6 +67,8 @@ Python Boot Camp in 香川 開催後に立ち上げたPythonコミュニティ [
 
 - Twitter: [@kobatomo3H](https://twitter.com/kobatomo3H)
 
+(yamate-profile)=
+
 ### 山手 恵悟(Keigo Yamate)
 
 ```{figure} /_static/yamate.png

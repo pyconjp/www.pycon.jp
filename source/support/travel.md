@@ -1,6 +1,4 @@
-======================
- 海外イベント参加支援
-======================
+# 海外イベント参加支援
 
 PyCon JP スタッフが海外の Python 関連イベントに参加する旅費を支援する制度です。
 
@@ -14,6 +12,4 @@ PyCon JP スタッフが海外の Python 関連イベントに参加する旅費
 - 視察: PyCon JPの運営の参考にするために、開催の様子を見てフィードバックする。
 - 広報: PyCon JPの活動を海外 PyCon で宣伝して、参加者や運営、スポンサーの興味を引く。
 
-.. raw:: html
-
-   <iframe src="https://docs.google.com/forms/d/1pzBaHvFQQpMYv78XEp_2NenDBDMJi0D_XUMXGXsDfWY/viewform?embedded=true" width="900" height="1200" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
+<iframe src="https://docs.google.com/forms/d/1pzBaHvFQQpMYv78XEp_2NenDBDMJi0D_XUMXGXsDfWY/viewform?embedded=true" width="900" height="1200" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
