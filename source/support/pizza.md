@@ -1,6 +1,4 @@
-================================
- Python関連イベントへのピザ支援
-================================
+# Python関連イベントへのピザ支援
 
 コミュニティ支援の一環としてピザ支援を実施致します。
 イベント開催者にとって懇親会等での食事準備は、参加費徴収が発生して面倒な仕事になりがちですが、この支援により手軽なイベント運営の手助けをすることを目指しています。
@@ -18,6 +16,4 @@
 
 皆様からの多くのご応募お待ちしております。
 
-.. raw:: html
-
-   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeO53f-tMvf7HjrZd-js0iIyOJyw271vlDUsCdS95ZcbdBT7g/viewform?embedded=true" width="900" height="1200" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeO53f-tMvf7HjrZd-js0iIyOJyw271vlDUsCdS95ZcbdBT7g/viewform?embedded=true" width="900" height="1200" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
