@@ -154,7 +154,7 @@
      - 2222万円
      - 2095万円
      - -126万円
-     - 収支内訳は後日公開
+     - `PyCon JP 2022会計報告 <https://pyconjp.blogspot.com/2023/03/pyconjp2022accountingreport.html>`_
 
    - - Python Boot Camp
      - 38万円
