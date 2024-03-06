@@ -6,6 +6,15 @@
 - URL: http://www.pycon.jp/ or https://www.pycon.jp/
 - URL(RTD): http://wwwpyconjp.readthedocs.org/
 
+## ビルド環境準備
+
+Ubuntu環境でのフォントインストール
+```
+$ sudo apt update
+$ sudo apt install fonts-noto-cjk
+$ rm -rf ~/.cache/matplotlib
+```
+
 ## build
 
 ```
