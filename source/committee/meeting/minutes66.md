@@ -1,4 +1,4 @@
-# 一般社団法人PyCon JP Association運営会議#66
+# 2024年3月21日(木) 一般社団法人PyCon JP Association運営会議#66
 
 * 日時: 2024年3月21日(木) 19:30-21:30
 * 場所: CMSコミュニケーションズ、Zoom
