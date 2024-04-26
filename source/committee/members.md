@@ -162,3 +162,19 @@ PyCon JP 2012から実行員メンバーとして数年活動を行っていた�
 [熊本]: https://kyushu.pycon.jp/2022/
 [熊本mini]: https://kumamoto.pycon.jp/
 [福岡]: https://kyushu.pycon.jp/2018/
+
+
+### 西本 卓也(Takuya Nishimoto)
+
+```{figure} /_static/nishimotz.jpg
+:width: 160
+```
+
+Python Boot Camp担当
+
+オープンソースのスクリーンリーダーNVDA(NonVisual Desktop Access)の開発に参加するために本格的に Python を使い始めて、 PyCon mini JP や [PyCon JP 2012](https://2012.pycon.jp/) 併催イベントなどで NVDA を紹介した。
+その後、広島県広島市でエンジニアとして活動しながら、NVDA日本語チーム、[PyCon mini Hiroshima](https://pycon-hiroshima.connpass.com/)、PCNひろしま(こどもプログラミング教室)などを運営。
+プログラミングを学ぶ視覚障害者の人たちとの交流、ウェブアクセシビリティの活動も行っている。
+2017年 Python Boot Camp in 広島をきっかけに Python 初心者のための勉強会「すごい広島 with Python」を開始し、2023年に「すごい広島 IT初心者の会」と改名し、現在も続けている。
+
+- Twitter: [@24motz](https://twitter.com/24motz)
