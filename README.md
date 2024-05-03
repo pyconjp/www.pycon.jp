@@ -20,7 +20,7 @@ $ rm -rf ~/.cache/matplotlib
 ```
 $ git clone https://github.com/pyconjp/www.pycon.jp.git
 $ cd www.pycon.jp
-$ python3.11 -m venv env
+$ python3.12 -m venv env
 $ . env/bin/activate
 (env)$ pip install -r requirements.txt
 (env)$ make html

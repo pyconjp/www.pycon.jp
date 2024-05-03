@@ -1,4 +1,4 @@
-matplotlib==3.8.2
-myst-parser==2.0.0
-Sphinx==7.2.6
+matplotlib==3.8.4
+myst-parser==3.0.1
+Sphinx==7.3.7
 sphinxext-opengraph==0.9.1
