@@ -24,5 +24,5 @@ $ python3.12 -m venv env
 $ . env/bin/activate
 (env)$ pip install -r requirements.txt
 (env)$ make html
-(env)$ open _build/html/index.html
+(env)$ open build/html/index.html
 ```
