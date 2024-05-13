@@ -681,7 +681,7 @@ Python Boot Camp の開催実績です。
   - 2
   - [開催レポート](https://pyconjp.blogspot.com/2023/09/pycamp-in-toyama-report.html)
 * - 54
-  - [Python Boot Camp in 徳島2nd](https://pyconjp.connpass.com/event/293032//)
+  - [Python Boot Camp in 徳島2nd](https://pyconjp.connpass.com/event/293032/)
   - 10月14日(土)
   - [うずコワーク](https://www.uzuco.work/)
   - 筒井 隆次
