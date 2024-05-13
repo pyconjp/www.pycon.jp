@@ -46,7 +46,7 @@ Python Boot Campの概要について伝えたランディングページを作�
   - 開催済の都道府県は太字。カッコ内の数字は複数開催
   - 割合
 * - 北海道
-  - **北海道**
+  - **北海道** (2)
   - 1/1
 * - 東北
   - 青森、**岩手**、秋田、**宮城**、**山形** (2)、**福島**
@@ -689,6 +689,24 @@ Python Boot Camp の開催実績です。
   - 3
   - 1
   - [開催レポート](https://pyconjp.blogspot.com/2023/10/pycamp-in-tokushima2nd-report.html)
+* -
+  - 2024年
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+* - 55
+  - [Python Boot Camp in 札幌2nd](https://pyconjp.connpass.com/event/317828/)
+  - 6月15日(土)
+  - [13LABO](https://13labo.com/)
+  - 筒井 隆次
+  - 20名(予定)
+  - 4
+  - 1
+  -
 ```
 
 ### Python Boot Camp Map
