@@ -178,3 +178,18 @@ Python Boot Camp担当
 2017年 Python Boot Camp in 広島をきっかけに Python 初心者のための勉強会「すごい広島 with Python」を開始し、2023年に「すごい広島 IT初心者の会」と改名し、現在も続けている。
 
 - Twitter: [@24motz](https://twitter.com/24motz)
+
+
+### 木下 文史(Fumichika Kinoshita)
+
+```{figure} /_static/kinoshita.jpg
+:width: 160
+```
+
+ブランディング・デザイン・広報サポート担当
+
+Pythonとの出会いは、古く2003年ごろにZopeを触ったことが最初。その後、PyCon JPのデザインチームで運営を何回か手伝っていました。
+現在はデザインエンジニアという肩書で、主に企画〜コンテンツ作り〜デザイン作業やコンサルティングを行っています。
+またPythonを使ったWebアプリケーション開発も行っています。
+
+- X: [@kinofumi](https://x.com/kinofumi)
