@@ -6,6 +6,7 @@
 committee/index
 committee/english
 organizer/index
+policies/index
 support/index
 donation/index
 annualreport/index
