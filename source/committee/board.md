@@ -116,5 +116,8 @@ DjangoCon Europe 2012座長。
 [PyLadies Tokyo](https://tokyo.pyladies.com/)オーガナイザーのうちの一人。PyLadies Tokyo meetup #1 を機にPythonに触れ始める。
 日本中のPythonistaな女性同士が繋がれたらもっと楽しいだろうと思い、2019年からPyCon JP Associationのプロジェクトの一つとして[PyLadies Caravan](https://tokyo.pyladies.com/caravan/index.html)の運営をスタートする。
 
+[Outstanding PyLady Award](https://kit.pyladies.com/en/latest/global/award.html) 2024 受賞
+[PyLadies Conference](https://www.youtube.com/watch?v=8YRFPvOOStU) および [PyCon HongKong 2023](https://pycon.hk/2023/introduce-to-you-about-pyladies-tokyo/) にて登壇などの活動がある。
+
 :Twitter: [@maaya8585](https://twitter.com/maaya8585)
 :Blog: [hotchpotch](https://hotchpotchj37.wordpress.com/)
