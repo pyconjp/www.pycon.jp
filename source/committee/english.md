@@ -133,3 +133,22 @@ Develops security SaaS using Tornado and asyncio. Former maintainer and lead dev
 
 :twitter: [@ojiidotch](https://twitter.com/ojiidotch)
 :github: [ojii](https://github.com/ojii)
+
+### Maaya Ishida (石田　真彩)
+
+```{figure} /_static/maaya.jpg
+:width: 160
+```
+
+Board Member.
+
+[Microsoft Corporation](http://www.microsoft.com/) 
+
+She has organising [PyLadies Tokyo](https://tokyo.pyladies.com/) since 2014. She has organising meetups, workshops and other events for not just PyLadies Tokyo but also [PyLadies Caravan](https://tokyo.pyladies.com/caravan/index.html) project which consist of road show to reach communities outside Tokyo. 
+
+[Outstanding PyLady Award](https://kit.pyladies.com/en/latest/global/award.html) 2024's winner.
+One of the speakers of the first [PyLadies Conference](https://www.youtube.com/watch?v=8YRFPvOOStU).
+One of the keynoters at [PyCon HongKong 2023](https://pycon.hk/2023/introduce-to-you-about-pyladies-tokyo/). 
+
+:Twitter: [@maaya8585](https://twitter.com/maaya8585)
+:Blog: [hotchpotch](https://hotchpotchj37.wordpress.com/)
