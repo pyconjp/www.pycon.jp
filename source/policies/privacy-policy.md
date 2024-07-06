@@ -85,9 +85,8 @@
 
   請求書については、以下よりダウンロードください。
 
-  * 利用目的の通知、個人情報又は第三者提供記録の開示の請求書
-  * 訂正・追加・削除の請求書
-  * 利用の停止・第三者提供停止の請求の請求書
+  * [利用目的の通知、個人情報又は第三者提供記録の開示の請求書](https://docs.google.com/document/d/1mJGwRjpEyu3ueTI8SxMqLbRqNfAu6MZx/edit?usp=sharing&ouid=100094102035243827603&rtpof=true&sd=true)
+  * [「個人情報」訂正・追加・削除、利用の停止・第三者提供停止の請求書](https://docs.google.com/document/d/1yqsj3txiPuRwAJKJkNwM1pnHcUP28mRS/edit?usp=sharing&ouid=100094102035243827603&rtpof=true&sd=true)
 
 * イ 本人確認書類
   * 参加者等ご本人による請求の場合
@@ -108,7 +107,7 @@
 * ウ 送付先
 
   〒110-0015 \
-  住所 東京都台東区東上野1-11-1 GOSHO春日通りビル9F \
+  住所 東京都台東区東上野1-11-1 GOSHO春日通りビル9F
   一般社団法人PyCon JP Associaiton個人情報開示請求窓口
 
 ## 6. Cookie の取扱い
