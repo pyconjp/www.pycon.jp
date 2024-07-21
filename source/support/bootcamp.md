@@ -703,7 +703,7 @@ Python Boot Camp の開催実績です。
   - 6月15日(土)
   - [13LABO](https://13labo.com/)
   - 筒井 隆次
-  - 20名(予定)
+  - 4名
   - 4
   - 1
   -
@@ -712,18 +712,18 @@ Python Boot Camp の開催実績です。
   - 6月22日(土)
   - [CODE BASE NAGOYA](https://codebase.proto-g.co.jp/nagoya)
   - 鈴木 たかのり
-  - 20名(予定)
-  - 3
+  - 3名
+  - 4
   - 2
-  -
+  - [開催レポート](https://pyconjp.blogspot.com/2024/07/pycamp-in-aichi3rd.html)
 * - 57
   - [Python Boot Camp in 山形3rd (@産業技術短大庄内校)](https://pyconjp.connpass.com/event/317636/)
   - 6月29日(土)
   - [山形県立産業技術短期大学校　庄内校](https://www.shonai-cit.ac.jp/)
   - 清水川 貴之
-  - 20名(予定)
+  - 4名
   - 3
-  - 1
+  - 3
   -
 ```
 

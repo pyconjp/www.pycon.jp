@@ -130,7 +130,7 @@
       * PyCon JPの参加者管理チームとpycamp、pyladies caravanの運営メンバーで協議するところからだと思う(takanory
       * 最後の支払いはPyCon JP Associationが入る必要がある。Wise、PayPal等(terada
         * これは一社で可能な仕組みを考える必要がある(shimizukawa
-        * **TODO: **イベントチームと7月にミーティングする方向で調整すすめる(shimizukawa
+        * **TODO** :イベントチームと7月にミーティングする方向で調整すすめる(shimizukawa
           * 関係者を集めて取りまとめます(shimizukawa
           * <https://pyconjp.atlassian.net/browse/ISSHA-3283>
 
@@ -161,7 +161,7 @@
 * 出展予定
   * 2024年6月29(土) 北海道
     * 札幌市産業振興センター
-    * <https://www.sapporosansin.jp/]>
+    * <https://www.sapporosansin.jp/>
     * たかのりさん参加予定
   * **TODO**: Blog書くぞ!!!(takanory
 * 出展検討中
@@ -255,7 +255,7 @@
   * 無料にするとメリット・デメリットがあるが、チームで決めてもらえればよいと思う(terada
     * 費用的な負担が増える
     * キャンセルが出る?
-      * kyshuは結構キャンセル出なかった(terada
+      * kyushuは結構キャンセル出なかった(terada
 * 会場費等で10万円ほどの支援をしてもらえるとありがたいです
   * スタッフと相談してboardのほうにメールを送ります
   * PSFの[Regional Grant Program](https://www.python.org/psf/grants/)に申請をしてみてほしい(takanory
