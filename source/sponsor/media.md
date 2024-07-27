@@ -79,3 +79,12 @@
 :alt: 株式会社PE-BANK
 :target: https://pe-bank.jp
 ```
+
+### 株式会社翔泳社
+
+<http://codezine.jp/>
+
+```{image} /_static/sponsor/media/logos/codezine.png
+:alt: CodeZine
+:target: http://codezine.jp/
+```
