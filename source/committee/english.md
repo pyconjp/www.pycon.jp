@@ -108,9 +108,13 @@ CEO of [CMSコミュニケーションズ](https://www.cmscom.jp).
 
 He does consulting and development work related to Python web businesses.
 
-An active part of PyCon JP since the first Python conference in Japan, PyCon mini JP in January of 2011. Since its founding in March 2013 he has served as the Representative Director of the PyCon JP Association. He also contributed to various other OSS communities.
+An active part of PyCon JP since the first Python conference in Japan, PyCon mini JP in January of 2011. Since its founding in March 2013 he has served as the Representative Director of the PyCon JP Association. He also hosting a podcast called terapyon channel that covers topics related to Python and other technologies.
 
-Editor of [スラスラわかるPython](https://www.shoeisha.co.jp/book/detail/9784798151090) (Shoeisha 2017) and Co-Author of [Pythonによるあたらしいデータ分析の教科書](https://www.shoeisha.co.jp/book/detail/9784798158341) (Shoeisha 2018) and other books.
+- [PSF Fellow 2019](https://www.python.org/psf/fellows-roster/)
+- [PSF Community Service Award December 2021](https://www.python.org/community/awards/psf-awards/#december-2021)
+
+Editor of [Pythonデータ分析 実践ハンドブック](https://book.impress.co.jp/books/1122101021) (Impress 2023), [Pythonによるあたらしいデータ分析の教科書 第2版](https://www.seshop.com/product/detail/25331) (Shoeisha 2022), [Python実践レシピ](https://gihyo.jp/book/2022/978-4-297-12576-9) (Gihyo, 2022), [Python FlaskによるWebアプリ開発入門 物体検知アプリ&機械学習APIの作り方](https://www.shoeisha.co.jp/book/detail/9784798175164) (Shoeisha 2022) and other books.
+
 
 :facebook: [terapyon](https://www.facebook.com/terapyon)
 :twitter: [@terapyon](https://twitter.com/terapyon)
