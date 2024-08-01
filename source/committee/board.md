@@ -78,9 +78,14 @@ PyCon JP では [PyCon JP 2011], [PyCon JP 2012] の副座長を務めた。 [Py
 一般社団法人PyCon JP Association理事 / [(株)CMSコミュニケーションズ](https://www.cmscom.jp) 代表
 Python Web関係の業務を中心にコンサルティングや構築を手がけている。
 
-日本で初めて開かれた、PyCon mini JP (2011年1月)から主体となって活動し、2013年3月からは一般社団法人PyCon JP Association代表理事を務める。 その他のOSS関係コミュニティを主宰またはスタッフとしても活動中。最近はPythonの魅力を伝えるべく、初心者向けや機械学習分野のPython講師を精力的に務めている。
+日本で初めて開かれた、PyCon mini JP (2011年1月)から主体となって活動し、2013年3月からは一般社団法人PyCon JP Association代表理事を務める。 その他のOSS関係コミュニティを主宰またはスタッフとしても活動中。
+Python をはじめとした技術話題を扱うPodcast [terapyon channel](https://podcast.terapyon.net/) を配信中。
 
-[スラスラわかるPython](https://www.shoeisha.co.jp/book/detail/9784798151090) （2017 翔泳社刊） を監修。共著書に [Pythonによるあたらしいデータ分析の教科書 第2版](https://www.seshop.com/product/detail/25331) （2022 翔泳社刊）などがある。
+- [PSF Fellow 2019](https://www.python.org/psf/fellows-roster/)
+- [PSF Community Service Award December 2021](https://www.python.org/community/awards/psf-awards/#december-2021)
+
+主な著作として [Pythonデータ分析 実践ハンドブック](https://book.impress.co.jp/books/1122101021)（2023年，インプレス，共著）、 [Pythonによるあたらしいデータ分析の教科書 第2版](https://www.seshop.com/product/detail/25331) （2022年，翔泳社，共著）、 [Python実践レシピ](https://gihyo.jp/book/2022/978-4-297-12576-9)（2022年，技術評論社，共著）、 [Python FlaskによるWebアプリ開発入門 物体検知アプリ&機械学習APIの作り方](https://www.shoeisha.co.jp/book/detail/9784798175164) （2022年，翔泳社，監修）などがある。
+
 
 :facebook: [terapyon](https://www.facebook.com/terapyon)
 :twitter: [@terapyon](https://twitter.com/terapyon)
