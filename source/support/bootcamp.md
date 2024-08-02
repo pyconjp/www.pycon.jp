@@ -706,7 +706,7 @@ Python Boot Camp の開催実績です。
   - 4名
   - 4
   - 1
-  -
+  - [開催レポート](https://pyconjp.blogspot.com/2024/07/pycamp-in-sapporo-2nd.html)
 * - 56
   - [Python Boot Camp in 愛知3rd](https://pyconjp.connpass.com/event/318286/)
   - 6月22日(土)
@@ -724,7 +724,7 @@ Python Boot Camp の開催実績です。
   - 4名
   - 3
   - 3
-  -
+  - [開催レポート](https://pyconjp.blogspot.com/2024/07/pycamp-in-yamagata3rd-report.html)
 ```
 
 ### Python Boot Camp Map
