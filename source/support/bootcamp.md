@@ -67,7 +67,7 @@ Python Boot Campの概要について伝えたランディングページを作�
   - **香川** (2)、**愛媛**、**徳島** (2)、**高知**
   - 4/4
 * - 九州・沖縄
-  - **福岡** (2)、**佐賀**、**長崎**、**熊本** (2)、大分、宮崎、**鹿児島** (2)、**沖縄**
+  - **福岡** (2)、**佐賀**、**長崎**、**熊本** (2)、大分、**宮崎**、**鹿児島** (2)、**沖縄**
   - 6/8
 * - 全国
   -
@@ -725,6 +725,15 @@ Python Boot Camp の開催実績です。
   - 3
   - 3
   - [開催レポート](https://pyconjp.blogspot.com/2024/07/pycamp-in-yamagata3rd-report.html)
+* - 58
+  - [Python Boot Camp in 宮崎](https://pyconjp.connpass.com/event/327156/)
+  - 9月21日(土)
+  - [株式会社インタークロス](https://www.inter-cross.com/)
+  - 寺田 学
+  - 20名(予定)
+  - 2
+  - 2
+  -
 ```
 
 ### Python Boot Camp Map
