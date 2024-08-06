@@ -65,6 +65,18 @@ PyCon JPの開催を通じて、Pythonの使い手が一堂に集まり、Python
 
 行動規範についての問い合わせはblog、SNS等への投稿による報告ではなく、行動規範の問い合わせ窓口へのご連絡をお願いします。
 
+
+## 問い合わせ先
+
+一般社団法人PyCon JP Associationが主催するイベントに関する、行動規範にの問い合わせ窓口
+
+[coc@pycon.jp](mailto:coc@pycon.jp)
+
+## 改変記録
+
+- 2024-08-06 問い合わせ先を追記 [Manabu TERADA]
+
+
 ---
 
 ## PyCon JP Code of Conduct(English version)
@@ -136,3 +148,13 @@ In this case, we will not refund the participation fee that has already been pai
 Attendees should observe this Code of Conduct in the conference room, workshop venue, social events associated with the conference, conference website, and applications used.
 
 For inquiries about the Code of Conduct, please contact the desk for inquiries about the Code of Conduct, not by posting on a blog or SNS.
+
+## CONTACT INFORMATION
+
+Contact for inquiries regarding the Code of Conduct for events organized by the PyCon JP Association.
+
+[coc@pycon.jp](mailto:coc@pycon.jp)
+
+## Change log
+
+- 2024-08-06 Added CONTACT INFORMATION [Manabu TERADA]
