@@ -22,7 +22,7 @@ PyCon JPの開催を通じて、Pythonの使い手が一堂に集まり、Python
 * 言葉による性別、性的指向、障碍の有無、外見、身体の大きさ、人種、宗教に関する攻撃的なコメント
 * オンラインイベント会場、会議会場およびコミュニティ、公的空間での(講演を含む)性的な言葉や性的な映像表現、意図的な威力行為、ストーキング、つきまとい、写真撮影や録音によるいやがらせ
 * トークやその他の会議イベントに対して繰り返して中断しようとする行為
-* オンラインコミュニティでのディスカッション、対面でのプレゼンテーション、またはその他の対面でのイベントの継続的な中断
+* オンラインコミュニティでのディスカッション、対面でのプレゼンテーション、またはその他の対面でのイベントの継続的な中断をしようとする行為
 * 嫌がらせを目的としたオンライン活動のログ記録またはスクリーンショットの撮影
 * 明示的な許可の無い、住所などの他人の個人情報の公開
 * 自殺や自傷行為を奨励することを含む、個人に対する暴力や嫌がらせの扇動
@@ -75,13 +75,14 @@ PyCon JPの開催を通じて、Pythonの使い手が一堂に集まり、Python
 ## 改変記録
 
 - 2024-08-06 問い合わせ先を追記 [Manabu TERADA]
+- 2024-08-06 禁止行為の文言で「継続的な中断」で終わっていたものを「継続的な中断しようとする行為」に変更 [Manabu TERADA]
 
 
 ---
 
 ## PyCon JP Code of Conduct(English version)
 
-PyCon JP Code of Conduct (hereinafter referred to as the "Code of Conduct") is an event (hereinafter referred to as the "Event") held by the General Incorporated Association PyCon JP Association (hereinafter referred to as the "PyCon JP").
+PyCon JP Code of Conduct (hereinafter referred to as the "Code of Conduct") applies to an event (hereinafter referred to as the "Event") held by the General Incorporated Association PyCon JP Association (hereinafter referred to as the "PyCon JP").
 All the participants who participate in this event are required to read all the terms of this agreement and agree to this code of conduct.
 
 PyCon JP is a conference organized and run by volunteers in the Japanese Python community that is dedicated to advancing and promoting the Python programming language.
@@ -158,3 +159,4 @@ Contact for inquiries regarding the Code of Conduct for events organized by the 
 ## Change log
 
 - 2024-08-06 Added CONTACT INFORMATION [Manabu TERADA]
+- 2024-08-06 Modify first line sentence about "PyCon JP Code of Conduct `applies to` an event" [Manabu TERADA]
