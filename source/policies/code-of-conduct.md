@@ -68,7 +68,7 @@ PyCon JPの開催を通じて、Pythonの使い手が一堂に集まり、Python
 
 ## 問い合わせ先
 
-一般社団法人PyCon JP Associationが主催するイベントに関する、行動規範にの問い合わせ窓口
+一般社団法人PyCon JP Associationが主催するイベントに関する、行動規範の問い合わせ窓口
 
 [coc@pycon.jp](mailto:coc@pycon.jp)
 
