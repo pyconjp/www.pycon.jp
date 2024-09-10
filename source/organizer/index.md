@@ -45,6 +45,8 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   : 2022 Oct 14-15(Conference), Oct 16(Development Sprints)
 - [PyCon APAC 2023](https://2023-apac.pycon.jp)
   : 2023 Oct 27(Tutorial), Oct 28-29(Conference), Oct 30(Development Sprints)
+- [PyCon JP 2024](https://2024.pycon.jp/)
+  : 2024 Sep 27-28(Conference), Sep 29(Development Sprints)
 
 ## 過去の PyCon JP 詳細
 
@@ -274,3 +276,19 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   - Conference: 580 (Regular), 50 (Sponsor), 72 (Staff)
 :Description(Conference): 5 Tracks(2 Keynotes, 55 Talk sessions), 3 Tutorials, Poster sessions, Lightning Talks and etc.
 :Sponsor: 1 Diamond, 3 Platinum, 14 Gold, 18 Silver, 10 Bronze, 5 Special, 13 Patrons
+
+### PyCon APAC 2024
+
+:URL: <https://2024.pycon.jp/>
+:Date:
+  - Conference: 2024 Sep 27(Fri), 28(Sat)
+  - Development Sprints: 2024 Sep 29(Sun)
+:Venue:
+  - [TOC Ariake Convention Hall](https://www.toc.co.jp/saiji/ariake/access/) (Tutorial, Conference)
+  - [HENNGE](https://hennge.com/) (Development Sprints)
+:Keynote:
+  - James Powell
+  - Atsuo Ishimoto
+:Invited talk:
+  - Naoki Inada
+:Description(Conference): 4 Tracks(2 Keynotes, 1 Invited talk, 57 Talk sessions), Poster sessions, Lightning Talks and etc.
