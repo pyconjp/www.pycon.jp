@@ -277,7 +277,7 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
 :Description(Conference): 5 Tracks(2 Keynotes, 55 Talk sessions), 3 Tutorials, Poster sessions, Lightning Talks and etc.
 :Sponsor: 1 Diamond, 3 Platinum, 14 Gold, 18 Silver, 10 Bronze, 5 Special, 13 Patrons
 
-### PyCon APAC 2024
+### PyCon JP 2024
 
 :URL: <https://2024.pycon.jp/>
 :Date:
@@ -292,3 +292,4 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
 :Invited talk:
   - Naoki Inada
 :Description(Conference): 4 Tracks(2 Keynotes, 1 Invited talk, 57 Talk sessions), Poster sessions, Lightning Talks and etc.
+:Sponsor: 3 Platinum, 28 Gold, 12 Silver, 6 Special, 14 Patrons
