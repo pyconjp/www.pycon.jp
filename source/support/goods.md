@@ -29,7 +29,7 @@ PyCon JPは発送作業などが基本的にできません。
 
 ## ロールスクリーンバナーW1200
 
-- サイズ: W1200mm x H2100mm
+- サイズ: W1200mm x H2100mm(原稿は上部10mm、下部100mmの塗り足しを作り、寸法1200mm*2210mmのデータ作成推奨)
 - 参考リンク: [ロイヤルロールスクリーンバナー](https://www.distem.co.jp/product/bannerstand/royalrollscreen55337.html)
 
 ```{figure} https://farm5.staticflickr.com/4358/36917274226_6486190450_z.jpg
