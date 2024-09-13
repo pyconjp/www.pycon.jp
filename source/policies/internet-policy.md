@@ -1,3 +1,6 @@
+[English translation of Internet connection service provision policy](https://bit.ly/3TsvXCx)
+<!-- Link to https://www-pycon-jp.translate.goog/policies/internet-policy.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp -->
+
 # インターネット接続サービス提供ポリシー
 
 一般社団法人PyCon JP Association（以下「当法人」といいます。）が主催するPyCon JP （以下「本イベント」といいます。）は、Pythonユーザーが集まり、PythonやPythonを使ったソフトウェアについて情報交換・交流をするためのカンファレンスです。Pythonの使い手が一堂に集まり、Pythonにまつわる様々な分野の知識や情報を交換し、新たな出会いを提供できる場所とすることを目標としています。
