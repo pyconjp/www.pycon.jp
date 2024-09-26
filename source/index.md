@@ -12,6 +12,7 @@ donation/index
 annualreport/index
 sponsor/index
 history
+event-chair
 ```
 
 ## 最新情報
