@@ -41,7 +41,6 @@ operation
 meeting/index
 license
 access
-event-chair
 ```
 
 ## 理事、メンバーについて

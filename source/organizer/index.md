@@ -15,6 +15,16 @@ Python はオープンソースで開発されているプログラミング言�
 PyCon(Python Conference)は世界中で開催されており、2012年は2,000名以上が参加する PyCon US をはじめ、世界30箇所以上で開催されています。
 PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000名の参加者を集めアメリカ、ヨーロッパに次ぐ世界最大規模のカンファレンスとなっています。
 
+## PyCon JPイベントの座長と当法人との関係
+
+詳細ページを確認ください。
+
+```{toctree}
+:maxdepth: 1
+
+event-chair
+```
+
 ## 過去の PyCon JP
 
 - [PyCon mini JP](https://pycon.jp/pyconminijp/)
