@@ -730,10 +730,10 @@ Python Boot Camp の開催実績です。
   - 9月21日(土)
   - [株式会社インタークロス](https://www.inter-cross.com/)
   - 寺田 学
-  - 20名(予定)
+  - 7名
   - 2
   - 2
-  -
+  - [開催レポート](https://pyconjp.blogspot.com/2024/09/pycamp-in-miyazaki-report.html)
 ```
 
 ### Python Boot Camp Map
