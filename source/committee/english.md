@@ -35,22 +35,22 @@ Chair
 
 [BeProud Inc. (株式会社ビープラウド)](https://www.beproud.jp/) Director / Python Climber.
 
-Discovered Zope/Plone while building an internal website and ever since used Python where needed. Worked as PyCon JP staff since PyCon mini JP in January 2011 and has been the Chair of PyCon JP from 2014 to 2016.
+Discovered Zope/Plone while building an internal website and ever since used Python where needed. Worked as PyCon JP staff since PyCon mini JP in January 2011 and has been the Co-Chair of PyCon JP 2024.
 
 Founder of the [Python Bouldering Club (Pythonボルダリング部, #kabepy)](https://kabepy.connpass.com/) and organizer of [Python mini Hack-a-thon (#pyhack)](https://pyhack.connpass.com/).
 
 Co-Author or translator of
+改訂新版 最短距離でゼロからしっかり学ぶPython入門([必修編](https://gihyo.jp/book/2024/978-4-297-14528-6)・[実践編](https://gihyo.jp/book/2024/978-4-297-14526-2)) (Gihyo 2024),
+[現場のPython](https://gihyo.jp/book/2024/978-4-297-14401-2) (Gihyo 2024),
 [いちばんやさしいPython機械学習の教本 第2版](https://book.impress.co.jp/books/1122101123) (Impress 2023),
 [Pythonによるあたらしいデータ分析の教科書 第2版](https://www.seshop.com/product/detail/25331) (Shoeisha 2022),
-[Python実践レシピ](https://gihyo.jp/book/2022/978-4-297-12576-9) (Gihyo 2022),
-最短距離でゼロからしっかり学ぶPython入門([必修編](https://gihyo.jp/book/2020/978-4-297-11570-8)・[実践編](https://gihyo.jp/book/2020/978-4-297-11572-2)) (Gihyo 2020),
-[いちばんやさしいPythonの教本 第2版](https://book.impress.co.jp/books/1119101162) (Impress 2020) and others.
+[Python実践レシピ](https://gihyo.jp/book/2022/978-4-297-12576-9) (Gihyo 2022)
+and others.
 
 Recently started to travel to rural Japan to teach at Python Boot Camps and enjoy their local craft beers. Since 2019 he has started to present at international Python conferences around the world.
 
 His hobbies are playing the trumpet, bouldering, Lego and puzzles.
 
-:facebook: [takanory.net](https://www.facebook.com/takanory.net)
 :twitter: [@takanory](https://twitter.com/takanory)
 :github: [takanory](https://github.com/takanory/)
 :website: [slides.takanory.net](https://slides.takanory.net/)
