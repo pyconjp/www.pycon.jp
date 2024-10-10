@@ -11,7 +11,7 @@
 
 ### 「一般社団法人PyCon JP Associationメディアスポンサー」の条件
 
-一般社団法人PyCon JP Associationが主催するイベントの宣伝に協力すること。
+一般社団法人PyCon JP Associationが主催または支援するイベントの宣伝に協力すること。
 
 イベントの例は以下の通り。
 
