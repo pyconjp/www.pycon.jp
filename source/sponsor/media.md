@@ -53,15 +53,6 @@
 :target: https://www.oreilly.co.jp/index.shtml
 ```
 
-### ログミーTech
-
-<https://logmi.jp/tech>
-
-```{image} /_static/sponsor/media/logos/logmi-tech.png
-:alt: ログミーTech
-:target: https://logmi.jp/tech
-```
-
 ### TECH PLAY
 
 <https://techplay.jp>
