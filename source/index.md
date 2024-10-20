@@ -47,6 +47,8 @@ PyCon JP 2024のカンファレンスは、2024年9月27日から29日に開催�
 
 PyCon JP 2024 へのお問い合わせは [公式Webサイト](https://2024.pycon.jp/)および[PyCon JP Blog](https://pyconjp.blogspot.com/search/label/pyconjp2024)をご確認ください。
 
+過去のPyCon JP 開催情報は [こちら](https://www.pycon.jp/organizer/index.html) を参照ください。
+
 The PyCon JP 2024 conference was held from September 27th to 29th, 2024!  
 Thanks to everyone who participated, our many sponsors, and all the volunteer staff, we successfully held the event.  
 We sincerely appreciate your support.
