@@ -298,5 +298,7 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   - Atsuo Ishimoto
 :Invited talk:
   - Naoki Inada
+:Attendee:
+  - Total: 651
 :Description(Conference): 4 Tracks(2 Keynotes, 1 Invited talk, 57 Talk sessions), Poster sessions, Lightning Talks and etc.
 :Sponsor: 3 Platinum, 28 Gold, 12 Silver, 6 Special, 14 Patrons
