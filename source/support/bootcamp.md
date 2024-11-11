@@ -743,7 +743,7 @@ Python Boot Camp の開催実績です。
   -
   -
   -
-* - 58
+* - 59
   - [Python Boot Camp in 鹿児島 3rd](https://pyconjp.connpass.com/event/334755/)
   - 1月11日(土)
   - 株式会社現場サポート 鹿児島中央サテライトオフィス +Monso(モンソ)
