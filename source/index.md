@@ -64,7 +64,6 @@ Please refer to [here](https://www.pycon.jp/organizer/index.html) for informatio
 一般社団法人PyCon JP Associationへのお問い合わせは、理事メールアドレス(<mailto:board@pycon.jp>)までお願いします。
 
 
-% ISSHA-3454
-% ## PyCon JP カレンダー
+## PyCon JP カレンダー
 
-% <iframe src="https://www.google.com/calendar/embed?src=bsn2855fnbngs1itml66l28ml8%40group.calendar.google.com&ctz=Asia/Tokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?src=bsn2855fnbngs1itml66l28ml8%40group.calendar.google.com&ctz=Asia/Tokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
