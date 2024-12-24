@@ -34,6 +34,14 @@
   - 開催後レポート(PyCon JP Blogまたはメディア)
   - 金銭サポートがあった場合は、最終的な会計情報を一般公開する
 
+## お問い合わせ、ご相談
+
+お問い合わせ先: <mailto:board@pycon.jp>
+
+お気軽にお問い合わせ、ご相談ください。
+
+[django-ja]: https://djangoproject.jp/
+
 ## コミュニティ支援の実績
 
 - [Django Girls Tokyo](https://djangogirls.org/tokyo/)
@@ -136,11 +144,15 @@
   - 日時: 2023年10月7日(土) 10:00-20:30
   - 会場: サイボウズ株式会社
   - 主催: [django-ja]
-
-## お問い合わせ、ご相談
-
-お問い合わせ先: <mailto:board@pycon.jp>
-
-お気軽にお問い合わせ、ご相談ください。
-
-[django-ja]: https://djangoproject.jp/
+- [PyConKyushu 2024 Kagoshima](https://kyushu.pycon.jp/2024/)
+  - 日時: 2024年5月25日(土) 9:50-17:50
+  - 会場: markMEIZAN
+  - 主催: PyCon Kyushu 実行委員会
+- [PyCon mini 東海 2024](https://tokai.pycon.jp/2024/)
+  - 日時: 2024年11月16日(土) 10:00-17:20
+  - 会場: 中日ホール&カンファレンス
+  - 主催: 2024 PyCon mini 東海 実行委員会 
+- [PyCon mini Shizuoka 2024 continue](https://shizuoka.pycon.jp/2024/)
+  - 日時: 2025年2月8日(土) 10:00-18:00
+  - 会場: 静岡市コ・クリエーションスペース 
+  - 主催: PyCon mini Shizuoka 実行委員会
