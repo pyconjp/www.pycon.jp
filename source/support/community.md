@@ -159,4 +159,4 @@
 - [SciPyDataJapan 2025](https://scipydata.connpass.com/event/337318/)
   - 日時: 2025年1月25日(土) 13:00-18:30
   - 会場: FinGATE KAYABA
-  - 主催: SciPyData
+  - 主催: Pythonコミュニティ有志 + NumFOCUS
