@@ -156,3 +156,7 @@
   - 日時: 2025年2月8日(土) 10:00-18:00
   - 会場: 静岡市コ・クリエーションスペース 
   - 主催: PyCon mini Shizuoka 実行委員会
+- [SciPyDataJapan 2025](https://scipydata.connpass.com/event/337318/)
+  - 日時: 2025年1月25日(土) 13:00-18:30
+  - 会場: FinGATE KAYABA
+  - 主催: SciPyData
