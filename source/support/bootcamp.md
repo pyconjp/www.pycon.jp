@@ -748,10 +748,10 @@ Python Boot Camp の開催実績です。
   - 1月11日(土)
   - 株式会社現場サポート 鹿児島中央サテライトオフィス +Monso(モンソ)
   - 筒井 隆次
-  - 10名(予定)
-  - 0
-  - 1
-  -
+  - 6名
+  - 2
+  - 2
+  - [開催レポート](https://pyconjp.blogspot.com/2025/01/pycamp-in-kagoshima-3rd.html)
 ```
 
 ### Python Boot Camp Map
