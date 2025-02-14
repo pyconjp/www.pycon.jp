@@ -160,3 +160,7 @@
   - 日時: 2025年1月25日(土) 13:00-18:30
   - 会場: FinGATE KAYABA
   - 主催: Pythonコミュニティ有志 + NumFOCUS
+- [DjangoCongress JP 2025](https://djangocongress.jp/)
+  - 日時: 2025年2月22日(土) 10:00-18:00
+  - 会場: オンライン([パブリックビューイング](https://django.connpass.com/event/345417/)有)
+  - 主催: [django-ja](https://djangoproject.jp) (座長: 清原 弘貴)
