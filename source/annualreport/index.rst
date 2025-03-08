@@ -36,8 +36,7 @@
      - 3121万円
      - 2542万円
      - -793万円
-     - `PyCon JP 2024会計報告 / PyCon JP 2024 Financial Report
- <https://pyconjp.blogspot.com/2024/11/2024-financial-report.html>`_
+     - `PyCon JP 2024会計報告 / PyCon JP 2024 Financial Report <https://pyconjp.blogspot.com/2024/11/2024-financial-report.html>`_
 
    - - Python Boot Camp
      - 50万円
