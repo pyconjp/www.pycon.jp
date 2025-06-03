@@ -79,3 +79,12 @@
 :alt: CodeZine
 :target: http://codezine.jp/
 ```
+
+### クラスメソッド株式会社
+
+<https://zenn.dev/>
+
+```{image} /_static/sponsor/media/logos/zenn.png
+:alt: Zenn
+:target: https://zenn.dev/
+```
