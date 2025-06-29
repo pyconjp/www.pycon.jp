@@ -19,13 +19,14 @@
 部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。PyCon JPでは2011年1月のPyCon mini JPからスタッフとして活動。PyCon JP 2024共同座長。
 他の主な活動は、[Pythonボルダリング部(#kabepy)](https://kabepy.connpass.com/) 部長、[Python mini Hack-a-thon(#pyhack)](https://pyhack.connpass.com/) 主催など。
 
-共著書／訳書に『改訂新版 最短距離でゼロからしっかり学ぶPython入門([必修編](https://gihyo.jp/book/2024/978-4-297-14528-6)・[実践編](https://gihyo.jp/book/2024/978-4-297-14526-2)) （2024 技術評論社刊）』『[現場のPython](https://gihyo.jp/book/2024/978-4-297-14401-2) （2024 技術評論社刊）』『[Pythonプロフェッショナルプログラミング 第4版](https://www.shuwasystem.co.jp/book/9784798070544.html) （2024 秀和システム刊）』『[いちばんやさしいPython機械学習の教本 第2版](https://book.impress.co.jp/books/1122101123) （2023 インプレス刊）』『[Pythonによるあたらしいデータ分析の教科書 第2版](https://www.seshop.com/product/detail/25331) （2022 翔泳社刊）』『[Python実践レシピ](https://gihyo.jp/book/2022/978-4-297-12576-9) （2022 技術評論社刊）』などがある。
+共著書／訳書に『[Pythonによるあたらしいデータ分析の教科書 第3版](https://www.shoeisha.co.jp/book/detail/9784798191027) （2025 翔泳社刊）』『改訂新版 最短距離でゼロからしっかり学ぶPython入門([必修編](https://gihyo.jp/book/2024/978-4-297-14528-6)・[実践編](https://gihyo.jp/book/2024/978-4-297-14526-2)) （2024 技術評論社刊）』『[現場のPython](https://gihyo.jp/book/2024/978-4-297-14401-2) （2024 技術評論社刊）』『[Pythonプロフェッショナルプログラミング 第4版](https://www.shuwasystem.co.jp/book/9784798070544.html) （2024 秀和システム刊）』『[いちばんやさしいPython機械学習の教本 第2版](https://book.impress.co.jp/books/1122101123) （2023 インプレス刊）』『[Python実践レシピ](https://gihyo.jp/book/2022/978-4-297-12576-9) （2022 技術評論社刊）』などがある。
 
 各国PyConやPython Boot Campで訪れた土地で、現地のクラフトビールを飲むことが楽しみ。
 フェレットとビールとレゴが好き。趣味は吹奏楽(トランペット)とボルダリング。
 
 :twitter: [@takanory](https://twitter.com/takanory)
 :github: [takanory](https://github.com/takanory/)
+:linkedin: [takanory](https://www.linkedin.com/in/takanory/)
 :website: [slides.takanory.net](https://slides.takanory.net/)
 
 ## 吉田 俊輔(Shunsuke Yoshida)

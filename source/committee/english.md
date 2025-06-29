@@ -40,10 +40,10 @@ Discovered Zope/Plone while building an internal website and ever since used Pyt
 Founder of the [Python Bouldering Club (Pythonボルダリング部, #kabepy)](https://kabepy.connpass.com/) and organizer of [Python mini Hack-a-thon (#pyhack)](https://pyhack.connpass.com/).
 
 Co-Author or translator of
+[Pythonによるあたらしいデータ分析の教科書 第3版](https://www.shoeisha.co.jp/book/detail/9784798191027) (Shoeisha 2025),
 改訂新版 最短距離でゼロからしっかり学ぶPython入門([必修編](https://gihyo.jp/book/2024/978-4-297-14528-6)・[実践編](https://gihyo.jp/book/2024/978-4-297-14526-2)) (Gihyo 2024),
 [現場のPython](https://gihyo.jp/book/2024/978-4-297-14401-2) (Gihyo 2024),
 [いちばんやさしいPython機械学習の教本 第2版](https://book.impress.co.jp/books/1122101123) (Impress 2023),
-[Pythonによるあたらしいデータ分析の教科書 第2版](https://www.seshop.com/product/detail/25331) (Shoeisha 2022),
 [Python実践レシピ](https://gihyo.jp/book/2022/978-4-297-12576-9) (Gihyo 2022)
 and others.
 
@@ -53,6 +53,7 @@ His hobbies are playing the trumpet, bouldering, Lego and puzzles.
 
 :twitter: [@takanory](https://twitter.com/takanory)
 :github: [takanory](https://github.com/takanory/)
+:linkedin: [takanory](https://www.linkedin.com/in/takanory/)
 :website: [slides.takanory.net](https://slides.takanory.net/)
 
 ### Shunsuke Yoshida (吉田 俊輔)
