@@ -1,6 +1,6 @@
 # 2025年6月2日(月) 一般社団法人PyCon JP Association運営会議#74
 
-* 日時: 2025年3月21日(金) 19:30-21:30
+* 日時: 2025年6月2日(月) 19:30-21:30
 * 場所: CMSコミュニケーションズ、Zoom
 * 参加者 <https://pyconjp-staff.connpass.com/event/349988/>
   * 理事: takanory, shimizukawa, terada, yoshida, maaya, jonas
