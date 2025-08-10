@@ -244,7 +244,8 @@
   * 初めてのため、イベント開催時の送金トラブルがないようにしておきたい
   * OK(terada, takanory, yoshida
 * 他の手段は?(terada
-  * PayPalは海外送金できない。Wiseも日本の法人アカウントからは送金できないため、PayForexのみとしている(shimizukawa
+  * 日本のPayPalは法人アカウントからの海外送金に制約がある。Wiseは日本で一般社団法人は法人アカウントを作れない。そのため、今年はPayForexのみとしている(shimizukawa
+  * 参考: [PyCon JP Blog: PyCon JP 遠方支援を支える技術](https://pyconjp.blogspot.com/2024/12/technology-for-pycon-jp-travel-support.html)
 * 現在の海外応募者の国、人数、[手数料](https://www.payforex.net/remittance/simulator?ctry=Gambia)
 * アメリカ: 1人, 1480円
 * インド: 3人, 680円
