@@ -142,28 +142,6 @@ UX、グラフィックを通してほんのり人のつながりを彩るべく
 
 - Twitter: [@nana_marux](https://twitter.com/nana_marux)
 
-### 清田 史和(Fumikazu Kiyota)
-
-```{figure} /_static/kiyota.jpg
-:width: 160
-```
-
-PyCon JP Regional Event Support Program担当
-(PyCon JP地域開催サポートプログラム)
-
-Pythonは、2004-5年ごろWebフレームワークやデザインパターンを学習していた時にZopeを触り、その後、趣味でPython利用、プロダクションで使い始めたのは2010年頃。
-PyCon JP 2012から実行員メンバーとして数年活動を行っていたが、地元熊本地震後、地元に戻ることが多くなり、Python Boot Campを2度熊本で実施、九州地域ではPyConの開催を独自に [熊本mini]、 [福岡] 、 [沖縄] 、 [熊本] で実施。
-現在、 [PyConKyushu実行委員会] の副代表を務める。
-
-- Twitter: [@kiyotaman](https://twitter.com/kiyotaman)
-
-[pyconkyushu実行委員会]: https://www.pykyushu.jp/
-[沖縄]: https://kyushu.pycon.jp/2019/
-[熊本]: https://kyushu.pycon.jp/2022/
-[熊本mini]: https://kumamoto.pycon.jp/
-[福岡]: https://kyushu.pycon.jp/2018/
-
-
 ### 西本 卓也(Takuya Nishimoto)
 
 ```{figure} /_static/nishimotz.jpg
@@ -178,18 +156,3 @@ Python Boot Camp担当
 2017年 Python Boot Camp in 広島をきっかけに Python 初心者のための勉強会「すごい広島 with Python」を開始し、2023年に「すごい広島 IT初心者の会」と改名し、現在も続けている。
 
 - Twitter: [@24motz](https://twitter.com/24motz)
-
-
-### 木下 文史(Fumichika Kinoshita)
-
-```{figure} /_static/kinoshita.jpg
-:width: 160
-```
-
-ブランディング・デザイン・広報サポート担当
-
-Pythonとの出会いは、古く2003年ごろにZopeを触ったことが最初。その後、PyCon JPのデザインチームで運営を何回か手伝っていました。
-現在はデザインエンジニアという肩書で、主に企画〜コンテンツ作り〜デザイン作業やコンサルティングを行っています。
-またPythonを使ったWebアプリケーション開発も行っています。
-
-- X: [@kinofumi](https://x.com/kinofumi)
