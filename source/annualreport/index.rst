@@ -33,9 +33,9 @@
 
    - - PyCon JP 2024
      - 0円
-     - 3121万円
-     - 2542万円
-     - -793万円
+     - 3565万円
+     - 3203万円
+     - -363万円
      - `PyCon JP 2024会計報告 / PyCon JP 2024 Financial Report <https://pyconjp.blogspot.com/2024/11/2024-financial-report.html>`_
 
    - - Python Boot Camp
@@ -67,9 +67,9 @@
      - 2回実施
 
    - - PyLadies PyCamp TA参加
-     - 15万円
+     - 8万円
      - 0円
-     - 5万円
+     - 0万円
      - 0万円（0%）
      - 実施無し（予定合わず）
 
