@@ -21,12 +21,9 @@
 一緒に日本のPython界隈を盛り上げていきましょう。
 
 - [PyCon JP Association運営メンバー申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeBTd6LQVmPN_orLM8kM9r913UroW6dwRycz83bKNyoZFW3qQ/viewform)
+- 参考：[PyCon JP Blog: PyCon JP Associationの運営メンバーを募集します](https://pyconjp.blogspot.com/2020/12/members.html)
 
-% Blogへのリンクも入れる
-
-## 運営メンバーの一覧
-
-以下は運営メンバーのプロフィールです。
+## Python Boot Camp担当
 
 (ryu22e-profile)=
 
@@ -56,8 +53,6 @@ Google Cloud Platformのユーザーグループ [GCPUG Shonan](https://gcpug-sh
 ```{figure} /_static/kobatomo.png
 ```
 
-Python Boot Camp担当
-
 Pythonは、機械学習を学ぶ際に利用したのがきっかけで使い始める。
 2017年3月:はじめてのPythonはプロから学ぶのが最速と考え、Python Boot Camp in 広島 に参加。
 2017年6月:地元でのPython仲間発掘のため、Python Boot Camp in 香川 の現地スタッフとして手をあげる。
@@ -74,8 +69,6 @@ Python Boot Camp in 香川 開催後に立ち上げたPythonコミュニティ [
 ```{figure} /_static/yamate.png
 ```
 
-Python Boot Camp担当
-
 Pythonを始めたきっかけは、単純作業を効率よくやるための手段として始めた。 2016年ごろから岡山Python勉強会のスタッフとして活動開始。 2017年6月:Python Boot Camp in 香川 でTAをやったのきっかけに岡山で現地スタッフ、広島2ndでTA、香川2ndでTAを実施。 日本各地でPythonの輪を広げる活動「Python Boot Camp」のお手伝いをしたいと思い、コアスタッフとなる。
 
 Pythonコミュニティの [岡山Python勉強会](https://okapython.connpass.com/) スタッフとしても活動している。
@@ -84,13 +77,26 @@ Pythonコミュニティの [岡山Python勉強会](https://okapython.connpass.c
 
 * X: [@yamayama_k5](https://twitter.com/yamayama_k5)
 
+### 西本 卓也(Takuya Nishimoto)
+
+```{figure} /_static/nishimotz.jpg
+:width: 160
+```
+
+オープンソースのスクリーンリーダーNVDA(NonVisual Desktop Access)の開発に参加するために本格的に Python を使い始めて、 PyCon mini JP や [PyCon JP 2012](https://2012.pycon.jp/) 併催イベントなどで NVDA を紹介した。
+その後、広島県広島市でエンジニアとして活動しながら、NVDA日本語チーム、[PyCon mini Hiroshima](https://pycon-hiroshima.connpass.com/)、PCNひろしま(こどもプログラミング教室)などを運営。
+プログラミングを学ぶ視覚障害者の人たちとの交流、ウェブアクセシビリティの活動も行っている。
+2017年 Python Boot Camp in 広島をきっかけに Python 初心者のための勉強会「すごい広島 with Python」を開始し、2023年に「すごい広島 IT初心者の会」と改名し、現在も続けている。
+
+- Twitter: [@24motz](https://twitter.com/24motz)
+
+## Python Boot Camp Caravan担当
+
 ### 塚本 佳康(Yoshiyasu Tsukamoto)
 
 ```{figure} /_static/yoshi-tsukamo.jpg
 :width: 160
 ```
-
-Python Boot Camp Caravan担当
 
 静岡県出身・在住。Python Boot Camp in 愛知に一般参加したことがきっかけでPythonを使い始め、その勢いで静岡県でのPython Boot Campの現地スタッフを2度務める。
 地域コミュニティとして、Python Boot Camp in 静岡から [Unagi.py](https://unagi-py.connpass.com/) を、Python Boot Camp in 静岡県藤枝市から [Python駿河](https://py-suruga.connpass.com/) を立ち上げ、運営スタッフとして活動している。
@@ -99,13 +105,13 @@ Python Boot Camp Caravan担当
 
 - Twitter: [@yoshi_corleone](https://twitter.com/yoshi_corleone)
 
+## PyLadies Caravan担当
+
 ### 山下 加奈恵(Kanae Yamashita)
 
 ```{figure} /_static/kanan.jpg
 :width: 160
 ```
-
-PyLadies Caravan担当
 
 データ分析を生業にしてたことからPythonに興味を持ち [PyLadies Tokyo](https://tokyo.pyladies.com/) に参加し始める。
 日本のいろんな地域が好き。エンジニアの女性がどこにいたって繋がれるコミュニティを作りたいという想いに共感し、 [PyLadies Caravan](https://tokyo.pyladies.com/caravan/index.html) の立上げ時から参画。
@@ -113,13 +119,13 @@ PyLadies Caravan担当
 
 - Twitter: [@Addition_quince](https://twitter.com/Addition_quince)
 
+## PyCon JP TV担当
+
 ### 高井 陽一(Yoichi Takai) a.k.a Peacock
 
 ```{figure} /_static/peacock.jpg
 :width: 160
 ```
-
-PyCon JP TV担当
 
 [PyCon JP 2020](https://pycon.jp/2020/) よりPyCon JPのボランティアスタッフとして活動。副座長として [PyCon JP 2022](https://2022.pycon.jp/) , [PyCon APAC 2023](https://2023-apac.pycon.jp/) の2年間は積極的な貢献もした。
 
@@ -134,25 +140,9 @@ PyCon JP TV担当
 :width: 160
 ```
 
-PyCon JP TV担当
-
 デザイナーからPython教育関連サービスのマーケターに転職。
 Pythonに触れる中で技術コミュニティの有機的なつながりに惹かれ、PyCon JP 2019 デザインチームとして活動。
 UX、グラフィックを通してほんのり人のつながりを彩るべくPyCon JP TVの活動に参加。
 
 - Twitter: [@nana_marux](https://twitter.com/nana_marux)
 
-### 西本 卓也(Takuya Nishimoto)
-
-```{figure} /_static/nishimotz.jpg
-:width: 160
-```
-
-Python Boot Camp担当
-
-オープンソースのスクリーンリーダーNVDA(NonVisual Desktop Access)の開発に参加するために本格的に Python を使い始めて、 PyCon mini JP や [PyCon JP 2012](https://2012.pycon.jp/) 併催イベントなどで NVDA を紹介した。
-その後、広島県広島市でエンジニアとして活動しながら、NVDA日本語チーム、[PyCon mini Hiroshima](https://pycon-hiroshima.connpass.com/)、PCNひろしま(こどもプログラミング教室)などを運営。
-プログラミングを学ぶ視覚障害者の人たちとの交流、ウェブアクセシビリティの活動も行っている。
-2017年 Python Boot Camp in 広島をきっかけに Python 初心者のための勉強会「すごい広島 with Python」を開始し、2023年に「すごい広島 IT初心者の会」と改名し、現在も続けている。
-
-- Twitter: [@24motz](https://twitter.com/24motz)
