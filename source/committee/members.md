@@ -146,3 +146,12 @@ UX、グラフィックを通してほんのり人のつながりを彩るべく
 
 - Twitter: [@nana_marux](https://twitter.com/nana_marux)
 
+## 一般社団法人PyCon JP Association運営担当
+
+### 池 徹(IKE Tohru)
+
+```{figure} /_static/hogehoge.jpg
+:width: 160
+```
+
+(プロフィール文章)
