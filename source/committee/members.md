@@ -150,8 +150,24 @@ UX、グラフィックを通してほんのり人のつながりを彩るべく
 
 ### 池 徹(IKE Tohru)
 
-```{figure} /_static/hogehoge.jpg
+```{figure} /_static/ike-tohru.jpg
 :width: 160
 ```
 
-(プロフィール文章)
+新米運営担当。近年の専門領域は内部監査、サイバーセキュリティ。
+
+私は、理事をはじめとする諸氏の率先垂範に倣い、自らの専門領域で一般社団法人PyCon JP Associationへの貢献を誓います。
+
+Pythonは、Python2.4から使用。
+PyCon JPでのコミュニティ活動は、2011年のPyCon mini JPから活動し2013年のPyCon APACまで活動。2025年9月から一般社団法人PyCon JP Association運営担当。
+コミュニティは、主にpyspa（Python温泉系）。2025年現在も浸かる。
+
+- Staff: PyCon mini JP, PyCon JP 2011-2012, PyCon APAC 2013
+- Session Reviewer: PyCon JP 2018
+- Proposal Reviewer: PyCon JP 2019-2022 & 2024-2025, PyCon APAC 2023
+
+主な著書として、 [できる 仕事がはかどるPython自動処理 全部入り。](https://book.impress.co.jp/books/1118101147)（2020年, インプレス, 共著）。
+
+- X: [@rokujyouhitoma](https://x.com/rokujyouhitoma)
+- LinkedIn: [Tohru IKE](https://www.linkedin.com/in/tohru-ike-a1b4b328/)
+- Site: [rokujyouhitoma.com](https://rokujyouhitoma.com/)
