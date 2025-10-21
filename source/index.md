@@ -30,7 +30,7 @@ PyCon JP 2025のカンファレンスは2025年9月26日(金)から9月27日(土
 
 PyCon JP 2025 was held from Friday, September 26 to Saturday, September 27, 2025, with a development sprint on Sunday, September 28, at the Hiroshima International Conference Center! As our first event outside Tokyo, held in Hiroshima, we were delighted to welcome a large number of participants, speakers, and sponsors. We extend our heartfelt gratitude to all of you.
 
-For inquiries, please visit the [Official Website](https://2025.pycon.jp/) and the [PyCon JP Blog](https://pyconjp.blogspot.com/search/label/pyconjp2025).
+For more information, please visit the [Official Website](https://2025.pycon.jp/) and the [PyCon JP Blog](https://pyconjp.blogspot.com/search/label/pyconjp2025).
 
 過去のPyCon JP 開催情報は [こちら](https://www.pycon.jp/organizer/index.html) を参照ください。
 
