@@ -54,6 +54,8 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   : 2023 Oct 27(Tutorial), Oct 28-29(Conference), Oct 30(Development Sprints)
 - [PyCon JP 2024](https://2024.pycon.jp/)
   : 2024 Sep 27-28(Conference), Sep 29(Development Sprints)
+- [PyCon JP 2025](https://2025.pycon.jp/)
+  : 2025 Sep 26-27(Conference), Sep 28(Development Sprints)
 
 ## 過去の PyCon JP 詳細
 
@@ -302,3 +304,24 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
   - Total: 651
 :Description(Conference): 4 Tracks(2 Keynotes, 1 Invited talk, 57 Talk sessions), Poster sessions, Lightning Talks and etc.
 :Sponsor: 3 Platinum, 28 Gold, 12 Silver, 6 Special, 14 Patrons
+
+### PyCon JP 2025
+
+:URL: <https://2025.pycon.jp/>
+:Date:
+  - Conference: 2025 Sep 26 (Fri), 27 (Sat)
+  - Development Sprints: 2025 Sep 28 (Sun)
+:Venue:
+  - [International Conference Center Hiroshima](https://www.pcf.city.hiroshima.jp/icch/) (conference, development sprints)
+:Keynotes:
+  - Sebastián Ramírez
+  - Otsuka Ami
+:Invited talks:
+  - Koudai Aono
+  - Nakao Minoru
+  - Kan Yukiko
+  - Takemura Tatsuya
+:Attendees:
+  - Total: 522
+:Description (conference): 4 tracks (2 keynotes, 52 talk sessions including 4 invited talks), 16 poster sessions, lightning talks and etc.
+:Sponsors: 2 Platinum, 20 Gold, 1 Flower, 10 Silver, 3 special, 11 patrons
