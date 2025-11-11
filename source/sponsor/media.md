@@ -62,6 +62,15 @@
 :target: https://techplay.jp
 ```
 
+### 株式会社PE-BANK
+
+<https://pe-bank.jp>
+
+```{image} /_static/sponsor/media/logos/PE-BANK.jpg
+:alt: 株式会社PE-BANK
+:target: https://pe-bank.jp
+```
+
 ### 株式会社翔泳社
 
 <http://codezine.jp/>
