@@ -171,3 +171,27 @@ PyCon JPでのコミュニティ活動は、2011年のPyCon mini JPから活動�
 - X: [@rokujyouhitoma](https://x.com/rokujyouhitoma)
 - LinkedIn: [Tohru IKE](https://www.linkedin.com/in/tohru-ike-a1b4b328/)
 - Site: [rokujyouhitoma.com](https://rokujyouhitoma.com/)
+
+### 池田 雄太郎(Yutaro Ikeda)
+
+```{figure} /_static/ikeda-yutaro.jpg
+:width: 160
+```
+
+2018年からPyCon JPの運営に参加しウェブサイトやトーク採択等で活動。過去に最適化アルゴリズムを用いたトークスケジューリングなど。
+何でもAIに聞けばわかる時代だからこそ、コミュニティの重要性を改めて感じ、運営理事に参加。PyCon JPコミュニティの魅力を広めたい。
+
+本業はエンジニアマネージャー。茨城県在住。趣味はコーヒードリップと銭湯巡り。
+
+- LinkedIn: [Ikeda Yutaro](https://www.linkedin.com/in/yutaro-ikeda-8b1015147/)
+- X: [@ikedaosushi](https://x.com/ikedaosushi)
+
+### 槇野 未来(Miki Makino)
+
+```{figure} /_static/miki-makino.jpg
+:width: 160
+```
+
+自己研鑽として Python を学び始め、PyCon JP 2025 広島ではボランティアスタッフとしてコミュニティに参加。
+PyLadies Caravan in Hiroshima 2nd では仲間と学ぶ楽しさを実感した。
+作って動かすワクワクを、いろんな人と共有したいと思っている。
