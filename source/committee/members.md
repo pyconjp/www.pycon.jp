@@ -172,7 +172,7 @@ PyCon JPでのコミュニティ活動は、2011年のPyCon mini JPから活動�
 - LinkedIn: [Tohru IKE](https://www.linkedin.com/in/tohru-ike-a1b4b328/)
 - Site: [rokujyouhitoma.com](https://rokujyouhitoma.com/)
 
-### 池田 雄太郎(Ikeda Yutaro)
+### 池田 雄太郎(Yutaro Ikeda)
 
 ```{figure} /_static/ikeda-yutaro.jpg
 :width: 160
