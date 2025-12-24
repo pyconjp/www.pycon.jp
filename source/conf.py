@@ -57,7 +57,7 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'furo'
+html_theme = 'shibuya'
 
 html_title = 'PyCon JP Association'
 
@@ -68,6 +68,15 @@ html_show_copyright = False
 html_logo = "_static/pyconjp_logo.png"
 
 html_favicon = '_static/favicon.png'
+
+# https://shibuya.lepture.com/customisation/colors/
+# https://shibuya.lepture.com/customisation/social/
+html_theme_options = {
+    "accent_color": "red",
+    "github_url": "https://github.com/pyconjp/www.pycon.jp/",
+    "twitter_url": "https://x.com/pyconjpapan",
+    "youtube_url": "https://www.youtube.com/@PyConJP",
+}
 
 # options for Open Graph
 # https://github.com/wpilibsuite/sphinxext-opengraph
