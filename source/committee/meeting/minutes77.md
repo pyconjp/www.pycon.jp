@@ -6,7 +6,6 @@
   * 理事: takanory, shimizukawa, terada, jonas, yoshida, maaya
   * オブザーバー: ike, sano, tsutui, nishimoto, tsukamoto, yamage
 
-
 ## PyCon JP
 
 ### PyCon JP 2025(nishimotz、高、報告)
