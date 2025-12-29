@@ -11,8 +11,6 @@
   * 理事: takanory, terada, yoshida, shimizukawa, jonas
   * オブザーバー: selina, azuma, yoshi-tsukamo, nikkie, maaya, peacock, kobatomo, ryu22e
 
-.. contents:: 目次
-   :local:
 
 課題のレビュー
 ==============

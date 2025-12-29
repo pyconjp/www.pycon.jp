@@ -9,9 +9,6 @@
   * 社員: masuda, iqbal, ian
   * オブザーバー: selina, peacock, ainamori, yoshi-tsukamo, maaya, ryu22e
 
-```{contents}
-:local: true
-```
 
 ## 社員総会
 

@@ -6,9 +6,6 @@
   * 理事: shimizukawa, terada, jonas, takanory, yoshida
   * オブザーバー: nishimotz, ikedayu, ryu22e, yoshi-tsukamoto, Makino, Blaise Labs
 
-```{contents}
-:local: true
-```
 
 ## PyCon JP
 

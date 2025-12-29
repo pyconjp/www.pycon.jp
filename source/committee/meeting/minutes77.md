@@ -6,9 +6,6 @@
   * 理事: takanory, shimizukawa, terada, jonas, yoshida, maaya
   * オブザーバー: ike, sano, tsutui, nishimoto, tsukamoto, yamage
 
-```{contents}
-:local: true
-```
 
 ## PyCon JP
 

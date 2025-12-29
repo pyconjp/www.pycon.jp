@@ -9,8 +9,6 @@
 * 理事: terada, takanori, jonas, shimizukawa, yoshida
 * オブザーバー: peacock, yoshi-tsukamo, ryu22e, nikkie, nishi, kanan, maaya,kobatomo
 
-.. contents:: 目次
-   :local:
 
 課題のレビュー
 ==============

@@ -9,8 +9,6 @@
 
    -  `[ISSHA-12] 次回運営会議の日程調整 <https://pyconjp.atlassian.net/browse/ISSHA-12>`__
 
-.. contents:: 目次
-   :local:
 
 前回のTodo
 ==========

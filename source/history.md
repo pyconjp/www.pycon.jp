@@ -1,9 +1,5 @@
 # PyCon JP の歴史
 
-```{contents}
-:local: true
-```
-
 ## はじめに
 
 このページは、PyCon JPがどの様に始まったかを記録として公開するものです。

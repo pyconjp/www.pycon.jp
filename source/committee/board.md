@@ -1,9 +1,5 @@
 # 一般社団法人PyCon JP Association理事会
 
-```{contents}
-:local: true
-```
-
 (takanory-profile)=
 
 ## 鈴木 たかのり (Takanori Suzuki)

@@ -9,8 +9,6 @@
 -  理事: terada, takanory, Shimizukawa, yoshida
 -  オブザーバー: ryu22e, kanan, nishi, peacock, maaya
 
-.. contents:: 目次
-   :local:
 
 運営会議(オンライン)の進め方と見出しの書き方
 ============================================

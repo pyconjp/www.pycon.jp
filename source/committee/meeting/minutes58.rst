@@ -12,8 +12,6 @@
   * 社員: masuda, iqbal, ian
   * オブザーバー: ainamori, calvin, yoshi-tsukamo, ryu22e, selina, kobatomo, peacock
 
-.. contents:: 目次
-   :local:
 
 社員総会
 ========

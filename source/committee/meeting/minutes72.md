@@ -6,9 +6,6 @@
   * 理事: takanory, yoshida, shimizukawa, terada, jonas, maaya
   * オブザーバー: iqbal, ian, yamate, ryu22e, yoshi-tsukamo
 
-```{contents}
-:local: true
-```
 
 ## 社員総会
 
