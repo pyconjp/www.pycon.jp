@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('_ext'))
 # -- Project information -----------------------------------------------------
 
 project = 'PyCon JP Association'
-copyright = '2022, PyCon JP Association'
+copyright = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a> www.pycon.jp by PyCon JP Association is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.'
 author = 'PyCon JP Association'
 
 
@@ -63,19 +63,85 @@ html_title = 'PyCon JP Association'
 
 html_last_updated_fmt = '%Y-%m-%d'
 
-html_show_copyright = False
+html_show_copyright = True
 
 html_logo = "_static/pyconjp_logo.png"
 
 html_favicon = '_static/favicon.png'
 
-# https://shibuya.lepture.com/customisation/colors/
-# https://shibuya.lepture.com/customisation/social/
 html_theme_options = {
+    # https://shibuya.lepture.com/customisation/colors/
     "accent_color": "red",
+    # https://shibuya.lepture.com/customisation/navbar/
+    "nav_links": [
+        {
+            "title": "Event",
+            "url": "event",
+            "children": [
+                {
+                    "title": "🐴 PyCon JP 2026",
+                    "url": "https://2026.pycon.jp/",
+                    "external": True,
+                },
+                {
+                    "title": "🐍 PyCon JP 2025",
+                    "url": "https://2025.pycon.jp/",
+                    "external": True,
+                },
+            ],
+        },
+        {
+            "title": "Website",
+            "children": [
+                {
+                    "title": "📘 Python Boot Camp Text",
+                    "url": "https://pycamp.pycon.jp/",
+                    "summary": "Python Boot Campで使用するテキスト",
+                    "external": True,
+                },
+                {
+                    "title": "📺 PyCon JP TV",
+                    "url": "https://tv.pycon.jp",
+                    "summary": "PyCon JP Associationが主催するYouTubeライブ",
+                    "external": True,
+                },
+            ],
+        },
+        {
+            "title": "Media",
+            "url": "media",
+            "children": [
+                {
+                    "title": '<iconify-icon icon="simple-icons:blogger"></iconify-icon> PyCon JP Blog',
+                    "url": "https:.//pyconjp.blogspot.com/",
+                    "summary": "",
+                    "external": True,
+                },
+                {
+                    "title": '<iconify-icon icon="simple-icons:youtube"></iconify-icon> YouTube',
+                    "url": "https://www.youtube.com/@PyConJP/",
+                    "external": True,
+                },
+                {
+                    "title": '<iconify-icon icon="simple-icons:flickr"></iconify-icon> Flickr',
+                    "url": "https://www.flickr.com/photos/pyconjp/albums",
+                    "external": True,
+                },
+            ],
+        },
+    ],
+    # https://shibuya.lepture.com/customisation/social/
     "github_url": "https://github.com/pyconjp/www.pycon.jp/",
     "twitter_url": "https://x.com/pyconjapan",
     "youtube_url": "https://www.youtube.com/@PyConJP",
+}
+
+# https://shibuya.lepture.com/customisation/sidebar/
+html_context = {
+    "source_type": "github",
+    "source_user": "pyconjp",
+    "source_repo": "www.pycon.jp",
+    "source_edit_template": "https://github.com/pyconjp/www.pycon.jp/blob/master/source/{0}",
 }
 
 # options for Open Graph
