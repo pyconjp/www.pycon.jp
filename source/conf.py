@@ -74,7 +74,7 @@ html_favicon = '_static/favicon.png'
 html_theme_options = {
     "accent_color": "red",
     "github_url": "https://github.com/pyconjp/www.pycon.jp/",
-    "twitter_url": "https://x.com/pyconjpapan",
+    "twitter_url": "https://x.com/pyconjapan",
     "youtube_url": "https://www.youtube.com/@PyConJP",
 }
 
