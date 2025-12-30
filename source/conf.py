@@ -76,7 +76,6 @@ html_theme_options = {
     "nav_links": [
         {
             "title": "Event",
-            "url": "event",
             "children": [
                 {
                     "title": "🐴 PyCon JP 2026",
@@ -109,7 +108,6 @@ html_theme_options = {
         },
         {
             "title": "Media",
-            "url": "media",
             "children": [
                 {
                     "title": '<iconify-icon icon="simple-icons:blogger"></iconify-icon> PyCon JP Blog',
