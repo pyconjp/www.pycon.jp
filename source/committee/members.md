@@ -195,3 +195,25 @@ PyCon JPでのコミュニティ活動は、2011年のPyCon mini JPから活動�
 自己研鑽として Python を学び始め、PyCon JP 2025 広島ではボランティアスタッフとしてコミュニティに参加。
 PyLadies Caravan in Hiroshima 2nd では仲間と学ぶ楽しさを実感した。
 作って動かすワクワクを、いろんな人と共有したいと思っている。
+
+## PyCon JP 2026 共同座長
+
+### 佐野 浩士(Hiroshi Sano)
+
+```{figure} /_static/hiroshi-sano.jpg
+:width: 160
+```
+
+2010年前半から静岡のPythonコミュニティ（Shizuoka.py）に参加、PyCon JPも同時期に参加しコミュニティの楽しさを知る。
+2010年後半に立ち上がった、Unagi.pyやPython駿河でスタッフを行い、2019年に、ノリで立ち上がった[PyCon mini Shizuoka](https://pycon-shizu.connpass.com)のコアスタッフとして関わる。
+
+PyCon JPは参加者からスピーカーも行い、2025に主催メンバー（ボランティアスタッフ）となる。 2026では共同座長として活動します。
+
+その他コミュニティでは、Startup Weekendのオーガナイザーとして活動。シビックテック分野でも地域課題解決に取り組む。
+本業は、家業である自動車金型向け設計事務所にて、製造業におけるデジタル化推進とシステム開発を担当。
+趣味は、ものづくり（Webサービスや木工やレザークラフトやIoTや料理）とアウトドアと音楽のライブに行くこと
+モットーは技術を楽しんで伝えていくこと。
+
+- X: [@hrs_sano645](https://x.com/hrs_sano645)
+- Profile: [aboutme](https://hr-sano.net/aboutme/)
+- Blog: [step by step building](https://hr-sano.net/)
