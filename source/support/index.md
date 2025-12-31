@@ -8,7 +8,6 @@
 
 travel
 community
-goods
 bootcamp
 pycamp-caravan
 pizza
