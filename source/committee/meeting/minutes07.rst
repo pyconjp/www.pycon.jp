@@ -10,8 +10,6 @@
 
    -  `一般社団法人PyCon JP 運営会議#6 <http://drive.google.com/open?id=1dXnM7CudrJOXpT046JDJ_GJTOUqwxeANPBN1JLjFc-8>`__
 
-.. contents:: 目次
-   :local:
 
 課題のレビュー
 ==============

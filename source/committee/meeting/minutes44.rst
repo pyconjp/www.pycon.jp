@@ -10,8 +10,6 @@
 * 社員: iqbal, masuda, ian
 * オブザーバー: peacock, yoshi-tsukamo, nikkie, nana, ainamori, kanan, ryu22e, kobatomo
 
-.. contents:: 目次
-   :local:
 
 社員総会
 ========

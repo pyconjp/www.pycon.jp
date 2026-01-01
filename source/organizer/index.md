@@ -2,11 +2,6 @@
 
 ![PyCon JP Logo](/_static/pyconjp_logo.png)
 
-```{contents} 目次
-:depth: 2
-:local: true
-```
-
 ## PyCon JP とは
 
 PyCon JP は日本で開催される、プログラミング言語 Python に関する国際カンファレンスです。

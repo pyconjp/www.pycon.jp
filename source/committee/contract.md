@@ -7,11 +7,6 @@
 - 令和2年2月26日 改訂
 - 令和2年3月11日 組織名を「一般社団法人PyCon JP」から「一般社団法人PyCon JP Association」に変更
 
-```{contents} 目次
-:depth: 1
-:local:
-```
-
 ## 第１章 総則
 
 ### （名称）

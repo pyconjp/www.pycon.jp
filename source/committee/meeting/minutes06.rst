@@ -9,8 +9,6 @@
 
    -  前回資料 https://docs.google.com/document/d/1k7gf4JcMg0qK-MkflBumsyr-Tluawaq6zy3jzjgXkIo/edit?usp=sharing
 
-.. contents:: 目次
-   :local:
 
 前回のTodo
 ==========

@@ -9,8 +9,6 @@
 
    -  `一般社団法人PyCon JP運営会議#10 <http://drive.google.com/open?id=18lNA490IRQO4JzSDciWwguaYpavSeqYOkvBhACH0NO4>`__
 
-.. contents:: 目次
-   :local:
 
 アジェンダ
 ==========

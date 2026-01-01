@@ -9,8 +9,6 @@
 * 理事: terada, takanory, jonas, yoshida, shimizukawa
 * オブザーバー: nishi, yoshi-tsukamo, ainamori, nikkie, 中村, stmn, ryu22e, kobatomo
 
-.. contents:: 目次
-   :local:
 
 課題のレビュー
 ==============

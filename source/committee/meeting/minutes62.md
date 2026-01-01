@@ -7,9 +7,6 @@
   * 理事: terada, takanory, yoshida, shimizukawa
   * オブザーバー: selina, ryu22e, yoshi-tsukamo
 
-```{contents}
-:local: true
-```
 
 ## PyCon JP
 

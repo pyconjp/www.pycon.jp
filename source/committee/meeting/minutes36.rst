@@ -10,8 +10,6 @@
 * オブザーバー: ryu22e, yoshi-tsukamo, peacock, kanan, kobatomo, maaya, nikkie
 * 資料: 
 
-.. contents:: 目次
-   :local:
 
 本日のメイン
 ============

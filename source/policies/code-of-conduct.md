@@ -1,9 +1,5 @@
 # PyCon JP Code of Conduct
 
-```{contents}
-:local:
-```
-
 * (English version is below.)
 
 ## PyCon JP Code of Conduct(日本語版)

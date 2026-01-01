@@ -12,8 +12,6 @@
   * 社員: iqbal, ian
   * オブザーバー: ryu22e, selina, yoshi-tsukamo, azuma, peacock, ainamori, kobatomo
 
-.. contents:: 目次
-   :local:
 
 社員総会
 ========

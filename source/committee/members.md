@@ -1,9 +1,5 @@
 # 一般社団法人PyCon JP Association運営メンバー
 
-```{contents}
-:local: true
-```
-
 ## 運営メンバーとは
 
 **運営メンバー** とは、一般社団法人PyCon JP Associationの理事と協力して、同法人が主催、支援する各種事業の運営を行う人のことを指します。

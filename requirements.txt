@@ -1,3 +1,4 @@
+shibuya==2025.12.19
 myst-parser==4.0.1
 Sphinx==8.2.3
-sphinxext-opengraph[social-cards]==0.12.0
+sphinxext-opengraph[social-cards]==0.13.0

@@ -6,9 +6,6 @@
   * 理事: takanory, terada, yoshida, jonas, maaya, shimizukawa
   * オブザーバー: nishimotz, peacock, ryu22e, shigemi, kanan, yoshi-tsukamo, ymyzk,kobatomo
 
-```{contents}
-:local: true
-```
 
 ## 理事募集(takanory、高、相談)
 

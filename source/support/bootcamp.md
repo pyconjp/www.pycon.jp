@@ -7,11 +7,6 @@
 
 いっそうのPython普及のため、一般社団法人PyCon JP Associationは日本各地での初心者向けPythonチュートリアルイベント「Python Boot Camp(#pycamp)」を開催します。
 
-```{contents} 目次
-:depth: 1
-:local: true
-```
-
 ## ランディングページ
 
 Python Boot Campの概要について伝えたランディングページを作成しました。実際のイベントの雰囲気を知りたい人は、以下を確認してください。

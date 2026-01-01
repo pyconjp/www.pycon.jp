@@ -11,8 +11,6 @@
    - `一般社団法人PyCon JP運営会議#14 <https://docs.google.com/document/d/1Sq5SDpboYl14wnNRjRes1xickKm7uJFyeVNIHLbp92k/edit>`_
    - `第3回定時社員総会議事録 <https://docs.google.com/document/d/1_GYlPniBU1QhUi70njV8E6RIlbu6dPfVExN8ClhYiVE/edit>`_
 
-.. contents:: 目次
-   :local:
 
 アジェンダ
 ==========

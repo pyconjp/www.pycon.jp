@@ -2,11 +2,6 @@
 
 一般社団法人PyCon JP Associationでは、主催するイベントを多くの人に知ってもらうため、「一般社団法人PyCon JP Associationメディアスポンサー」を募集しています。
 
-```{contents} 目次
-:depth: 2
-:local: true
-```
-
 ## 一般社団法人PyCon JP Associationメディアスポンサー募集要項
 
 ### 「一般社団法人PyCon JP Associationメディアスポンサー」の条件

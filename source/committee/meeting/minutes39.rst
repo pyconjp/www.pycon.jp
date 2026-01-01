@@ -10,8 +10,6 @@
 * オブザーバー: peacock, yoshi-tsukamo, ryu22e, kanan, kobatomo, nishi, maaya
 * 資料:
 
-.. contents:: 目次
-   :local:
 
 運営会議の進め方と見出しの書き方
 ================================
