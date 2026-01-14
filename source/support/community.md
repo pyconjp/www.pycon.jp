@@ -164,3 +164,15 @@
   - 日時: 2025年2月22日(土) 10:00-18:00
   - 会場: オンライン([パブリックビューイング](https://django.connpass.com/event/345417/)有)
   - 主催: [django-ja](https://djangoproject.jp) (座長: 清原 弘貴)
+- [PyCon mini 東海 2025](https://tokai.pycon.jp/2025/)
+  - 日時: 2025年11月08日(土) 10:00-17:20
+  - 会場: 中日ホール&カンファレンス
+  - 主催: 2025 PyCon mini 東海 実行委員会 
+- [SciPyDataJapan 2026](https://scipydata.connpass.com/event/364718/)
+  - 日時: 2026年1月24日(土) 13:00-18:30
+  - 会場: 燈株式会社／Akari Inc.
+  - 主催: Pythonコミュニティ有志 + NumFOCUS
+- [PyCon mini Shizuoka 2026](https://shizuoka.pycon.jp/2026/)
+  - 日時: 2026年2月21日(土) 10:00-18:00
+  - 会場: 静岡市コ・クリエーションスペース 
+  - 主催: PyCon mini Shizuoka 実行委員会
