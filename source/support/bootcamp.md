@@ -752,10 +752,10 @@ Python Boot Camp の開催実績です。
   - 12月20日(土)
   - GYMLABO ワーク1-1 (九州工業大学戸畑キャンパス内)
   - 筒井 隆次
-  - 15名(予定)
+  - 11名
+  - 2
   - 3
-  - 3
-  -
+  - [開催レポート](https://pyconjp.blogspot.com/2025/12/pycamp-in-kitakyushu-report.html)
 ```
 
 ### Python Boot Camp Map
