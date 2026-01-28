@@ -69,6 +69,14 @@ html_logo = "_static/pyconjp_logo.png"
 
 html_favicon = '_static/favicon.png'
 
+# https://shibuya.lepture.com/customisation/copypage/
+html_baseurl = "https://www.pycon.jp/"
+html_context = {
+    "source_type": "github",
+    "source_user": "pyconjp",
+    "source_repo": "www.pycon.jp",
+}
+
 html_theme_options = {
     # https://shibuya.lepture.com/customisation/colors/
     "accent_color": "red",
