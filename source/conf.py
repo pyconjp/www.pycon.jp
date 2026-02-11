@@ -183,3 +183,5 @@ linkcheck_ignore = [
     r"https://docs.google.com/.*",
     r"http://trac.pycon.jp/.*",
 ]
+
+html_extra_path = ["html_files"]
