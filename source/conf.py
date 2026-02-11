@@ -109,7 +109,13 @@ html_theme_options = {
                 {
                     "title": "📺 PyCon JP TV",
                     "url": "https://tv.pycon.jp",
-                    "summary": "PyCon JP Associationが主催するYouTubeライブ",
+                    "summary": "PyCon JP AssociationのYouTubeライブ",
+                    "external": True,
+                },
+                {
+                    "title": '<iconify-icon icon="simple-icons:confluence"></iconify-icon> Confluence',
+                    "url": "https://pyconjp.atlassian.net/wiki/spaces/pyconjp/overview",
+                    "summary": "PyCon JPの公開ドキュメント",
                     "external": True,
                 },
             ],
@@ -124,12 +130,12 @@ html_theme_options = {
                     "external": True,
                 },
                 {
-                    "title": '<iconify-icon icon="simple-icons:youtube"></iconify-icon> YouTube',
+                    "title": '<iconify-icon icon="simple-icons:youtube"></iconify-icon> PyCon JP YouTube',
                     "url": "https://www.youtube.com/@PyConJP/",
                     "external": True,
                 },
                 {
-                    "title": '<iconify-icon icon="simple-icons:flickr"></iconify-icon> Flickr',
+                    "title": '<iconify-icon icon="simple-icons:flickr"></iconify-icon> PyCon JP Flickr',
                     "url": "https://www.flickr.com/photos/pyconjp/albums",
                     "external": True,
                 },
