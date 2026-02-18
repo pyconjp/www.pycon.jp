@@ -125,7 +125,7 @@ html_theme_options = {
             "children": [
                 {
                     "title": '<iconify-icon icon="simple-icons:blogger"></iconify-icon> PyCon JP Blog',
-                    "url": "https:.//pyconjp.blogspot.com/",
+                    "url": "https://pyconjp.blogspot.com/",
                     "summary": "",
                     "external": True,
                 },
