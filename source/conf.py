@@ -29,7 +29,8 @@ author = 'PyCon JP Association'
 extensions = [
     "myst_parser",
     "myst_patch",
-    'sphinxext.opengraph',
+    "sphinxext.opengraph",
+    "sphinx_iconify",
 ]
 
 myst_enable_extensions = [
