@@ -209,8 +209,8 @@ Python をはじめとした技術話題を扱うPodcast [terapyon channel](http
 
 主な著作として [Pythonデータ分析 実践ハンドブック](https://book.impress.co.jp/books/1122101021)（2023年，インプレス，共著）、 [Pythonによるあたらしいデータ分析の教科書 第2版](https://www.seshop.com/product/detail/25331) （2022年，翔泳社，共著）、 [Python実践レシピ](https://gihyo.jp/book/2022/978-4-297-12576-9)（2022年，技術評論社，共著）、 [Python FlaskによるWebアプリ開発入門 物体検知アプリ&機械学習APIの作り方](https://www.shoeisha.co.jp/book/detail/9784798175164) （2022年，翔泳社，監修）などがある。
 
-:facebook: [terapyon](https://www.facebook.com/terapyon)
-:twitter: [@terapyon](https://twitter.com/terapyon)
+* {iconify}`simple-icons:facebook data-accent-color=red` **facebook**: [terapyon](https://www.facebook.com/terapyon)
+* {iconify}`simple-icons:twitter data-accent-color=red` **twitter**: [@terapyon](https://twitter.com/terapyon)
 
 ## PyCon JP 2026 共同座長
 
