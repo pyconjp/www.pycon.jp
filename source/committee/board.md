@@ -20,10 +20,10 @@
 各国PyConやPython Boot Campで訪れた土地で、現地のクラフトビールを飲むことが楽しみ。
 フェレットとビールとレゴが好き。趣味は吹奏楽(トランペット)とボルダリング。
 
-:twitter: [@takanory](https://twitter.com/takanory)
-:github: [takanory](https://github.com/takanory/)
-:linkedin: [takanory](https://www.linkedin.com/in/takanory/)
-:website: [slides.takanory.net](https://slides.takanory.net/)
+* {iconify}`simple-icons:twitter data-accent-color=red` **twitter**: [@takanory](https://twitter.com/takanory)
+* {iconify}`simple-icons:github data-accent-color=red` **github**: [takanory](https://github.com/takanory/)
+* {iconify}`simple-icons:linkedin data-accent-color=red` **linkedin**: [takanory](https://www.linkedin.com/in/takanory/)
+* {iconify}`fa-solid:globe data-accent-color=red` **website**: [slides.takanory.net](https://slides.takanory.net/)
 
 ## 吉田 俊輔(Shunsuke Yoshida)
 
@@ -43,8 +43,8 @@ PyCon JP 2014からスタッフ、PyCon JP 2015副座長(事務局)、PyCon JP 2
 
 趣味は温泉巡り、OSCやカンファレンスに参加した際にもよく現地の温泉に行く、2018年は蒲田黒湯、箱根温泉、埼玉宮沢湖温泉、長野大柴温泉、名古屋三蔵温泉、大阪住之江温泉、石川湯涌温泉、松山道後温泉、台湾北投温泉、シンガポール湯の森温泉などに訪問した。
 
-:facebook: [koedoyohida](https://www.facebook.com/koedoyoshida)
-:twitter: [@koedoyoshida](https://twitter.com/koedoyoshida)
+* {iconify}`simple-icons:facebook data-accent-color=red` **facebook**: [koedoyohida](https://www.facebook.com/koedoyoshida)
+* {iconify}`simple-icons:twitter data-accent-color=red` **twitter**: [@koedoyoshida](https://twitter.com/koedoyoshida)
 
 ## 清水川 貴之 (Takayuki Shimizukawa)
 
@@ -54,15 +54,15 @@ PyCon JP 2014からスタッフ、PyCon JP 2015副座長(事務局)、PyCon JP 2
 
 会計理事
 
-ドキュメンテーションツール [Sphinx](https://www.sphinx-doc.org/) のメンテナ。2003年にZope2と出会い、それがオープンソース等のコミュニティー活動を始めるきっかけとなった。最近は、公私ともにPythonを教える立場で多く活動している。 [株式会社ビープラウド] 所属。
+ドキュメンテーションツール [Sphinx](https://www.sphinx-doc.org/) のメンテナ。2003年にZope2と出会い、それがオープンソース等のコミュニティー活動を始めるきっかけとなった。最近は、公私ともにPythonを教える立場で多く活動している。 [株式会社ビープラウド](https://www.beproud.jp/) 所属。
 
-PyCon JP では [PyCon JP 2011], [PyCon JP 2012] の副座長を務めた。 [PyCon APAC 2013] では会計を務めている。
+PyCon JP では [PyCon JP 2011](ttps://2011.pycon.jp/), [PyCon JP 2012](https://2012.pycon.jp/) の副座長を務めた。 [PyCon APAC 2013](https://apac-2013.pycon.jp/) では会計を務めている。
 
 共著書／訳書:『 [Pythonプロフェッショナルプログラミング 第3版](https://www.shuwasystem.co.jp/products/7980html/5382.html) （2018 秀和システム刊）』『 [エキスパートPythonプログラミング改訂2版](https://www.kadokawa.co.jp/product/301801000262/) （2018 KADOKAWA刊）』『 [独学プログラマー Python言語の基本から仕事のやり方まで](https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/) （2018 日経BP社刊）』『 [Sphinxをはじめよう 第2版](https://www.oreilly.co.jp/books/9784873118192/) （2017 オライリージャパン刊）』など。
 
-:facebook: [shimizukawa](https://www.facebook.com/shimizukawa)
-:twitter: [@shimizukawa](https://twitter.com/shimizukawa)
-:website: <http://清水川.jp/>
+* {iconify}`simple-icons:facebook data-accent-color=red` **facebook**: [shimizukawa](https://www.facebook.com/shimizukawa)
+* {iconify}`simple-icons:twitter data-accent-color=red` **twitter**: [@shimizukawa](https://twitter.com/shimizukawa)
+* {iconify}`fa-solid:globe data-accent-color=red` **website**: <http://清水川.jp/>
 
 ## Jonas Obrist (オブリスト　ヨナス)
 
@@ -79,8 +79,8 @@ DjangoCon Europe 2012座長。
 
 会社でTornadoとasyncioを使ってセキュリティーSaaSを開発。以前は [django CMS](https://www.django-cms.org/en/) を開発。
 
-:twitter: [@ojiidotch](https://twitter.com/ojiidotch)
-:github: [ojii](https://github.com/ojii)
+* {iconify}`simple-icons:twitter data-accent-color=red` **twitter**: [@ojiidotch](https://twitter.com/ojiidotch)
+* {iconify}`simple-icons:github data-accent-color=red` **github**: [ojii](https://github.com/ojii)
 
 ## 石田 真彩 (Maaya Ishida)
 
@@ -95,9 +95,10 @@ DjangoCon Europe 2012座長。
 [PyLadies Tokyo](https://tokyo.pyladies.com/)オーガナイザーのうちの一人。PyLadies Tokyo meetup #1 を機にPythonに触れ始める。
 日本中のPythonistaな女性同士が繋がれたらもっと楽しいだろうと思い、2019年からPyCon JP Associationのプロジェクトの一つとして[PyLadies Caravan](https://tokyo.pyladies.com/caravan/index.html)の運営をスタートする。
 
-[Outstanding PyLady Award](https://kit.pyladies.com/en/latest/global/award.html) 2024 受賞    
-[PyLadies Conference](https://www.youtube.com/watch?v=8YRFPvOOStU) および [PyCon HongKong 2023](https://pycon.hk/2023/introduce-to-you-about-pyladies-tokyo/) にて登壇    
+* [Outstanding PyLady Award](https://kit.pyladies.com/en/latest/global/award.html) 2024 受賞
+* [PyLadies Conference](https://www.youtube.com/watch?v=8YRFPvOOStU) および [PyCon HongKong 2023](https://pycon.hk/2023/introduce-to-you-about-pyladies-tokyo/) にて登壇
+
 などの活動がある。
 
-:Twitter: [@maaya8585](https://twitter.com/maaya8585)
-:Blog: [hotchpotch](https://hotchpotchj37.wordpress.com/)
+* {iconify}`simple-icons:twitter data-accent-color=red` **Twitter**: [@maaya8585](https://twitter.com/maaya8585)
+* {iconify}`fa-solid:globe data-accent-color=red` **Blog**: [hotchpotch](https://hotchpotchj37.wordpress.com/)

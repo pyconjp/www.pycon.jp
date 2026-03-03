@@ -1,4 +1,5 @@
 shibuya==2026.1.9
 myst-parser==5.0.0
 Sphinx==9.1.0
+sphinx-iconify==0.3.0
 sphinxext-opengraph[social-cards]==0.13.0
