@@ -14,7 +14,7 @@ We believe that to maintain PyCon JP as a great conference, holding the conferen
 
 :Name: PyCon JP Association (Japanese: 一般社団法人PyCon JP Association, Ippanshadanhoujin Paikonjeipi Association)
 :Representative Director the PyCon JP Committee: Takanori Suzuki (鈴木 たかのり)
-:Address: 110-0015 Tokyo-to, Taito-ku, Higashi-Ueno 1-11-1, GOSHO Kasugadori Building, 9th Floor. (〒110-0015 東京都台東区東上野1-11-1 GOSHO春日通りビル9F)
+:Address: 150-0043 Futaba Building 8b, Dogenzaka 1-16-6, Shibuya-ku, Tokyo(〒150-0043 東京都渋谷区道玄坂1-16-6 双葉ビル8b)
 :Contact: contact[ at ]pycon.jp
 :URL: <https://www.pycon.jp/>
 :Foundaed: March 21st, 2013
