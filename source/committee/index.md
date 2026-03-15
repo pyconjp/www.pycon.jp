@@ -14,7 +14,7 @@ PyCon JPを素晴らしいカンファレンスとして維持していくには
 
 :名称: 一般社団法人PyCon JP Association (カナ: イッパンシャダンホウジン パイコンジェーピーアソシエーション)
 :代表理事: 鈴木 たかのり
-:所在地: 〒110-0015 東京都台東区東上野1-11-1 GOSHO春日通りビル9F
+:所在地: 〒150-0043 東京都渋谷区道玄坂1-16-6 二葉ビル8b
 :連絡先: contact[ at ]pycon.jp
 :URL: <https://www.pycon.jp/>
 :設立: 2013年3月21日
@@ -40,7 +40,6 @@ contract
 operation
 meeting/index
 license
-access
 ```
 
 ## 理事、メンバーについて
