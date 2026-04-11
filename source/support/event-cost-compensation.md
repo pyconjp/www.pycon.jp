@@ -56,9 +56,7 @@
 
 #### 申請
 
-申し込みはこちらの Google Form からお願いします。
-
-[申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfgxZI-di3Y8cpYwYvVvv_6CoZKqf8Ncx5FQ6EgKBWIqmKJog/viewform)
+申し込みは regional-support@pycon.jp 宛にメールでお願いします。
 
 イベント開催予定日の **14日前まで** に、以下の情報を PyCon JP Association に提出してください。
 
