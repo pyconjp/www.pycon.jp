@@ -11,5 +11,5 @@ community
 bootcamp
 pycamp-caravan
 pizza
-event-insurance
+event-cost-compensation
 ```
