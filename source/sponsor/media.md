@@ -83,3 +83,12 @@
 :alt: Zenn
 :target: https://zenn.dev/
 ```
+
+### 株式会社マイナビ
+
+<https://news.mynavi.jp/techplus/>
+
+```{image} /_static/sponsor/media/logos/mynavi.jpeg
+:alt: 株式会社マイナビ
+:target: https://news.mynavi.jp/techplus/
+```
