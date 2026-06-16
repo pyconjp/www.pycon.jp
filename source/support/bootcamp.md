@@ -770,10 +770,10 @@ Python Boot Camp の開催実績です。
   - 6月6日(土)
   - エソール広島
   - 鈴木 たかのり
-  - 20名(予定)
+  - 5名
   - 3
   - 1
-  -
+  - [開催レポート](https://pyconjp.blogspot.com/2026/06/pycamp-in-hiroshima3rd-report.html)
 ```
 
 ### Python Boot Camp Map
