@@ -31,7 +31,7 @@
   * [PyCon JP 2026でやりたいこと、やらないこと、維持するとこ](https://docs.google.com/spreadsheets/d/1nvjmebcVOhvXQWcK4V29Qu3mRijRhjQLhEHhJdpBmlE/edit?gid=0#gid=0)
   * [HRS-16: 企画書の作成サポートするAIの運用を行う](https://pyconjp.atlassian.net/browse/HRS-16)
   * GeminiのGem便利
-  * [PyCon JP 2026企画書](docs.google.com/document/d/15aUxh6iFGJEwihojonmmOtBFyy2Yk5cLPpMn6Mg9oCA/edit?tab=t.0)
+  * [PyCon JP 2026企画書](https://docs.google.com/document/d/15aUxh6iFGJEwihojonmmOtBFyy2Yk5cLPpMn6Mg9oCA/edit?tab=t.0)
 * TODO: 主催メンバー[`pycon.jp`](http://pycon.jp)のGoogleアカウント発行の準備中。JIRA、1Passwordなども発行予定。あわせてチーム分けなどを進める予定
   * オンボーディングのミーティングを3/11(水)、17(火)、26(木)に実施予定。そこから徐々にチームとして動き始める感じかなー
 * 質疑応答

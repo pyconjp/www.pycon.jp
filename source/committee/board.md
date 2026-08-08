@@ -56,7 +56,7 @@ PyCon JP 2014からスタッフ、PyCon JP 2015副座長(事務局)、PyCon JP 2
 
 ドキュメンテーションツール [Sphinx](https://www.sphinx-doc.org/) のメンテナ。2003年にZope2と出会い、それがオープンソース等のコミュニティー活動を始めるきっかけとなった。最近は、公私ともにPythonを教える立場で多く活動している。 [株式会社ビープラウド](https://www.beproud.jp/) 所属。
 
-PyCon JP では [PyCon JP 2011](ttps://2011.pycon.jp/), [PyCon JP 2012](https://2012.pycon.jp/) の副座長を務めた。 [PyCon APAC 2013](https://apac-2013.pycon.jp/) では会計を務めている。
+PyCon JP では [PyCon JP 2011](https://2011.pycon.jp/), [PyCon JP 2012](https://2012.pycon.jp/) の副座長を務めた。 [PyCon APAC 2013](https://apac-2013.pycon.jp/) では会計を務めている。
 
 共著書／訳書:『 [Pythonプロフェッショナルプログラミング 第3版](https://www.shuwasystem.co.jp/products/7980html/5382.html) （2018 秀和システム刊）』『 [エキスパートPythonプログラミング改訂2版](https://www.kadokawa.co.jp/product/301801000262/) （2018 KADOKAWA刊）』『 [独学プログラマー Python言語の基本から仕事のやり方まで](https://shop.nikkeibp.co.jp/front/commodity/0000/C92270/) （2018 日経BP社刊）』『 [Sphinxをはじめよう 第2版](https://www.oreilly.co.jp/books/9784873118192/) （2017 オライリージャパン刊）』など。
 
