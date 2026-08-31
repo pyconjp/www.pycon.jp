@@ -52,7 +52,7 @@ PyCon JP は2011年から毎年開催しており、PyCon JP 2018では約1000�
 - [PyCon JP 2025](https://2025.pycon.jp/)
   : 2025 Sep 26-27(Conference), Sep 28(Development Sprints)
 - [PyCon JP 2026](https://2026.pycon.jp/)
-  : 2025 Aug 21-22(Conference), Aug 23(Development Sprints)
+  : 2026 Aug 21-22(Conference), Aug 23(Development Sprints)
 
 ## 過去の PyCon JP 詳細
 
