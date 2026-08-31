@@ -24,28 +24,15 @@ PyCon JPに関する最新情報は以下のBlog, Twitter, Facebookを参照し�
 
 ## PyCon JP 2026
 
-PyCon JP 2026 カンファレンスは**2026年8月21日（金）・22日（土）**、開発スプリントは**23日（日）** に[広島国際会議場](https://www.pcf.city.hiroshima.jp/icch/)で開催されます。
+PyCon JP 2026は2026年8月21日(金)から8月23日(日)に、広島で無事開催されました。
+参加者、スピーカー、スポンサー、コミュニティ、主催メンバーのみなさん、ありがとうございました。
 
-The PyCon JP 2026 conference will be held on Friday, August 21 and Saturday, August 22, 2026, followed by the development sprint on Sunday, August 23, at the [International Conference Center Hiroshima](https://www.pcf.city.hiroshima.jp/icch/index-e.html).
+詳しくは[公式Webサイト](https://2026.pycon.jp/ja)および[PyCon JP Blog](https://pyconjp.blogspot.com/search/label/pyconjp2026)をご覧ください。
 
-チケット販売やプロポーザル募集の最新情報は、以下の公式サイト・SNSで随時お知らせします。ぜひフォローやブックマークをお願いいたします。
+PyCon JP 2026 was successfully held in Hiroshima from August 21 2026(Fri), to August 23 2026(Sun).
+Thank you to all the participants, speakers, sponsors, community members and organizing members.
 
-The latest information, including ticket details and calls for proposals, will be updated regularly on the following channels.
-
-- [PyCon JP 2026 公式サイト](https://2026.pycon.jp/)
-- [PyCon JP Blog](https://pyconjp.blogspot.com/search/label/pyconjp2026)
-- [X: @pyconjapan](https://x.com/pyconjapan)
-
-
-## PyCon JP 2025
-
-PyCon JP 2025のカンファレンスは2025年9月26日(金)から9月27日(土)の2日間、開発スプリントは9月28日(日)に、広島国際会議場で開催されました！ 初の東京を離れた開催、広島開催で、参加者、スピーカー、スポンサーの皆さまを大変多くお迎えして開催することができました。心より感謝申し上げます。
-
-詳しくは[公式Webサイト](https://2025.pycon.jp/)および[PyCon JP Blog](https://pyconjp.blogspot.com/search/label/pyconjp2025)をご覧ください。
-
-PyCon JP 2025 was held from Friday, September 26 to Saturday, September 27, 2025, with a development sprint on Sunday, September 28, at International Conference Center Hiroshima! As our first event outside Tokyo, held in Hiroshima, we were delighted to welcome a large number of participants, speakers, and sponsors. We extend our heartfelt gratitude to all of you.
-
-For more information, please visit the [Official Website](https://2025.pycon.jp/) and the [PyCon JP Blog](https://pyconjp.blogspot.com/search/label/pyconjp2025).
+For more information, please visit the [Official Website](https://2026.pycon.jp/en) and the [PyCon JP Blog](https://pyconjp.blogspot.com/search/label/pyconjp2026).
 
 ## 過去の PyCon JP について
 
