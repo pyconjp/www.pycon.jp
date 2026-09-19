@@ -79,9 +79,23 @@
 
 参考: [PyCon JP Blog: 支援金の報告 / PyCon JP 支援ご協力ありがとうございました](http://pyconjp.blogspot.jp/2015/10/pyconjp2015-spporters-report.html)
 
-## 寄付申込の手順
+## 寄付申込（クレジットカード）
 
-寄付は以下の手順で進めさせていただきます。
+以下のボタンをクリックまたはQRコードを読み込むと、Squareの寄付ページに遷移します。
+遷移先ページで任意の金額を入力し、クレジットカードで寄付が行えます。
+
+```{button-link} https://square.link/u/5dK5GKOd
+:color: primary
+
+PyCon JP Associationへの寄付
+```
+
+![PyCon JP Associationへの寄付](/_static/donation-qrcode.png)
+
+
+## 寄付申込（銀行振り込み）
+
+銀行振り込みでの寄付は以下の手順で進めさせていただきます。
 
 - **申込者**: 以下のフォームにて寄付の申込
 - **PyCon JP**: 当法人担当者からメールにて連絡
