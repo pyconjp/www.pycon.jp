@@ -31,6 +31,7 @@ extensions = [
     "myst_patch",
     "sphinxext.opengraph",
     "sphinx_iconify",
+    "sphinx_design",
 ]
 
 myst_enable_extensions = [
