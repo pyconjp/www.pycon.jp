@@ -1,4 +1,4 @@
-# PyCon JP反社会的勢力排除条項 / PyCon JP Basic Policy on the Exclusion of Anti-Social Forces
+# PyCon JP反社会的勢力排除条項
 
 * (English version is below.)
 
@@ -21,7 +21,7 @@ PyCon JP反社会的勢力排除条項（以下、「本条項」という）は
     <ol type="a">
       <li>主催メンバーやスタッフ</li>
       <li>参加者（トークスピーカーや招待者を含む）</li>
-      <li>スポンサー企業（別途 [「PyCon JPスポンサー協賛規約」](https://www.pycon.jp/policies/sponsorship-aggreement.html#id9)に定めあり</li>
+      <li>スポンサー企業（別途 <a href="https://www.pycon.jp/policies/sponsorship-aggreement.html#id9">「PyCon JPスポンサー協賛規約」</a>に定めあり</li>
       <li>主要取引先（年間100万円以上の取引のある企業又は個人）</li>
     </ol>
 
@@ -29,12 +29,13 @@ PyCon JP反社会的勢力排除条項（以下、「本条項」という）は
 
 上記2項で定める構成員・関係者には、本項の全ての条項を確認のうえ、本排除条項に同意していただく必要があります。
 
-1. 自己またはその代表者、役員または実質的に経営権を有する者が、現在、1) 暴力団等の反社会的勢力、2) 反社会的勢力でなくなったときから5年を経過しない者、または3) 反社会的勢力に対する資金提供、便宜の供給、その他密接な関わりを有する者に該当しないことを表明し、かつ、将来にわたっても該当しないことを確約します。
+1. 自己またはその代表者、役員または実質的に経営権を有する者が、現在、a) 暴力団等の反社会的勢力、b) 反社会的勢力でなくなったときから5年を経過しない者、またはc) 反社会的勢力に対する資金提供、便宜の供給、その他密接な関わりを有する者に該当しないことを表明し、かつ、将来にわたっても該当しないことを確約します。
 
-1. PyCon JPは、構成員・関係者が前記(a)に定める表明または確約に違反することが判明した場合、何らの催告を要することなく、すべての契約・参加権利・アカウントやアクセス権などの剥奪を一方的に行うことができます。
+1. PyCon JPは、構成員・関係者が前記(1)に定める表明または確約に違反することが判明した場合、何らの催告を要することなく、すべての契約・参加権利・アカウントやアクセス権などの剥奪を一方的に行うことができます。
 
 ### 附則
 制定: 2026年9月15日
+
 施行: 2027年11月20日
 
 
@@ -50,10 +51,10 @@ The Provisions apply to the following members and other relevant parties:
 1. [Directors of the Association](https://www.pycon.jp/committee/board.html)
 1. [Members of the Association’s Operations Team](https://www.pycon.jp/committee/members.html)
 1. Parties involved with the Association or events organized by the Association (excluding jointly organized events)
-    <ol type="a">
+    <ol type="i">
       <li>Organizing members and event staff</li>
       <li>Participants, including speakers and invited guests</li>
-      <li>Sponsor companies, as separately provided for in [the PyCon JP Sponsorship Agreement](https://www.pycon.jp/policies/sponsorship-aggreement.html#id9)</li>
+      <li>Sponsor companies, as separately provided for in <a href="https://www.pycon.jp/policies/sponsorship-aggreement.html#id9">the PyCon JP Sponsorship Agreement</a></li>
       <li>companies or individuals with whom the Association conducts transactions totaling JPY 1,000,000 or more per year</li>
     </ol>
 
@@ -62,7 +63,7 @@ The Provisions apply to the following members and other relevant parties:
 All members and other relevant parties specified in the two preceding sections are required to review all provisions herein and agree to be bound by these Provisions.
 
 1. Each member and other relevant party represents and warrants that neither the member or relevant party nor any of its representatives, officers, or persons who effectively exercise control over its management currently falls under any of the following categories
-   <ol type="a">
+   <ol type="i">
       <li>an anti-social force, including an organized crime group;</li>
       <li>a person who has ceased to be an anti-social force but for whom five years have not yet elapsed since such cessation; or</li>
       <li>a person who provides financial support or other benefits to anti-social forces, or otherwise maintains a close relationship with anti-social forces</li>
@@ -71,7 +72,6 @@ All members and other relevant parties specified in the two preceding sections a
 1. Each member and other relevant party further represents and warrants that none of the foregoing will apply to it in the future
 
 1. If PyCon JP determines that any member or other relevant party has breached any of the representations or warranties set forth in the preceding paragraph, PyCon JP may, without notice or demand, unilaterally terminate or revoke all contracts, rights to participate in events, accounts, access rights, and any other rights or privileges granted to such member or relevant party.
-    
     
     
 Established: September 15, 2026
