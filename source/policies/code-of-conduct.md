@@ -10,6 +10,9 @@ PyCon JP Code of Conduct (以下「行動規範」といいます。)は、一�
 本イベントは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。 
 PyCon JPの開催を通じて、Pythonの使い手が一堂に集まり、Pythonにまつわる様々な分野の知識や情報を交換し、新たな友達やコミュニティとのつながり、仕事やビジネスチャンスを増やせる場所とすることが目標です。
 
+また、本イベントはPyCon JP Associationの「反社会的勢力排除に関する基本方針」に基づき、企画・運営されています。
+したがって、 <project:exclusion-of-anti-social-forces.md> に違反する、あるいは同規定を遵守しない個人は、本イベントへの参加を認められません。
+
 ### ハラスメント行為の禁止
 
 参加者による不適切な行動、ハラスメント行為の例は次のとおりです。
@@ -72,6 +75,7 @@ PyCon JPの開催を通じて、Pythonの使い手が一堂に集まり、Python
 
 - 2024-08-06 問い合わせ先を追記 [Manabu TERADA]
 - 2024-08-06 禁止行為の文言で「継続的な中断」で終わっていたものを「継続的な中断しようとする行為」に変更 [Manabu TERADA]
+- 2026-11-20 反社会的勢力排除に関する基本方針に関する文章を追加 [Maaya Ishida]
 
 
 ---
@@ -84,6 +88,8 @@ All the participants who participate in this event are required to read all the 
 PyCon JP is a conference organized and run by volunteers in the Japanese Python community that is dedicated to advancing and promoting the Python programming language.
 Through holding the PyCon JP conference, Python users can gather and exchange information with other developers from a wide variety of fields.
 It is our aim to create new relationships between the different communities and businesses using Python.
+
+This event is organized and operated in accordance with the Basic Policy on the Exclusion of Anti-Social Forces of the PyCon JP Association. Accordingly, individuals who violate or otherwise fail to comply with the [PyCon JP Basic Policy on the Exclusion of Anti-Social Forces](<project:exclusion-of-anti-social-forces.md#english>) will not be permitted to participate in this event.
 
 ### Inappropriate Behavior
 
@@ -156,3 +162,4 @@ Contact for inquiries regarding the Code of Conduct for events organized by the 
 
 - 2024-08-06 Added CONTACT INFORMATION [Manabu TERADA]
 - 2024-08-06 Modify first line sentence about "PyCon JP Code of Conduct `applies to` an event" [Manabu TERADA]
+- 2026-11-20 Added a section regarding the basic policy on the exclusion of anti-social forces [Maaya Ishida]
