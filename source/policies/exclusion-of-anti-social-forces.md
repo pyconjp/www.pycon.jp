@@ -37,7 +37,7 @@ PyCon JP反社会的勢力排除条項（以下、「本条項」という）は
 ### 附則
 制定: 2026年9月15日
 
-施行: 2027年11月21日
+施行: 2027年11月22日
 
 
 (english)=
@@ -74,4 +74,4 @@ All members and other relevant parties specified in the two preceding sections a
     
 Established: September 15, 2026
 
-Effective: November 21, 2026
+Effective: November 22, 2026
