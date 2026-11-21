@@ -18,24 +18,26 @@ PyCon JP反社会的勢力排除条項（以下、「本条項」という）は
 1. [当法人理事](/committee/board.md)
 1. [当法人運営メンバー](/committee/members.md)
 1. 当法人や当法人が主催するイベントの関係者（共催イベントは含まず）
-    {style=lower-alpha}
-    1. 主催メンバーやスタッフ
-    2. 参加者（トークスピーカーや招待者を含む）
-    3. スポンサー企業（別途[「PyCon JPスポンサー協賛規約」](sponsorship-aggreement.md#id9)に定めあり）
-    4. 主要取引先（年間100万円以上の取引のある企業又は個人）
+    * 主催メンバーやスタッフ
+    * 参加者（トークスピーカーや招待者を含む）
+    * スポンサー企業（別途[「PyCon JPスポンサー協賛規約」](sponsorship-aggreement.md#id9)に定めあり）
+    * 主要取引先（年間100万円以上の取引のある企業又は個人）
 
 ### 排除条項
 
 上記2項で定める構成員・関係者には、本項の全ての条項を確認のうえ、本排除条項に同意していただく必要があります。
 
-1. 自己またはその代表者、役員または実質的に経営権を有する者が、現在、a) 暴力団等の反社会的勢力、b) 反社会的勢力でなくなったときから5年を経過しない者、またはc) 反社会的勢力に対する資金提供、便宜の供給、その他密接な関わりを有する者に該当しないことを表明し、かつ、将来にわたっても該当しないことを確約します。
+1. 自己またはその代表者、役員または実質的に経営権を有する者が、現在、下記に該当しないことを表明し、かつ、将来にわたっても該当しないことを確約します。
+   * 暴力団等の反社会的勢力である
+   * 反社会的勢力でなくなったときから5年を経過しない者
+   * 反社会的勢力に対する資金提供、便宜の供給、その他密接な関わりを有する者
 
-1. PyCon JPは、構成員・関係者が前記(1)に定める表明または確約に違反することが判明した場合、何らの催告を要することなく、すべての契約・参加権利・アカウントやアクセス権などの剥奪を一方的に行うことができます。
+2. PyCon JPは、構成員・関係者が前記(1)に定める表明または確約に違反することが判明した場合、何らの催告を要することなく、すべての契約・参加権利・アカウントやアクセス権などの剥奪を一方的に行うことができます。
 
 ### 附則
 制定: 2026年9月15日
 
-施行: 2027年11月20日
+施行: 2027年11月21日
 
 
 (english)=
@@ -53,25 +55,23 @@ The Provisions apply to the following members and other relevant parties:
 1. [Directors of the Association](/committee/board.md)
 1. [Members of the Association’s Operations Team](/committee/members.md)
 1. Parties involved with the Association or events organized by the Association (excluding jointly organized events)
-    {style=lower-roman}
-    1. Organizing members and event staff
-    2. Participants, including speakers and invited guests
-    3. Sponsor companies, as separately provided for in [the PyCon JP Sponsorship Agreement](sponsorship-aggreement.md#id9)
-    4. Companies or individuals with whom the Association conducts transactions totaling JPY 1,000,000 or more per year
+    * Organizing members and event staff
+    * Participants, including speakers and invited guests
+    * Sponsor companies, as separately provided for in [the PyCon JP Sponsorship Agreement](sponsorship-aggreement.md#id9)
+    * Companies or individuals with whom the Association conducts transactions totaling JPY 1,000,000 or more per year
 
 ### Exclusion Clause
 
 All members and other relevant parties specified in the two preceding sections are required to review all provisions herein and agree to be bound by these Provisions.
 
 1. Each member and other relevant party represents and warrants that neither the member or relevant party nor any of its representatives, officers, or persons who effectively exercise control over its management currently falls under any of the following categories, and further represents and warrants that none of the foregoing will apply to it in the future:
-   {style=lower-roman}
-   1. an anti-social force, including an organized crime group;
-   2. a person who has ceased to be an anti-social force but for whom five years have not yet elapsed since such cessation; or
-   3. a person who provides financial support or other benefits to anti-social forces, or otherwise maintains a close relationship with anti-social forces
+   * an anti-social force, including an organized crime group
+   * a person who has ceased to be an anti-social force but for whom five years have not yet elapsed since such cessation
+   * a person who provides financial support or other benefits to anti-social forces, or otherwise maintains a close relationship with anti-social forces
 
-1. If PyCon JP determines that any member or other relevant party has breached any of the representations or warranties set forth in the preceding paragraph, PyCon JP may, without notice or demand, unilaterally terminate or revoke all contracts, rights to participate in events, accounts, access rights, and any other rights or privileges granted to such member or relevant party.
+2. If PyCon JP determines that any member or other relevant party has breached any of the representations or warranties set forth in the preceding paragraph, PyCon JP may, without notice or demand, unilaterally terminate or revoke all contracts, rights to participate in events, accounts, access rights, and any other rights or privileges granted to such member or relevant party.
     
     
 Established: September 15, 2026
 
-Effective: November 20, 2026
+Effective: November 21, 2026
