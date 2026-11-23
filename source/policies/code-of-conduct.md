@@ -75,7 +75,7 @@ PyCon JPの開催を通じて、Pythonの使い手が一堂に集まり、Python
 
 - 2024-08-06 問い合わせ先を追記 [Manabu TERADA]
 - 2024-08-06 禁止行為の文言で「継続的な中断」で終わっていたものを「継続的な中断しようとする行為」に変更 [Manabu TERADA]
-- 2026-11-20 反社会的勢力排除に関する基本方針に関する文章を追加 [Maaya Ishida]
+- 2026-11-24 反社会的勢力排除に関する基本方針に関する文章を追加 [Maaya Ishida]
 
 
 ---
@@ -162,4 +162,4 @@ Contact for inquiries regarding the Code of Conduct for events organized by the 
 
 - 2024-08-06 Added CONTACT INFORMATION [Manabu TERADA]
 - 2024-08-06 Modify first line sentence about "PyCon JP Code of Conduct `applies to` an event" [Manabu TERADA]
-- 2026-11-20 Added a section regarding the basic policy on the exclusion of anti-social forces [Maaya Ishida]
+- 2026-11-24 Added a section regarding the basic policy on the exclusion of anti-social forces [Maaya Ishida]

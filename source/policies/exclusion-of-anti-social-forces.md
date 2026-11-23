@@ -20,7 +20,7 @@ PyCon JP反社会的勢力排除条項（以下、「本条項」という）は
 1. 当法人や当法人が主催するイベントの関係者（共催イベントは含まず）
     * 主催メンバーやスタッフ
     * 参加者（トークスピーカーや招待者を含む）
-    * スポンサー企業（別途[「PyCon JPスポンサー協賛規約」](sponsorship-aggreement.md#id9)に定めあり）
+    * スポンサー企業（別途[「PyCon JPスポンサー協賛規約」](sponsorship-aggreement.md#excclusion-of-anti-social-forces)に定めあり）
     * 主要取引先（年間100万円以上の取引のある企業又は個人）
 
 ### 排除条項
@@ -37,7 +37,7 @@ PyCon JP反社会的勢力排除条項（以下、「本条項」という）は
 ### 附則
 制定: 2026年9月15日
 
-施行: 2027年11月22日
+施行: 2027年11月24日
 
 
 (english)=
@@ -57,7 +57,7 @@ The Provisions apply to the following members and other relevant parties:
 1. Parties involved with the Association or events organized by the Association (excluding jointly organized events)
     * Organizing members and event staff
     * Participants, including speakers and invited guests
-    * Sponsor companies, as separately provided for in [the PyCon JP Sponsorship Agreement](sponsorship-aggreement.md#id9)
+    * Sponsor companies, as separately provided for in [the PyCon JP Sponsorship Agreement](sponsorship-aggreement.md#excclusion-of-anti-social-forces)
     * Companies or individuals with whom the Association conducts transactions totaling JPY 1,000,000 or more per year
 
 ### Exclusion Clause
@@ -74,4 +74,4 @@ All members and other relevant parties specified in the two preceding sections a
     
 Established: September 15, 2026
 
-Effective: November 22, 2026
+Effective: November 24, 2026
